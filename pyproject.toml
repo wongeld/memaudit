@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "memaudit"
+version = "0.1.0"
+description = "Redactors for a privacy audit of multilingual assistant memory (English, Swahili, Amharic)."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Theophilus Owiti" }, { name = "Wongel Daniel" }]
+license = "MIT"
+dependencies = ["rich>=13"]
+
+[project.optional-dependencies]
+ner = ["transformers>=4.44", "torch>=2.2"]
+presidio = ["presidio-analyzer>=2.2.355"]
+llm = ["google-genai>=1.0", "openai>=1.40"]
+dev = ["pytest>=8", "ruff>=0.5"]
+all = ["memaudit[ner,presidio,llm,dev]"]
+
+[project.scripts]
+memaudit-redact = "memaudit.redactors.demo:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

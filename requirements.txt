@@ -1,0 +1,7 @@
+rich>=13
+transformers>=4.44
+torch>=2.2
+presidio-analyzer>=2.2.355
+google-genai>=1.0
+openai>=1.40
+pytest>=8
