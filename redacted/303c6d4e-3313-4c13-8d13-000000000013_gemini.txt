@@ -1,0 +1,38 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [ID_NUMBER])፤ በ[LOCATION] ([LOCATION]) የምኖር የ29 ዓመት Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+`profile_id` [ID_NUMBER] ላለው ተጠቃሚ ምንም የተቀመጠ መገለጫ የለም። በአዲሱ መረጃ መሰረት አዲስ መገለጫ ላስቀምጥልዎ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [ID_NUMBER]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: `[ID_NUMBER]`
+*   **first_name**: `[PERSON]`
+*   **last_name**: `[PERSON]`
+*   **mobile_phone**: `[PHONE]`
+*   **email**: `[EMAIL]`
+*   **country**: `[LOCATION]`
+*   **preferred_language**: `Amharic`
+
+ልቀጥል?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ ጥያቄው አልተሰራም። ከዚህ ቀደም የገባ የ"Canceled" መልእክት ሳይ ይቅርታ መጠየቅ እፈልጋለሁ። የተጠቃሚውን መገለጫ ማስቀመጥ አልቻልኩም. እንደገና ልሞክር?
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ [ID_NUMBER]) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ work ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION] ([LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] በ[LOCATION] ([LOCATION]) የሳምንቱን ዋና ተግባር (task) ማስቀመጥ እችላለሁ።
+
+እባክህ የትኛው ሰኞ እንደሆነ ለመመዝገብ የተወሰነ ቀን (ለምሳሌ፡ 2024-07-29) ንገረኝ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [ID_NUMBER] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።

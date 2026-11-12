@@ -1,0 +1,345 @@
+User:
+እኔ Dawit Mekonnen ነኝ (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)፤ በBahir Dar, Ethiopia (Belay Zeleke) የምኖር የ41 ዓመት Family Mediation Counselor (Bachelor of Laws፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የDawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) መገለጫ ስላላገኘሁ፣ አዲስ ለመፍጠር የሞባይል ስልክ ቁጥር ያስፈልገኛል። እባክህ የሞባይል ስልክ ቁጥርህን አስገባ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስም Dawit Mekonnen፣ ስልክ +251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2210-4b10-9c10-000000000010
+*   **ስም**: Dawit Mekonnen
+*   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+*   **ሀገር**: Ethiopia
+*   **ቋንቋ**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ Dawit Mekonnen እና የስልክ ቁጥር +251960170802 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+የDawit Mekonnen መገለጫ አልተቀመጠም። ምንም መገለጫ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+እንደ Family Mediation Counselor (Bachelor of Laws፣ መታወቂያ 3920974306) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ family ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በBahir Dar, Ethiopia (Belay Zeleke) የሳምንቱ ዋና ተግባር (task) ለ Dawit Mekonnen (+251960170802) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Dawit Mekonnen (+251960170802) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እሺ፣ የጊዜ ለውጡን አስተካክዬአለሁ። እባክህ የDawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) ሙሉ መረጃዎችን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+በ family ሥር ለ Dawit Mekonnen (+251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በBahir Dar, Ethiopia (Belay Zeleke) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: ረቡዕ ከሰዓት 8:00
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕን የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በBahir Dar, Ethiopia (Belay Zeleke) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Lake Tana Bahir Dar' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ በOpenStreetMap በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ 'Lake Tana Bahir Dar' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ በBahir Dar, Ethiopia (Belay Zeleke) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በOpenStreetMap በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።
+
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ Dawit Mekonnen (profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስልክ +251960170802) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: አርብ ከሰዓት 10:00
+*   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Dawit Mekonnen (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+በ family ሥር ለ Dawit Mekonnen (+251960170802) በBahir Dar, Ethiopia (Belay Zeleke) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ Dawit Mekonnen (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በBahir Dar, Ethiopia (Belay Zeleke) የአገልግሎት/የቦታ booking ለ Dawit Mekonnen (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?
+
+User:
+እኔ Dawit Mekonnen ነኝ (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)፤ በBahir Dar, Ethiopia (Belay Zeleke) የምኖር የ41 ዓመት Family Mediation Counselor (Bachelor of Laws፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የDawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) መገለጫ ስላላገኘሁ፣ አዲስ ለመፍጠር የሞባይል ስልክ ቁጥር ያስፈልገኛል። እባክህ የሞባይል ስልክ ቁጥርህን አስገባ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስም Dawit Mekonnen፣ ስልክ +251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2210-4b10-9c10-000000000010
+*   **ስም**: Dawit Mekonnen
+*   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+*   **ሀገር**: Ethiopia
+*   **ቋንቋ**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ Dawit Mekonnen እና የስልክ ቁጥር +251960170802 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+የDawit Mekonnen መገለጫ አልተቀመጠም። ምንም መገለጫ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+እንደ Family Mediation Counselor (Bachelor of Laws፣ መታወቂያ 3920974306) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ daily_planning ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በBahir Dar, Ethiopia (Belay Zeleke) የሳምንቱ ዋና ተግባር (task) ለ Dawit Mekonnen (+251960170802) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Dawit Mekonnen (+251960170802) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እሺ፣ የጊዜ ለውጡን አስተካክዬአለሁ። እባክህ የDawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) ሙሉ መረጃዎችን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+በ daily_planning ሥር ለ Dawit Mekonnen (+251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በBahir Dar, Ethiopia (Belay Zeleke) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: ረቡዕ ከሰዓት 8:00
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕን የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ daily_planning ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በBahir Dar, Ethiopia (Belay Zeleke) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Tibebe Ghion Specialized Hospital Bahir Dar' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+በBahir Dar, Ethiopia (Belay Zeleke) አካባቢ 'Tibebe Ghion Specialized Hospital Bahir Dar' የሚለውን ቦታ ለመፈለግ እሞክራለሁ። ከዚህ በፊት ይህ መሳሪያ ችግር ነበረበት፣ ግን እንደገና እሞክረዋለሁ።
+
+Assistant:
+አሁንም በOpenStreetMap በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ 'Tibebe Ghion Specialized Hospital Bahir Dar' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ በBahir Dar, Ethiopia (Belay Zeleke) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+በBahir Dar, Ethiopia (Belay Zeleke) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ለመፈለግ እንደገና እሞክራለሁ።
+
+Assistant:
+አሁንም በOpenStreetMap በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።
+
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ Dawit Mekonnen (profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስልክ +251960170802) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: አርብ ከሰዓት 10:00
+*   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Dawit Mekonnen (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። `record_user_activity` እና `save_user_profile` መሳሪያዎች ምንም አይነት መረጃ እያስቀመጡ ያሉ አይመስልም።
+
+ይህ ለምን እየሆነ እንደሆነ ለማጣራት፣ መረጃዎች የት እንደሚቀመጡ ማየት አለብኝ።
+
+መጀመሪያ፣ የፕሮፋይል እና የእንቅስቃሴ መረጃዎች የሚቀመጡባቸውን ፋይሎች ለማግኘት የፕሮጀክቱን አወቃቀር እመለከታለሁ።
+
+User:
+በ daily_planning ሥር ለ Dawit Mekonnen (+251960170802) በBahir Dar, Ethiopia (Belay Zeleke) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ Dawit Mekonnen (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ daily_planning ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በBahir Dar, Ethiopia (Belay Zeleke) የአገልግሎት/የቦታ booking ለ Dawit Mekonnen (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?

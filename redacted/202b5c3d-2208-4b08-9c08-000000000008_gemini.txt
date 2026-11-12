@@ -1,0 +1,539 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [ID_NUMBER])፤ በ[LOCATION]) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም። መገለጫ መፍጠር ይፈልጋሉ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [ID_NUMBER]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [ID_NUMBER] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ በ[LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [ID_NUMBER] በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [ID_NUMBER] በ 'work' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በ[LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በ[LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [ID_NUMBER]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [ID_NUMBER] 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር ለ[DATE] ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: work
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ [PERSON] ነኝ (profile_id: [ID_NUMBER])፤ በ[LOCATION]) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [ID_NUMBER]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ travel ሥር በ record_user_activity [DATE] በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [ID_NUMBER] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ በ[LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [ID_NUMBER] በ travel ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [ID_NUMBER] በ 'travel' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በ[LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በ[LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [ID_NUMBER]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ travel ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ travel ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [ID_NUMBER] 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለ[DATE] ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ [PERSON] ነኝ (profile_id: [ID_NUMBER])፤ በ[LOCATION]) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [ID_NUMBER]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ family ሥር በ record_user_activity [DATE] በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [ID_NUMBER] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ በ[LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [ID_NUMBER] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [ID_NUMBER] በ 'family' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በ[LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በ[LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [ID_NUMBER]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [ID_NUMBER] 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር ለ[DATE] ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [ID_NUMBER]
+*   **theme**: family
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]
+*   **date\_time**: [DATE]
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

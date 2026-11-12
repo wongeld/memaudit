@@ -1,0 +1,571 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3311-4c11-8d11-000000000011)፤ [LOCATION], [LOCATION] (Bole) የምኖር [DATE] Commercial Florist and Event Decorator (Diploma in Business Management፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+መገለጫዎ አልተቀመጠም። እባክዎ መገለጫዎን ለመመዝገብ የሚከተሉትን ዝርዝሮች ያረጋግጡ።
+
+ስም: [PERSON]: 303c6d4e-3311-4c11-8d11-000000000011
+Mobile Phone: (አልተሰጠም)
+Country: [LOCATION]: (አልተሰጠም)
+Preferred Language: (አልተሰጠም)
+
+እባክዎ ከመቀጠልዎ በፊት ስልክ ቁጥርዎን ያቅርቡ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስም [PERSON]፣ ስልክ +251962051344፣ ኢሜይል [PERSON]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መገለጫዎን ከማስቀመጥዎ በፊት ከዚህ በታች ያሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+**first_name**: [PERSON]: [PERSON]: +251962051344
+**country**: [LOCATION]: [PERSON]: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ መገለጫዎን አሁን ማስቀመጥ እችላለሁ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251962051344 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ መገለጫው አልተቀመጠም። የሚከተለው መልእክት ከስርአቱ ደርሶኛል፡- "Canceled. No profile was saved."
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+User:
+እንደ Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Bole) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251962051344) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"ሰኞ [DATE]" ለሚለው ተግባር ትክክለኛውን ቀን ማወቅ እፈልጋለሁ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388), የጤና ሁኔታ 'Mild seasonal allergic rhinitis'
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 ወደ [DATE] ቀይርና የ [PERSON] (+251962051344) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+አልገባኝም፣ [DATE] ይሆናል? ትክክለኛውን ቀን ማወቅ አለብኝ።
+
+ለትክክለኛው ቀን፣ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388), የጤና ሁኔታ 'Mild seasonal allergic rhinitis'
+
+User:
+በ work ሥር ለ [PERSON] (+251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com) [DATE] ላይ [LOCATION], [LOCATION] (Bole) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] የምክክር ቀጠሮ ዝርዝሮች እነሆ። እባክህ ቀጠሮው ያለበትን ትክክለኛ ቀን አረጋግጥ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE] (ይህ ማለት [DATE] ማለት ነው?)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: hirut.anagaw+011@gmail.com
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ለ [PERSON] [DATE] ቀጠሮ ተሰርዟል፣ እና ምንም ነገር አልተመዘገበም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ work ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+ከዚህ ቀደም [DATE] ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን እንድሰጥህ ጠይቄህ ነበር። እንዲሁም የምክክር ቀጠሮውን ሰርዘኸዋል። ስለዚህ፣ እስካሁን ምንም አይነት ተግባራት አልተመዘገቡም።
+
+User:
+በAddis [LOCATION], [LOCATION] (Bole) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] ላይ '[LOCATION]' የሚለውን ቦታ ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+እባክህ [LOCATION], [LOCATION] (Bole) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ ጂኦኮድ (reverse geocode) ፍለጋው አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስልክ +251962051344) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **mobile_phone**: +251962051344
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251962051344) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+የስርአቱ መልእክት ግልጽ ስላልሆነ፣ በዚያ መልኩ [DATE] ብዬ [DATE]ኑንና ሰዓቱን ማስገባት አልቻልኩም ብዬ እገምታለሁ። ትክክለኛውን ቀን፣ ለምሳሌ "[DATE]" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ work ሥር ለ [PERSON] (+251962051344) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251962051344) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ work ሥር [DATE] [LOCATION], [LOCATION] (Bole) የአገልግሎት/የቦታ booking ለ [PERSON] (+251962051344) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3311-4c11-8d11-000000000011)፤ [LOCATION], [LOCATION] (Bole) የምኖር [DATE] Commercial Florist and Event Decorator (Diploma in Business Management፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+መገለጫዎ አልተቀመጠም። ከዚህ ቀደም ለመመዝገብ ሞክረን ነበር ነገር ግን ተሰርዟል።
+
+መገለጫዎን ለመመዝገብ የሚከተሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+**first_name**: [PERSON]: [PERSON]: +251962051344
+**country**: [LOCATION]: hirut.anagaw+011@gmail.com
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ አሁን መገለጫዎን እንደገና ማስቀመጥ እችላለሁ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስም [PERSON]፣ ስልክ +251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መገለጫዎን ከማስቀመጥዎ በፊት ከዚህ በታች ያሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+**first_name**: [PERSON]: [PERSON]: +251962051344
+**country**: [LOCATION]: hirut.anagaw+011@gmail.com
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ መገለጫዎን አሁን ማስቀመጥ እችላለሁ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251962051344 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ መገለጫው እንደገና አልተቀመጠም። የሚከተለው መልእክት ከስርአቱ ደርሶኛል፡- "Canceled. No profile was saved."
+
+ይህ ለምን እየሆነ እንደሆነ አላውቅም። ምናልባት የመገለጫ ማስቀመጫ መሳሪያው [DATE] ችግር እየገጠመው ሊሆን ይችላል።
+
+በሌላ ነገር ልረዳህ እችላለሁ?
+
+User:
+እንደ Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ፣ በ shopping ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Bole) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] (+251962051344) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን ማወቅ እፈልጋለሁ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 ወደ [DATE] ቀይርና የ [PERSON] (+251962051344) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+አልገባኝም፣ [DATE] የትኛው ቀን ነው? ለምሳሌ "[DATE]"። ትክክለኛውን ቀን ማወቅ አለብኝ።
+
+ለትክክለኛው ቀን፣ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'
+
+User:
+በ shopping ሥር ለ [PERSON] (+251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com) [DATE] ላይ [LOCATION], [LOCATION] (Bole) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] የምክክር ቀጠሮ ዝርዝሮች እነሆ። እባክህ ቀጠሮው ያለበትን ትክክለኛ ቀን አረጋግጥ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE] (ይህ ማለት [DATE] ማለት ነው?)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: hirut.anagaw+011@gmail.com
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ለ [PERSON] [DATE] ቀጠሮ ተሰርዟል፣ እና ምንም ነገር አልተመዘገበም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ shopping ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ shopping ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+ከዚህ ቀደም የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን እንድትሰጠኝ ጠይቄህ ነበር። እንዲሁም የምክክር ቀጠሮውን ሰርዘኸዋል። ስለዚህ፣ እስካሁን ምንም አይነት ተግባራት አልተመዘገቡም።
+
+User:
+በAddis [LOCATION], [LOCATION] (Bole) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] ላይ '[LOCATION]' የሚለውን ቦታ ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+እባክህ [LOCATION], [LOCATION] (Bole) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ ጂኦኮድ (reverse geocode) ፍለጋው እንደገና አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስልክ +251962051344) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ shopping ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **mobile_phone**: +251962051344
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251962051344) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+ይህ የሆነበት ምክንያት የቀን ቅርጸት ትክክል ባለመሆኑ ነው። ትክክለኛውን ቀን፣ ለምሳሌ "[DATE]" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ shopping ሥር ለ [PERSON] (+251962051344) [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251962051344) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ shopping ሥር [DATE] [LOCATION], [LOCATION] (Bole) የአገልግሎት/የቦታ booking ለ [PERSON] (+251962051344) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: shopping
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3311-4c11-8d11-000000000011)፤ [LOCATION], [LOCATION] (Bole) የምኖር [DATE] Commercial Florist and Event Decorator (Diploma in Business Management፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+መገለጫዎ አልተቀመጠም። ከዚህ ቀደም ለመመዝገብ ሞክረን ነበር ነገር ግን ተሰርዟል።
+
+መገለጫዎን ለመመዝገብ የሚከተሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+**first_name**: [PERSON]: [PERSON]: +251962051344
+**country**: [LOCATION]: [PERSON]: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ አሁን መገለጫዎን እንደገና ማስቀመጥ እችላለሁ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስም [PERSON]፣ ስልክ +251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መገለጫዎን ከማስቀመጥዎ በፊት ከዚህ በታች ያሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+**first_name**: [PERSON]: [PERSON]: +251962051344
+**country**: [LOCATION]: hirut.anagaw+011@gmail.com
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ መገለጫዎን አሁን ማስቀመጥ እችላለሁ።
+
+ሆኖም፣ ቀደም ባሉት ሙከራዎች መገለጫውን ለማስቀመጥ ስሞክር "Canceled. No profile was saved." የሚል ስህተት ደርሶብኛል። ይህ ችግር አሁንም ካለ፣ መገለጫዎን ማስቀመጥ አልችልም።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251962051344 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ መገለጫው እንደገና አልተቀመጠም። የሚከተለው መልእክት ከስርአቱ ደርሶኛል፡- "Canceled. No profile was saved."
+
+ይህ ለምን እየሆነ እንደሆነ አላውቅም። የመገለጫ ማስቀመጫ መሳሪያው [DATE] ችግር እየገጠመው ያለ ይመስላል።
+
+በሌላ ነገር ልረዳህ እችላለሁ?
+
+User:
+እንደ Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ፣ በ family ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Bole) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251962051344) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን ማወቅ እፈልጋለሁ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 ወደ [DATE] ቀይርና የ [PERSON] (+251962051344) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+አልገባኝም፣ [DATE] የትኛው ቀን ነው? ለምሳሌ "[DATE]"። ትክክለኛውን ቀን ማወቅ አለብኝ።
+
+ለትክክለኛው ቀን፣ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'
+
+User:
+በ family ሥር ለ [PERSON] (+251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com) [DATE] ላይ [LOCATION], [LOCATION] (Bole) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] የምክክር ቀጠሮ ዝርዝሮች እነሆ። እባክህ ቀጠሮው ያለበትን ትክክለኛ ቀን አረጋግጥ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE] (ይህ ማለት [DATE] ማለት ነው?)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: hirut.anagaw+011@gmail.com
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ለ [PERSON] [DATE] ቀጠሮ ተሰርዟል፣ እና ምንም ነገር አልተመዘገበም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+ከዚህ ቀደም [DATE] ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን እንድትሰጠኝ ጠይቄህ ነበር። እንዲሁም የምክክር ቀጠሮውን ሰርዘኸዋል። ስለዚህ፣ እስካሁን ምንም አይነት ተግባራት አልተመዘገቡም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] ላይ '[LOCATION]' የሚለውን ቦታ ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ ጂኦኮድ (reverse geocode) ፍለጋው እንደገና አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3311-4c11-8d11-000000000011፣ ስልክ +251962051344) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **mobile_phone**: +251962051344
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial [ORGANIZATION] and [ORGANIZATION] ሥራ ስላለብኝ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251962051344) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+ይህ የሆነበት ምክንያት የቀን ቅርጸት ትክክል ባለመሆኑ ነው። ትክክለኛውን ቀን፣ ለምሳሌ "[DATE]" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ family ሥር ለ [PERSON] (+251962051344) [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3311-4c11-8d11-000000000011 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251962051344) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ family ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251962051344) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE]. [DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: 303c6d4e-3311-4c11-8d11-000000000011
+*   **theme**: family
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)

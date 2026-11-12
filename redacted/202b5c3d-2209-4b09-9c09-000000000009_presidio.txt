@@ -1,0 +1,455 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2209-4b09-9c09-000000000009)፤ [LOCATION], [LOCATION] (Ayder) የምኖር [DATE] Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አልተገኘም። እባክህ የስልክ ቁጥርህን እና ኢሜል አድራሻህን ጨምሮ ሙሉ የመገለጫ መረጃህን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]   **preferred_language**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926435391) እና የጤና ሁኔታዬ 'Mild asthma' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] ([PERSON]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"የሳምንቱ ዋና ተግባር" የሚለውን እንቅስቃሴ ከማስመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። እንዲሁም፣ የእውቂያ ስምህ ([PERSON]) እና ስልክ ቁጥርህ ([PHONE]) የዚህ ተግባር እውቂያዎች መሆናቸውን ማረጋገጥ ትችላለህ ወይንስ እነዚህ ስለራስህ ተጨማሪ መረጃዎች ናቸው?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ ለ"የሳምንቱ ዋና ተግባር" የተወሰነ ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? [DATE]" ትክክለኛ ቀን ያስፈልገኛል።
+
+እንዲሁም፣ የ [PERSON] ስም እና ስልክ ቁጥር ([PHONE]) የዚህ ተግባር የእውቂያ ዝርዝሮች መሆናቸውን ወይም የመገለጫህ ዝርዝሮች መሆናቸውን ማረጋገጥ ትችላለህ?
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION] (Ayder) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+እውቂያዎች ለምክክር ቀጠሮው:
+*   **ስም**: [PERSON]   **ስልክ**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+*   **ቦታ**: [LOCATION]   **ርዕስ**: ምክክር ቀጠሮ
+*   **ጭብጥ**: work
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ work ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 አልተመዘገበም።
+
+User:
+በMekelle, [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[ORGANIZATION] [LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] Nominatim አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳም።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] Nominatim አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳም።
+
+User:
+የጤና ሁኔታዬ 'Mild asthma' ስለሆነ እና የHospital Physician ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ።
+
+እንዲሁም፣ የክትትል ማስታወሻው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE] work ሥር ለ [PERSON] ([PHONE]) [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION] መረጃ ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 'Hospital Physician እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION]   **notes**: Hospital Physician እና Single አገልግሎት የሚውል
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+በ work ሥር [DATE] [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ።
+
+እንዲሁም፣ የቦታ ማስያዣው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2209-4b09-9c09-000000000009)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 ምንም የተቀመጠ መገለጫ የለም።
+
+ከዚህ በፊት መገለጫዎን ለማስቀመጥ ሞክረን ነበር ነገር ግን ተሰርዟል። እንደገና ማስቀመጥ ከፈለጉ እባክዎን ያሳውቁኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]   **preferred_language**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+It seems there's a recurring issue where the `save_user_profile` tool is being canceled even after confirmation. This is unexpected behavior from the tool. I will instruct the user to explicitly confirm with "yes" to try and bypass this internal cancellation, as the tool output suggests.መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926435391) እና የጤና ሁኔታዬ 'Mild asthma' ስለሆነ፣ በ school ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Ayder) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"የሳምንቱ ዋና ተግባር" የሚለውን እንቅስቃሴ ከማስመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ [DATE] ዋና ተግባር" የተወሰነ ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+እንዲሁም፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+በ school ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+የምክክር ቀጠሮው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **location**: [LOCATION], [LOCATION] (Ayder)
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 በ school ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ school ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 አልተመዘገበም።
+
+User:
+በMekelle, [LOCATION] ([LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[ORGANIZATION], [LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude [LOCATION] እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።
+
+User:
+የጤና ሁኔታዬ 'Mild asthma' ስለሆነ እና የHospital Physician ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ school ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE]፣ የክትትል ማስታወሻው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE] school ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION] ([LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION] መረጃ ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 'Hospital Physician እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **notes**: Hospital Physician እና Single አገልግሎት የሚውል
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+በ school ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "ቅዳሜ [DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ የቦታ ማስያዣው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: school
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2209-4b09-9c09-000000000009)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 ምንም የተቀመጠ መገለጫ የለም።
+
+ከዚህ በፊት መገለጫዎን ለማስቀመጥ ሞክረን ነበር ነገር ግን ተሰርዟል። እንደገና ማስቀመጥ ከፈለጉ እባክዎን ያሳውቁኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]   **preferred_language**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ? እባክህ "አዎ" ብለህ መልስ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+
+በተደጋጋሚ መገለጫው እየተሰረዘ ነው። የ `save_user_profile` ተግባር የሆነ ውስጣዊ ችግር ያለበት ይመስላል። እባክዎ በሌላ መንገድ እንድንቀጥል ያድርጉ።
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926435391) እና የጤና ሁኔታዬ 'Mild asthma' ስለሆነ፣ በ daily_planning ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"የሳምንቱ ዋና ተግባር" የሚለውን እንቅስቃሴ ከማስመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ ለ"የሳምንቱ ዋና ተግባር" የተወሰነ ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+እንዲሁም፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+በ daily_planning ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+የምክክር ቀጠሮው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **location**: [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ daily_planning ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 አልተመዘገበም።
+
+User:
+በMekelle, [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።
+
+User:
+የጤና ሁኔታዬ 'Mild asthma' ስለሆነ እና የHospital Physician ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2209-4b09-9c09-000000000009፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE]፣ የክትትል ማስታወሻው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE] daily_planning ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION] መረጃ ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2209-4b09-9c09-000000000009 'Hospital Physician እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION]   **notes**: Hospital Physician እና Single አገልግሎት የሚውል
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+በ daily_planning ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ የቦታ ማስያዣው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: 202b5c3d-2209-4b09-9c09-000000000009
+*   **theme**: daily_planning
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]

@@ -1,0 +1,430 @@
+User:
+Mimi ni [PERSON] (profile_id: [ID_NUMBER]), mwenye umri wa miaka 29, Bachelor of Education, na ni Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali angalia wasifu wangu kwa get_user_profile kabla ya kupanga safari zangu.
+
+Assistant:
+Sawa [PERSON]. Nimejaribu kutafuta wasifu wako lakini haupatikani. Kabla sijahifadhi wasifu wako na kupanga safari zako, ninaomba namba yako ya simu. Namba ya simu ya mkononi inahitajika ili kuhifadhi wasifu wako.
+
+User:
+Hifadhi wasifu wangu kwa save_user_profile: profile_id [ID_NUMBER], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi wasifu wako. Tafadhali thibitisha taarifa zifuatazo kabla sijaendelea:
+
+*   **profile_id**: [ID_NUMBER]
+*   **first_name**: [PERSON]
+*   **last_name**: [PERSON]
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+
+Je, ninaweza kuhifadhi wasifu huu?
+
+User:
+Ndiyo, maelezo hayo ya [PERSON] na simu [PHONE] ni sahihi kabisa, tafadhali yahifadhi.
+
+Assistant:
+Samahani, bado haijahifadhiwa. Ninaomba msamaha kwa usumbufu huu.
+Inaonekana kuna tatizo dogo na zana ya `save_user_profile` ambapo inaonekana inakataa kuhifadhi mara ya kwanza, hata baada ya uthibitisho.
+
+Nitaendelea na mchakato huu kwa njia ya moja kwa moja. Ili niweze kuhifadhi wasifu wako, naomba tena uthibitishe kuwa maelezo yafuatayo ni sahihi na unanikubalia kuyahifadhi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **first_name**: [PERSON]
+*   **last_name**: [PERSON]
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+
+Tafadhali jibu kwa uwazi "NDIYO" au "THIBITISHA" ili niweze kuendelea.
+
+User:
+Kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] ([LOCATION]), naomba urekodi booking kwenye mada ya travel kwa kutumia record_user_activity: uhifadhi wa safari ya kikazi na usafiri kuanzia Jumatatu saa 1:30 asubuhi kwa [PERSON] ([PHONE]).
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi uhifadhi wako wa safari ya kikazi. Ili niweze kuweka tarehe kamili, naomba unifahamishe ni tarehe gani hasa ya Jumatatu ambayo safari itaanza.
+
+Mara baada ya kuwa na tarehe, nitaendelea kurekodi uhifadhi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: booking
+*   **title**: Safari ya kikazi
+*   **date_time**: [Jumatatu maalum] saa 1:30 asubuhi
+*   **mobile_phone**: [PHONE]
+
+User:
+Badilisha muda wa booking hiyo ya safari uwe Jumatatu saa 2:30 asubuhi kwa profile_id [ID_NUMBER], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+[PERSON], samahani, bado hatujaweka booking yako ya safari. Katika hatua ya awali, nilihitaji tarehe kamili ya kuanza safari (Jumatatu gani). Kwa hivyo, hakuna booking iliyohifadhiwa ambayo ninaweza kubadilisha muda wake.
+
+Ili niweze kurekodi booking yako sasa, naomba unipe tarehe kamili (mfano: "2024-08-05") ya Jumatatu ambayo safari itaanza. Nitaiweka saa 2:30 asubuhi kama ulivyoomba.
+
+Booking itakuwa na maelezo haya:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: booking
+*   **title**: Safari ya kikazi
+*   **date_time**: [Tarehe maalum ya Jumatatu] saa 2:30 asubuhi
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili.
+
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu) na kitambulisho [ID_NUMBER], rekodi kikumbusho (reminder) kwenye mada ya travel cha kubeba dawa na hati za safari kwenye begi la mkononi Jumapili saa 2:00 usiku.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi kikumbusho hicho cha safari.
+
+Ili niweze kurekodi kikumbusho kwa usahihi, naomba unipe tarehe kamili ya Jumapili ambayo kikumbusho hiki kinatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: reminder
+*   **title**: Kubeba dawa na hati za safari kwenye begi la mkononi
+*   **date_time**: [Tarehe maalum ya Jumapili] saa 2:00 usiku
+*   **notes**: Afya njema bila ugonjwa sugu, kitambulisho [ID_NUMBER].
+
+Tafadhali nithibitishie tarehe kamili ya Jumapili.
+
+User:
+Hapana, ghairi kikumbusho hicho cha Jumapili saa 2:00 usiku kwa sasa kwa sababu nitaandaa begi langu mapema mchana, usihifadhi.
+
+Assistant:
+Sawa, [PERSON]. Nimeghairi ombi lako la kikumbusho hicho cha Jumapili saa 2:00 usiku. Hakuna kikumbusho kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya travel kwa profile_id [ID_NUMBER].
+
+Assistant:
+[PERSON], kwa sasa hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'travel' kwa profile_id yako [ID_NUMBER].
+
+Je, kuna shughuli nyingine ungependa kuorodhesha au kuhifadhi?
+
+User:
+Ninahitaji kuangalia kituo cha usafiri kwa ajili ya safari yangu; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kutafuta '[LOCATION]' kwa kutumia `openstreetmap_search_places`. Nitahakikisha kuwa taarifa zako binafsi hazitumwi na nitatambua OpenStreetMap kama chanzo.
+
+Kwanza, ninaunganisha na server ya OpenStreetMap ili kupata metadata ya hivi punde.
+
+Assistant:
+Ninatafuta '[LOCATION]' sasa.
+
+Assistant:
+Samahani, [PERSON]. Inaonekana kumekuwa na tatizo wakati wa kutafuta "[LOCATION]" kwa kutumia zana ya OpenStreetMap.
+
+Nita jaribu kutafuta "[LOCATION]" tu, kuona kama tatizo linahusiana na swala langu maalum, au kuna tatizo la jumla na huduma ya utafutaji.
+
+Assistant:
+Samahani sana, [PERSON]. Inaonekana kuna tatizo la kiufundi na zana ya utafutaji ya OpenStreetMap. Haiwezi kukamilisha hata utafutaji rahisi kama "[LOCATION]".
+
+Kwa sasa, siwezi kutafuta "[LOCATION]" kwa kutumia zana hii. Inaonekana huduma ya utafutaji haifanyi kazi inavyostahili.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya eneo la safari lenye majira-nukta latitude 0.2827 na longitude 34.7519 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, [PERSON]. Inaonekana bado kuna tatizo na zana za OpenStreetMap. Hata `reverse_geocode` imeshindwa kufanya kazi. Tatizo hili linaonekana kuathiri zana zote za OpenStreetMap kwa sasa.
+
+Kwa bahati mbaya, siwezi kupata anwani ya eneo hilo la safari kwa kutumia zana zilizopo hivi sasa. Tafadhali jaribu tena baadaye, au ikiwa una njia nyingine ya kupata anwani hiyo, nifahamishe.
+
+User:
+Rekodi miadi (appointment) kwenye mada ya travel kwa [PERSON] (profile_id [ID_NUMBER], simu [PHONE]) ya kukutana na mshirika wa safari na usafirishaji Jumatano saa 4:00 asubuhi; nionyeshe uthibitisho.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi miadi hiyo ya kukutana na mshirika wa safari na usafirishaji.
+
+Ili niweze kurekodi miadi kwa usahihi, naomba unipe tarehe kamili ya Jumatano ambayo miadi hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: appointment
+*   **title**: Kukutana na mshirika wa safari na usafirishaji
+*   **date_time**: [Tarehe maalum ya Jumatano] saa 4:00 asubuhi
+*   **contact_name**: Mshirika wa safari na usafirishaji
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili ya Jumatano.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya Jumatano saa 4:00 asubuhi kwa [PERSON] ([PHONE]), tafadhali ihifadhi.
+
+Assistant:
+Samahani, [PERSON], lakini bado ninahitaji tarehe kamili ya Jumatano ili kuhifadhi miadi yako. "Jumatano saa 4:00 asubuhi" pekee haitoshi kwa rekodi sahihi.
+
+Tafadhali nipa tarehe kamili ya Jumatano (kwa mfano, "2024-08-07") ili niweze kuhifadhi miadi hii.
+
+User:
+Naomba urekodi kazi (task) kwenye mada ya travel kwa [PERSON] ([PHONE]) ya kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Samahani, [PERSON]. Kazi yako ya kuhakiki ratiba ya hoteli na bajeti ya safari haijahifadhiwa. Ninaomba msamaha kwa usumbufu huu unaoendelea.
+
+Tafadhali thibitisha taarifa zifuatazo ili niweze kuhifadhi kazi hii:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: task
+*   **title**: Kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Je, ninaweza kuhifadhi kazi hii?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) kuwa safari hiyo inahusisha siku 4 za kazi kwa [PERSON] ([PHONE]), kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, [PERSON]. Ninaongeza maelezo ya "siku 4 za kazi" kwenye kazi hiyo.
+
+Haya ndio maelezo kamili ya kazi nitakayojaribu kuhifadhi. Tafadhali thibitisha kuwa ni sahihi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: task
+*   **title**: Kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Safari inahusisha siku 4 za kazi.
+
+Je, ninaweza kuhifadhi kazi hii sasa?
+
+User:
+Rekodi shopping_item kwenye mada ya travel kwa [PERSON] ([PHONE]) ya kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] ([LOCATION]), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Samahani, [PERSON]. Bidhaa yako ya ununuzi haijahifadhiwa. Ninaomba msamaha kwa usumbufu huu unaoendelea.
+
+Tafadhali thibitisha taarifa zifuatazo ili niweze kuhifadhi bidhaa hii ya ununuzi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: travel
+*   **activity_type**: shopping_item
+*   **title**: Kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Je, ninaweza kuhifadhi bidhaa hii ya ununuzi sasa?
+
+User:
+Mimi ni [PERSON] (profile_id: [ID_NUMBER]), mwenye umri wa miaka 29, shahada ya Bachelor of Education, na ninafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+[PERSON], nimeangalia wasifu wako lakini bado hauonekani kuwa umekamilika kuhifadhiwa. Hii ni ajabu kwa sababu tumethibitisha mara kadhaa.
+
+Naomba radhi sana kwa usumbufu huu wa kiufundi. Inaonekana kuna tatizo la kudumu na utendaji wa kuhifadhi wasifu wako.
+
+Ili kuepuka kuendelea kujirudia, naomba ruhusa yako ya kujaribu kuhifadhi wasifu wako upya na kisha nitajaribu kuupata tena. Je, unanikubalia kujaribu kuhifadhi upya wasifu wako na maelezo haya?
+
+*   **profile_id**: [ID_NUMBER]
+*   **first_name**: [PERSON]
+*   **last_name**: [PERSON]
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+
+User:
+Tafadhali hifadhi wasifu wangu kwa save_user_profile: profile_id [ID_NUMBER], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION], lugha Kiswahili; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+[PERSON], tena samahani, wasifu wako haujahifadhiwa bado. Inaonekana kuna tatizo la kurudia ambapo zana ya `save_user_profile` inaghairi kuhifadhi.
+
+Haya ndiyo maelezo ambayo nimejaribu kuhifadhi na unahitaji kuyathibitisha kabla sijaendelea na jaribio jingine la kuhifadhi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **first_name**: [PERSON]
+*   **last_name**: [PERSON]
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+*   **preferred_language**: Kiswahili
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi na unanikubalia kujaribu kuyahifadhi tena? Tafadhali jibu kwa uwazi "NDIYO" au "THIBITISHA".
+
+User:
+Ndiyo, maelezo hayo ya [PERSON] na nambari ya simu [PHONE] ni sahihi kabisa, naomba uyahifadhi sasa.
+
+Assistant:
+[PERSON], ninaomba radhi sana. Kwa mara nyingine tena, zana ya `save_user_profile` imerudisha ujumbe wa "Canceled. No profile was saved." licha ya wewe kuthibitisha maelezo.
+
+Inaonekana kuna tatizo la kudumu na zana hii, na siwezi kuhifadhi wasifu wako kwa kutumia `save_user_profile` kwa sasa. Nimejaribu mara kadhaa baada ya wewe kuthibitisha, lakini matokeo ni yale yale.
+
+Ninaelewa kuwa hii inakukatisha tamaa, na ninaomba msamaha kwa usumbufu huu. Kwa sasa, siwezi kuendelea na kazi zinazohitaji wasifu wako kuhifadhiwa.
+
+Je, ungependa tuendelee na shughuli nyingine ambazo hazihitaji kuhifadhi wasifu kwa sasa, au ninaweza kukusaidia na jambo lingine?
+
+User:
+Kama Secondary School Kiswahili Teacher mwenye Bachelor of Education huko [LOCATION], [LOCATION] ([LOCATION]), naomba urekodi kazi (task) kwenye mada ya school kwa kutumia record_user_activity: kuandaa maazimio ya kufundisha na mwongozo wa tathmini Jumatatu saa 2:00 asubuhi kwa [PERSON] ([PHONE]).
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi kazi hiyo ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini.
+
+Ili niweze kurekodi kazi kwa usahihi, naomba unipe tarehe kamili ya Jumatatu ambayo kazi hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: task
+*   **title**: Kuandaa maazimio ya kufundisha na mwongozo wa tathmini
+*   **date_time**: [Tarehe maalum ya Jumatatu] saa 2:00 asubuhi
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili ya Jumatatu.
+
+User:
+Badilisha muda wa kazi hiyo ya school uwe Jumatatu saa 1:30 asubuhi kwa profile_id [ID_NUMBER], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+[PERSON], samahani, bado hatujaweka kazi yako ya shule. Katika hatua ya awali, nilihitaji tarehe kamili ya Jumatatu. Kwa hivyo, hakuna kazi iliyohifadhiwa ambayo ninaweza kubadilisha muda wake.
+
+Ili niweze kurekodi kazi yako sasa, naomba unipe tarehe kamili (mfano: "2024-08-05") ya Jumatatu ambayo kazi itaanza. Nitaiweka saa 1:30 asubuhi kama ulivyoomba.
+
+Kazi itakuwa na maelezo haya:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: task
+*   **title**: Kuandaa maazimio ya kufundisha na mwongozo wa tathmini
+*   **date_time**: [Tarehe maalum ya Jumatatu] saa 1:30 asubuhi
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili.
+
+User:
+Mimi [PERSON] (kitambulisho [ID_NUMBER]), nataka kurekodi miadi (appointment) kwenye mada ya school ya kukutana na kamati ya taaluma na wazazi Jumanne saa 4:30 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi miadi hiyo ya kukutana na kamati ya taaluma na wazazi.
+
+Ili niweze kurekodi miadi kwa usahihi, naomba unipe tarehe kamili ya Jumanne ambayo miadi hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: appointment
+*   **title**: Kukutana na kamati ya taaluma na wazazi
+*   **date_time**: [Tarehe maalum ya Jumanne] saa 4:30 asubuhi
+*   **contact_name**: Kamati ya taaluma na wazazi
+*   **location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **notes**: Kitambulisho [ID_NUMBER]
+
+Tafadhali nithibitishie tarehe kamili ya Jumanne.
+
+User:
+Hapana, ghairi miadi hiyo ya Jumanne saa 4:30 asubuhi kwa sasa kwa sababu nitakuwa darasani nikisimamia jaribio, usihifadhi chochote.
+
+Assistant:
+Sawa, [PERSON]. Nimeghairi ombi lako la miadi ya Jumanne saa 4:30 asubuhi. Hakuna miadi iliyohifadhiwa.
+
+User:
+Naomba uorodheshe shughuli zangu zote za mada ya school kwa kutumia list_user_activities kwa profile_id [ID_NUMBER].
+
+Assistant:
+[PERSON], kwa sasa hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'school' kwa profile_id yako [ID_NUMBER].
+
+Kazi ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini, na miadi ya kukutana na kamati ya taaluma na wazazi zote hazikuhifadhiwa kwa sababu tarehe kamili ya Jumatatu/Jumanne haikubainishwa.
+
+Je, kuna shughuli nyingine ungependa kuorodhesha au kuhifadhi?
+
+User:
+Ninahitaji kuratibu ziara ya kielimu na midahalo ya wanafunzi; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uonyeshe attribution ya OpenStreetMap.
+
+Assistant:
+Sawa, [PERSON]. Nita tafuta '[ORGANIZATION]' kwa kutumia `openstreetmap_search_places`. Nitahakikisha taarifa zako binafsi hazitumwi na nitatambua OpenStreetMap.
+
+Kumbuka kuwa hapo awali kulikuwa na tatizo la kiufundi na zana za OpenStreetMap. Nitajaribu tena, na nikipata hitilafu, nitakujulisha.
+
+Assistant:
+Samahani, [PERSON]. Inaonekana tatizo la kiufundi na zana ya utafutaji ya OpenStreetMap bado linaendelea. Nimeshindwa kutafuta '[ORGANIZATION]'.
+
+Kwa bahati mbaya, kwa sasa siwezi kukusaidia kutafuta maeneo kwa kutumia zana za OpenStreetMap.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la shule lenye majira-nukta latitude 0.2827 na longitude 34.7519 huko [LOCATION], [LOCATION] ([LOCATION]) na ujumuishe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, [PERSON]. Ninaelewa kuwa unahitaji kupata anwani ya eneo la shule.
+
+Nimejaribu kutumia zana za OpenStreetMap hapo awali, ikiwemo `reverse_geocode`, na zote zimeshindwa kufanya kazi kutokana na tatizo la kiufundi. Nitajaribu tena sasa, lakini kuna uwezekano mkubwa wa kukutana na kosa lilelile.
+
+Ninakujaribu kutafuta anwani ya eneo lenye latitude 0.2827 na longitude 34.7519.
+
+Assistant:
+Samahani tena, [PERSON]. Kama nilivyotarajia, zana ya `reverse_geocode` bado haifanyi kazi. Inaonekana tatizo la kiufundi na zana za OpenStreetMap linaendelea.
+
+Kwa bahati mbaya, kwa sasa siwezi kupata anwani ya eneo la shule kwa kutumia zana zilizopo. Ninaomba radhi kwa usumbufu huu.
+
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu), rekodi kikumbusho (reminder) kwenye mada ya school kwa [PERSON] (profile_id [ID_NUMBER], simu [PHONE]) cha kukusanya insha na madaftari ya wanafunzi Ijumaa saa 9:00 alasiri.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi kikumbusho hicho cha kukusanya insha na madaftari ya wanafunzi.
+
+Ili niweze kurekodi kikumbusho kwa usahihi, naomba unipe tarehe kamili ya Ijumaa ambayo kikumbusho hiki kinatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: reminder
+*   **title**: Kukusanya insha na madaftari ya wanafunzi
+*   **date_time**: [Tarehe maalum ya Ijumaa] saa 9:00 alasiri
+*   **mobile_phone**: [PHONE]
+*   **notes**: Afya njema bila ugonjwasugu.
+
+Tafadhali nithibitishie tarehe kamili ya Ijumaa.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha Ijumaa saa 9:00 alasiri kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Samahani, [PERSON], lakini bado ninahitaji tarehe kamili ya Ijumaa ili kuhifadhi kikumbusho chako. "Ijumaa saa 9:00 alasiri" pekee haitoshi kwa rekodi sahihi.
+
+Tafadhali nipa tarehe kamili ya Ijumaa (kwa mfano, "2024-08-09") ili niweze kuhifadhi kikumbusho hiki.
+
+User:
+Naomba urekodi shopping_item kwenye mada ya school kwa [PERSON] ([PHONE]) ya kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Samahani, [PERSON]. Bidhaa yako ya ununuzi haijahifadhiwa. Ninaomba msamaha kwa usumbufu huu unaoendelea.
+
+Tafadhali thibitisha taarifa zifuatazo ili niweze kuhifadhi bidhaa hii ya ununuzi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: Kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Je, ninaweza kuhifadhi bidhaa hii ya ununuzi sasa?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) kuwa vitabu hivyo ni nakala 20 za fasihi kwa [PERSON] ([PHONE]) kwenye profile_id [ID_NUMBER], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, [PERSON]. Ninaongeza maelezo ya "nakala 20 za fasihi" kwenye bidhaa hiyo ya ununuzi.
+
+Haya ndio maelezo kamili ya bidhaa ya ununuzi nitakayojaribu kuhifadhi. Tafadhali thibitisha kuwa ni sahihi:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: Kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Vitabu ni nakala 20 za fasihi.
+
+Je, ninaweza kuhifadhi bidhaa hii ya ununuzi sasa?
+
+User:
+Rekodi booking kwenye mada ya school ya ukumbi wa mikutano wa shule huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) Alhamisi saa 8:00 mchana na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi booking ya ukumbi wa mikutano wa shule.
+
+Ili niweze kurekodi booking kwa usahihi, naomba unipe tarehe kamili ya Alhamisi ambayo booking hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [ID_NUMBER]
+*   **theme**: school
+*   **activity_type**: booking
+*   **title**: Ukumbi wa mikutano wa shule
+*   **date_time**: [Tarehe maalum ya Alhamisi] saa 8:00 mchana
+*   **location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili ya Alhamisi.

@@ -1,0 +1,540 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3312-4c12-8d12-000000000012)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Broadcast Lifestyle Journalist (Bachelor of Arts፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አላገኘሁም። ይሄንን መገለጫ ላስቀምጥልህ?
+
+ስም: [PERSON]: 303c6d4e-3312-4c12-8d12-000000000012
+ሀገር: [LOCATION] ስልክ ቁጥር: [እባክዎ ያቅርቡ]
+ተመራጭ ቋንቋ: Amharic
+
+እባክህ የሞባይል ስልክ ቁጥርህን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **country**: [LOCATION]   **email**: [PERSON]   **preferred_language**: Amharic
+
+ይህ ትክክል ከሆነ፣ መገለጫህን አስቀምጣለሁ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ፕሮፋይሉ ሊቀመጥ አልቻለም። እንደገና ልሞክር?
+
+User:
+እንደ Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857) እና የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን ተግባር አስቀምጣለሁ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+የተግባርን ሰዓት በቀጥታ ማስተካከል አልችልም ምክንያቱም `record_user_activity` አዲስ ተግባራትን ብቻ ነው የሚያስቀምጠው።
+
+ሆኖም፣ አዲስ ተግባር በተስተካከለው ሰዓት ማስቀመጥ እችላለሁ። የቀደመውን ተግባር መዝገብ አስቀምጠው አልነበርኩም፣ ስለዚህ አሁን ካስቀመጥኩት [DATE] ይሆናል።
+
+የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን አዲስ ተግባር አስቀምጣለሁ።
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: ኢሜይል: [EMAIL]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቀጠሮ አስቀምጣለሁ።
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ተሰርዟል። ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ work ዘርፍ ምንም አይነት የተቀመጡ እንቅስቃሴዎች አላገኘሁም።
+
+ከዚህ ቀደም [DATE] ዋና ተግባር ([DATE]) እና የምክክር ቀጠሮ ([DATE]) እንድመዘግብልህ ጠይቀኸኝ ነበር፣ ነገር ግን እነዛን ተግባራት ከማስቀመጤ በፊት ሰርዘሃቸዋል። ስለዚህ፣ በአሁኑ ጊዜ ምንም የተቀመጡ የሥራ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ [ORGANIZATION] Nominatim አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] Nominatim አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 9.0158 እና longitude 38.7712 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ [ORGANIZATION] Nominatim አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] Nominatim አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: [DATE]   **mobile_phone**: [PHONE]
+*   **notes**: የጤና ሁኔታ: Hypothyroidism, Broadcast Lifestyle Journalist
+
+ይህ ትክክል ከሆነ፣ ይህንን ማስታወሻ አስቀምጣለሁ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ማስታወሻው ሊቀመጥ አልቻለም። እንደገና ልሞክር?
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION] (Kazanchis) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 'Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+በ work ሥር [DATE] [LOCATION], [LOCATION] ([LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION] ([LOCATION]   **mobile_phone**: [PHONE]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቦታ ማስያዝ አስቀምጣለሁ።
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3312-4c12-8d12-000000000012)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Broadcast Lifestyle Journalist (Bachelor of Arts፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አላገኘሁም። ከዚህ ቀደም ፕሮፋይልህን ለማስቀመጥ ስሞክር ስህተት አጋጥሞኝ ነበር። እንደገና ላስቀምጥልህ?
+
+**የመገለጫ ዝርዝሮች:**
+*   **ስም**: [PERSON]   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **ሀገር**: [LOCATION]   **ተንቀሳቃሽ ስልክ ቁጥር**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+*   **ተመራጭ ቋንቋ**: Amharic
+
+እባክህ የሞባይል ስልክ ቁጥርህ እና ሌሎች መረጃዎች ትክክል መሆናቸውን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **country**: [LOCATION]   **email**: [PERSON]   **preferred_language**: Amharic
+
+ይህ ትክክል ከሆነ፣ መገለጫህን አስቀምጣለሁ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ፕሮፋይሉ ሊቀመጥ አልቻለም። እንደገና ልሞክር?
+
+User:
+እንደ Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857) እና የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ፣ በ family ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን ተግባር አስቀምጣለሁ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+የተግባርን ሰዓት በቀጥታ ማስተካከል አልችልም ምክንያቱም `record_user_activity` አዲስ ተግባራትን ብቻ ነው የሚያስቀምጠው።
+
+ሆኖም፣ አዲስ ተግባር በተስተካከለው ሰዓት ማስቀመጥ እችላለሁ። የቀደመውን ተግባር መዝገብ አስቀምጠው አልነበርኩም፣ ስለዚህ አሁን ካስቀመጥኩት [DATE] ይሆናል።
+
+የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን አዲስ ተግባር አስቀምጣለሁ።
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION] ([LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: ኢሜይል: [EMAIL]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቀጠሮ አስቀምጣለሁ።
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ተሰርዟል። ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ family ዘርፍ ምንም አይነት የተቀመጡ እንቅስቃሴዎች አላገኘሁም።
+
+ከዚህ ቀደም [DATE] ዋና ተግባር ([DATE]) እና የምክክር ቀጠሮ ([DATE]) እንድመዘግብልህ ጠይቀኸኝ ነበር፣ ነገር ግን እነዛን ተግባራት ከማስቀመጤ በፊት ሰርዘሃቸዋል። ስለዚህ፣ በአሁኑ ጊዜ ምንም የተቀመጡ የቤተሰብ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION] [LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ [ORGANIZATION] አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 9.0158 እና longitude 38.7712 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ [ORGANIZATION] አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: [DATE]   **mobile_phone**: [PHONE]
+*   **notes**: የጤና ሁኔታ: Hypothyroidism, Broadcast Lifestyle Journalist
+
+ይህ ትክክል ከሆነ፣ ይህንን ማስታወሻ አስቀምጣለሁ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ማስታወሻው ሊቀመጥ አልቻለም። ይህ ደጋግሞ እየሆነ ነው። እንደገና ልሞክር?
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል (እንደ ቀድሞው ጥያቄ)
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 'Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+በ family ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: family
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቦታ ማስያዝ አስቀምጣለሁ።
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3312-4c12-8d12-000000000012)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Broadcast Lifestyle Journalist (Bachelor of Arts፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አላገኘሁም። ከዚህ ቀደም ፕሮፋይልህን ለማስቀመጥ ስሞክር ስህተት አጋጥሞኝ ነበር። እንደገና ላስቀምጥልህ?
+
+**የመገለጫ ዝርዝሮች:**
+*   **ስም**: [PERSON]   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **ሀገር**: [LOCATION]   **ተንቀሳቃሽ ስልክ ቁጥር**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+*   **ተመራጭ ቋንቋ**: Amharic
+
+እባክህ የሞባይል ስልክ ቁጥርህ እና ሌሎች መረጃዎች ትክክል መሆናቸውን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **country**: [LOCATION]   **email**: [PERSON]   **preferred_language**: Amharic
+
+ይህ ትክክል ከሆነ፣ መገለጫህን አስቀምጣለሁ።
+
+እባክህ ልብ በል: ከዚህ በፊት ፕሮፋይልህን ለማስቀመጥ ስሞክር ደጋግሞ ስህተት አጋጥሞኝ ነበር ("Canceled. No profile was saved.")። አሁንም ለማስቀመጥ ትፈልጋለህ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ አሁንም መገለጫውን ማስቀመጥ አልቻልኩም። "Canceled. No profile was saved." የሚል ስህተት ደጋግሞ እየታየ ነው። ምናልባት በ `save_user_profile` መሳሪያው ላይ ችግር አለ።
+
+በዚህ ሁኔታ መገለጫውን ማስቀመጥ አልችልም. ሌላ ነገር ልረዳህ?
+
+User:
+እንደ Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857) እና የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ፣ በ daily_planning ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን ተግባር አስቀምጣለሁ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+የተግባርን ሰዓት በቀጥታ ማስተካከል አልችልም ምክንያቱም `record_user_activity` አዲስ ተግባራትን ብቻ ነው የሚያስቀምጠው።
+
+ሆኖም፣ አዲስ ተግባር በተስተካከለው ሰዓት ማስቀመጥ እችላለሁ። የቀደመውን ተግባር መዝገብ አስቀምጠው አልነበርኩም፣ ስለዚህ አሁን ካስቀመጥኩት [DATE] ይሆናል።
+
+የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION] ([LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን አዲስ ተግባር አስቀምጣለሁ።
+
+User:
+በ daily_planning ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION] ([LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: ኢሜይል: [EMAIL]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቀጠሮ አስቀምጣለሁ።
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ተሰርዟል። ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ daily_planning ዘርፍ ምንም አይነት የተቀመጡ እንቅስቃሴዎች አላገኘሁም።
+
+ከዚህ ቀደም [DATE] ዋና ተግባር ([DATE]) እና የምክክር ቀጠሮ ([DATE]) እንድመዘግብልህ ጠይቀኸኝ ነበር፣ ነገር ግን እነዛን ተግባራት ከማስቀመጤ በፊት ሰርዘሃቸዋል። ስለዚህ፣ በአሁኑ ጊዜ ምንም የተቀመጡ የዕለታዊ እቅድ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION] [LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ [ORGANIZATION] አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+እባክህ [LOCATION], [LOCATION]) የሚገኘውን የ latitude 9.0158 እና longitude 38.7712 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` መሳሪያውን ለማስኬድ ስሞክር አሁንም ስህተት አጋጥሞኛል። የ [ORGANIZATION] አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: [ORGANIZATION] ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© [ORGANIZATION] አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው [ORGANIZATION] አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 303c6d4e-3312-4c12-8d12-000000000012፣ ስልክ [PHONE]) [DATE] [DATE] ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: [DATE]   **mobile_phone**: [PHONE]
+*   **notes**: የጤና ሁኔታ: Hypothyroidism, Broadcast Lifestyle Journalist
+
+ይህ ትክክል ከሆነ፣ ይህንን ማስታወሻ አስቀምጣለሁ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ማስታወሻው ሊቀመጥ አልቻለም። ይህ ደጋግሞ እየሆነ ነው። እንደገና ልሞክር?
+
+User:
+በ daily_planning ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 303c6d4e-3312-4c12-8d12-000000000012 'Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+በ daily_planning ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: 303c6d4e-3312-4c12-8d12-000000000012
+*   **theme**: daily_planning
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+
+ይህ ትክክል ከሆነ፣ ይህንን ቦታ ማስያዝ አስቀምጣለሁ።

@@ -1,0 +1,539 @@
+User:
+እኔ Shimelis Tilahun ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ በAddis Ababa, Ethiopia (Kirkos) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም። መገለጫ መፍጠር ይፈልጋሉ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም Shimelis Tilahun፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: Ethiopia
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ Shimelis Tilahun እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ work ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የሳምንቱ ዋና ተግባር (task) ለ Shimelis Tilahun (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Shimelis Tilahun (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር ለ Shimelis Tilahun (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Kirkos) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'work' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis Ababa, Ethiopia (Kirkos) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Kirkos Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ 'Kirkos Addis Ababa' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Kirkos) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ Shimelis Tilahun (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: አርብ ከሰዓት 10:00
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Shimelis Tilahun (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ work ሥር ለ Shimelis Tilahun (+251954834664) በAddis Ababa, Ethiopia (Kirkos) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ Shimelis Tilahun (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የአገልግሎት/የቦታ booking ለ Shimelis Tilahun (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ቅዳሜ ጠዋት 4:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ Shimelis Tilahun ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ በAddis Ababa, Ethiopia (Kirkos) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም Shimelis Tilahun፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: Ethiopia
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ Shimelis Tilahun እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ travel ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የሳምንቱ ዋና ተግባር (task) ለ Shimelis Tilahun (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Shimelis Tilahun (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለ Shimelis Tilahun (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Kirkos) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ travel ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'travel' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis Ababa, Ethiopia (Kirkos) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Bole International Airport Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ 'Bole International Airport Addis Ababa' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Kirkos) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ Shimelis Tilahun (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ travel ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: አርብ ከሰዓት 10:00
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Shimelis Tilahun (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ travel ሥር ለ Shimelis Tilahun (+251954834664) በAddis Ababa, Ethiopia (Kirkos) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ Shimelis Tilahun (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የአገልግሎት/የቦታ booking ለ Shimelis Tilahun (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ቅዳሜ ጠዋት 4:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ Shimelis Tilahun ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ በAddis Ababa, Ethiopia (Kirkos) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም Shimelis Tilahun፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: Ethiopia
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ Shimelis Tilahun እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ family ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የሳምንቱ ዋና ተግባር (task) ለ Shimelis Tilahun (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Shimelis Tilahun (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር ለ Shimelis Tilahun (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Kirkos) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'family' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis Ababa, Ethiopia (Kirkos) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Meskel Square Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ 'Meskel Square Addis Ababa' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Kirkos) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ Shimelis Tilahun (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: አርብ ከሰዓት 10:00
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Shimelis Tilahun (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ family ሥር ለ Shimelis Tilahun (+251954834664) በAddis Ababa, Ethiopia (Kirkos) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ Shimelis Tilahun (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የአገልግሎት/የቦታ booking ለ Shimelis Tilahun (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ቅዳሜ ጠዋት 4:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

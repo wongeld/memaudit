@@ -3,9 +3,9 @@
 **Evaluating Privacy Preservation in Multilingual Assistant Memory via Post-Redaction Inference Audits**
 
 
-This repository holds the code for the study. Right now it contains the **redactors**:
-the tools that mask personal information in English, Swahili and Amharic text before it
-is saved as assistant memory. Data generation, memory summaries and the attacker come next.
+This repository holds the code for the study. It contains the **redactors** that mask
+personal information in English, Swahili and Amharic text before it is saved as assistant
+memory, plus scripts for running them on example texts and synthetic session transcripts.
 
 ## Quick start
 
@@ -13,11 +13,43 @@ is saved as assistant memory. Data generation, memory summaries and the attacker
 pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 
-# 2. Run
+# Run the example texts
 python demo.py
 ```
 
 The first run downloads the NER models (about 2.6 GB) to `~/.cache/huggingface`.
+
+To redact the saved synthetic sessions in `sessions/`, configure `GEMINI_API_KEY` and
+`GEMINI_MODEL` in `.env`, then run `main.py` from this directory:
+
+```bash
+python main.py
+```
+
+`main.py` writes four UTF-8 `.txt` files per session to `redacted/`, using this naming
+pattern:
+
+```text
+<session-id>_none.txt       # baseline; no masking
+<session-id>_ner.txt        # NER only
+<session-id>_presidio.txt   # Presidio patterns plus NER
+<session-id>_gemini.txt     # Gemini LLM redactor
+```
+
+Only complete user and assistant text messages are retained. Event metadata, assistant
+thinking, signatures and tool events are omitted. The session language is detected
+automatically (`am` when Amharic script is present, otherwise `sw` for these synthetic
+sessions). Use the options below when needed:
+
+```bash
+python main.py --sessions path\to\sessions --output-dir path\to\redacted
+python main.py --lang sw
+python main.py --lang am
+```
+
+The NER and Presidio runs download/load the pinned Hugging Face models. The Gemini run
+requires a working API key and model setting; API errors stop the run and should be retried
+later.
 
 ## Running the demo
 
@@ -124,7 +156,10 @@ RUN_MODEL_TESTS=1 pytest
 ## Files
 
 ```
-demo.py                   the script you run
+demo.py                   run redactors on examples/samples.jsonl
+main.py                   redact every JSONL file in sessions/
+sessions/                 synthetic JSONL session transcripts
+redacted/                 generated TXT outputs (not source data)
 redactors/
     base.py               Span, RedactionResult, shared masking, the no-redaction baseline
     ner.py                NER-only redactor and the NER model loader shared with Presidio
@@ -132,7 +167,7 @@ redactors/
     llm.py                LLM redactor, Gemini client, OpenAI-compatible client, the prompt
     env.py                reads settings from .env
 examples/samples.jsonl    example texts with the identifiers each should lose
-tests/                    tests
+tests/                    tests, when present
 requirements.txt          what to pip install
 ```
 

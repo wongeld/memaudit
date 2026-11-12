@@ -1,0 +1,38 @@
+User:
+እኔ Tigist Hailu ነኝ (profile_id: 303c6d4e-3313-4c13-8d13-000000000013)፤ በMekelle, Ethiopia (Ayder) የምኖር የ29 ዓመት Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+`profile_id` 303c6d4e-3313-4c13-8d13-000000000013 ላለው ተጠቃሚ ምንም የተቀመጠ መገለጫ የለም። በአዲሱ መረጃ መሰረት አዲስ መገለጫ ላስቀምጥልዎ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3313-4c13-8d13-000000000013፣ ስም Tigist Hailu፣ ስልክ +251940072829፣ ኢሜይል tigist.hailu+013@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: `303c6d4e-3313-4c13-8d13-000000000013`
+*   **first_name**: `Tigist`
+*   **last_name**: `Hailu`
+*   **mobile_phone**: `+251940072829`
+*   **email**: `tigist.hailu+013@gmail.com`
+*   **country**: `Ethiopia`
+*   **preferred_language**: `Amharic`
+
+ልቀጥል?
+
+User:
+አዎ፣ የ Tigist Hailu እና የስልክ ቁጥር +251940072829 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ ጥያቄው አልተሰራም። ከዚህ ቀደም የገባ የ"Canceled" መልእክት ሳይ ይቅርታ መጠየቅ እፈልጋለሁ። የተጠቃሚውን መገለጫ ማስቀመጥ አልቻልኩም. እንደገና ልሞክር?
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926587563) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ work ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በMekelle, Ethiopia (Ayder) የሳምንቱ ዋና ተግባር (task) ለ Tigist Hailu (+251940072829) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ Tigist Hailu በMekelle, Ethiopia (Ayder) የሳምንቱን ዋና ተግባር (task) ማስቀመጥ እችላለሁ።
+
+እባክህ የትኛው ሰኞ እንደሆነ ለመመዝገብ የተወሰነ ቀን (ለምሳሌ፡ 2024-07-29) ንገረኝ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3313-4c13-8d13-000000000013 ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Tigist Hailu (+251940072829) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።

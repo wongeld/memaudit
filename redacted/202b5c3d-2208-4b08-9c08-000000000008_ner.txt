@@ -1,0 +1,477 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም። መገለጫ መፍጠር ይፈልጋሉ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም [PERSON]፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: [PERSON]   **last\_name**: [PERSON]   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: [LOCATION]   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ [DATE] ቀይርና የ [PERSON] (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር ለ [PERSON] (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) [DATE] [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'work' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ work ሥር ለ [PERSON] (+251954834664) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION] (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ work ሥር [DATE] [LOCATION], [LOCATION] (Kirkos) የአገልግሎት/የቦታ booking ለ [PERSON] (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: work
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION] (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ [LOCATION], [LOCATION] (Kirkos) የምኖር [DATE] Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም [PERSON]፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: [PERSON]   **last\_name**: [PERSON]   **mobile\_phone**: +251954834664
+*   **email**: [PERSON]   **country**: [LOCATION]   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ travel ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ [DATE] ቀይርና የ [PERSON] (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለ [PERSON] (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ travel ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'travel' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]baba' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[ORGANIZATION] [LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና [ORGANIZATION] Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) [DATE] [DATE] ላይ የክትትል ማስታወሻ (reminder) በ travel ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ travel ሥር ለ [PERSON] (+251954834664) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: travel
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2208-4b08-9c08-000000000008)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስም [PERSON]፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **first\_name**: [PERSON]   **last\_name**: [PERSON]   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: [LOCATION]   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ family ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Kirkos) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 ወደ [DATE] ቀይርና የ [PERSON] (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር ለ [PERSON] (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id 202b5c3d-2208-4b08-9c08-000000000008 በ 'family' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis [LOCATION], [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ [LOCATION], [LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2208-4b08-9c08-000000000008፣ ስልክ +251954834664) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ family ሥር ለ [PERSON] (+251954834664) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2208-4b08-9c08-000000000008 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ family ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: 202b5c3d-2208-4b08-9c08-000000000008
+*   **theme**: family
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

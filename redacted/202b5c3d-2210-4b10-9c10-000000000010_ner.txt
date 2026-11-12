@@ -1,0 +1,319 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)፤ [LOCATION], [LOCATION] ([PERSON]) የምኖር [DATE] Family Mediation Counselor (Bachelor of Laws፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የDawit [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) መገለጫ ስላላገኘሁ፣ አዲስ ለመፍጠር የሞባይል ስልክ ቁጥር ያስፈልገኛል። እባክህ የሞባይል ስልክ ቁጥርህን አስገባ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስም [PERSON]፣ ስልክ +251960170802፣ ኢሜይል [PERSON]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2210-4b10-9c10-000000000010
+*   **ስም**: [PERSON]   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+*   **ሀገር**: [LOCATION]   **ቋንቋ**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251960170802 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+የDawit [PERSON] መገለጫ አልተቀመጠም። ምንም መገለጫ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+እንደ Family Mediation Counselor (Bachelor of Laws፣ መታወቂያ 3920974306) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ family ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251960170802) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: [DATE] ዋና ተግባር
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 ወደ [DATE] ቀይርና የ [PERSON] (+251960170802) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እሺ፣ የጊዜ ለውጡን አስተካክዬአለሁ። እባክህ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) ሙሉ መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: [DATE] ዋና ተግባር
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION] ([PERSON]   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+በ family ሥር ለ [PERSON] (+251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com) [DATE] [LOCATION], [LOCATION] [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በBahir [LOCATION], [LOCATION] ([PERSON]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ '[LOCATION]' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።
+
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስልክ +251960170802) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: [DATE]   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+በ family ሥር ለ [PERSON] (+251960170802) [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ family ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?
+
+User:
+እኔ [PERSON] ነኝ (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)፤ [LOCATION], [LOCATION]) የምኖር [DATE] Family Mediation Counselor (Bachelor of Laws፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የDawit [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) መገለጫ ስላላገኘሁ፣ አዲስ ለመፍጠር የሞባይል ስልክ ቁጥር ያስፈልገኛል። እባክህ የሞባይል ስልክ ቁጥርህን አስገባ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስም [PERSON]፣ ስልክ +251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: 202b5c3d-2210-4b10-9c10-000000000010
+*   **ስም**: [PERSON]   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+*   **ሀገር**: [LOCATION]   **ቋንቋ**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251960170802 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+የDawit [PERSON] መገለጫ አልተቀመጠም። ምንም መገለጫ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+እንደ Family Mediation Counselor (Bachelor of Laws፣ መታወቂያ 3920974306) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ daily_planning ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Belay [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251960170802) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 ወደ [DATE] ቀይርና የ [PERSON] (+251960170802) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እሺ፣ የጊዜ ለውጡን አስተካክዬአለሁ። እባክህ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) ሙሉ መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: [DATE] ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION] (Belay [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+በ daily_planning ሥር ለ [PERSON] (+251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com) [DATE] ላይ [LOCATION], [LOCATION] ([PERSON]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION]   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 በ daily_planning ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በBahir [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION] [LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+በBahir [LOCATION]) አካባቢ '[ORGANIZATION] [LOCATION]' የሚለውን ቦታ ለመፈለግ እሞክራለሁ። ከዚህ በፊት ይህ መሳሪያ ችግር ነበረበት፣ ግን እንደገና እሞክረዋለሁ።
+
+Assistant:
+አሁንም [ORGANIZATION] በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ '[ORGANIZATION] [LOCATION]' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 11.5936 እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+በBahir [LOCATION]leke) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ለመፈለግ እንደገና እሞክራለሁ።
+
+Assistant:
+አሁንም [ORGANIZATION] በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።
+
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id 202b5c3d-2210-4b10-9c10-000000000010፣ ስልክ +251960170802) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: [DATE]   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። `record_user_activity` እና `save_user_profile` መሳሪያዎች ምንም አይነት መረጃ እያስቀመጡ ያሉ አይመስልም።
+
+ይህ ለምን እየሆነ እንደሆነ ለማጣራት፣ መረጃዎች የት እንደሚቀመጡ ማየት አለብኝ።
+
+መጀመሪያ፣ የፕሮፋይል እና የእንቅስቃሴ መረጃዎች የሚቀመጡባቸውን ፋይሎች ለማግኘት የፕሮጀክቱን አወቃቀር እመለከታለሁ።
+
+User:
+በ daily_planning ሥር ለ [PERSON] (+251960170802) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION] ([LOCATION]   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id 202b5c3d-2210-4b10-9c10-000000000010 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ daily_planning ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: 202b5c3d-2210-4b10-9c10-000000000010)**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION] ([PERSON] [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?

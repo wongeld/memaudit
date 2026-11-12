@@ -1,0 +1,35 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: 303c6d4e-3313-4c13-8d13-000000000013)፤ [LOCATION], [LOCATION] (Ayder) የምኖር [DATE] Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+`profile_id` 303c6d4e-3313-4c13-8d13-000000000013 ላለው ተጠቃሚ ምንም የተቀመጠ መገለጫ የለም። በአዲሱ መረጃ መሰረት አዲስ መገለጫ ላስቀምጥልዎ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id 303c6d4e-3313-4c13-8d13-000000000013፣ ስም [PERSON]፣ ስልክ +251940072829፣ ኢሜይል tigist.hailu+013@gmail.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: `303c6d4e-3313-4c13-8d13-000000000013`
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: `+251940072829`
+*   **email**: `tigist.hailu+013@gmail.com`
+*   **country**: [LOCATION]   **preferred_language**: `Amharic`
+
+ልቀጥል?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251940072829 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ ጥያቄው አልተሰራም። ከዚህ ቀደም የገባ የ"Canceled" መልእክት ሳይ ይቅርታ መጠየቅ እፈልጋለሁ። የተጠቃሚውን መገለጫ ማስቀመጥ አልቻልኩም. እንደገና ልሞክር?
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926587563) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251940072829) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ማስቀመጥ እችላለሁ።
+
+እባክህ [DATE] እንደሆነ ለመመዝገብ የተወሰነ ቀን (ለምሳሌ፡ [DATE]) ንገረኝ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id 303c6d4e-3313-4c13-8d13-000000000013 ወደ [DATE] ቀይርና የ [PERSON] (+251940072829) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
