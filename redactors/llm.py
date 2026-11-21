@@ -10,6 +10,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import sys
+import time
 from typing import Protocol
 
 from .base import LABELS, Redactor, Span, normalize
@@ -46,14 +48,72 @@ class LLMClient(Protocol):
 
     model: str
 
-    def complete(self, system: str, user: str) -> str: ...
+    def complete(self, system: str, user: str, json_reply: bool = True) -> str: ...
+
+
+class DailyQuotaReached(RuntimeError):
+    """The model's daily (free-tier) quota is used up. Run again after it resets."""
+
+
+# HTTP status codes worth retrying: rate limit and temporary server errors.
+RETRY_STATUS = {429, 500, 502, 503, 504}
+
+
+def _status(error: Exception):
+    return getattr(error, "code", None) or getattr(error, "status_code", None)
+
+
+def with_retries(call, attempts: int = 6, first_wait: float = 5.0):
+    """Run call(). On a rate limit or temporary server error, wait and try again.
+
+    Waits 5, 10, 20, 40 and 80 seconds between tries. A used-up daily quota stops at once,
+    because waiting minutes will not help. Other errors, such as a bad key or an unknown
+    model, are raised straight away.
+    """
+    for attempt in range(attempts):
+        try:
+            return call()
+        except Exception as error:
+            status = _status(error)
+            if status == 429 and ("PerDay" in str(error) or "per day" in str(error).lower()):
+                raise DailyQuotaReached(
+                    "The model's daily quota is used up. Everything finished so far is saved; "
+                    "run the same command again after the quota resets (for Gemini: midnight Pacific time)."
+                ) from None
+            temporary = status in RETRY_STATUS or "Timeout" in type(error).__name__ \
+                or "Connection" in type(error).__name__
+            if not temporary or attempt == attempts - 1:
+                raise
+            wait = first_wait * 2 ** attempt
+            print(f"  {type(error).__name__} ({status}); waiting {wait:.0f}s and retrying", file=sys.stderr)
+            time.sleep(wait)
+
+
+class Throttle:
+    """Keeps calls at least 60 / rpm seconds apart, to stay under a requests-per-minute limit."""
+
+    def __init__(self, rpm: float | None) -> None:
+        self.gap = 60.0 / rpm if rpm else 0.0
+        self.last = 0.0
+
+    def wait(self) -> None:
+        pause = self.last + self.gap - time.monotonic()
+        if pause > 0:
+            time.sleep(pause)
+        self.last = time.monotonic()
+
+
+def _rpm(prefix: str) -> float | None:
+    value = os.environ.get(f"{prefix}_RPM", "").strip()
+    return float(value) if value else None
 
 
 class GeminiClient:
-    """Google Gemini through the google-genai SDK.
+    """A model on the Gemini API (Gemini or Gemma) through the google-genai SDK.
 
-    The model ID and key come from GEMINI_MODEL and GEMINI_API_KEY in .env,
-    unless they are passed in directly.
+    Settings are read from .env using a prefix. With the default prefix GEMINI:
+        GEMINI_MODEL, GEMINI_API_KEY, GEMINI_RPM (optional requests-per-minute limit).
+    With prefix ATTACKER: ATTACKER_MODEL, ATTACKER_RPM, and ATTACKER_API_KEY or else GEMINI_API_KEY.
     """
 
     # The redactor needs a system prompt and a JSON-only reply. The v1beta API supports
@@ -61,52 +121,91 @@ class GeminiClient:
     API_VERSION = "v1beta"
 
     def __init__(self, model: str | None = None, api_key: str | None = None,
-                 temperature: float = 0.0) -> None:
+                 temperature: float = 0.0, prefix: str = "GEMINI") -> None:
         from google import genai
         from google.genai import types
 
-        self.model = setting("GEMINI_MODEL", model)
+        self.model = setting(f"{prefix}_MODEL", model)
         self.temperature = temperature
-        self._client = genai.Client(
-            api_key=setting("GEMINI_API_KEY", api_key),
-            http_options=types.HttpOptions(api_version=self.API_VERSION),
-        )
+        key = api_key or os.environ.get(f"{prefix}_API_KEY") or setting("GEMINI_API_KEY")
+        self._client = genai.Client(api_key=key, http_options=types.HttpOptions(api_version=self.API_VERSION))
+        self._throttle = Throttle(_rpm(prefix))
+        # Some models on this API (e.g. Gemma) refuse a separate system prompt or JSON mode.
+        # After the first refusal the instructions are sent inside the message instead.
+        self._plain = False
 
-    def complete(self, system: str, user: str) -> str:
+    def _send(self, system: str, user: str, json_reply: bool):
         from google.genai import types
 
-        config = types.GenerateContentConfig(
-            system_instruction=system,
-            temperature=self.temperature,
-            response_mime_type="application/json",
+        if self._plain:
+            config = types.GenerateContentConfig(temperature=self.temperature)
+            contents = f"{system}\n\n{user}"
+        else:
+            config = types.GenerateContentConfig(
+                system_instruction=system, temperature=self.temperature,
+                response_mime_type="application/json" if json_reply else None,
+            )
+            contents = user
+        self._throttle.wait()
+        return with_retries(
+            lambda: self._client.models.generate_content(model=self.model, contents=contents, config=config)
         )
-        response = self._client.models.generate_content(model=self.model, contents=user, config=config)
+
+    def complete(self, system: str, user: str, json_reply: bool = True) -> str:
+        try:
+            response = self._send(system, user, json_reply)
+        except Exception as error:
+            if self._plain or _status(error) != 400 or "not enabled" not in str(error):
+                raise
+            self._plain = True
+            response = self._send(system, user, json_reply)
         return response.text or ""
 
 
 class OpenAICompatibleClient:
-    """Any OpenAI-compatible server: vLLM, Ollama, or a hosted open-weight model.
+    """Any OpenAI-compatible API: Mistral, OpenRouter, Groq, vLLM, Ollama, ...
 
-    The model name and server come from OPEN_WEIGHT_MODEL and OPEN_WEIGHT_BASE_URL
-    in .env, unless they are passed in directly. Local servers usually need no key.
+    Settings are read from .env using a prefix. With the default prefix OPEN_WEIGHT:
+        OPEN_WEIGHT_MODEL, OPEN_WEIGHT_BASE_URL, OPEN_WEIGHT_API_KEY, OPEN_WEIGHT_RPM.
+    Local servers usually need no key.
     """
 
     def __init__(self, model: str | None = None, base_url: str | None = None,
-                 api_key: str | None = None, temperature: float = 0.0) -> None:
+                 api_key: str | None = None, temperature: float = 0.0, prefix: str = "OPEN_WEIGHT") -> None:
         from openai import OpenAI
 
-        self.model = setting("OPEN_WEIGHT_MODEL", model)
+        self.model = setting(f"{prefix}_MODEL", model)
         self.temperature = temperature
-        key = api_key or os.environ.get("OPEN_WEIGHT_API_KEY") or "none"
-        self._client = OpenAI(base_url=setting("OPEN_WEIGHT_BASE_URL", base_url), api_key=key)
+        key = api_key or os.environ.get(f"{prefix}_API_KEY") or "none"
+        self._client = OpenAI(base_url=setting(f"{prefix}_BASE_URL", base_url), api_key=key, max_retries=0)
+        self._throttle = Throttle(_rpm(prefix))
 
-    def complete(self, system: str, user: str) -> str:
-        response = self._client.chat.completions.create(
-            model=self.model,
-            temperature=self.temperature,
-            messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
+    def complete(self, system: str, user: str, json_reply: bool = True) -> str:
+        messages = [{"role": "system", "content": system}, {"role": "user", "content": user}]
+        self._throttle.wait()
+        response = with_retries(
+            lambda: self._client.chat.completions.create(
+                model=self.model, temperature=self.temperature, messages=messages
+            )
         )
         return response.choices[0].message.content or ""
+
+
+def client_for(role: str) -> LLMClient:
+    """The model for a role (SUMMARIZER or ATTACKER), chosen in .env:
+
+        <ROLE>_PROVIDER   gemini (default; uses GEMINI_API_KEY) or openai (any OpenAI-compatible API)
+        <ROLE>_MODEL      model ID
+        <ROLE>_BASE_URL   API address, for provider openai
+        <ROLE>_API_KEY    key, if different from GEMINI_API_KEY or needed by the provider
+        <ROLE>_RPM        optional requests-per-minute limit
+    """
+    provider = os.environ.get(f"{role}_PROVIDER", "gemini").strip().lower()
+    if provider == "gemini":
+        return GeminiClient(prefix=role)
+    if provider == "openai":
+        return OpenAICompatibleClient(prefix=role)
+    raise RuntimeError(f"{role}_PROVIDER must be gemini or openai, not {provider!r}")
 
 
 class LLMOutputError(RuntimeError):

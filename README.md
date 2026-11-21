@@ -2,178 +2,141 @@
 
 **Evaluating Privacy Preservation in Multilingual Assistant Memory via Post-Redaction Inference Audits**
 
-
-This repository holds the code for the study. It contains the **redactors** that mask
-personal information in English, Swahili and Amharic text before it is saved as assistant
-memory, plus scripts for running them on example texts and synthetic session transcripts.
+Synthetic users talk to an assistant in English, Swahili or Amharic. Each session is redacted,
+turned into a memory note, and an attacker model then tries to recover the user's attributes
+and pick the user out of all 40 profiles after reading 1, 3, 5 or 10 notes.
 
 ## Quick start
 
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
-
-# Run the example texts
-python demo.py
+cp .env.example .env        # then fill in the API key and model IDs
 ```
 
-The first run downloads the NER models (about 2.6 GB) to `~/.cache/huggingface`.
-
-To redact the saved synthetic sessions in `sessions/`, configure `GEMINI_API_KEY` and
-`GEMINI_MODEL` in `.env`, then run `main.py` from this directory:
+Then run the four steps in order, from this folder:
 
 ```bash
-python main.py
+python step1_redact.py      # sessions/  -> redacted/
+python step2_memory.py      # redacted/  -> memory/
+python step3_attack.py      # memory/    -> results/attacks/
+python step4_evaluate.py    # everything -> results/paper_tables.md, results/report.md
 ```
 
-`main.py` writes four UTF-8 `.txt` files per session to `redacted/`, using this naming
-pattern:
+Every step can be stopped and run again: it skips what is already done. Steps 2 and 3 have
+`--dry-run` (show the plan and one prompt, no API calls) and `--limit 3` (a pilot on the first
+3 profiles of each language). Try those first.
 
-```text
-<session-id>_none.txt       # baseline; no masking
-<session-id>_ner.txt        # NER only
-<session-id>_presidio.txt   # Presidio patterns plus NER
-<session-id>_gemini.txt     # Gemini LLM redactor
-```
+## What each step does
 
-Only complete user and assistant text messages are retained. Event metadata, assistant
-thinking, signatures and tool events are omitted. The session language is detected
-automatically (`am` when Amharic script is present, otherwise `sw` for these synthetic
-sessions). Use the options below when needed:
+| Step | Reads | Writes | Model |
+|---|---|---|---|
+| 1. Redact | `sessions/*.jsonl`, `profiles/profiles.csv` | `redacted/<profile>_s01_<redactor>.txt` and `.spans.json` | Gemini, for the LLM redactor only |
+| 2. Memory notes | `redacted/` | `memory/<profile>_s01_<redactor>.txt` | Summarizer |
+| 3. Attacks | `memory/`, `profiles/profiles.csv` | `results/attacks/attributes.jsonl`, `identify.jsonl` | Attacker |
+| 4. Evaluate | all of the above | `results/paper_tables.md`, `report.md`, `tables/*.csv`, `figures/*.png` | none |
 
-```bash
-python main.py --sessions path\to\sessions --output-dir path\to\redacted
-python main.py --lang sw
-python main.py --lang am
-```
+**Step 1** cuts each profile's history into sessions, replaces every `profile_id` with
+`[PROFILE_ID]` (it is a generator key, not something a user would say), and runs each redactor:
 
-The NER and Presidio runs download/load the pinned Hugging Face models. The Gemini run
-requires a working API key and model setting; API errors stop the run and should be retried
-later.
-
-## Running the demo
-
-```bash
-# All example texts
-python demo.py
-
-# Amharic examples only
-python demo.py --lang am
-
-# Your own text
-python demo.py --lang sw --text "Habari, mimi ni Amina kutoka Kisumu."
-
-# Also list every masked span
-python demo.py --spans
-
-# Add the LLM redactors (needs .env, see below)
-python demo.py --gemini
-python demo.py --open
-
-# Your own file, results saved
-python demo.py --file my_texts.jsonl --save results.jsonl
-```
-
-For each text you get a table with each redactor's output, how many masks it made, which expected
-identifiers it caught or missed, and the time taken. A summary table at the end gives totals per
-redactor and language.
-
-`--file` takes one `{"lang": "...", "text": "..."}` per line. Add an `"expected"` list (see
-`examples/samples.jsonl`) to get the caught/missed column.
-
-## The redactors
-
-| ID | Name | What it does |
+| Name | Paper name | What it does |
 |---|---|---|
-| C0 | `none` | Masks nothing. The baseline. |
-| C1 | `presidio` | Presidio's pattern rules (email, phone, date) plus the NER model below. |
-| C2 | `ner` | NER model only. MasakhaNER for Swahili and Amharic, a CoNLL-03 model for English. |
-| C3 | `gemini` | Gemini lists the exact text to mask; we mask it. |
-| C4 | `open` | Same prompt as C3, with an open-weight model on any OpenAI-compatible server. |
+| `none` | No redaction | Baseline. |
+| `presidio` | Presidio based redactor | Presidio pattern rules (email, phone, date) plus the NER model. |
+| `ner` | NER / MasakhaNER based redactor | NER model only: MasakhaNER for Swahili and Amharic, `dslim/bert-base-NER` for English. |
+| `gemini` | LLM Data Anonymization | Gemini lists the exact text to mask; we mask it. |
+| `open` | (optional) | Same prompt as `gemini`, on an open-weight model. |
 
-Using them from your own script in this folder:
+The language of each profile comes from its country in `profiles.csv` (Kenya and Tanzania:
+Swahili; Ethiopia: Amharic; United States: English). Step 1 warns if a session's text does not
+look like that language.
 
-```python
-from redactors import PresidioRedactor
+**Step 2** writes one memory note per session from the redacted text only.
 
-result = PresidioRedactor().redact("Mimi ni Amina Wanjiru, nipigie 0712 345 678.", "sw")
-print(result.redacted)
-print(result.spans)
-```
+**Step 3** runs two attacks for every profile, redactor and memory length k, each as a separate
+API call with no shared history:
 
-```
-Mimi ni [PERSON], nipigie [PHONE].
-[Span(start=8, end=21, label='PERSON', text='Amina Wanjiru', ...), Span(start=31, end=43, label='PHONE', ...)]
-```
+- *Attribute recovery*: from the first k notes, pick one option or "unknown" for each of age
+  group, location (city), occupation, education, family status and health condition.
+- *Profile identification*: from the same notes, pick the right person from a shuffled,
+  numbered list of all 40 profiles (chance = 2.5%). Profile IDs are never shown.
 
-### Models
+**Step 4** fills in the three paper tables and writes a fuller report with 95% confidence
+intervals (profile-level bootstrap), the change from 1 to k sessions, each redactor compared with
+no redaction, what guessing would score, and figures.
 
-| Language | NER model (C1 and C2) | Pinned revision |
-|---|---|---|
-| English | [`dslim/bert-base-NER`](https://huggingface.co/dslim/bert-base-NER) | `d1a3e8f` |
-| Swahili, Amharic | [`masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0`](https://huggingface.co/masakhane/afroxlmr-large-ner-masakhaner-1.0_2.0) | `d15d8ba` |
+## Running only what the paper tables need
 
-C1 and C2 use the same NER model, so the difference between them is only Presidio's pattern rules.
-
-### Labels
-
-`PERSON`, `LOCATION`, `ORGANIZATION`, `DATE`, `PHONE`, `EMAIL`, `ID_NUMBER`, `ADDRESS`.
-Occupation, age, education, family and health are left in on purpose: those are what the
-attacker will try to infer later.
-
-Known gaps, which are part of what we measure:
-
-- NER alone cannot find phone numbers, emails, ID numbers or addresses.
-- The English NER model has no DATE label, and Presidio's date rules only catch numeric dates
-  such as `14/03/2027`, so "14 March 2027" is missed in English.
-- Neither Presidio nor the NER models find `ID_NUMBER` or `ADDRESS` for Kenya or Ethiopia.
-
-## Settings for the LLM redactors (.env)
-
-Copy `.env.example` to `.env` and fill it in. `demo.py` reads it automatically.
-
-| Setting | What it is |
-|---|---|
-| `GEMINI_API_KEY` | Key from [Google AI Studio](https://aistudio.google.com) |
-| `GEMINI_MODEL` | Gemini model ID, e.g. `gemini-2.5-flash` |
-| `OPEN_WEIGHT_BASE_URL` | OpenAI-compatible server, e.g. `http://localhost:11434/v1` for Ollama |
-| `OPEN_WEIGHT_MODEL` | Model name on that server |
-| `OPEN_WEIGHT_API_KEY` | Only for hosted servers; leave empty for local ones |
-
-A model given on the command line (`--gemini gemini-2.5-pro`) overrides `.env`.
-Keep `GEMINI_MODEL` the same for everyone running the experiment. `.env` is never committed.
-
-## Tests
+Table 1 needs step 1 only. Tables 2 and 3 need memory notes and attacks for `none` and
+`presidio`, which halves steps 2 and 3:
 
 ```bash
-# A few seconds; fake models, no downloads or API keys
-pytest
-
-# Also runs the real NER models
-RUN_MODEL_TESTS=1 pytest
+python step2_memory.py --redactors none,presidio
+python step3_attack.py --redactors none,presidio
 ```
+
+## Free models
+
+The three model roles are set in `.env`. One Gemini API key from
+[Google AI Studio](https://aistudio.google.com) can serve all of them. Free daily quotas are
+per model and per project, and AI Studio shows yours. In October 2026 a third-party check
+reported about 20 requests a day for the Flash models, about 500 for the Flash-Lite models,
+and over 14,000 for Gemma models, so:
+
+- **Redactor** (`GEMINI_MODEL`): a Flash-Lite model.
+- **Summarizer** (`SUMMARIZER_MODEL`): a Gemma model; it makes the most calls.
+- **Attacker** (`ATTACKER_MODEL`): a different Flash-Lite model from the redactor, so the
+  attacker is independent and has its own quota. Mistral's free API is another option
+  (`ATTACKER_PROVIDER=openai`, see `.env.example`).
+
+`<ROLE>_RPM` keeps calls under the per-minute limit. If a daily quota runs out, the step stops
+with a message; run the same command the next day and it continues. On the free tier Google may
+use prompts to improve its products, which is acceptable here only because all data is synthetic.
+
+## Settings
+
+Everything about the experiment is in `config.py`: folders, how sessions are cut, memory lengths,
+redactors, the language for each country, the candidate pool and what a candidate card shows.
+
+**How sessions are cut** (`SESSION_SIZE`). Each file in `sessions/` is one profile's whole history.
+
+- `SESSION_SIZE = 5` (default): every 5 user messages is one session, as in the methodology
+  (10 sessions of 5 turns = 50 turns). A profile with 45 user messages has 9 sessions.
+- `SESSION_SIZE = None`: a session starts where the user introduces themselves with
+  `profile_id: ...`. In the current data that happens every 15 user messages, once per scenario
+  in `domain_metadata_active_scenarios`, so profiles have 2 or 3 sessions.
+
+The 10-session column needs profiles with at least 50 user messages (with `SESSION_SIZE = 5`).
+Memory lengths a profile does not have are skipped and shown as n/a. If you change
+`SESSION_SIZE`, rerun every step with `--force` for step 1 and empty `memory/` and `results/`.
+
+## How redaction is scored (Table 1)
+
+Precision, recall and F1 are computed on spans, against reference spans found automatically:
+the profile's name, phone, email, national ID, city, country and neighbourhood, plus places the
+user asked to search for and coordinates the user gave. In this synthetic data every identifier
+comes from one of those, and names and places are written in Latin script in all three languages.
+The reference spans are not hand-annotated, which the methodology describes; say so in the paper,
+or check a sample by hand.
+
+A reference span counts as found only if all its letters and digits are masked. A mask counts
+as correct if it overlaps a reference span. Masks on other things (for example a shop name the
+assistant mentioned) count as incorrect, so precision is conservative.
 
 ## Files
 
 ```
-demo.py                   run redactors on examples/samples.jsonl
-main.py                   redact every JSONL file in sessions/
-sessions/                 synthetic JSONL session transcripts
-redacted/                 generated TXT outputs (not source data)
-redactors/
-    base.py               Span, RedactionResult, shared masking, the no-redaction baseline
-    ner.py                NER-only redactor and the NER model loader shared with Presidio
-    presidio_redactor.py  Presidio redactor
-    llm.py                LLM redactor, Gemini client, OpenAI-compatible client, the prompt
-    env.py                reads settings from .env
-examples/samples.jsonl    example texts with the identifiers each should lose
-tests/                    tests, when present
-requirements.txt          what to pip install
+config.py                experiment settings
+step1_redact.py ... step4_evaluate.py
+demo.py                  try the redactors on examples/samples.jsonl
+pipeline/
+    profiles.py          read profiles/profiles.csv; look-alike profiles
+    sessions.py          read session files, cut them into sessions, detect language
+    reference.py         reference spans for scoring the redactors
+    memory.py            summarizer prompt; memory sets of 1, 3, 5, 10 notes
+    attacks.py           the two attacks and their prompts
+    metrics.py           span precision/recall/F1, accuracy, bootstrap intervals
+redactors/               the redaction methods
+sessions/  profiles/     input data
+redacted/  memory/  results/   outputs of steps 1 to 4
 ```
-
-The Swahili and Amharic example texts should be checked by a fluent speaker before they are used
-for anything beyond testing.
-
-## Licence
-
-MIT. See `LICENSE`.

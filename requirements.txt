@@ -4,4 +4,5 @@ torch>=2.2
 presidio-analyzer>=2.2.355
 google-genai>=1.0
 openai>=1.40
-pytest>=8
+numpy>=1.26
+matplotlib>=3.8
