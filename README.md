@@ -137,3 +137,43 @@ redactors/               the redaction methods
 sessions/  profiles/     input data
 redacted/  memory/  results/   outputs of steps 1 to 4
 ```
+
+---
+
+## Synthetic Data Generator
+
+This section covers the profile and conversation generator in
+[`synthetic-data-generator/`](synthetic-data-generator/), not the four-step privacy-audit
+pipeline described above.
+
+| | Root privacy-audit pipeline | Synthetic data generator |
+|---|---|---|
+| Code and tests | Repository root | `synthetic-data-generator/` |
+| Purpose | Redact, summarize, attack, and evaluate sessions | Create profiles and generate conversation sessions |
+
+The two projects share the root `.venv` and [`uv.lock`](uv.lock). **Run setup from the
+repository root**; there is no separate lockfile or environment for the generator:
+
+```powershell
+uv sync
+```
+
+Both projects require Python 3.15 or newer for this shared environment, plus
+[uv](https://docs.astral.sh/uv/getting-started/installation/). The generator's conversation
+runner additionally needs Node.js/npm, the Pi CLI, and a Gemini API key.
+
+**Run a generator command from the repository root** (this example runs one user's school
+questions):
+
+```powershell
+uv run --directory synthetic-data-generator python src\main.py --uuid 101a4b2c-1101-4a01-8b01-000000000001 --category school
+```
+
+**Run only the generator's tests from the repository root:**
+
+```powershell
+uv run --directory synthetic-data-generator python -m unittest discover -s tests
+```
+
+For Pi installation, API-key setup, profile generation, session options, and the full
+generator workflow, see the [synthetic data generator README](synthetic-data-generator/README.md).

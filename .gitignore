@@ -8,3 +8,9 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+build/
+dist/
+wheels/
+*.egg-info/
+synthetic-data-generator/data/user_profiles.json
+synthetic-data-generator/data/user_activities.json
