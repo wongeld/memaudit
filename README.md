@@ -10,8 +10,7 @@ and pick the user out of all 40 profiles after reading 1, 3, 5 or 10 notes.
 
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cpu
-pip install -r requirements.txt
-cp .env.example .env        # then fill in the API key and model IDs
+pip install -r requirements.txt # then fill in the API key and model IDs
 ```
 
 Then run the four steps in order, from this folder:
@@ -100,13 +99,11 @@ redactors, the language for each country, the candidate pool and what a candidat
 
 **How sessions are cut** (`SESSION_SIZE`). Each file in `sessions/` is one profile's whole history.
 
-- `SESSION_SIZE = 5` (default): every 5 user messages is one session, as in the methodology
-  (10 sessions of 5 turns = 50 turns). A profile with 45 user messages has 9 sessions.
+- `SESSION_SIZE = 5` (default): every 5 user messages is one session(10 sessions of 5 turns = 50 turns).
+- A profile with 45 user messages has 9 sessions.
 - `SESSION_SIZE = None`: a session starts where the user introduces themselves with
-  `profile_id: ...`. In the current data that happens every 15 user messages, once per scenario
-  in `domain_metadata_active_scenarios`, so profiles have 2 or 3 sessions.
+  `profile_id: ...`.
 
-The 10-session column needs profiles with at least 50 user messages (with `SESSION_SIZE = 5`).
 Memory lengths a profile does not have are skipped and shown as n/a. If you change
 `SESSION_SIZE`, rerun every step with `--force` for step 1 and empty `memory/` and `results/`.
 
