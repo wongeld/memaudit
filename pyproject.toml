@@ -35,3 +35,9 @@ target-version = "py310"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]
+
+[tool.uv]
+package = false
+
+[tool.uv.workspace]
+members = ["synthetic-data-generator"]
