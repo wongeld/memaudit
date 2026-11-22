@@ -17,6 +17,7 @@ import json
 import math
 from collections import Counter, defaultdict
 from datetime import datetime
+from pathlib import Path
 
 from rich.console import Console
 from rich.table import Table
@@ -35,6 +36,7 @@ from pipeline.metrics import (
 from pipeline.profiles import ATTRIBUTE_NAMES, ATTRIBUTES, load_profiles, lookalikes
 from pipeline.reference import KINDS, reference_spans
 from pipeline.sessions import PROFILE_ID_MASK, load_sessions
+from redactors.usage import USAGE_FILE, summarize_usage
 
 console = Console()
 LANGS = ("en", "sw", "am")
@@ -97,6 +99,34 @@ def show(title: str, headers: list[str], rows: list[list]) -> None:
     for row in rows:
         table.add_row(*[str(c) for c in row])
     console.print(table)
+
+
+def usage_cost_table(path: Path = USAGE_FILE) -> tuple[list[list[str]], str]:
+    summaries = summarize_usage(path)
+    rows = []
+    for summary in summaries:
+        cost = "not priced / usage unavailable" if summary.cost_usd is None else (
+            "$0.00" if summary.cost_usd == 0 else f"${summary.cost_usd:.4f}"
+        )
+        rows.append([
+            summary.stage,
+            summary.provider,
+            summary.model,
+            str(summary.calls),
+            "unavailable" if summary.input_tokens is None else f"{summary.input_tokens:,}",
+            "unavailable" if summary.output_tokens is None else f"{summary.output_tokens:,}",
+            cost,
+        ])
+
+    known_cost = sum(summary.cost_usd or 0 for summary in summaries)
+    unpriced_calls = sum(
+        summary.calls for summary in summaries
+        if summary.calls and summary.cost_usd is None
+    )
+    total = f"${known_cost:.4f}" if unpriced_calls == 0 else (
+        f"${known_cost:.4f} known; {unpriced_calls} calls unpriced"
+    )
+    return rows, total
 
 
 def write_csv(name: str, rows: list[dict]) -> None:
@@ -207,6 +237,7 @@ def main() -> None:
     profiles = load_profiles()
     all_sessions = load_sessions()
     attr_records, id_records = read_jsonl("attributes"), read_jsonl("identify")
+    usage_rows, usage_total = usage_cost_table()
     report: list[str] = []
     paper: list[str] = []
 
@@ -425,6 +456,28 @@ def main() -> None:
                                  for r in sorted(effect, key=lambda r: (LANGS.index(r["lang"]), r["k"],
                                                                         rank(r["to"])))]), ""]
 
+    usage_headers = [
+        "Pipeline step", "Provider", "Model", "API calls", "Input tokens", "Output tokens",
+        "Estimated cost (USD)",
+    ]
+    report += [
+        "## LLM usage and estimated cost",
+        "",
+        "Costs use the published Gemini Standard paid-tier rates for supported models at the time "
+        "of each request. Unknown provider/model rates or missing provider usage metadata are shown "
+        "as unpriced, not $0. Step 4 evaluation itself makes no LLM calls and is shown as $0.00.",
+        "",
+        "Only calls recorded in `results/llm_usage.jsonl` are included. API calls made before usage "
+        "tracking was added cannot be reconstructed from saved answers; consult the provider's usage "
+        "dashboard for historical charges. See the [Gemini API pricing page]"
+        "(https://ai.google.dev/gemini-api/docs/pricing) for current rates.",
+        "",
+        md_table(usage_headers, usage_rows),
+        "",
+        f"**Total known estimated cost: {usage_total}.**",
+        "",
+    ]
+
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "paper_tables.md").write_text("\n".join(paper), encoding="utf-8")
     (OUT / "report.md").write_text("\n".join(report), encoding="utf-8")
@@ -432,6 +485,8 @@ def main() -> None:
     show("Table 1. Span-level redaction outcomes", t1_headers, t1_rows)
     show("Table 2. Attribute recovery accuracy", ["Language", "Approach"] + k_header(), t2)
     show("Table 3. Profile re-identification accuracy", ["Language", "Approach"] + k_header(), t3)
+    show("LLM usage and estimated cost", usage_headers, usage_rows)
+    console.print(f"Total known estimated LLM cost: {usage_total}")
     if ident:
         console.print(chance_text)
     if stand_in:

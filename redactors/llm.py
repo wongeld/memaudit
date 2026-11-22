@@ -16,6 +16,7 @@ from typing import Protocol
 
 from .base import LABELS, Redactor, Span, normalize
 from .env import setting
+from .usage import record_gemini_usage, record_openai_usage
 
 SYSTEM_PROMPT = """You find personal information in text so it can be masked.
 The text may be in English, Swahili or Amharic.
@@ -121,12 +122,14 @@ class GeminiClient:
     API_VERSION = "v1beta"
 
     def __init__(self, model: str | None = None, api_key: str | None = None,
-                 temperature: float = 0.0, prefix: str = "GEMINI") -> None:
+                 temperature: float = 0.0, prefix: str = "GEMINI",
+                 usage_stage: str = "Other/standalone") -> None:
         from google import genai
         from google.genai import types
 
         self.model = setting(f"{prefix}_MODEL", model)
         self.temperature = temperature
+        self.usage_stage = usage_stage
         key = api_key or os.environ.get(f"{prefix}_API_KEY") or setting("GEMINI_API_KEY")
         self._client = genai.Client(api_key=key, http_options=types.HttpOptions(api_version=self.API_VERSION))
         self._throttle = Throttle(_rpm(prefix))
@@ -159,6 +162,7 @@ class GeminiClient:
                 raise
             self._plain = True
             response = self._send(system, user, json_reply)
+        record_gemini_usage(self.usage_stage, self.model, response)
         return response.text or ""
 
 
@@ -171,11 +175,13 @@ class OpenAICompatibleClient:
     """
 
     def __init__(self, model: str | None = None, base_url: str | None = None,
-                 api_key: str | None = None, temperature: float = 0.0, prefix: str = "OPEN_WEIGHT") -> None:
+                 api_key: str | None = None, temperature: float = 0.0, prefix: str = "OPEN_WEIGHT",
+                 usage_stage: str = "Other/standalone") -> None:
         from openai import OpenAI
 
         self.model = setting(f"{prefix}_MODEL", model)
         self.temperature = temperature
+        self.usage_stage = usage_stage
         key = api_key or os.environ.get(f"{prefix}_API_KEY") or "none"
         self._client = OpenAI(base_url=setting(f"{prefix}_BASE_URL", base_url), api_key=key, max_retries=0)
         self._throttle = Throttle(_rpm(prefix))
@@ -188,10 +194,11 @@ class OpenAICompatibleClient:
                 model=self.model, temperature=self.temperature, messages=messages
             )
         )
+        record_openai_usage(self.usage_stage, self.model, response)
         return response.choices[0].message.content or ""
 
 
-def client_for(role: str) -> LLMClient:
+def client_for(role: str, *, usage_stage: str | None = None) -> LLMClient:
     """The model for a role (SUMMARIZER or ATTACKER), chosen in .env:
 
         <ROLE>_PROVIDER   gemini (default; uses GEMINI_API_KEY) or openai (any OpenAI-compatible API)
@@ -201,10 +208,14 @@ def client_for(role: str) -> LLMClient:
         <ROLE>_RPM        optional requests-per-minute limit
     """
     provider = os.environ.get(f"{role}_PROVIDER", "gemini").strip().lower()
+    stage = usage_stage or {
+        "SUMMARIZER": "Step 2 summarization",
+        "ATTACKER": "Step 3 attacks",
+    }.get(role, "Other/standalone")
     if provider == "gemini":
-        return GeminiClient(prefix=role)
+        return GeminiClient(prefix=role, usage_stage=stage)
     if provider == "openai":
-        return OpenAICompatibleClient(prefix=role)
+        return OpenAICompatibleClient(prefix=role, usage_stage=stage)
     raise RuntimeError(f"{role}_PROVIDER must be gemini or openai, not {provider!r}")
 
 
