@@ -1,0 +1,224 @@
+[
+{
+"start": 14,
+"end": 30,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 45,
+"end": 55,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 174,
+"end": 187,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 189,
+"end": 197,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 199,
+"end": 208,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 362,
+"end": 372,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 514,
+"end": 524,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 527,
+"end": 543,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 550,
+"end": 563,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 576,
+"end": 606,
+"label": "EMAIL",
+"text": "baraka.mwakasege+004@yahoo.com"
+},
+{
+"start": 613,
+"end": 621,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 795,
+"end": 805,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 861,
+"end": 874,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 882,
+"end": 912,
+"label": "EMAIL",
+"text": "baraka.mwakasege+004@yahoo.com"
+},
+{
+"start": 922,
+"end": 930,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1035,
+"end": 1051,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 1060,
+"end": 1073,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1318,
+"end": 1328,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1384,
+"end": 1397,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1405,
+"end": 1435,
+"label": "EMAIL",
+"text": "baraka.mwakasege+004@yahoo.com"
+},
+{
+"start": 1445,
+"end": 1453,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1579,
+"end": 1592,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1594,
+"end": 1602,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1604,
+"end": 1613,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1629,
+"end": 1639,
+"label": "ID_NUMBER",
+"text": "9750779397"
+},
+{
+"start": 1788,
+"end": 1804,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 1806,
+"end": 1819,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1888,
+"end": 1904,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2005,
+"end": 2015,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2194,
+"end": 2210,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2236,
+"end": 2249,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 2392,
+"end": 2402,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2431,
+"end": 2447,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2449,
+"end": 2462,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 2705,
+"end": 2715,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2894,
+"end": 2910,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2936,
+"end": 2949,
+"label": "PHONE",
+"text": "+255721105750"
+}
+]

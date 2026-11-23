@@ -1,0 +1,4 @@
+* የመገለጫ መታወቂያው (profile_id) [PROFILE_ID] ነው።
+* ከShimelis Tilahun (ስልክ፦ +251954834664፣ ኢሜይል፦ shimelis.tilahun+008@gmail.com) ጋር የስራ የምክክር ቀጠሮ አለው (ወደ ሌላ ቀን የተላለፈ)።
+* በAddis Ababa, Ethiopia (Kirkos) አካባቢ (በተለይም latitude 9.0054 እና longitude 38.7578) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ በሚደረግበት ወቅት የግል መረጃው እንዳይላክ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣል።

@@ -1,0 +1,32 @@
+User:
+Mimi [PERSON] (Bachelor of Laws, Married with two children), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi [DATE] huko [LOCATION], [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Nimekuelewa. Unataka kurekodi kazi (task) kwenye mada ya 'daily_planning' kwa [PERSON] ni maelezo ya kazi ninayotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Kazi (task)
+*   **Mada:** Daily Planning
+*   **Kichwa:** kupanga majukumu ya siku na kufanya mazoezi mepesi
+*   **Muda:** [DATE]   **Eneo:** [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+Assistant:
+Nimekuelewa, kazi hiyo imegairiwa na haitahifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'daily_planning' kwa profile_id [PROFILE_ID]. Hii inaweza kuwa kwa sababu shughuli zote ulizojaribu kurekodi hapo awali ziligairiwa au hazikuhifadhiwa kwa sababu ya tatizo la kiufundi.
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imeshindikana kutafuta '[ORGANIZATION] [LOCATION]' kwa sasa. Kulitokea hitilafu wakati wa kutekeleza utafutaji wa eneo. Tafadhali jaribu tena baadaye.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko [LOCATION], [LOCATION] (Area [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION], imeshindikana kutambua anwani ya eneo hilo kwa sasa. Kulitokea hitilafu wakati wa kutekeleza utafutaji wa anwani. Tafadhali jaribu tena baadaye.

@@ -1,0 +1,8 @@
+* Name: Julian Brooks
+* Age: 34
+* Occupation: Regional Logistics Coordinator
+* Education: Bachelor of Commerce
+* Family: Married with two children
+* Location: [LOCATION], [LOCATION] ([LOCATION])
+* Profile ID: [[ID_NUMBER]]
+* Preferred Language: English

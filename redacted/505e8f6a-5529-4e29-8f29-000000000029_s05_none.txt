@@ -1,0 +1,40 @@
+User:
+I'm Arthur Pendleton (mock ID 9324530935), and I'd like to record a family task via record_user_activity to review our household budget and family calendar in Newark, United States (Ironbound) on Sunday at 05:00 PM.
+
+Assistant:
+I'm going to save a new family task with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Family
+**Activity Type**: Task
+**Title**: Review household budget and family calendar
+**Date/Time**: Sunday at 05:00 PM
+**Location**: Newark, United States (Ironbound)
+**Contact Name**: Arthur Pendleton
+**Mobile Phone**: +19832584476
+
+Is this correct?
+
+User:
+Actually, cancel that Sunday 05:00 PM family task—we'll handle the household budget next week, so do not save anything.
+
+Assistant:
+Understood. The family task to "Review household budget and family calendar" for Sunday at 05:00 PM was not saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] in the family theme so I can see everything we have planned.
+
+Assistant:
+It appears there are no activities saved under the "family" theme for your profile. This is likely because the previous attempts to save activities were cancelled.
+
+User:
+We're planning a family outing in Newark, United States (Ironbound); please use search_places to find 'Riverbank Park Ironbound Newark' without sending any personal details, and include the OpenStreetMap attribution.
+
+Assistant:
+I encountered an error when trying to search for 'Riverbank Park Ironbound Newark' using OpenStreetMap. It seems there was an issue executing the `search_places` tool, similar to the previous attempt.
+
+User:
+Please call reverse_geocode for coordinates latitude 40.7347 and longitude -74.1642 in Newark, United States (Ironbound) so I can verify the address for our family gathering, with OpenStreetMap attribution.
+
+Assistant:
+I encountered another error when trying to reverse geocode the coordinates 40.7347, -74.1642 using OpenStreetMap. It appears there's a persistent issue executing the `reverse_geocode` tool, similar to the previous attempts. It seems the OpenStreetMap tools are currently not functioning as expected.

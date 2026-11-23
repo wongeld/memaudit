@@ -1,0 +1,110 @@
+[
+{
+"start": 18,
+"end": 33,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 35,
+"end": 48,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 55,
+"end": 84,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 104,
+"end": 121,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 123,
+"end": 128,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 341,
+"end": 356,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 370,
+"end": 383,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 398,
+"end": 427,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 440,
+"end": 457,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 459,
+"end": 464,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 657,
+"end": 667,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 785,
+"end": 795,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 815,
+"end": 832,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 834,
+"end": 839,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 897,
+"end": 945,
+"label": "ORGANIZATION",
+"text": "Ayder Comprehensive Specialized Hospital Mekelle"
+},
+{
+"start": 1054,
+"end": 1112,
+"label": "ORGANIZATION",
+"text": "Ayder Comprehensive Specialized Hospital Mekelle, Ethiopia"
+},
+{
+"start": 1349,
+"end": 1366,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1368,
+"end": 1373,
+"label": "LOCATION",
+"text": "Ayder"
+}
+]

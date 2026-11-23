@@ -1,0 +1,86 @@
+[
+{
+"start": 18,
+"end": 29,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 31,
+"end": 44,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 51,
+"end": 78,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 98,
+"end": 119,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 121,
+"end": 130,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 408,
+"end": 429,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 431,
+"end": 440,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 464,
+"end": 477,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 499,
+"end": 526,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 1028,
+"end": 1049,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1051,
+"end": 1060,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 1118,
+"end": 1141,
+"label": "LOCATION",
+"text": "Entoto Park Addis Ababa"
+},
+{
+"start": 1527,
+"end": 1548,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1550,
+"end": 1559,
+"label": "LOCATION",
+"text": "Kazanchis"
+}
+]

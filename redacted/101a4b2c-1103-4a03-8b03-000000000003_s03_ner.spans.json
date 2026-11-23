@@ -1,0 +1,182 @@
+[
+{
+"start": 59,
+"end": 73,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 170,
+"end": 195,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 238,
+"end": 244,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 396,
+"end": 404,
+"label": "DATE",
+"text": "Jumatano"
+},
+{
+"start": 715,
+"end": 723,
+"label": "DATE",
+"text": "Jumatano"
+},
+{
+"start": 725,
+"end": 743,
+"label": "DATE",
+"text": "saa 4:00 asubuhi\n*"
+},
+{
+"start": 877,
+"end": 899,
+"label": "DATE",
+"text": "Jumatano.\n\nUser:\nNdiyo"
+},
+{
+"start": 930,
+"end": 955,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 960,
+"end": 974,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1034,
+"end": 1040,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1082,
+"end": 1090,
+"label": "DATE",
+"text": "Jumatano"
+},
+{
+"start": 1118,
+"end": 1143,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1212,
+"end": 1220,
+"label": "DATE",
+"text": "Jumatano"
+},
+{
+"start": 1234,
+"end": 1244,
+"label": "DATE",
+"text": "2024-08-07"
+},
+{
+"start": 1339,
+"end": 1353,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1437,
+"end": 1445,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1447,
+"end": 1452,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1507,
+"end": 1513,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1871,
+"end": 1879,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1881,
+"end": 1897,
+"label": "LOCATION",
+"text": "Kenya (Malava)\n*"
+},
+{
+"start": 2060,
+"end": 2074,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2154,
+"end": 2160,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2479,
+"end": 2487,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2489,
+"end": 2505,
+"label": "LOCATION",
+"text": "Kenya (Malava)\n*"
+},
+{
+"start": 2682,
+"end": 2696,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2774,
+"end": 2782,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2784,
+"end": 2797,
+"label": "LOCATION",
+"text": "Kenya (Malava"
+},
+{
+"start": 2866,
+"end": 2872,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3210,
+"end": 3218,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 3220,
+"end": 3236,
+"label": "LOCATION",
+"text": "Kenya (Malava)\n*"
+}
+]

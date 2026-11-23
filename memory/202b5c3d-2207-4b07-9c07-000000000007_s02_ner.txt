@@ -1,0 +1,5 @@
+* የመገለጫ መለያው (Profile ID) [PROFILE_ID] ነው።
+* ከስራ (work) ጋር የተገናኘ የ [PERSON] የመገናኛ መረጃ (+251906564148 እና andualem.abate+007@outlook.com) ይጠቀማል።
+* በAddis [LOCATION] እንዲሁም በ [LOCATION] (Yeka) አካባቢዎች የቦታ እና የአድራሻ ፍለጋዎችን ያደርጋል።
+* የውጭ ፍለጋዎች በሚደረጉበት ጊዜ የግል መረጃው እንዳይላክ እና ጥበቃ እንዲደረግለት ይፈልጋል።
+* ለሚቀርቡ የካርታ መረጃዎች የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣል።

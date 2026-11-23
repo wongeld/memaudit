@@ -1,0 +1,128 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 36,
+"end": 46,
+"label": "ID_NUMBER",
+"text": "8698697209"
+},
+{
+"start": 165,
+"end": 172,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 174,
+"end": 187,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 189,
+"end": 201,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 281,
+"end": 297,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 481,
+"end": 488,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 490,
+"end": 503,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 505,
+"end": 517,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 533,
+"end": 549,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 564,
+"end": 576,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 1386,
+"end": 1402,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1778,
+"end": 1785,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1787,
+"end": 1800,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1802,
+"end": 1814,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1851,
+"end": 1875,
+"label": "LOCATION",
+"text": "Lincoln Park Zoo Chicago"
+},
+{
+"start": 2009,
+"end": 2033,
+"label": "LOCATION",
+"text": "Lincoln Park Zoo Chicago"
+},
+{
+"start": 2461,
+"end": 2485,
+"label": "LOCATION",
+"text": "Lincoln Park Zoo Chicago"
+},
+{
+"start": 2774,
+"end": 2781,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2783,
+"end": 2796,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2798,
+"end": 2810,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

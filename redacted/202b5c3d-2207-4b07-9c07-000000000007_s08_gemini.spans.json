@@ -1,0 +1,92 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 56,
+"end": 86,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 106,
+"end": 127,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 129,
+"end": 133,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 443,
+"end": 464,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 466,
+"end": 470,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 494,
+"end": 508,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 531,
+"end": 544,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 560,
+"end": 590,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1121,
+"end": 1142,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1144,
+"end": 1148,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 1206,
+"end": 1228,
+"label": "LOCATION",
+"text": "Unity Park Addis Ababa"
+},
+{
+"start": 1427,
+"end": 1448,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1450,
+"end": 1454,
+"label": "LOCATION",
+"text": "Yeka"
+}
+]

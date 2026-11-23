@@ -1,0 +1,6 @@
+- The user is involved in academic activities, specifically graduate-level studies.
+- The user is currently managing school-related tasks, including peer-review evaluations, purchasing academic reference texts and lab notebooks, and reserving lecture seminar rooms.
+- The user has a specific need for graduate seminar textbooks and presentation markers.
+- The user is in good health with no chronic conditions.
+- The user is associated with [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]).
+- The user frequently interacts with the assistant to schedule and organize school-related activities in [LOCATION].

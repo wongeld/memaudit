@@ -1,0 +1,5 @@
+* የተጠቃሚው መለያ profile_id [PROFILE_ID] ሲሆን፣ ከተጠቃሚው ጋር የተያያዘው ሰው [PERSON] (ስልክ፡ [PHONE]፣ ኢሜይል፡ [EMAIL]) ነው።
+* በ[LOCATION] ([LOCATION]) ረቡዕ ከሰዓት 8:00 ሊያደርገው የነበረውን የምክክር ቀጠሮ ወደ ሌላ ጊዜ አሸጋግሯል።
+* ዕለታዊ እንቅስቃሴዎችን እና እቅዶችን በ daily_planning ሥር ይመዘግባል።
+* በ[LOCATION] ([LOCATION]) አካባቢ ለጉዳዩ የሚሆን ቦታ ለመፈለግ '[ORGANIZATION] Addis Ababa' እና የ latitude 9.0158፣ longitude 38.7712 አድራሻ ፍላጎት አለው።
+* የቦታ ፍለጋ በሚደረግበት ወቅት የግል መረጃው እንዳይላክ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

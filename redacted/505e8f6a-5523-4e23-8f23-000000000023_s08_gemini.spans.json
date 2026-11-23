@@ -1,0 +1,134 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 34,
+"end": 44,
+"label": "ID_NUMBER",
+"text": "6189768644"
+},
+{
+"start": 52,
+"end": 80,
+"label": "EMAIL",
+"text": "evan.lindqvist+023@gmail.com"
+},
+{
+"start": 217,
+"end": 224,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 226,
+"end": 239,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 241,
+"end": 248,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 275,
+"end": 279,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1091,
+"end": 1098,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1100,
+"end": 1113,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1115,
+"end": 1122,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1156,
+"end": 1160,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1752,
+"end": 1756,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2380,
+"end": 2387,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2389,
+"end": 2402,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2404,
+"end": 2411,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2445,
+"end": 2467,
+"label": "ORGANIZATION",
+"text": "Swedish Ballard Campus"
+},
+{
+"start": 2468,
+"end": 2475,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3058,
+"end": 3080,
+"label": "ORGANIZATION",
+"text": "Swedish Ballard Campus"
+},
+{
+"start": 3371,
+"end": 3378,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3380,
+"end": 3393,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3395,
+"end": 3402,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3503,
+"end": 3507,
+"label": "PERSON",
+"text": "Evan"
+}
+]

@@ -1,0 +1,64 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [PROFILE_ID], simu +254760298744) cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension [DATE], ninaelewa. Sasa narekodi kikumbusho chako cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Kikumbusho
+**Mada:** Family
+**Kichwa:** Kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension
+**Tarehe/Muda:** [DATE] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** +254760298744
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] (+254760298744), tafadhali kihifadhi.
+
+Assistant:
+Ninaelewa kuwa umethibitisha kikumbusho hicho. Nimejaribu kukihifadhi, lakini mfumo umetoa ujumbe wa "Canceled. No activity was saved." Inaonekana mfumo unaendelea kuhitaji uthibitisho wa ziada kabla ya kuhifadhi kabisa shughuli.
+
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] (+254760298744) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi shopping item yako ya kununua mahitaji ya nyumbani na zawadi za familia. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+**Aina ya Shughuli:** Shopping Item
+**Mada:** Family
+**Kichwa:** Kununua mahitaji ya nyumbani na zawadi za familia
+**Mahali:** [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** +254760298744
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] (+254760298744) kwenye profile_id [PROFILE_ID], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi upya shopping item hiyo na kuongeza maelezo (notes). Tafadhali thibitisha maelezo yafuatayo:
+
+**Aina ya Shughuli:** Shopping Item
+**Mada:** Family
+**Kichwa:** Kununua mahitaji ya nyumbani na zawadi za familia
+**Mahali:** [LOCATION] (Notes):** vyakula vya afya vya familia na matunda
+**Kitambulisho cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** +254760298744
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+Assistant:
+Ninaelewa kuwa mfumo unahitaji uthibitisho tena, na kwamba shopping item hiyo haijahifadhiwa. Hata hivyo, nimeonyesha maelezo mapya na notes ulizoongeza.
+
+Je, ungependa nithibitishe maelezo haya kabla ya kujaribu kuhifadhi tena, au kuna jambo lingine ungependa kufanya?
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] (+254760298744) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi booking yako ya chakula cha mchana cha familia. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+**Aina ya Shughuli:** Booking
+**Mada:** Family
+**Kichwa:** Chakula cha mchana cha familia
+**Tarehe/Muda:** [DATE] [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** +254760298744
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.

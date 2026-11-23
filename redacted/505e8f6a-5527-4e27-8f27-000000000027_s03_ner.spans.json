@@ -1,0 +1,170 @@
+[
+{
+"start": 65,
+"end": 81,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 541,
+"end": 557,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1162,
+"end": 1178,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1284,
+"end": 1300,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1960,
+"end": 1967,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1969,
+"end": 1982,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1984,
+"end": 1996,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2028,
+"end": 2044,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2165,
+"end": 2181,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2381,
+"end": 2396,
+"label": "LOCATION",
+"text": "Conference Room"
+},
+{
+"start": 2447,
+"end": 2454,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2456,
+"end": 2469,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2471,
+"end": 2483,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2499,
+"end": 2515,
+"label": "LOCATION",
+"text": "Gregory Halstead"
+},
+{
+"start": 2927,
+"end": 2943,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 3768,
+"end": 3775,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3784,
+"end": 3790,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 3792,
+"end": 3804,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3820,
+"end": 3827,
+"label": "ORGANIZATION",
+"text": "Gregory"
+},
+{
+"start": 4030,
+"end": 4046,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 4156,
+"end": 4163,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 4165,
+"end": 4178,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4180,
+"end": 4192,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 4292,
+"end": 4308,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 4487,
+"end": 4503,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 4541,
+"end": 4548,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 4550,
+"end": 4563,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4565,
+"end": 4577,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

@@ -1,0 +1,5 @@
+* የ [PERSON] መረጃዎች፡ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ እና profile_id [PROFILE_ID] ናቸው።
+* በ [DATE] በ [LOCATION], [LOCATION] ([LOCATION]) ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሯል።
+* በ Bahir [LOCATION] ([LOCATION]) አካባቢ ለጉዳዩ የሚሆን ቦታ (እንደ '[ORGANIZATION] [LOCATION]') ይፈልጋል።
+* ቦታዎችን በሚፈልግበት ጊዜ የግል መረጃው እንዳይተላለፍ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣል።
+* በ [LOCATION]) አካባቢ በ latitude [LOCATION] እና longitude [LOCATION] የሚገኝን አድራሻ ማግኘት ይፈልጋል።

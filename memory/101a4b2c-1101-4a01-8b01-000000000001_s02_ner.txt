@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON] mwenye kitambulisho nambari 40553593576 na profile_id [PROFILE_ID].
+* Anajishughulisha na kazi za shule na elimu, ikiwemo kusimamia majaribio darasani na kushirikiana na kamati ya taaluma na wazazi.
+* Tarehe [DATE] atakuwa darasani akisimamia jaribio.
+* Ana mipango ya kuratibu ziara ya kielimu na midahalo ya wanafunzi.
+* Anafuatilia eneo la shule lililopo [LOCATION], [LOCATION] (Itabua) lenye majira-nukta latitude -0.5143 na longitude 37.4589.
+* Anapendelea kutotuma taarifa zake binafsi wakati wa utafutaji wa maeneo na anasisitiza kuonyesha nukuu ya [ORGANIZATION].

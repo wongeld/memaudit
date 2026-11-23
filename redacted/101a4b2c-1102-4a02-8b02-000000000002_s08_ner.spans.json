@@ -1,0 +1,68 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 193,
+"end": 208,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 214,
+"end": 239,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+},
+{
+"start": 282,
+"end": 288,
+"label": "PERSON",
+"text": "Kelvin"
+},
+{
+"start": 539,
+"end": 564,
+"label": "DATE",
+"text": "Saa 11:30 jioni\n**Contact"
+},
+{
+"start": 573,
+"end": 595,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 633,
+"end": 663,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nJe"
+},
+{
+"start": 724,
+"end": 739,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 1403,
+"end": 1431,
+"label": "ORGANIZATION",
+"text": "Aga Khan University Hospital"
+},
+{
+"start": 1432,
+"end": 1439,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1752,
+"end": 1777,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+}
+]

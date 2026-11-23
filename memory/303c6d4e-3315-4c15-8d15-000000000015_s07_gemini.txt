@@ -1,0 +1,8 @@
+- ስም፡ [PERSON]
+- ዕድሜ፡ 31 ዓመት
+- የትምህርት ደረጃ፡ Bachelor of Commerce
+- የሥራ መደብ፡ Regional Logistics Coordinator
+- የጤና ሁኔታ፡ Mild asthma
+- የጋብቻ ሁኔታ፡ Single
+- መኖሪያ ቦታ፡ [LOCATION] ([LOCATION])
+- ተመራጭ ቋንቋ፡ አማርኛ

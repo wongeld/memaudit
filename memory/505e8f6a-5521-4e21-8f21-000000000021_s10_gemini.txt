@@ -1,0 +1,7 @@
+- Name: James Bosse
+- Age: 46
+- Profession: Child Psychologist (holds a Doctor of Philosophy)
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Family: Married with two children
+- Profile ID: [[ID_NUMBER]]
+- Preferred language: English

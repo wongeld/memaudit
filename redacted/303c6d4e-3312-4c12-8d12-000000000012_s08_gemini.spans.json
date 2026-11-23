@@ -1,0 +1,86 @@
+[
+{
+"start": 28,
+"end": 39,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 41,
+"end": 54,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 61,
+"end": 88,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 108,
+"end": 129,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 131,
+"end": 140,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 428,
+"end": 449,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 451,
+"end": 460,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 484,
+"end": 497,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 519,
+"end": 546,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 1074,
+"end": 1095,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1097,
+"end": 1106,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 1164,
+"end": 1189,
+"label": "ORGANIZATION",
+"text": "Zewditu Memorial Hospital"
+},
+{
+"start": 1587,
+"end": 1608,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1610,
+"end": 1619,
+"label": "LOCATION",
+"text": "Kazanchis"
+}
+]

@@ -1,0 +1,73 @@
+User:
+Please record a work reminder via record_user_activity for [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]) to submit my weekly departmental metrics and take a brief break while managing type 2 diabetes every Friday at 04:00 PM.
+
+Assistant:
+I'm going to save a new work reminder with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Reminder
+**Title**: Submit weekly departmental metrics and take a brief break while managing type 2 diabetes
+**Date/Time**: Every Friday at 04:00 PM
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+Is this correct?
+
+User:
+Yes, I confirm those exact reminder details for [PERSON] ([PHONE]); please save the work reminder now.
+
+Assistant:
+It seems that the work reminder was cancelled again and not saved, despite your confirmation.
+
+Would you like me to try saving the reminder again, or would you like to make any changes to the details before attempting to save it again?
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in [LOCATION], [LOCATION] ([LOCATION]) on Thursday at 11:00 AM under [PERSON] ([PHONE]), and show me the confirmation summary.
+
+Assistant:
+I'm going to save a new work booking with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Booking
+**Title**: Conference room booking
+**Date/Time**: Thursday at 11:00 AM
+**Location**: [LOCATION], United [LOCATION] (Ironbound)
+**Contact Name**: [ORGANIZATION]
+**Mobile Phone**: [PHONE]
+
+Is this correct?
+
+User:
+Wait—please change the booking title to '[ORGANIZATION] Counselor Strategy [ORGANIZATION] Booking' for [PERSON] ([PHONE]) on profile_id [PROFILE_ID] and show the full confirmation again before saving.
+
+Assistant:
+I'm going to save a new work booking with the following updated details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Booking
+**Title**: [ORGANIZATION] Strategy [ORGANIZATION] Booking
+**Date/Time**: Thursday at 11:00 AM
+**Location**: [LOCATION], [LOCATION] ([LOCATION])
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+Is this correct?
+
+User:
+Please record a work shopping_item via record_user_activity for [PERSON] ([PHONE]) to order ergonomic office supplies and reference materials for my [ORGANIZATION] Counselor role in [LOCATION], [LOCATION] ([LOCATION]), and ask for my confirmation first.
+
+Assistant:
+I'm going to save a new work shopping item with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Shopping Item
+**Title**: Order ergonomic office supplies and reference materials for my [ORGANIZATION] role
+**Location**: [LOCATION], [LOCATION] ([LOCATION])
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+Is this correct?

@@ -1,0 +1,7 @@
+* የ 'Type 2 diabetes' የጤና ሁኔታ አለባቸው።
+* የሥራ መደባቸው 'Horticultural Export Training Coordinator' ነው።
+* ያገቡ እና የሦስት ልጆች ወላጅ ናቸው (Married with three children)።
+* ከቤተሰብ (family) ጋር በተያያዘ ከ [PERSON] (profile_id: [PROFILE_ID]፣ ስልክ: [PHONE]) ጋር የተያያዙ ማስታወሻዎችን እና ዝግጅቶችን ያደርጋሉ።
+* በ [DATE] ለ [PERSON] የሚሆን የክትትል ማስታወሻ (reminder) አላቸው።
+* በ [LOCATION], [LOCATION] ለሥራቸውና ለቤተሰባቸው የሚውሉ አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) እያከናወኑ ነው።
+* በ [DATE] በ [LOCATION], [LOCATION] ለ [PERSON] የሚሆን የአገልግሎት/የቦታ booking ዕቅድ አላቸው።

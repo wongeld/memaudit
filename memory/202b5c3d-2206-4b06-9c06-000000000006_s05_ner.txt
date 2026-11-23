@@ -1,0 +1,4 @@
+* የተጠቃሚው የመገለጫ መታወቂያ (Profile ID) `[PROFILE_ID]` ነው።
+* ከ [PERSON] ጋር የተያያዘ የስልክ ቁጥር +251996949340 እና ኢሜይል dereje.diriba+006@gmail.com ይጠቀማል።
+* በአዲስ [LOCATION]፣ [LOCATION] (Bole) አካባቢ (በተለይ በ latitude 8.9972 እና longitude 38.7869 ዙሪያ) ቦታዎችን የመፈለግ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

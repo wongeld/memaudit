@@ -1,0 +1,230 @@
+[
+{
+"start": 112,
+"end": 128,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 130,
+"end": 142,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 159,
+"end": 169,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 374,
+"end": 384,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 522,
+"end": 554,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 578,
+"end": 594,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 617,
+"end": 629,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 914,
+"end": 930,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 932,
+"end": 944,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 998,
+"end": 1030,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 1232,
+"end": 1242,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1382,
+"end": 1414,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 1438,
+"end": 1454,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1477,
+"end": 1489,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1587,
+"end": 1603,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1618,
+"end": 1628,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1691,
+"end": 1723,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 1968,
+"end": 1978,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2159,
+"end": 2169,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2183,
+"end": 2190,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 2202,
+"end": 2210,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 2225,
+"end": 2237,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2245,
+"end": 2275,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 2285,
+"end": 2298,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2453,
+"end": 2463,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2485,
+"end": 2492,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 2512,
+"end": 2520,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 2543,
+"end": 2555,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2571,
+"end": 2601,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 2619,
+"end": 2632,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2782,
+"end": 2798,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2816,
+"end": 2828,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2947,
+"end": 2957,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2978,
+"end": 2985,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 3003,
+"end": 3011,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 3033,
+"end": 3045,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3061,
+"end": 3091,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 3108,
+"end": 3121,
+"label": "LOCATION",
+"text": "United States"
+}
+]

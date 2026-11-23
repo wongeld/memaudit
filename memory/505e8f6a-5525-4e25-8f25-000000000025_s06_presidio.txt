@@ -1,0 +1,4 @@
+- The user frequently manages pharmacy and supply orders, as well as in-store pickups and supplier consultations.
+- The user coordinates shopping-related tasks for [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]).
+- The user's preferred locations for these activities are [LOCATION], [LOCATION] ([LOCATION]).
+- The user has a routine of scheduling shopping tasks on Fridays at 05:30 PM, Saturdays at 01:30 PM, and Mondays at 04:00 PM.

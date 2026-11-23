@@ -1,0 +1,5 @@
+- The user is involved in academic activities, including peer-review evaluations, graduate seminars, and lab work.
+- The user manages mild asthma.
+- The user is coordinating school-related tasks for [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]).
+- Shopping needs include academic reference texts, lab notebooks, 3 graduate seminar textbooks, and presentation markers in [LOCATION], [LOCATION] ([LOCATION]).
+- The user attempts to schedule school-related tasks, such as reserving a lecture seminar room in [LOCATION], [LOCATION] ([LOCATION]) on Fridays at 01:00 PM and managing a schedule on Thursdays at 04:00 PM.

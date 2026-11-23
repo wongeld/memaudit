@@ -1,0 +1,5 @@
+* ተጠቃሚው ሙሉ ጤነኛ እንደሆነ ገልጿል።
+* የሥራ ዘርፉ Family Mediation Counselor ነው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ነው (Married with two children)።
+* ከ[PERSON] (profile_id: [PROFILE_ID]፣ ስልክ ቁጥር: [PHONE]) ጋር በቤተሰብ (family) ጭብጥ ሥር ማስታወሻዎችን፣ ግዢዎችን እና ቦታ ማስያዝን ያስተዳድራል።
+* በ[LOCATION], [LOCATION] የአስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ እንዲሁም በ[DATE] የአገልግሎት/ቦታ ማስያዝ (booking) እቅድ አለው።

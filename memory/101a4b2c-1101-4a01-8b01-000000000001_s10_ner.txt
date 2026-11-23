@@ -1,0 +1,5 @@
+* Kitambulisho chake cha wasifu ni [PROFILE_ID] na nambari yake ya simu ni +254122951015 (inayohusishwa na [PERSON]).
+* Hufanya ukaguzi wa kawaida wa afya (routine check-up).
+* Amepanga miadi ya ukaguzi wa afya na ushauri wa lishe mnamo [DATE] katika eneo la [LOCATION].
+* Ana kikao cha jioni mnamo [DATE].
+* Hutumia daily_planning kuratibu na kuorodhesha shughuli na miadi yake.

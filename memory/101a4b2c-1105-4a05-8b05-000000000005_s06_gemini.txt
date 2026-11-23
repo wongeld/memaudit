@@ -1,0 +1,5 @@
+* Jina la mtumiaji au anayehusika ni [PERSON] mwenye profile_id [[ID_NUMBER]] na namba ya simu [PHONE].
+* Ana miadi ya ukaguzi wa afya na ushauri wa lishe iliyopangwa Ijumaa saa 9:00 alasiri huko [LOCATION] ([LOCATION]).
+* Anapanga kununua shajara ya ratiba ya kila siku na mahitaji ya afya huko [LOCATION] ([LOCATION]).
+* Ana changamoto ya kiafya ya mzio (Mild seasonal allergic rhinitis).
+* Ana ratiba ya mazoezi ya afya Jumamosi saa 2:00 asubuhi huko [LOCATION] ([LOCATION]).

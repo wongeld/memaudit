@@ -1,0 +1,5 @@
+* የጤና ሁኔታው 'Mild asthma' (መለስተኛ አስም) ያለበት ሲሆን የሥራ ሙያው ደግሞ 'Hospital Physician' ነው።
+* የግል ሁኔታው 'Single' ነው።
+* ከ [PERSON] (ስልክ [PHONE]፣ profile_id [PROFILE_ID]) ጋር የተያያዙ ማስታወሻዎችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን (booking) በ daily_planning ሥር ይመዘግባል።
+* በ [LOCATION], [LOCATION] (Ayder) ለሆስፒታል ሐኪም እና ለነጠላ (Single) አገልግሎት የሚውሉ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ የማከናወን ዕቅድ አለው።
+* በ [DATE] በ [LOCATION] የአገልግሎት ወይም የቦታ ማስያዣ (booking) ለማድረግ አቅዷል።

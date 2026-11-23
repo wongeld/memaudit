@@ -1,0 +1,80 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 135,
+"end": 160,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 166,
+"end": 170,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 172,
+"end": 185,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 470,
+"end": 497,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n*"
+},
+{
+"start": 512,
+"end": 516,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 518,
+"end": 534,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 668,
+"end": 693,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1156,
+"end": 1180,
+"label": "LOCATION",
+"text": "Embu County Headquarters"
+},
+{
+"start": 1240,
+"end": 1275,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1315,
+"end": 1339,
+"label": "LOCATION",
+"text": "Embu County Headquarters"
+},
+{
+"start": 1521,
+"end": 1540,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua"
+},
+{
+"start": 1563,
+"end": 1598,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

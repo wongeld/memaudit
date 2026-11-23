@@ -1,0 +1,5 @@
+- Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa ajili ya shughuli zake.
+- Mtumiaji anapanga kufanya manunuzi ya bidhaa na dawa katika duka la dawa lililopo [LOCATION], [LOCATION].
+- Mtumiaji ana mawasiliano ya [PERSON] (namba ya simu +254760298744) yanayohusiana na shughuli zake za manunuzi.
+- Mtumiaji alijaribu kuweka kikumbusho cha manunuzi kwa tarehe [DATE], lakini shughuli hiyo haikuhifadhiwa kwenye mfumo.
+- Mtumiaji anaonyesha nia ya kutumia zana za ramani na utafutaji wa maeneo ([LOCATION]) kwa ajili ya kurahisisha shughuli zake za manunuzi.

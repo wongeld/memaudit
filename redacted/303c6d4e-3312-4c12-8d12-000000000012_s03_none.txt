@@ -1,0 +1,68 @@
+User:
+የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ እና የBroadcast Lifestyle Journalist ሥራ ስላለብኝ፣ ለ Elsa Assefa (profile_id [PROFILE_ID]፣ ስልክ +251986279168) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: አርብ ከሰዓት 10:00
+*   **mobile_phone**: +251986279168
+*   **notes**: የጤና ሁኔታ: Hypothyroidism, Broadcast Lifestyle Journalist
+
+ይህ ትክክል ከሆነ፣ ይህንን ማስታወሻ አስቀምጣለሁ።
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Elsa Assefa (+251986279168) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ማስታወሻው ሊቀመጥ አልቻለም። እንደገና ልሞክር?
+
+User:
+በ work ሥር ለ Elsa Assefa (+251986279168) በAddis Ababa, Ethiopia (Kazanchis) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: Addis Ababa, Ethiopia (Kazanchis)
+*   **mobile_phone**: +251986279168
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል' ብለህ ለ Elsa Assefa (+251986279168) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **location**: Addis Ababa, Ethiopia (Kazanchis)
+*   **mobile_phone**: +251986279168
+*   **notes**: Broadcast Lifestyle Journalist እና Married with three children አገልግሎት የሚውል
+
+ይህ ትክክል ከሆነ፣ ይህንን የግብይት ዝርዝር አስቀምጣለሁ።
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Kazanchis) የአገልግሎት/የቦታ booking ለ Elsa Assefa (+251986279168) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kazanchis)
+*   **mobile_phone**: +251986279168
+
+ይህ ትክክል ከሆነ፣ ይህንን ቦታ ማስያዝ አስቀምጣለሁ።

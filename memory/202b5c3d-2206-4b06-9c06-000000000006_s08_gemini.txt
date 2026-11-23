@@ -1,0 +1,4 @@
+* የተጠቃሚው የመገለጫ መታወቂያ (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር የምክክር ቀጠሮ ነበረው (ወደ ሌላ ቀን የተሸጋገረ)።
+* በ[LOCATION]) አካባቢ (በተለይ በ latitude 8.9972 እና longitude 38.7869 አካባቢ) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይላክ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

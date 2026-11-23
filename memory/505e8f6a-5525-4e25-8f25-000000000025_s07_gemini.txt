@@ -1,0 +1,8 @@
+- Name: Caleb Thornton
+- Age: 29
+- Occupation: Doctoral Research Fellow
+- Education: Master of Science
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Health: Manages mild asthma
+- Routine: Requests a daily health routine and schedule review reminder at 06:45 AM
+- Contact: [PHONE], [EMAIL]

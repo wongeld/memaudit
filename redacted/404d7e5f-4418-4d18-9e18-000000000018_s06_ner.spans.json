@@ -1,0 +1,194 @@
+[
+{
+"start": 63,
+"end": 75,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 184,
+"end": 197,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 199,
+"end": 207,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 220,
+"end": 266,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 498,
+"end": 527,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni\nMahali"
+},
+{
+"start": 529,
+"end": 542,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 544,
+"end": 552,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 581,
+"end": 598,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 688,
+"end": 700,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 993,
+"end": 1022,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni\nMahali"
+},
+{
+"start": 1024,
+"end": 1037,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1039,
+"end": 1047,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1076,
+"end": 1093,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 1190,
+"end": 1202,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1262,
+"end": 1275,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1277,
+"end": 1285,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1298,
+"end": 1323,
+"label": "DATE",
+"text": "Alhamisi saa 5:00 asubuhi"
+},
+{
+"start": 1581,
+"end": 1613,
+"label": "DATE",
+"text": "Alhamisi saa 5:00 asubuhi\nMahali"
+},
+{
+"start": 1615,
+"end": 1628,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1630,
+"end": 1655,
+"label": "LOCATION",
+"text": "Tanzania (Mikocheni)\nJina"
+},
+{
+"start": 1667,
+"end": 1684,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 1772,
+"end": 1796,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 1801,
+"end": 1813,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2104,
+"end": 2135,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\nMahali"
+},
+{
+"start": 2137,
+"end": 2177,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni)\nJina"
+},
+{
+"start": 2189,
+"end": 2206,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 2316,
+"end": 2350,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni"
+},
+{
+"start": 2356,
+"end": 2368,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2385,
+"end": 2410,
+"label": "DATE",
+"text": "Jumamosi saa 9:00 alasiri"
+},
+{
+"start": 2685,
+"end": 2717,
+"label": "DATE",
+"text": "Jumamosi saa 9:00 alasiri\nMahali"
+},
+{
+"start": 2719,
+"end": 2742,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 2771,
+"end": 2788,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+}
+]

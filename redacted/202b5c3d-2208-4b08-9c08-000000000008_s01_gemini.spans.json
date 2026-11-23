@@ -1,0 +1,176 @@
+[
+{
+"start": 9,
+"end": 25,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 43,
+"end": 53,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 58,
+"end": 87,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 363,
+"end": 373,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 379,
+"end": 395,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 401,
+"end": 414,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 421,
+"end": 451,
+"label": "EMAIL",
+"text": "shimelis.tilahun+008@gmail.com"
+},
+{
+"start": 457,
+"end": 465,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 561,
+"end": 571,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 654,
+"end": 667,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 683,
+"end": 713,
+"label": "EMAIL",
+"text": "shimelis.tilahun+008@gmail.com"
+},
+{
+"start": 731,
+"end": 739,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 810,
+"end": 826,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 839,
+"end": 852,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1032,
+"end": 1042,
+"label": "ID_NUMBER",
+"text": "3921201991"
+},
+{
+"start": 1130,
+"end": 1159,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 1184,
+"end": 1200,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1202,
+"end": 1215,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1291,
+"end": 1301,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1404,
+"end": 1420,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1475,
+"end": 1504,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 1529,
+"end": 1542,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1610,
+"end": 1620,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1648,
+"end": 1664,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1666,
+"end": 1679,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1764,
+"end": 1774,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1877,
+"end": 1893,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1948,
+"end": 1977,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 2002,
+"end": 2015,
+"label": "PHONE",
+"text": "+251954834664"
+}
+]

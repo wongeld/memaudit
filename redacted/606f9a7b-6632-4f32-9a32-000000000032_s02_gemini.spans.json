@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 20,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 22,
+"end": 46,
+"label": "EMAIL",
+"text": "rachel.kim+032@gmail.com"
+},
+{
+"start": 219,
+"end": 225,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 227,
+"end": 240,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 242,
+"end": 250,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 359,
+"end": 369,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 519,
+"end": 525,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 527,
+"end": 540,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 542,
+"end": 550,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 707,
+"end": 717,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 853,
+"end": 863,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 961,
+"end": 971,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1145,
+"end": 1155,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1308,
+"end": 1334,
+"label": "ORGANIZATION",
+"text": "Boston Children's Hospital"
+},
+{
+"start": 1335,
+"end": 1350,
+"label": "ADDRESS",
+"text": "Longwood Avenue"
+},
+{
+"start": 1470,
+"end": 1496,
+"label": "ORGANIZATION",
+"text": "Boston Children's Hospital"
+},
+{
+"start": 1497,
+"end": 1512,
+"label": "ADDRESS",
+"text": "Longwood Avenue"
+},
+{
+"start": 1887,
+"end": 1893,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1895,
+"end": 1908,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1910,
+"end": 1918,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

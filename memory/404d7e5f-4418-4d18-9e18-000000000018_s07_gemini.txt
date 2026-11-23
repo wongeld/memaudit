@@ -1,0 +1,6 @@
+- Jina: [PERSON] (ID: [[ID_NUMBER]])
+- Kazi: Retail Import Buyer huko [LOCATION], [LOCATION] ([LOCATION])
+- Hali ya familia: Ameoa/ameolewa na ana watoto wawili.
+- Afya: Ana hali ya Iron-deficiency anemia.
+- Mawasiliano: [PHONE] na [EMAIL].
+- Shughuli iliyoratibiwa: Ukaguzi wa afya ya familia kila Jumamosi saa 4:00 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON].

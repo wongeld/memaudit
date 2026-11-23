@@ -1,0 +1,56 @@
+[
+{
+"start": 42,
+"end": 65,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 70,
+"end": 81,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 181,
+"end": 192,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 269,
+"end": 288,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua"
+},
+{
+"start": 461,
+"end": 472,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 601,
+"end": 626,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi"
+},
+{
+"start": 632,
+"end": 651,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua"
+},
+{
+"start": 657,
+"end": 668,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 764,
+"end": 779,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+}
+]

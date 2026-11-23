@@ -1,0 +1,41 @@
+User:
+Mimi [PERSON] (kitambulisho [ID_NUMBER]), nataka kurekodi miadi (appointment) kwenye mada ya school ya kukutana na kamati ya taaluma na wazazi Jumanne saa 4:30 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi miadi yako. Nimeelewa maelezo yote uliyoyatoa: unataka kurekodi miadi (appointment) kwenye mada ya school ya "Kukutana na kamati ya taaluma na wazazi" Jumanne saa 4:30 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] (profile_id [PROFILE_ID]).
+
+Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Hapana, ghairi miadi hiyo ya Jumanne saa 4:30 asubuhi kwa sasa kwa sababu nitakuwa darasani nikisimamia jaribio, usihifadhi chochote.
+
+Assistant:
+Nimeelewa. Miadi ya kukutana na kamati ya taaluma na wazazi Jumanne saa 4:30 asubuhi haitahifadhiwa. Kama nilivyoeleza hapo awali, hakuna shughuli iliyokuwa imehifadhiwa kutokana na tatizo la kiufundi.
+
+User:
+Naomba uorodheshe shughuli zangu zote za mada ya school kwa kutumia list_user_activities kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa mada ya 'school' kwa `profile_id` [PROFILE_ID]. Hii ni kwa sababu shughuli zote ulizojaribu kurekodi hapo awali ziligairiwa kwa kukosa uthibitisho wa mwisho au kutokana na tatizo la kiufundi la zana.
+
+User:
+Ninahitaji kuratibu ziara ya kielimu na midahalo ya wanafunzi; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uonyeshe attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, jaribio langu la awali la kutafuta maeneo kwa kutumia OpenStreetMap limeshindwa na nimeshindwa kutekeleza zana ya utafutaji. Kwa hivyo, siwezi kutafuta '[ORGANIZATION] [LOCATION]' kwa sasa.
+
+Attribution: © OpenStreetMap contributors.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la shule lenye majira-nukta latitude -0.5143 na longitude 37.4589 huko [LOCATION], [LOCATION] ([LOCATION]) na ujumuishe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, jaribio la kupata anwani kwa kutumia `reverse_geocode` bado limeshindwa. Kulikuwa na tatizo la kutekeleza zana hiyo. Hii inaweza kuwa ni kutokana na tatizo la muunganisho wa mtandao au usanidi wa huduma ya OpenStreetMap Nominatim.
+
+Kwa sasa siwezi kupata anwani kwa kutumia majira-nukta uliyotoa.
+
+Attribution: © OpenStreetMap contributors.

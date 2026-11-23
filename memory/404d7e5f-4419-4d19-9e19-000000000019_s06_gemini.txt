@@ -1,0 +1,5 @@
+- Mtumiaji anajali sana afya ya familia yake na anazingatia lishe bora ili kuepuka magonjwa sugu.
+- Ana kikumbusho cha kila siku saa 12:30 jioni cha kuandaa chakula cha afya kwa ajili ya familia.
+- Anafanya manunuzi ya mahitaji ya nyumbani, zawadi za familia, na vyakula vya afya (ikiwemo matunda) katika eneo la [LOCATION].
+- Anapanga mikusanyiko ya familia, kama vile chakula cha mchana kila Jumapili saa 7:30 mchana huko [LOCATION].
+- Anashirikiana na [PERSON] (simu [PHONE], profile_id [[ID_NUMBER]]) katika masuala yote ya kifamilia.

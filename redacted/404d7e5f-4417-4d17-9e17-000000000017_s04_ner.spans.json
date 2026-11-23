@@ -1,0 +1,92 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 112,
+"end": 119,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 121,
+"end": 126,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 464,
+"end": 477,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 546,
+"end": 551,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 947,
+"end": 960,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1699,
+"end": 1706,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1708,
+"end": 1713,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1715,
+"end": 1723,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1729,
+"end": 1742,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2053,
+"end": 2060,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2062,
+"end": 2093,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 2399,
+"end": 2412,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2696,
+"end": 2712,
+"label": "ORGANIZATION",
+"text": "Foreign Exchange"
+},
+{
+"start": 2732,
+"end": 2772,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+}
+]

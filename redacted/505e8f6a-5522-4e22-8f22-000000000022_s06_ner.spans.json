@@ -1,0 +1,158 @@
+[
+{
+"start": 163,
+"end": 175,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 501,
+"end": 513,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 709,
+"end": 721,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1306,
+"end": 1312,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1314,
+"end": 1327,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1329,
+"end": 1338,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1362,
+"end": 1374,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1556,
+"end": 1562,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 1688,
+"end": 1694,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1696,
+"end": 1709,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1711,
+"end": 1720,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 1978,
+"end": 1984,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1986,
+"end": 1999,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2034,
+"end": 2046,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2280,
+"end": 2292,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2617,
+"end": 2623,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2625,
+"end": 2638,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2640,
+"end": 2649,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2673,
+"end": 2685,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2888,
+"end": 2900,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2968,
+"end": 2974,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2976,
+"end": 2989,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3287,
+"end": 3293,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3295,
+"end": 3308,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3310,
+"end": 3319,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 3343,
+"end": 3355,
+"label": "PERSON",
+"text": "Marcus Vance"
+}
+]

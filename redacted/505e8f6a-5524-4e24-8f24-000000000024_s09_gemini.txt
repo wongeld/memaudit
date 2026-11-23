@@ -1,0 +1,74 @@
+User:
+Using record_user_activity under the family theme, please set a reminder for [PERSON] (profile_id [[ID_NUMBER]], mobile_phone [PHONE]) to prepare a healthy family dinner suited to managing type 2 diabetes on Tuesday at 06:00 PM.
+
+Assistant:
+Here are the details for your family reminder:
+
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Theme**: family
+*   **Activity Type**: reminder
+*   **Title**: Prepare a healthy family dinner
+*   **Date/Time**: Tuesday at 06:00 PM
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: [PHONE]
+*   **Notes**: suited to managing type 2 diabetes
+
+Please confirm these details, and I will attempt to save this reminder. I must remind you that I've been encountering issues where saving operations are being canceled.
+
+User:
+Yes, those reminder details for [PERSON] ([PHONE]) are correct—please save the family reminder.
+
+Assistant:
+I apologize, but I was again unable to save the family reminder. The `record_user_activity` tool reported that the operation was canceled, even after your confirmation. It seems there is a persistent issue with saving any user-related data.
+
+User:
+Please use record_user_activity in the family theme to add a shopping_item for household groceries and family weekend supplies in [LOCATION] ([LOCATION]) for [PERSON] ([PHONE]), and show the summary to confirm.
+
+Assistant:
+Here is the summary for your family shopping item:
+
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Theme**: family
+*   **Activity Type**: shopping\_item
+*   **Title**: Household groceries and family weekend supplies
+*   **Location**: [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: [PHONE]
+
+Please confirm these details, and I will attempt to save this shopping item. I must remind you that I've been encountering issues where saving operations are being canceled.
+
+User:
+Hold on—please update the notes on that family shopping_item for [PERSON] ([PHONE]) to include 'fresh produce and supplies for married with three children' and re-confirm all fields.
+
+Assistant:
+I couldn't update the notes on that family shopping item because the previous attempt to save it was canceled, and no activity was recorded. I am still encountering issues saving any user-related data.
+
+However, if you'd like to try saving a *new* shopping item with the updated notes, here are the details:
+
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Theme**: family
+*   **Activity Type**: shopping\_item
+*   **Title**: Household groceries and family weekend supplies
+*   **Location**: [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: [PHONE]
+*   **Notes**: fresh produce and supplies for married with three children
+
+Please let me know if you would like me to attempt to save this shopping item with these details, keeping in mind the ongoing saving issues.
+
+User:
+Please create a family booking via record_user_activity for a weekend family brunch reservation in [LOCATION] ([LOCATION]) on Sunday at 11:30 AM under [PERSON] ([PHONE]), and wait for my approval before saving.
+
+Assistant:
+Here is the confirmation summary for your family booking:
+
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Theme**: family
+*   **Activity Type**: booking
+*   **Title**: Weekend family brunch reservation
+*   **Date/Time**: Sunday at 11:30 AM
+*   **Location**: [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: [PHONE]
+
+Please confirm these details, and I will attempt to save this booking. I must remind you that I've been encountering issues where saving operations are being canceled.

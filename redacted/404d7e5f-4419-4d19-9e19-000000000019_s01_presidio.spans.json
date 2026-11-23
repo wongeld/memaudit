@@ -1,0 +1,254 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 148,
+"end": 154,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 156,
+"end": 164,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 381,
+"end": 392,
+"label": "PERSON",
+"text": "Zawadi\nJina"
+},
+{
+"start": 404,
+"end": 419,
+"label": "PERSON",
+"text": "Massawe\nNambari"
+},
+{
+"start": 429,
+"end": 442,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 455,
+"end": 483,
+"label": "EMAIL",
+"text": "zawadi.massawe+019@yahoo.com"
+},
+{
+"start": 490,
+"end": 501,
+"label": "LOCATION",
+"text": "Tanzania\nID"
+},
+{
+"start": 631,
+"end": 645,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 652,
+"end": 665,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 678,
+"end": 706,
+"label": "EMAIL",
+"text": "zawadi.massawe+019@yahoo.com"
+},
+{
+"start": 713,
+"end": 721,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 918,
+"end": 931,
+"label": "PERSON",
+"text": "Zawadi\n**Jina"
+},
+{
+"start": 945,
+"end": 962,
+"label": "PERSON",
+"text": "Massawe\n**Nambari"
+},
+{
+"start": 974,
+"end": 987,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1004,
+"end": 1032,
+"label": "EMAIL",
+"text": "zawadi.massawe+019@yahoo.com"
+},
+{
+"start": 1043,
+"end": 1055,
+"label": "LOCATION",
+"text": "Tanzania\n\nJe"
+},
+{
+"start": 1111,
+"end": 1125,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1134,
+"end": 1147,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1341,
+"end": 1354,
+"label": "PERSON",
+"text": "Zawadi\n**Jina"
+},
+{
+"start": 1368,
+"end": 1385,
+"label": "PERSON",
+"text": "Massawe\n**Nambari"
+},
+{
+"start": 1397,
+"end": 1410,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1427,
+"end": 1455,
+"label": "EMAIL",
+"text": "zawadi.massawe+019@yahoo.com"
+},
+{
+"start": 1466,
+"end": 1478,
+"label": "LOCATION",
+"text": "Tanzania\n\nJe"
+},
+{
+"start": 1545,
+"end": 1551,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1553,
+"end": 1561,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1698,
+"end": 1723,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 1728,
+"end": 1742,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1744,
+"end": 1757,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2009,
+"end": 2044,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi\n**Eneo:**"
+},
+{
+"start": 2045,
+"end": 2051,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2053,
+"end": 2061,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2095,
+"end": 2119,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2131,
+"end": 2144,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2226,
+"end": 2251,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 2307,
+"end": 2321,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2323,
+"end": 2336,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2605,
+"end": 2640,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi\n**Eneo:**"
+},
+{
+"start": 2641,
+"end": 2647,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2649,
+"end": 2657,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2691,
+"end": 2715,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2727,
+"end": 2740,
+"label": "PHONE",
+"text": "+255605567258"
+}
+]

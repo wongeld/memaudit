@@ -1,0 +1,212 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 100,
+"end": 106,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 108,
+"end": 121,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 123,
+"end": 132,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 144,
+"end": 155,
+"label": "ORGANIZATION",
+"text": "of Commerce"
+},
+{
+"start": 297,
+"end": 303,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 749,
+"end": 755,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 767,
+"end": 773,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 847,
+"end": 860,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1049,
+"end": 1055,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 1075,
+"end": 1081,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 1179,
+"end": 1192,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1628,
+"end": 1634,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 1635,
+"end": 1641,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 1974,
+"end": 1987,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2034,
+"end": 2047,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2286,
+"end": 2292,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2294,
+"end": 2307,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2309,
+"end": 2318,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2459,
+"end": 2472,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2555,
+"end": 2568,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2785,
+"end": 2791,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2793,
+"end": 2806,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2808,
+"end": 2817,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2841,
+"end": 2854,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3571,
+"end": 3594,
+"label": "ORGANIZATION",
+"text": "Professional Essentials"
+},
+{
+"start": 3623,
+"end": 3636,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3743,
+"end": 3767,
+"label": "ORGANIZATION",
+"text": "Weekly Wellness Supplies"
+},
+{
+"start": 3806,
+"end": 3829,
+"label": "ORGANIZATION",
+"text": "Professional Essentials"
+},
+{
+"start": 3997,
+"end": 4021,
+"label": "ORGANIZATION",
+"text": "Weekly Wellness Supplies"
+},
+{
+"start": 4073,
+"end": 4083,
+"label": "ORGANIZATION",
+"text": "Essentials"
+},
+{
+"start": 4102,
+"end": 4108,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4110,
+"end": 4123,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4125,
+"end": 4134,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 4158,
+"end": 4171,
+"label": "PERSON",
+"text": "Julian Brooks"
+}
+]

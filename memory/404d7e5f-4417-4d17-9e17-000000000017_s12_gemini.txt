@@ -1,0 +1,5 @@
+- Mtumiaji ana hali ya afya ya "Mild hypertension" ambayo anahitaji kuizingatia wakati wa kazi.
+- Mtumiaji anajishughulisha na kazi zinazohitaji kuhudhuria vikao katika maeneo mbalimbali ya [LOCATION].
+- Ana mawasiliano ya kikazi na [PERSON] (simu: [PHONE], barua pepe: [EMAIL]).
+- Mtumiaji anapendelea kutumia zana za kidijitali kwa ajili ya kuratibu shughuli zake za kikazi.
+- Anajali sana faragha yake na anasisitiza kutotuma taarifa binafsi anapotumia zana za kutafuta maeneo (search_places/reverse_geocode).

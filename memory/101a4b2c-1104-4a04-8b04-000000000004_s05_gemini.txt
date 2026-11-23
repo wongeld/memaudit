@@ -1,0 +1,5 @@
+* Ana hali ya kiafya ya shinikizo la juu la damu (Mild hypertension) na anahitaji kubeba dawa pamoja na hati za safari kwenye begi la mkononi.
+* Kitambulisho chake ni [ID_NUMBER] na anatumia kitambulisho cha wasifu (profile_id) [PROFILE_ID].
+* Ana mipango ya safari na anapendelea kuandaa begi lake mapema mchana badala ya usiku.
+* Anajali faragha ya data yake na hapendi taarifa zake binafsi zitumiwe au kushirikiwa anapotafuta maeneo.
+* Safari yake inahusisha maeneo ya [LOCATION], [LOCATION] ([LOCATION]), ikijumuisha kituo cha usafiri cha '[LOCATION] [LOCATION]' na eneo lenye majira-nukta latitude -6.7712 na longitude 39.2398.

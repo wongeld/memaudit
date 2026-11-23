@@ -1,0 +1,26 @@
+User:
+Kwa kuzingatia hali yangu (hali ya Iron-deficiency anemia) na kitambulisho 1998399537, rekodi kikumbusho (reminder) kwenye mada ya travel cha kubeba dawa na hati za safari kwenye begi la mkononi [DATE] kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: reminder
+Kichwa: kubeba dawa na hati za safari kwenye begi la mkononi
+Muda: [DATE]: Hali ya Iron-deficiency anemia, kitambulisho 1998399537
+
+User:
+Hapana, ghairi kikumbusho hicho cha [DATE] kwa sasa kwa sababu nitaandaa begi langu [DATE], usihifadhi.
+
+Assistant:
+Nimeghairi kikumbusho hicho cha [DATE]. Hakuna kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya travel kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa mada ya travel kwa wasifu wako.
+
+User:
+Ninahitaji kuangalia kituo cha usafiri kwa ajili ya safari yangu; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], imetokea hitilafu wakati wa kutafuta kituo cha usafiri. Jaribu tena baada ya muda.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya eneo la safari lenye majira-nukta latitude -6.7712 na longitude 39.2398 huko [LOCATION], [LOCATION] (Mikocheni) na uonyeshe nukuu ya [ORGANIZATION], imetokea hitilafu wakati wa kutambua anwani ya eneo la safari. Jaribu tena baada ya muda.

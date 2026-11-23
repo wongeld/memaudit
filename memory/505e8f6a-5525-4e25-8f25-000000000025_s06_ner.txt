@@ -1,0 +1,4 @@
+- The user frequently coordinates shopping, pharmacy, and supply-related tasks for [PERSON] (mobile: +18635164802).
+- The user manages appointments and deliveries in [LOCATION], [LOCATION] ([LOCATION]).
+- The user has a recurring need to schedule in-store pickups, supplier consultations, and delivery slots.
+- The user prefers to review a summary of details before finalizing any booking or appointment.

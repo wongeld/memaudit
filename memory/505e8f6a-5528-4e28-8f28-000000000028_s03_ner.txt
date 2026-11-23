@@ -1,0 +1,6 @@
+* Works as a Hospital Physician at [ORGANIZATION].
+* Has no chronic health conditions.
+* Requires a recurring work reminder every Friday at 04:00 PM to submit departmental metrics and take a break.
+* Frequently coordinates work-related bookings and shopping requests for ergonomic supplies and reference materials.
+* Primary contact for work activities is [PERSON] (mobile: +16314978227).
+* Uses profile_id [PROFILE_ID] for work-related activity tracking.

@@ -1,0 +1,4 @@
+* Ana mwanafamilia anayeitwa [PERSON] (simu: [PHONE], ID: [[ID_NUMBER]]) ambaye ana hali ya Iron-deficiency anemia.
+* Ana kikumbusho cha kila siku saa 12:30 jioni cha kuandaa chakula bora kinachozingatia mahitaji ya afya ya [PERSON].
+* Anapanga kununua mahitaji ya nyumbani, zawadi za familia, vyakula vya afya, na matunda huko [LOCATION].
+* Ana mpango wa chakula cha mchana cha familia kila Jumapili saa 7:30 mchana huko [LOCATION] pamoja na [PERSON].

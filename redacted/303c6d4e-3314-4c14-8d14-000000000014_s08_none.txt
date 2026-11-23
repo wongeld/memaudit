@@ -1,0 +1,40 @@
+User:
+በ family ሥር ለ Meron Bekele (+251936812879፣ ኢሜይል meron.bekele+014@yahoo.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Yeka) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የ Meron Bekele የምክክር ቀጠሮ እንደሚከተለው ላስቀምጥ፦
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** family
+*   **Activity Type:** appointment
+*   **Title:** የምክክር ቀጠሮ
+*   **Date/Time:** ረቡዕ ከሰዓት 8:00
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Mobile Phone:** +251936812879
+*   **Contact Name:** Meron Bekele (Email: meron.bekele+014@yahoo.com)
+
+ይህ መረጃ ትክክል ነው? እስካሁን አላስቀመጥኩም።
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+የረቡዕ ከሰዓት 8:00 ሰዓት ቀጠሮ ተሰርዟል። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis Ababa, Ethiopia (Yeka) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Unity Park Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` የሚባል tool የለኝም። በምትኩ `mcp__openstreetmap` tool ን መጠቀም ትፈልጋለህ?
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Yeka) የሚገኘውን የ latitude 9.0355 እና longitude 38.8021 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` የሚባል tool የለኝም። በምትኩ `mcp__openstreetmap` tool ን መጠቀም ትፈልጋለህ?

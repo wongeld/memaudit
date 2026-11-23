@@ -1,0 +1,8 @@
+- Name: Nathan Mercer
+- Age: 38
+- Occupation: University Lecturer (holds a PhD)
+- Location: Back Bay, Boston, United States
+- Family: Married with two children
+- Health: Good health, no chronic conditions
+- Contact: +15246107452, nathan.mercer+026@outlook.com
+- Preferences: Interested in scheduling family wellness and check-in visits

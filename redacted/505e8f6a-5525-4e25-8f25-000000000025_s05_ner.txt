@@ -1,0 +1,32 @@
+User:
+I'm [PERSON] (mock ID 8913518751, email caleb.thornton+025@gmail.com), and I want to use record_user_activity in the shopping theme to create a task to compare vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]) on Thursday at 03:00 PM.
+
+Assistant:
+I will attempt to record this shopping task, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Assistant:
+As anticipated, the system canceled the save operation for the task "Compare vendor quotes and seasonal prices" for [PERSON]. This task has not been saved. I apologize for the continued technical difficulties.
+
+User:
+No, please cancel that Thursday 03:00 PM shopping task—I decided not to place that order this week, so do not save it.
+
+Assistant:
+Okay, I understand. The Thursday 03:00 PM shopping task to "Compare vendor quotes and seasonal prices" was not saved in the first place due to the ongoing system issue with saving activities. Therefore, there is nothing to cancel. I will not attempt to save it.
+
+User:
+Please use list_user_activities for profile_id [PROFILE_ID] filtered to the shopping theme so I can review my saved shopping items and tasks.
+
+Assistant:
+There are no saved shopping items or tasks for profile ID `[PROFILE_ID]` under the 'shopping' theme. This is consistent with the ongoing issue where all activity saves are being canceled.
+
+User:
+I want to visit a shopping area near [LOCATION], [LOCATION] ([LOCATION]); please call search_places for '[LOCATION]' without sending any personal data, and include OpenStreetMap attribution.
+
+Assistant:
+I am still encountering an error when trying to use the OpenStreetMap `search_places` tool. It seems there's an ongoing issue with accessing this functionality. I apologize that I cannot fulfill your request for the shopping area location at this time.
+
+User:
+Please call reverse_geocode for latitude 30.2849 and longitude -97.7341 in [LOCATION], [LOCATION] ([LOCATION]) to check the exact address of that retail location, and include OpenStreetMap attribution.
+
+Assistant:
+I am still experiencing an error when attempting to use the OpenStreetMap `reverse_geocode` tool. It seems there's an ongoing issue with accessing this functionality, and I apologize that I cannot fulfill your request for the address at this time.

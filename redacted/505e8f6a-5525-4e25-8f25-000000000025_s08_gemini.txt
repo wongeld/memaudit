@@ -1,0 +1,32 @@
+User:
+I'm [PERSON] (mock ID [ID_NUMBER], email [EMAIL]), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] ([LOCATION]) at 06:30 PM.
+
+Assistant:
+I will attempt to record this daily planning task, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Assistant:
+As anticipated, the system canceled the save operation for the daily planning task "Evening meal prep and next-day prioritization" for [PERSON]. This task has not been saved. I apologize for the continued technical difficulties.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([LOCATION]), so do not save it.
+
+Assistant:
+Okay, I understand. The 06:30 PM daily_planning task for "Evening meal prep and next-day prioritization" was not saved in the first place due to the ongoing system issue with saving activities. Therefore, there is nothing to cancel. I will not attempt to save it.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+There are no saved daily planning activities for profile ID `[PROFILE_ID]` under the 'daily_planning' theme. This is consistent with the ongoing issue where all activity saves are being canceled.
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] ([LOCATION]); please call search_places for '[ORGANIZATION]' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I am still encountering an error when trying to use the OpenStreetMap `search_places` tool. It seems there's an ongoing issue with accessing this functionality. I apologize that I cannot fulfill your request for the landmark location at this time.
+
+User:
+Please call reverse_geocode for coordinates latitude 30.3054 and longitude -97.7266 in [LOCATION], [LOCATION] ([LOCATION]) to verify the street address on my route, with OpenStreetMap attribution.
+
+Assistant:
+I am still experiencing an error when attempting to use the OpenStreetMap `reverse_geocode` tool. It seems there's an ongoing issue with accessing this functionality, and I apologize that I cannot fulfill your request to verify the street address at this time.

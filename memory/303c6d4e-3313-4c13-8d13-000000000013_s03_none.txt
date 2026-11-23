@@ -1,0 +1,4 @@
+* ተጠቃሚው በሙያው Hospital Physician ነው።
+* ከTigist Hailu (ስልክ ቁጥር +251940072829፣ profile_id [PROFILE_ID]) ጋር በሥራ ጉዳይ ይገናኛል።
+* በMekelle, Ethiopia (Ayder) አካባቢ ለሥራ የሚሆኑ የጤና ግብዓቶችን እና ቁሳቁሶችን ይገዛል።
+* ለTigist Hailu የሥራ ቀጠሮዎችን እና የቦታ ማስያዣዎችን (booking) በየጊዜው ያከናውናል።

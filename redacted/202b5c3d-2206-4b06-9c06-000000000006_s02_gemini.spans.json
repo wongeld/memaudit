@@ -1,0 +1,74 @@
+[
+{
+"start": 18,
+"end": 31,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 33,
+"end": 46,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 53,
+"end": 80,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 100,
+"end": 127,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 293,
+"end": 306,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 523,
+"end": 550,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 575,
+"end": 588,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 604,
+"end": 631,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 1280,
+"end": 1307,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1365,
+"end": 1392,
+"label": "LOCATION",
+"text": "Millennium Hall Addis Ababa"
+},
+{
+"start": 1541,
+"end": 1568,
+"label": "LOCATION",
+"text": "Millennium Hall Addis Ababa"
+},
+{
+"start": 1599,
+"end": 1626,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

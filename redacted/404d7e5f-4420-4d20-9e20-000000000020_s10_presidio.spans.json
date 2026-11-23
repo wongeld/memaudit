@@ -1,0 +1,128 @@
+[
+{
+"start": 135,
+"end": 159,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 182,
+"end": 213,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nUser:\nTafadhali"
+},
+{
+"start": 333,
+"end": 357,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 380,
+"end": 411,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nUser:\nTafadhali"
+},
+{
+"start": 531,
+"end": 555,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 578,
+"end": 613,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 734,
+"end": 737,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 741,
+"end": 756,
+"label": "ORGANIZATION",
+"text": "`openstreetmap`"
+},
+{
+"start": 868,
+"end": 881,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 993,
+"end": 1006,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1083,
+"end": 1097,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1168,
+"end": 1196,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 1251,
+"end": 1293,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana.\n\nAssistant:\nNiko"
+},
+{
+"start": 1586,
+"end": 1614,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 1640,
+"end": 1666,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 1703,
+"end": 1719,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 1968,
+"end": 1992,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 1997,
+"end": 2011,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2425,
+"end": 2453,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 2479,
+"end": 2505,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 2527,
+"end": 2543,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+}
+]

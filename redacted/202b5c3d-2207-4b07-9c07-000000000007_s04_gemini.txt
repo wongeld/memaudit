@@ -1,0 +1,88 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [[ID_NUMBER]])፤ በ[LOCATION]) የምኖር የ46 ዓመት University Lecturer (Doctor of Philosophy፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+አሁንም ለ `profile_id` [[ID_NUMBER]] የተመዘገበ መገለጫ የለም። ከዚህ ቀደም መገለጫህን ለማስቀመጥ ሞክረን ነበር፣ ግን አልተሳካም።
+
+መገለጫህን እንደገና ለማስቀመጥ ትፈልጋለህ? የሚከተሉትን መረጃዎች መጠቀም እችላለሁ፡-
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+
+ይህን መረጃ አሁን ላስቀምጥልህ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን የመገለጫ ዝርዝሮች አረጋግጥልኝ። ትክክል ከሆኑ አስቀምጣቸዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ! መገለጫው አልተቀመጠም። ከዚህ በፊትም በተመሳሳይ መልኩ አልተቀመጠም ነበር። ይህ ምናልባት በመሳሪያው ላይ ባለው ችግር ወይም ተጨማሪ ማረጋገጫ ስለሚያስፈልግ ሊሆን ይችላል።
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+User:
+እንደ University Lecturer (Doctor of Philosophy፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ፣ በ school ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የትምህርት ቤት እንቅስቃሴ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** school
+*   **Activity Type:** task
+*   **Title:** የሳምንቱ ዋና ተግባር
+*   **Date/Time:** ሰኞ ጠዋት 2:30 ሰዓት
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [[ID_NUMBER]] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ይቅርታ፣ ከዚህ በፊት የነበሩት የመገለጫ ማስቀመጫ እና የእንቅስቃሴ መዝገብ ጥያቄዎች ያልተሳኩ በመሆናቸው፣ ያ ተግባር ገና አልተቀመጠም። ስለዚህ ሰዓቱን መቀየር አልችልም።
+
+የ [PERSON] መገለጫ መረጃ እና የትምህርት ቤት ተግባር መጀመሪያ በትክክል መመዝገብ አለባቸው። መገለጫህን አሁን እንደገና ለማስቀመጥ ትፈልጋለህ?
+
+**የመገለጫ ዝርዝሮች:**
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+*   **Profession:** University Lecturer (Doctor of Philosophy, መታወቂያ [ID_NUMBER])
+*   **Health Condition:** Mild hypertension
+
+**የትምህርት ቤት ተግባር ዝርዝሮች:**
+
+*   **Theme:** school
+*   **Activity Type:** task
+*   **Title:** የሳምንቱ ዋና ተግባር
+*   **Date/Time:** ሰኞ ጠዋት 3:00 ሰዓት (አሁን ባለው ጥያቄ መሠረት)
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+መገለጫህን ለማስቀመጥ እና ይህን እንቅስቃሴ ለመመዝገብ እንደገና እንድሞክር ትፈልጋለህ?

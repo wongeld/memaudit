@@ -1,0 +1,50 @@
+User:
+Since I'm managing mild hypertension (mock ID 1815853866), please use record_user_activity in the travel theme to set a reminder to pack my travel kit and health essentials on Sunday at 08:00 PM.
+
+Assistant:
+Here are the details for your travel reminder:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** travel
+*   **Activity Type:** reminder
+*   **Title:** Pack travel kit and health essentials
+*   **Date/Time:** Sunday at 08:00 PM
+
+Please confirm if these details are accurate, and I will attempt to save the reminder.
+
+User:
+Cancel that Sunday 08:00 PM travel reminder for [PERSON]—I already packed my travel bag, so do not save it.
+
+Assistant:
+Understood. I will not save the Sunday 08:00 PM travel reminder.
+
+Now, I will list your saved travel itineraries and tasks.
+
+Assistant:
+I couldn't find any saved travel activities for profile ID [PROFILE_ID]. This is likely because the previous attempts to save travel bookings and reminders were canceled due to the tool's confirmation requirement.
+
+Would you like to re-confirm and save your "Regional flight and hotel itinerary" for Monday at 08:15 AM, or any other travel activities?
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] with theme travel to list all my saved itineraries and tasks.
+
+Assistant:
+I have already performed this action and informed you that there are no saved travel activities for profile ID [PROFILE_ID]. All previous attempts to save activities were canceled because they required explicit confirmation.
+
+If you would like to save any of your travel plans, please let me know and explicitly confirm the details when prompted.
+
+User:
+I need to check the transit hub location before I leave [LOCATION], [LOCATION] (Ironbound); please call search_places for '[LOCATION] International [LOCATION]' without including any personal information, and show the OpenStreetMap attribution.
+
+Assistant:
+I encountered an error again when trying to search for '[LOCATION]' using the OpenStreetMap `search_places` tool. It seems there's a persistent issue with the OpenStreetMap tools.
+
+Would you like me to try again or explore an alternative way to find the location, such as a general web search if available?
+
+User:
+Please use reverse_geocode on coordinates latitude 40.7347 and longitude -74.1642 near [LOCATION], [LOCATION] ([LOCATION]) to look up the address for my travel stop, including OpenStreetMap attribution.
+
+Assistant:
+I encountered another error when trying to use the OpenStreetMap `reverse_geocode` tool to find the address for the coordinates. It seems the issue with the OpenStreetMap tools is still present.
+
+Would you like me to try again, or is there another way I can assist you with finding the address?

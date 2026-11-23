@@ -1,0 +1,6 @@
+* Wasifu na mawasiliano: [PERSON] anatumia kitambulisho cha wasifu [PROFILE_ID], nambari ya simu [PHONE], na barua pepe [EMAIL].
+* Afya: Ana hali ya kiafya ya Mild hypertension inayopaswa kuzingatiwa anapofanya kazi.
+* Ratiba ya kazi: Ana kikumbusho cha kupitia barua pepe siku ya Alhamisi saa 8:00 mchana.
+* Mipango ya kazi: Ana nafasi iliyowekwa (booking) ya chumba cha mikutano ya kikazi huko [LOCATION], [LOCATION] ([LOCATION]) siku ya Ijumaa saa 5:00 asubuhi.
+* Vifaa na manunuzi: Ana mpango wa kununua vifaa vya ofisi na majalada ya kazi katika eneo la [LOCATION], [LOCATION] ([LOCATION]).
+* Mapendeleo: Hupendelea kuonyeshwa muhtasari au maelezo kamili ili athibitishe kabla ya kumbukumbu kuhifadhiwa.

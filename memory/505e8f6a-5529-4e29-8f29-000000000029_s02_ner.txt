@@ -1,0 +1,4 @@
+* User's name is [PERSON].
+* User is managing type 2 diabetes.
+* User is currently involved in professional work at [ORGANIZATION] located in [LOCATION], [LOCATION] (Ironbound).
+* User frequently manages professional commitments and off-site meetings.

@@ -1,0 +1,66 @@
+User:
+I'm [PERSON] (profile_id: [[ID_NUMBER]]), a 46-year-old Family Mediation Counselor in [LOCATION], [LOCATION] ([LOCATION]) (married with two children, Bachelor of Laws); please use get_user_profile to retrieve my saved profile before we organize my family schedule.
+
+Assistant:
+It appears that no profile is currently saved for [PERSON] with profile ID [[ID_NUMBER]]. We previously encountered some cancellations when trying to save your profile and activities.
+
+Would you like me to try saving your contact profile again with the details you provided earlier?
+
+User:
+Please save or update my profile with save_user_profile: profile_id [[ID_NUMBER]], first_name Arthur, last_name Pendleton, mobile_phone [PHONE], email [EMAIL], country [LOCATION]; show me all values to confirm before writing.
+
+Assistant:
+I am going to save the following user profile. Please confirm that the details are correct.
+
+**Profile ID**: [[ID_NUMBER]]
+**First Name**: Arthur
+**Last Name**: Pendleton
+**Mobile Phone**: [PHONE]
+**Email**: [EMAIL]
+**Country**: [LOCATION]
+
+Is this correct?
+
+User:
+Yes, I confirm the profile information for [PERSON] and mobile phone [PHONE]—please save it.
+
+Assistant:
+The profile save operation was cancelled again, and no profile was saved. This is the third time this has happened.
+
+I will try to save your profile one more time. If it fails again, there might be an underlying issue with the `save_user_profile` tool that needs to be investigated.
+
+Do you want me to attempt saving your profile with the same details one last time?
+
+User:
+Because I'm married with two children and managing type 2 diabetes, please use record_user_activity under the family theme to schedule an appointment for a family wellness and check-in visit in [LOCATION], [LOCATION] ([LOCATION]) on Saturday at 10:00 AM for [PERSON] ([PHONE]).
+
+Assistant:
+I'm going to save a new family appointment with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [[ID_NUMBER]]
+**Theme**: Family
+**Activity Type**: Appointment
+**Title**: Family wellness and check-in visit
+**Date/Time**: Saturday at 10:00 AM
+**Location**: [LOCATION], [LOCATION] ([LOCATION])
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+Is this correct?
+
+User:
+Please correct the time of that Saturday family appointment to 10:45 AM for profile_id [[ID_NUMBER]], and repeat the full details for [PERSON] ([PHONE]) for my confirmation.
+
+Assistant:
+I'm going to save a new family appointment with the following updated details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [[ID_NUMBER]]
+**Theme**: Family
+**Activity Type**: Appointment
+**Title**: Family wellness and check-in visit
+**Date/Time**: Saturday at 10:45 AM
+**Location**: [LOCATION], [LOCATION] ([LOCATION])
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+Is this correct?

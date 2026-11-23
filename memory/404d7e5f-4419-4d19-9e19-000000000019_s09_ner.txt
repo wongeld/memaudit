@@ -1,0 +1,6 @@
+- Mtumiaji anajihusisha na shughuli za kuboresha afya na lishe.
+- Anapanga ratiba ya kila siku kwa kutumia shajara ya kupanga siku.
+- Anafanya mazoezi ya afya mara kwa mara.
+- Anashirikiana na [PERSON] (simu +255605567258) kwa ajili ya ukaguzi wa afya, ushauri wa lishe, na mazoezi.
+- Shughuli zake zote hufanyika katika eneo la [LOCATION], [LOCATION] (Njiro).
+- Anatumia mfumo wa `daily_planning` kuhifadhi miadi, orodha ya manunuzi, na nafasi za mazoezi.

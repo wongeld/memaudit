@@ -1,0 +1,5 @@
+- Mtumiaji ana hali ya afya ya "Mild hypertension".
+- Mtumiaji anahitaji vikumbusho vya kila siku saa 12:30 jioni kwa ajili ya kuandaa chakula bora cha familia kinachozingatia hali hiyo ya afya.
+- [PERSON] (simu: [PHONE]) ndiye mtu anayehusika na kuandaa chakula hicho cha familia.
+- Mtumiaji anapenda kupanga matembezi ya familia katika eneo la [LOCATION].
+- Mtumiaji anatumia `profile_id` [[ID_NUMBER]] kwa shughuli zake za kifamilia.

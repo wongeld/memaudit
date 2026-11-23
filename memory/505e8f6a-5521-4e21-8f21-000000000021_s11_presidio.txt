@@ -1,0 +1,5 @@
+- User is [PERSON] ([EMAIL]).
+- User is in good health with no chronic conditions.
+- User is currently managing professional commitments in [LOCATION], [LOCATION] ([LOCATION]).
+- User has an upcoming off-site professional meeting.
+- User is interested in looking up specific locations and street addresses near their work area using OpenStreetMap.

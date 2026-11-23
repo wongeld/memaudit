@@ -1,0 +1,98 @@
+[
+{
+"start": 11,
+"end": 22,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 37,
+"end": 48,
+"label": "ID_NUMBER",
+"text": "40553593576"
+},
+{
+"start": 182,
+"end": 186,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 188,
+"end": 193,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 195,
+"end": 201,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 695,
+"end": 699,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 701,
+"end": 706,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 708,
+"end": 714,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 720,
+"end": 731,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1724,
+"end": 1738,
+"label": "ORGANIZATION",
+"text": "Kangaru School"
+},
+{
+"start": 1739,
+"end": 1743,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1996,
+"end": 2010,
+"label": "ORGANIZATION",
+"text": "Kangaru School"
+},
+{
+"start": 2011,
+"end": 2015,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2203,
+"end": 2207,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2209,
+"end": 2214,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2216,
+"end": 2222,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

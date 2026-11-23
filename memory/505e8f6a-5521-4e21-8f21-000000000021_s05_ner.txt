@@ -1,0 +1,5 @@
+- User's name is [PERSON] (ID 3833758790).
+- The user is planning a family gathering/outing in [LOCATION], [LOCATION] (Back [LOCATION]).
+- The user intends to review their household budget and family calendar next week.
+- The user prefers to use tools like `search_places` and `reverse_geocode` for planning activities.
+- The user is mindful of OpenStreetMap attribution requirements.

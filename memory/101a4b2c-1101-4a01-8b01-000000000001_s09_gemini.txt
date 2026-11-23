@@ -1,0 +1,5 @@
+* Anasimamia ratiba na mipango ya kila siku ya [PERSON] (profile_id [[ID_NUMBER]], simu: [PHONE]).
+* [PERSON] ana tatizo la kiafya la mizio ya msimu (Mild seasonal allergic rhinitis).
+* Ana miadi ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri huko [LOCATION] ([LOCATION]).
+* Hufanya manunuzi ya shajara ya ratiba na mahitaji au vyakula vya afya huko [LOCATION] ([LOCATION]).
+* Ana ratiba ya kufanya mazoezi ya afya Jumamosi saa 2:00 asubuhi huko [LOCATION] ([LOCATION]).

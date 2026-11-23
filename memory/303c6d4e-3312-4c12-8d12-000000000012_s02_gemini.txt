@@ -1,0 +1,4 @@
+* የተጠቃሚው Profile ID [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ([LOCATION]) ሊያደርግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ጊዜ አሸጋግሮታል።
+* በ[LOCATION] ([LOCATION]) አካባቢ (በተለይም latitude 9.0158፣ longitude 38.7712) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይላክ የሚፈልግ ሲሆን የ OpenStreetMap attribution እንዲካተት ያሳስባል።

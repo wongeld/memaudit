@@ -1,0 +1,5 @@
+* Anasimamia shughuli na ratiba za daily_planning kwa ajili ya [PERSON] (Profile ID: [PROFILE_ID], simu: +254120283012).
+* Ana mpango wa ukaguzi wa afya na ushauri wa lishe uliopangwa kufanyika tarehe [DATE] huko [LOCATION].
+* Anashughulikia mahitaji ya afya yanayohusiana na Kisukari cha Aina ya 2 (Type 2 diabetes).
+* Anahitaji kununua shajara ya ratiba ya kila siku na vyakula/mahitaji ya afya huko [LOCATION].
+* Ana ratiba ya mazoezi ya afya tarehe [DATE] huko [LOCATION].

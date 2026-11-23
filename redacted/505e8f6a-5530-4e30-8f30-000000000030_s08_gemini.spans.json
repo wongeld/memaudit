@@ -1,0 +1,158 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 33,
+"end": 43,
+"label": "ID_NUMBER",
+"text": "2618018820"
+},
+{
+"start": 51,
+"end": 80,
+"label": "EMAIL",
+"text": "julian.brooks+030@outlook.com"
+},
+{
+"start": 209,
+"end": 215,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 217,
+"end": 230,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 232,
+"end": 241,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 334,
+"end": 347,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 590,
+"end": 596,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 598,
+"end": 611,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 613,
+"end": 622,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 646,
+"end": 659,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 682,
+"end": 694,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 1415,
+"end": 1428,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1744,
+"end": 1757,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2003,
+"end": 2009,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2011,
+"end": 2024,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2026,
+"end": 2035,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2069,
+"end": 2083,
+"label": "LOCATION",
+"text": "Hancock Center"
+},
+{
+"start": 2084,
+"end": 2093,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2094,
+"end": 2100,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2238,
+"end": 2252,
+"label": "LOCATION",
+"text": "Hancock Center"
+},
+{
+"start": 2253,
+"end": 2262,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2263,
+"end": 2269,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3075,
+"end": 3081,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3083,
+"end": 3096,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3098,
+"end": 3107,
+"label": "LOCATION",
+"text": "Hyde Park"
+}
+]

@@ -1,0 +1,45 @@
+User:
+በ family ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ረቡዕ ከሰዓት 8:00 ላይ በ[LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]
+*   **date\_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [PROFILE_ID] በ 'family' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በ[LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በ[LOCATION]) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።

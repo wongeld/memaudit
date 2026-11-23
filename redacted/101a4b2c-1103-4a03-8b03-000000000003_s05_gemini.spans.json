@@ -1,0 +1,134 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 40,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "40472954411"
+},
+{
+"start": 185,
+"end": 193,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 195,
+"end": 200,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 202,
+"end": 208,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 251,
+"end": 257,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 807,
+"end": 815,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 817,
+"end": 822,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 824,
+"end": 830,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 860,
+"end": 871,
+"label": "ID_NUMBER",
+"text": "40472954411"
+},
+{
+"start": 1082,
+"end": 1088,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1315,
+"end": 1321,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1804,
+"end": 1824,
+"label": "ORGANIZATION",
+"text": "Kakamega High School"
+},
+{
+"start": 1920,
+"end": 1926,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1941,
+"end": 1961,
+"label": "ORGANIZATION",
+"text": "Kakamega High School"
+},
+{
+"start": 2238,
+"end": 2244,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2354,
+"end": 2374,
+"label": "ORGANIZATION",
+"text": "Kakamega High School"
+},
+{
+"start": 2605,
+"end": 2613,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2615,
+"end": 2620,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2622,
+"end": 2628,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2689,
+"end": 2695,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3090,
+"end": 3096,
+"label": "PERSON",
+"text": "Daniel"
+}
+]

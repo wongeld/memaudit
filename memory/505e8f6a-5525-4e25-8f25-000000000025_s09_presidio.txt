@@ -1,0 +1,5 @@
+- Manages mild asthma and is interested in health supplies for this condition.
+- Routinely plans activities for [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]).
+- Schedules wellness checkups and fitness/stretching sessions in [LOCATION].
+- Uses a daily planner notebook and tracks hydration.
+- Engages with [ORGANIZATION] for health or planning needs.

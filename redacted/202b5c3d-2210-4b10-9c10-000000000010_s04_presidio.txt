@@ -1,0 +1,52 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [PROFILE_ID])፤ [LOCATION], [LOCATION]) የምኖር [DATE] Family Mediation Counselor (Bachelor of Laws፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የDawit [PERSON] (profile_id: [PROFILE_ID]) መገለጫ ስላላገኘሁ፣ አዲስ ለመፍጠር የሞባይል ስልክ ቁጥር ያስፈልገኛል። እባክህ የሞባይል ስልክ ቁጥርህን አስገባ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **ስም**: [PERSON]   **ስልክ**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+*   **ሀገር**: [LOCATION]   **ቋንቋ**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+የDawit [PERSON] መገለጫ አልተቀመጠም። ምንም መገለጫ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+እንደ Family Mediation Counselor (Bachelor of Laws፣ መታወቂያ 3920974306) እና ሙሉ ጤነኛ ስለሆንኩ፣ በ daily_planning ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] ([PERSON]) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የሳምንቱ ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: [PHONE]
+
+ይህንን ተግባር ላስቀምጥ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እሺ፣ የጊዜ ለውጡን አስተካክዬአለሁ። እባክህ [PERSON] (profile_id: [PROFILE_ID]) ሙሉ መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: [DATE] ዋና ተግባር
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ተግባር (task)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: [PHONE]
+
+ይህንን ተግባር ላስቀምጥ?

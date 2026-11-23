@@ -1,0 +1,64 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [PROFILE_ID])፤ [LOCATION], [LOCATION] (Yeka) የምኖር [DATE] University Lecturer (Doctor of Philosophy፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+It seems there is no saved profile for the given `profile_id`. Would you like to create one now? I can use the information you provided:
+
+*   **First Name:** [PERSON]   **Last Name:** [PERSON]   **Country:** [LOCATION]   **City:** [LOCATION]   **District:** [LOCATION]   **Profession:** University Lecturer (Doctor of Philosophy)
+*   **Marital Status:** Married with two children
+*   **Age:** [DATE]   **Profile ID:** [PROFILE_ID]
+
+Please note that `save_user_profile` only accepts `first_name`, `last_name`, `mobile_phone`, `country`, `email`, and `preferred_language`. I will need a mobile phone number to create the profile.
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን የመገለጫ ዝርዝሮች አረጋግጥልኝ። ትክክል ከሆኑ አስቀምጣቸዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **First Name:** [PERSON]   **Last Name:** [PERSON]   **Mobile Phone:** [PHONE]
+*   **Email:** [PERSON]   **Country:** [LOCATION]   **Preferred Language:** አማርኛ
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ! መገለጫው አልተቀመጠም። ምናልባት ማረጋገጫውን እንደገና እንድሰጥ ሊጠይቀኝ ይችላል። እባክህ እንደገና እንድሞክር ትፈልጋለህ?
+
+User:
+እንደ University Lecturer (Doctor of Philosophy፣ መታወቂያ 3923122090) እና የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የሥራ እንቅስቃሴ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** የሳምንቱ ዋና ተግባር
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION] (Yeka)
+*   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተሉትን የመገለጫ እና የእንቅስቃሴ ዝርዝሮች አረጋግጥልኝ። ትክክል ከሆኑ፣ አዲሱን የጊዜ ሰሌዳ አስመዝገብኩ።
+
+**የመገለጫ ዝርዝሮች:**
+
+*   **Profile ID:** [PROFILE_ID]
+*   **First Name:** [PERSON]   **Last Name:** [PERSON]   **Mobile Phone:** [PHONE]
+*   **Email:** [PERSON]   **Country:** [LOCATION]   **Preferred Language:** አማርኛ
+*   **Profession:** University Lecturer (Doctor of Philosophy, መታወቂያ 3923122090)
+*   **Health Condition:** Mild hypertension
+
+**የሥራ እንቅስቃሴ ዝርዝሮች:**
+
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** [DATE] ዋና ተግባር
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION] (Yeka)
+*   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?

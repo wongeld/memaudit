@@ -1,0 +1,51 @@
+User:
+I'm [PERSON] (profile_id: [PROFILE_ID]), a 46-year-old Family Mediation Counselor living in [LOCATION], [LOCATION] ([ORGANIZATION]) with a Bachelor of Laws; please call get_user_profile to check if my local contact profile is already saved.
+
+Assistant:
+No saved profile found for [PERSON].
+
+User:
+Please save my contact profile using save_user_profile with profile_id [PROFILE_ID], first_name [PERSON], last_name [PERSON], mobile_phone +19832584476, email arthur.pendleton+029@gmail.com, country [LOCATION], and preferred_language English, and show me the exact details to confirm first.
+
+Assistant:
+I am going to save the following user profile. Please confirm that the details are correct.
+
+**Profile ID**: [PROFILE_ID]
+**First Name**: [PERSON]
+**Last Name**: [PERSON]
+**Mobile Phone**: +19832584476
+**Email**: arthur.pendleton+029@gmail.com
+**Country**: [LOCATION]
+**Preferred Language**: English
+
+Is this correct?
+
+User:
+Yes, those profile details for [PERSON] with mobile phone +19832584476 are completely accurate—please go ahead and save them.
+
+Assistant:
+It appears that the profile save operation was cancelled and no profile was saved, despite your confirmation.
+
+Would you like me to try saving the profile again, or would you like to make any changes to the details before attempting to save again?
+
+User:
+As a Family Mediation Counselor in [LOCATION], [LOCATION] (Ironbound) (state-ID-style mock 9324530935, married with two children), I want to use record_user_activity under the work theme to log a task titled 'Prepare Quarterly Family Mediation Counselor Briefing' for Monday at 09:00 AM with contact [PERSON] [PERSON] (+19832584476).
+
+Assistant:
+It seems the activity was not saved due to a cancellation. Would you like to try saving the task "Prepare Quarterly Family Mediation Counselor Briefing" again with the same details, or would you like to make any changes?
+
+User:
+Actually, please update the time on that work task to Monday at 09:30 AM for profile_id [PROFILE_ID], and repeat all submitted fields including [PERSON] and +19832584476 so I can confirm before saving.
+
+Assistant:
+I am going to save a new work task with the following details for profile ID [PROFILE_ID]. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Task
+**Title**: Prepare Quarterly Family Mediation Counselor Briefing
+**Date/Time**: Monday at 09:30 AM
+**Contact Name**: [PERSON]
+**Mobile Phone**: +19832584476
+
+Is this correct?

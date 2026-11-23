@@ -1,0 +1,40 @@
+User:
+I'm [PERSON] (mock ID 9324530935, email arthur.pendleton+029@gmail.com), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] ([LOCATION]) at 06:30 PM.
+
+Assistant:
+I'm going to save a new daily planning task with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Daily Planning
+**Activity Type**: Task
+**Title**: Evening meal prep and next-day prioritization
+**Date/Time**: 06:30 PM
+**Location**: [LOCATION], [LOCATION] ([LOCATION])
+**Contact Name**: [PERSON]
+**Mobile Phone**: +19832584476
+
+Is this correct?
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([LOCATION]), so do not save it.
+
+Assistant:
+Understood. The daily planning task for "Evening meal prep and next-day prioritization" for 06:30 PM was not saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+It appears there are no activities saved under the "daily_planning" theme for your profile. This is likely because the previous attempts to save activities were cancelled.
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] ([LOCATION]); please call search_places for '[LOCATION] Penn Station' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I encountered an error when trying to search for '[LOCATION] Penn Station' using OpenStreetMap. It seems there was an issue executing the `search_places` tool, which has been a recurring problem with the OpenStreetMap tools.
+
+User:
+Please call reverse_geocode for coordinates latitude 40.7282 and longitude -74.1502 in [LOCATION], [LOCATION] ([ORGANIZATION]) to verify the street address on my route, with OpenStreetMap attribution.
+
+Assistant:
+I encountered another error when trying to reverse geocode the coordinates 40.7282, -74.1502 using [ORGANIZATION]. It appears there's a persistent issue executing the `reverse_geocode` tool, similar to the previous attempts. It seems the OpenStreetMap tools are currently not functioning as expected.

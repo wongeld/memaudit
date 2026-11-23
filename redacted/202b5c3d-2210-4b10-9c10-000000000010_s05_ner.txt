@@ -1,0 +1,44 @@
+User:
+በ daily_planning ሥር ለ [PERSON] (+251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com) [DATE] ላይ [LOCATION], [LOCATION] ([LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION] ([LOCATION]   **ስልክ**: +251960170802
+*   **ኢሜይል**: dawit.mekonnen+010@gmail.com
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id [PROFILE_ID] በ daily_planning ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በBahir [LOCATION] ([LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION] [LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+በBahir [LOCATION] ([LOCATION]) አካባቢ '[ORGANIZATION] [LOCATION]' የሚለውን ቦታ ለመፈለግ እሞክራለሁ። ከዚህ በፊት ይህ መሳሪያ ችግር ነበረበት፣ ግን እንደገና እሞክረዋለሁ።
+
+Assistant:
+አሁንም [ORGANIZATION] በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ '[ORGANIZATION] [LOCATION]' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude [LOCATION] እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+በBahir [LOCATION]) የሚገኘውን የ latitude [LOCATION] እና longitude [LOCATION] አድራሻ በ reverse_geocode ለመፈለግ እንደገና እሞክራለሁ።
+
+Assistant:
+አሁንም [ORGANIZATION] በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።

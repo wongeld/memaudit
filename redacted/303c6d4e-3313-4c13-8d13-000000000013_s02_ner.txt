@@ -1,0 +1,40 @@
+User:
+በ work ሥር ለ [PERSON] (+251940072829፣ ኢሜይል tigist.hailu+013@gmail.com) [DATE] ላይ [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] (profile_id: [PROFILE_ID]) በ work ዘርፍ የምክክር ቀጠሮ (appointment) [DATE] ላይ በ [LOCATION]) እንዲመዘገብልኝ ጠይቀዋል።
+
+የቀጠሮው ዝርዝሮች እነሆ፦
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: appointment
+*   **Title**: የምክክር ቀጠሮ
+*   **Date/Time**: [DATE]   **Location**: [LOCATION]   **Contact Name**: [PERSON]   **Mobile Phone**: +251940072829
+*   **Notes**: ኢሜይል: tigist.hailu+013@gmail.com
+
+ይህን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ተሰርዟል፣ ምንም ነገር አልተቀመጠም። ሌላ ልረዳህ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ work ዘርፍ ለ profile\_id [PROFILE_ID] ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በMekelle, [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ቦታውን ፍለጋ ላይ ችግር አጋጥሟል። እባክህ ቆይተህ እንደገና ሞክር።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ የጂኦኮድ ፍለጋውን ለማከናወን ችግር አጋጥሞኛል። እባክህ ቆይተህ እንደገና ሞክር።

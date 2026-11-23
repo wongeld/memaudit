@@ -1,0 +1,140 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 209,
+"end": 215,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 217,
+"end": 230,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 232,
+"end": 241,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 334,
+"end": 347,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 590,
+"end": 596,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 598,
+"end": 611,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 613,
+"end": 622,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 646,
+"end": 659,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1415,
+"end": 1428,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1744,
+"end": 1750,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 2003,
+"end": 2009,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2011,
+"end": 2024,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2026,
+"end": 2035,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2077,
+"end": 2100,
+"label": "LOCATION",
+"text": "Center Hyde Park Austin"
+},
+{
+"start": 2238,
+"end": 2245,
+"label": "ORGANIZATION",
+"text": "Hancock"
+},
+{
+"start": 2246,
+"end": 2269,
+"label": "LOCATION",
+"text": "Center Hyde Park Austin"
+},
+{
+"start": 2453,
+"end": 2466,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2649,
+"end": 2658,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 3075,
+"end": 3081,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3083,
+"end": 3096,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3098,
+"end": 3107,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3173,
+"end": 3186,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

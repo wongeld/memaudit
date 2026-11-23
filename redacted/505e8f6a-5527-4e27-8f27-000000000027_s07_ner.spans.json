@@ -1,0 +1,170 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 92,
+"end": 99,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 101,
+"end": 114,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 116,
+"end": 128,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 345,
+"end": 361,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 803,
+"end": 810,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 822,
+"end": 830,
+"label": "PERSON",
+"text": "Halstead"
+},
+{
+"start": 905,
+"end": 918,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1179,
+"end": 1186,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 1198,
+"end": 1206,
+"label": "LOCATION",
+"text": "Halstead"
+},
+{
+"start": 1281,
+"end": 1294,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1735,
+"end": 1742,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 1851,
+"end": 1867,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2431,
+"end": 2438,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2440,
+"end": 2453,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2455,
+"end": 2467,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2497,
+"end": 2513,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2594,
+"end": 2610,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2794,
+"end": 2810,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2848,
+"end": 2855,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2857,
+"end": 2870,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2872,
+"end": 2884,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3271,
+"end": 3287,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 3431,
+"end": 3438,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 4173,
+"end": 4189,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 4227,
+"end": 4234,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 4236,
+"end": 4249,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4251,
+"end": 4263,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

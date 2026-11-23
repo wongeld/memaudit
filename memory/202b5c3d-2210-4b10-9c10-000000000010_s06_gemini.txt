@@ -1,0 +1,5 @@
+* ሙሉ ጤነኛ እንደሆነ እና የ Family Mediation Counselor ሥራ እንዳለው ገልጿል።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ነው ("Married with two children")።
+* ከ [PERSON] (profile_id: [[ID_NUMBER]]፣ ስልክ: [PHONE]) ጋር የተያያዙ የዕለት ተዕለት ዕቅዶችን እና ማስታወሻዎችን ይከታተላል።
+* በ[LOCATION] ([LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) የማከናወን ዕቅድ አለው።
+* ለቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION] ([LOCATION]) የአገልግሎት ወይም የቦታ ማስያዝ (booking) ዕቅድ አለው።

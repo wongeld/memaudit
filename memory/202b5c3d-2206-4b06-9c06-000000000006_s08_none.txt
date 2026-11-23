@@ -1,0 +1,5 @@
+* ስም፡ Dereje Diriba፣ ስልክ ቁጥር፡ +251996949340፣ ኢሜይል፡ dereje.diriba+006@gmail.com
+* የprofile_id መለያ ቁጥሩ [PROFILE_ID] ነው
+* በAddis Ababa, Ethiopia (Bole) በተለይም ቦሌ መድኃኔዓለም (Bole Medhanialem) አካባቢ (latitude 8.9972, longitude 38.7869) ፍላጎት/ጉዳይ አለው
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል
+* በAddis Ababa (Bole) ሊያደርገው የነበረውን የረቡዕ ከሰዓት 8:00 የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፎታል

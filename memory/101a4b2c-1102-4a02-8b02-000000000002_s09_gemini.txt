@@ -1,0 +1,6 @@
+* Anatumia profile_id [[ID_NUMBER]] chini ya jina la mawasiliano [PERSON] na nambari ya simu [PHONE].
+* Anafuatilia masuala ya afya na lishe yanayohusiana na ugonjwa wa kisukari (Type 2 diabetes).
+* Ana ratiba ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapanga kununua shajara ya ratiba ya kila siku pamoja na mahitaji ya afya kwa ajili ya Type 2 diabetes huko [LOCATION], [LOCATION] ([LOCATION]).
+* Amepanga muda wa mazoezi ya afya Jumamosi saa 2:00 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]).
+* Hutumia kitengo cha daily_planning kuweka miadi, orodha ya ununuzi, na kuratibu mazoezi.

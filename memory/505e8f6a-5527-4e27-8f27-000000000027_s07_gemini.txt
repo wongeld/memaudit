@@ -1,0 +1,8 @@
+- Name: Gregory Halstead
+- Age: 49
+- Occupation: Retail Import Buyer
+- Education: Bachelor of Commerce
+- Family: Married with three children
+- Health: Managing mild hypertension
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Contact: [PHONE], [EMAIL]

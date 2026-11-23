@@ -1,0 +1,5 @@
+- The user is married with three children.
+- The user is managing mild hypertension and prefers healthy family meals.
+- The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations, for [PERSON] ([PHONE]).
+- The user resides in or frequents [LOCATION].
+- The user is aware of a persistent technical issue preventing the `record_user_activity` tool from successfully saving data.

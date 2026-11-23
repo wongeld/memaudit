@@ -1,0 +1,5 @@
+* Mtumiaji anaishi na hali ya Type 2 diabetes na anahitaji kukumbushwa kuzingatia afya yake wakati wa kazi.
+* Anafanya kazi na [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) kwa masuala yanayohusiana na "work".
+* Anajihusisha na shughuli za ofisi kama vile mikutano na ununuzi wa vifaa vya ofisi na majalada.
+* Anatumia [LOCATION] kama eneo la kufanyia mikutano na ununuzi wa vifaa vya kazi.
+* Anapendelea kupitia barua pepe ([EMAIL]) kama sehemu ya utaratibu wake wa kazi.

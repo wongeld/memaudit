@@ -1,0 +1,5 @@
+* Mtumiaji ana mwanafamilia anayeitwa [PERSON] (namba ya simu [PHONE], profile_id [[ID_NUMBER]]).
+* [PERSON] ana hali ya Type 2 diabetes, hivyo mtumiaji anazingatia sana lishe bora na vyakula vya afya.
+* Mtumiaji anapanga ratiba za familia, ikiwemo ununuzi wa mahitaji ya nyumbani na zawadi huko [LOCATION].
+* Mtumiaji anapanga chakula cha mchana cha familia kila Jumapili saa 7:30 mchana huko [LOCATION].
+* Mtumiaji anahitaji usaidizi wa kukumbushwa kuandaa chakula kinachofaa kwa ugonjwa wa kisukari kila jioni saa 12:30.

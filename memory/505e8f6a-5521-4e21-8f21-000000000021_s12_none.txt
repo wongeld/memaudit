@@ -1,0 +1,5 @@
+- The user is a Child Psychologist based in the Back Bay area of Boston, United States.
+- The user is identified as James Bosse (profile_id [PROFILE_ID], mobile_phone +17427416378).
+- The user has no chronic health conditions.
+- The user has a weekly work routine of submitting departmental metrics and taking a break every Friday at 04:00 PM.
+- The user requires ergonomic office supplies and reference materials for their professional role.

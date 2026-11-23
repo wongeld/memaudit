@@ -1,0 +1,65 @@
+User:
+Rekodi miadi (appointment) kwenye mada ya travel kwa [PERSON] (profile_id [PROFILE_ID], simu [PHONE]) ya kukutana na mshirika wa safari na usafirishaji [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: appointment
+Kichwa: Kukutana na mshirika wa safari na usafirishaji
+Muda: [DATE] la Anwani: mshirika wa safari na usafirishaji
+Simu ya Mkononi: [PHONE]
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] ([PHONE]), tafadhali ihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: appointment
+Kichwa: Kukutana na mshirika wa safari na usafirishaji
+Muda: [DATE] la Anwani: mshirika wa safari na usafirishaji
+Simu ya Mkononi: [PHONE]
+
+User:
+Naomba urekodi kazi (task) kwenye mada ya travel kwa [PERSON] ([PHONE]) ya kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] (Mikocheni); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kuhifadhi kazi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: task
+Kichwa: Kuhakiki ratiba ya hoteli na bajeti ya safari
+Mahali: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: [PHONE]
+
+User:
+Samahani, ongeza kwenye maelezo (notes) kuwa safari hiyo inahusisha siku 4 za kazi kwa [PERSON] ([PHONE]), kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi kazi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: task
+Kichwa: Kuhakiki ratiba ya hoteli na bajeti ya safari
+Mahali: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: [PHONE]
+Maelezo: safari hiyo inahusisha siku 4 za kazi
+
+User:
+Rekodi shopping_item kwenye mada ya travel kwa [PERSON] ([PHONE]) ya kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] (Mikocheni), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: shopping_item
+Kichwa: kununua begi la safari na vifaa vya huduma ya kwanza
+Mahali: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: [PHONE]

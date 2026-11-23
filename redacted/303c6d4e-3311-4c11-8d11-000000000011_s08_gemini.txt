@@ -1,0 +1,46 @@
+User:
+በ family ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ረቡዕ ከሰዓት 8:00 ላይ በ[LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] የምክክር ቀጠሮ ዝርዝሮች እነሆ። እባክህ ቀጠሮው ያለበትን ትክክለኛ ቀን አረጋግጥ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ረቡዕ ከሰዓት 8:00 (ይህ ማለት ከምሽቱ 2 ሰዓት ማለት ነው?)
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ለ [PERSON] የረቡዕ 8:00 ሰዓት ቀጠሮ ተሰርዟል፣ እና ምንም ነገር አልተመዘገበም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id [PROFILE_ID] በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+ከዚህ ቀደም የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን እንድትሰጠኝ ጠይቄህ ነበር። እንዲሁም የምክክር ቀጠሮውን ሰርዘኸዋል። ስለዚህ፣ እስካሁን ምንም አይነት ተግባራት አልተመዘገቡም።
+
+User:
+በ[LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ በOpenStreetMap ላይ '[LOCATION]' የሚለውን ቦታ ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። የOpenStreetMap መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © OpenStreetMap አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+እባክህ በ[LOCATION]) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ ጂኦኮድ (reverse geocode) ፍለጋው እንደገና አልተሳካም። የOpenStreetMap መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © OpenStreetMap አስተዋጽዖ አበርካቾች (contributors) ነው።

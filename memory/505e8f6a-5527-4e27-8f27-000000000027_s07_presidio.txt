@@ -1,0 +1,7 @@
+* Name: [PERSON]
+* Age: 49
+* Occupation: Retail Import Buyer
+* Education: Bachelor of Commerce
+* Family: Married with three children
+* Health: Manages mild hypertension
+* Location: [LOCATION], [LOCATION] ([LOCATION])

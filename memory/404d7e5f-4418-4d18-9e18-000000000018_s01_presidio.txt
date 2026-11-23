@@ -1,0 +1,6 @@
+* Mtumiaji ni [PERSON], mwenye umri wa miaka 34.
+* Ana shahada ya Bachelor of Commerce na anafanya kazi kama Retail Import Buyer huko [LOCATION], [LOCATION] (Mikocheni).
+* Kitambulisho cha wasifu wake ni [PROFILE_ID].
+* Anapanga safari za kikazi na anahitaji usaidizi wa kupanga safari hizo.
+* Maelezo ya mawasiliano yaliyohifadhiwa ni pamoja na namba ya simu [PHONE] na barua pepe [EMAIL].
+* Ana shughuli ya safari ya kikazi iliyopangwa kuanzia [DATE] kwenda [LOCATION].

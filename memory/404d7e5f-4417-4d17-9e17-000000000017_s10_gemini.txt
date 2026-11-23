@@ -1,0 +1,6 @@
+- Jina la mtumiaji ni [PERSON] (Sheila Sifuna).
+- Ana umri wa miaka 41.
+- Ana elimu ya Master of Business Administration (MBA).
+- Anafanya kazi kama Foreign Exchange Dealer huko [LOCATION], [LOCATION] ([LOCATION]).
+- Mawasiliano yake ni [PHONE] na [EMAIL].
+- Kitambulisho chake cha wasifu ni [[ID_NUMBER]].

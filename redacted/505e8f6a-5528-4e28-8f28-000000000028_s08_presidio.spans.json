@@ -1,0 +1,152 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 51,
+"end": 78,
+"label": "EMAIL",
+"text": "lucas.bennett+028@yahoo.com"
+},
+{
+"start": 215,
+"end": 222,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 224,
+"end": 237,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 239,
+"end": 246,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 587,
+"end": 594,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 596,
+"end": 609,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 611,
+"end": 618,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1005,
+"end": 1012,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1014,
+"end": 1027,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1029,
+"end": 1036,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1614,
+"end": 1621,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1623,
+"end": 1636,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1638,
+"end": 1645,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1687,
+"end": 1694,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1702,
+"end": 1709,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1870,
+"end": 1892,
+"label": "ORGANIZATION",
+"text": "Ballard Campus Seattle"
+},
+{
+"start": 2102,
+"end": 2115,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2246,
+"end": 2259,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2369,
+"end": 2376,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2378,
+"end": 2391,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2393,
+"end": 2400,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2449,
+"end": 2462,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2822,
+"end": 2835,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2905,
+"end": 2918,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,47 @@
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imeshindikana kutekeleza `reverse_geocode` kwa majira-nukta `latitude: -6.1731, longitude: 35.7485` kwa sababu seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva ya OpenStreetMap itakapowezeshwa na kuidhinishwa, nitaweza kutafuta anwani hiyo na kuonyesha matokeo pamoja na nukuu rasmi: **© OpenStreetMap contributors**.
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya work kwa Halima Kikwete (profile_id [PROFILE_ID], simu +255890185741) cha kupitia barua pepe (halima.kikwete+020@gmail.com) na kuzingatia hali ya Type 2 diabetes wakati wa kazi Alhamisi saa 8:00 mchana.
+
+Assistant:
+Niko tayari kurekodi kikumbusho (reminder) hicho kwenye mada ya **work**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kupitia barua pepe (halima.kikwete+020@gmail.com)
+* **Muda (Date/Time):** Alhamisi saa 8:00 mchana
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+* **Maelezo ya Ziada (Notes):** Kuzingatia hali ya Type 2 diabetes wakati wa kazi
+
+Je, maelezo haya yote ni sahihi ili nihifadhi kikumbusho hiki?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha Alhamisi saa 8:00 mchana kwa Halima Kikwete (+255890185741), tafadhali kihifadhi.
+
+Assistant:
+Nimejaribu kuhifadhi kikumbusho chako kupitia `record_user_activity`, lakini mfumo umerejesha ujumbe kuwa uhifadhi umesitishwa (`Canceled. No activity was saved.`). Hapa kuna muhtasari wa maelezo yaliyotumwa:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kupitia barua pepe (halima.kikwete+020@gmail.com)
+* **Muda (Date/Time):** Alhamisi saa 8:00 mchana
+* **Jina la Mhusika:** Halima Kikwete
+* **Simu:** `+255890185741`
+* **Maelezo (Notes):** Kuzingatia hali ya Type 2 diabetes wakati wa kazi
+
+Tafadhali nijulishe kama kuna hatua nyingine unayopenda niendelee nayo.

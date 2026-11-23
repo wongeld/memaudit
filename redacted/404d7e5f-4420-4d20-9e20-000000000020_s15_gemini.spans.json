@@ -1,0 +1,158 @@
+[
+{
+"start": 61,
+"end": 75,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 77,
+"end": 90,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 150,
+"end": 174,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 564,
+"end": 588,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 628,
+"end": 642,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 682,
+"end": 695,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 857,
+"end": 871,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 873,
+"end": 886,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 1378,
+"end": 1402,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 1442,
+"end": 1456,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1496,
+"end": 1509,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 1738,
+"end": 1762,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 1768,
+"end": 1782,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1784,
+"end": 1797,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2251,
+"end": 2275,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 2315,
+"end": 2329,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2369,
+"end": 2382,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2458,
+"end": 2472,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2560,
+"end": 2584,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania (Area C"
+},
+{
+"start": 3016,
+"end": 3030,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 3037,
+"end": 3050,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 3063,
+"end": 3091,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 3388,
+"end": 3394,
+"label": "PERSON",
+"text": "Halima"
+},
+{
+"start": 3429,
+"end": 3436,
+"label": "PERSON",
+"text": "Kikwete"
+},
+{
+"start": 3476,
+"end": 3489,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 3518,
+"end": 3546,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+}
+]

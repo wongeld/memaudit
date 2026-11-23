@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 186,
+"end": 190,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 192,
+"end": 197,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 199,
+"end": 205,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 362,
+"end": 372,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 547,
+"end": 551,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 553,
+"end": 558,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 560,
+"end": 566,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 922,
+"end": 932,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1039,
+"end": 1049,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1178,
+"end": 1199,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1334,
+"end": 1355,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1524,
+"end": 1528,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1530,
+"end": 1535,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1537,
+"end": 1543,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

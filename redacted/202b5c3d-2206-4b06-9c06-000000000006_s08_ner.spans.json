@@ -1,0 +1,128 @@
+[
+{
+"start": 28,
+"end": 41,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 92,
+"end": 105,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 109,
+"end": 121,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 123,
+"end": 137,
+"label": "LOCATION",
+"text": "Ethiopia (Bole"
+},
+{
+"start": 303,
+"end": 316,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 526,
+"end": 539,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 551,
+"end": 561,
+"label": "DATE",
+"text": "8:00 PM)\n*"
+},
+{
+"start": 578,
+"end": 589,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 591,
+"end": 608,
+"label": "LOCATION",
+"text": "Ethiopia (Bole)\n*"
+},
+{
+"start": 750,
+"end": 763,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 780,
+"end": 797,
+"label": "DATE",
+"text": "November 13, 2024"
+},
+{
+"start": 802,
+"end": 821,
+"label": "DATE",
+"text": "8:00 PM\".\n\nUser:\nአይ"
+},
+{
+"start": 823,
+"end": 837,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 933,
+"end": 950,
+"label": "DATE",
+"text": "Wednesday 8:00 PM"
+},
+{
+"start": 1367,
+"end": 1382,
+"label": "LOCATION",
+"text": "Ababa, Ethiopia"
+},
+{
+"start": 1446,
+"end": 1474,
+"label": "LOCATION",
+"text": "Bole Medhanialem Addis Ababa"
+},
+{
+"start": 1489,
+"end": 1502,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1600,
+"end": 1628,
+"label": "LOCATION",
+"text": "Bole Medhanialem Addis Ababa"
+},
+{
+"start": 1704,
+"end": 1716,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1718,
+"end": 1726,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1810,
+"end": 1823,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,4 @@
+* የመለያ ቁጥራቸው (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ school ዘርፍ በ[LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፈዋል።
+* በMekelle, [LOCATION]) አካባቢ (በተለይ [ORGANIZATION] እና በኬክሮስ 13.5078፣ ኬንትሮስ 39.4622 የሚገኝ አድራሻ) ፍላጎት አላቸው።
+* የቦታ ፍለጋ በሚደረግበት ወቅት የግል መረጃ እንዳይላክ እና የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣሉ።

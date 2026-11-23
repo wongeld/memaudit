@@ -1,0 +1,5 @@
+- User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+- User follows a routine of evening meal prep and next-day prioritization at 06:30 PM.
+- User has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- User commutes through [LOCATION], [LOCATION] ([LOCATION]) and is interested in landmarks and street addresses along this route.
+- User is currently experiencing persistent technical issues with the assistant's ability to save activities and perform location-based lookups (OpenStreetMap).

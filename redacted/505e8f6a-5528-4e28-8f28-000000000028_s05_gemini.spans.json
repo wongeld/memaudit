@@ -1,0 +1,62 @@
+[
+{
+"start": 67,
+"end": 77,
+"label": "ID_NUMBER",
+"text": "7969405462"
+},
+{
+"start": 787,
+"end": 800,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1391,
+"end": 1398,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1400,
+"end": 1413,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1415,
+"end": 1422,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1456,
+"end": 1492,
+"label": "LOCATION",
+"text": "Seattle-Tacoma International Airport"
+},
+{
+"start": 1659,
+"end": 1695,
+"label": "LOCATION",
+"text": "Seattle-Tacoma International Airport"
+},
+{
+"start": 2159,
+"end": 2166,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2168,
+"end": 2181,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2183,
+"end": 2190,
+"label": "LOCATION",
+"text": "Ballard"
+}
+]

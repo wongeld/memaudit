@@ -1,0 +1,5 @@
+* ተጠቃሚው የሆስፒታል ሐኪም (Hospital Physician) ሆኖ ይሰራል።
+* ተጠቃሚው 'Mild asthma' (ቀለል ያለ የአስም በሽታ) የጤና ሁኔታ አለበት።
+* ተጠቃሚው ያላገባ (Single) ነው።
+* የሥራ እንቅስቃሴዎችን እና ግዢዎችን የሚያከናውነው በMekelle, Ethiopia (Ayder) ውስጥ ነው።
+* ከ Bereket Tesfaye (profile_id: [PROFILE_ID]፣ ስልክ ቁጥር: +251945416026) ጋር የተያያዙ የሥራ ማስታወሻዎችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን (booking) ያከናውናል።

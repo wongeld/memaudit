@@ -1,0 +1,5 @@
+* የመገለጫ መለያ (profile_id) [PROFILE_ID] ያለው ሲሆን፣ ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር የተያያዘ መረጃ አለው።
+* በ shopping ዘርፍ የምክክር ቀጠሮዎችን ያዘጋጃል/ያስተዳድራል።
+* በAddis [LOCATION], [LOCATION] (Bole) አካባቢ (በተለይ latitude 8.9972 እና longitude 38.7869) ለጉዳዩ የሚሆን ቦታ ፍላጎት አለው።
+* ቦታዎችን ሲፈልግ የግል መረጃው ሳይላክ እንዲፈለግለት ይመርጣል።
+* የቦታ ፍለጋ ወይም የካርታ መረጃዎች ሲቀርቡለት የ [ORGANIZATION] attribution (እውቅና) እንዲካተት ይፈልጋል።

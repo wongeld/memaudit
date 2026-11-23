@@ -1,0 +1,6 @@
+* ስም፡ [PERSON]፣ profile_id: [PROFILE_ID]፣ ሀገር፡ [LOCATION]፣ ተመራጭ ቋንቋ፡ አማርኛ።
+* ሙያ እና የጋብቻ ሁኔታ፡ የሆስፒታል ሀኪም (Doctor of Medicine፣ መታወቂያ 3926435391) እና ያላገባ (Single)።
+* የመኖሪያ አካባቢ፡ [LOCATION], [LOCATION]።
+* አድራሻ፡ ስልክ ቁጥር [PHONE] እና ኢሜይል [EMAIL]።
+* የጤና ሁኔታ፡ ቀለል ያለ አስም (Mild asthma) አለባቸው።
+* ዕቅድ/ተግባር፡ በ daily_planning ሥር በ [LOCATION], [LOCATION] ለ [PERSON] ([PHONE]) የሚከናወን "[DATE] ዋና ተግባር" የመመዝገብ ዕቅድ አላቸው።

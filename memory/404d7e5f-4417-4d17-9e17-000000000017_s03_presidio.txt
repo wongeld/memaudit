@@ -1,0 +1,5 @@
+- Mtumiaji anashughulikia majukumu ya kikazi yanayohusisha [PERSON] (simu [PHONE], profile_id [PROFILE_ID]).
+- Ana hali ya kiafya ya "Mild hypertension" ambayo anahitaji kuizingatia wakati wa kazi.
+- Anajihusisha na kupanga mikutano ya kikazi katika [LOCATION] kwa tarehe [DATE].
+- Anahitaji kununua vifaa vya ofisi na majalada ya kazi katika [LOCATION].
+- Anapendelea kupata muhtasari wa maelezo na kuyathibitisha kabla ya shughuli zozote kuhifadhiwa kwenye mfumo.

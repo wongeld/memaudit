@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ የመገለጫ መታወቂያ (profile_id) [PROFILE_ID] እና መታወቂያ ቁጥር 3921201991 አላቸው።
+* በ [LOCATION], [LOCATION] (Kirkos) የሚኖሩ ሲሆን፣ ያገቡ እና የሦስት ልጆች ወላጅ ናቸው።
+* የሙያ ዘርፋቸው Horticultural Export Training Coordinator ሲሆን የማስተርስ (Master of Science) ዲግሪ አላቸው።
+* የጤና ሁኔታቸው ዓይነት 2 የስኳር በሽታ (Type 2 diabetes) ነው።
+* ስልክ ቁጥራቸው +251954834664፣ ኢሜይላቸው [PERSON]፣ ሀገራቸው [LOCATION] ሲሆን ተመራጭ ቋንቋቸው አማርኛ ነው።
+* በ [DATE] በ [LOCATION], [LOCATION] ከቤተሰብ (family) ጋር የተያያዘ የሳምንቱ ዋና ተግባር አላቸው።

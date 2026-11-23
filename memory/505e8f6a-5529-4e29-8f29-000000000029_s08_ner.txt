@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: arthur.pendleton+029@gmail.com).
+- User has a routine of evening meal prep and next-day prioritization.
+- User has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- User commutes through [LOCATION], [LOCATION] ([LOCATION]) and is interested in landmarks near [LOCATION] Penn Station.
+- User is currently experiencing technical issues with OpenStreetMap-based tools (search_places and reverse_geocode).

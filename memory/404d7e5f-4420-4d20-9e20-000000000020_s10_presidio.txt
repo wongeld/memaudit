@@ -1,0 +1,4 @@
+* Mtumiaji anaishi na hali ya afya ya Type 2 diabetes, ambayo anahitaji kuizingatia wakati wa kazi.
+* Anashughulika na kazi zinazohusisha mawasiliano ya barua pepe ([EMAIL]) na ushirikiano na [PERSON] (simu: +255890185741, profile_id: [PROFILE_ID]).
+* Anatumia zana za kidijitali kufuatilia shughuli za kikazi na vikumbusho (reminders).
+* Ana nia ya kupata taarifa za kijiografia (reverse geocoding) na nukuu za [ORGANIZATION] kwa maeneo mahususi katika [LOCATION].

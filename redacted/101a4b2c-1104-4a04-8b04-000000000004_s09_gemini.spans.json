@@ -1,0 +1,236 @@
+[
+{
+"start": 61,
+"end": 77,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 91,
+"end": 101,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 109,
+"end": 122,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 478,
+"end": 488,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 709,
+"end": 725,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 751,
+"end": 764,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1945,
+"end": 1961,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 1963,
+"end": 1976,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 3240,
+"end": 3256,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 3258,
+"end": 3271,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 3331,
+"end": 3344,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3346,
+"end": 3354,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3356,
+"end": 3365,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 3570,
+"end": 3580,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3726,
+"end": 3739,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3741,
+"end": 3749,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3751,
+"end": 3760,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 3791,
+"end": 3807,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 3833,
+"end": 3846,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 4104,
+"end": 4120,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 4122,
+"end": 4135,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 4156,
+"end": 4166,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 4610,
+"end": 4620,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 4766,
+"end": 4779,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 4781,
+"end": 4789,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 4791,
+"end": 4800,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 4831,
+"end": 4847,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 4873,
+"end": 4886,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 5106,
+"end": 5119,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 5121,
+"end": 5129,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 5131,
+"end": 5140,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 5146,
+"end": 5162,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 5164,
+"end": 5177,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 5417,
+"end": 5427,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 5593,
+"end": 5606,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 5608,
+"end": 5616,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 5618,
+"end": 5627,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 5658,
+"end": 5674,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 5700,
+"end": 5713,
+"label": "PHONE",
+"text": "+255721105750"
+}
+]

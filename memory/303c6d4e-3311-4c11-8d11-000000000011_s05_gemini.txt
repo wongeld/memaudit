@@ -1,0 +1,4 @@
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) እና profile_id [[ID_NUMBER]] ጋር የተያያዙ ጉዳዮችን እና እንቅስቃሴዎችን ያከናውናል።
+* የቦታ ፍለጋ በሚደረግበት ወቅት የግል መረጃው እንዳይጋራ/እንዳይላክ ይመርጣል።
+* በ[LOCATION]) አካባቢ (በተለይ latitude 8.9972 እና longitude 38.7869) ላይ ጉዳይ ወይም ፍላጎት አለው።
+* የቦታ መረጃዎች ሲፈለጉ የ OpenStreetMap እውቅና (attribution) አብሮ እንዲካተት ይፈልጋል።

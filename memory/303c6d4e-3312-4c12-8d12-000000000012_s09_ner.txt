@@ -1,0 +1,4 @@
+* ተጠቃሚው 'Hypothyroidism' የተባለ የጤና ሁኔታ አለው።
+* በሙያው 'Broadcast Lifestyle Journalist' ነው።
+* ያገባ ሲሆን ሶስት ልጆች አሉት።
+* ለ [PERSON] (ስልክ ቁጥር +251986279168) የተለያዩ የዕለት ተዕለት እቅዶችን፣ ግዢዎችን እና ቦታ ማስያዣዎችን (booking) በ 'daily_planning' ሥር ያስተዳድራል።

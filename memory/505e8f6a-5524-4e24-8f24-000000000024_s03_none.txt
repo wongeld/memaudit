@@ -1,0 +1,6 @@
+* User is an Executive Software Engineering Manager based in Lincoln Park, Chicago, United States.
+* User manages type 2 diabetes and requires a break every Friday at 04:00 PM.
+* User has a recurring work task to submit departmental metrics every Friday at 04:00 PM.
+* User is associated with the contact David Kowalski (mobile: +18466001447) and profile_id [PROFILE_ID].
+* User is currently organizing office needs, including ergonomic supplies and reference materials.
+* User frequently interacts with the assistant to schedule work-related bookings and reminders.

@@ -1,0 +1,158 @@
+[
+{
+"start": 22,
+"end": 37,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 90,
+"end": 103,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 107,
+"end": 132,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia (Tabor"
+},
+{
+"start": 435,
+"end": 453,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n**ቦታ"
+},
+{
+"start": 468,
+"end": 501,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor)\n**የእውቂያ"
+},
+{
+"start": 523,
+"end": 546,
+"label": "PERSON",
+"text": "Selamawit Girma\n**የሞባይል"
+},
+{
+"start": 726,
+"end": 740,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 806,
+"end": 820,
+"label": "DATE",
+"text": "የረቡዕን 8:00 ሰዓት"
+},
+{
+"start": 1156,
+"end": 1176,
+"label": "LOCATION",
+"text": "ssa, Ethiopia (Tabor"
+},
+{
+"start": 1234,
+"end": 1256,
+"label": "LOCATION",
+"text": "Hawassa Central Market"
+},
+{
+"start": 1271,
+"end": 1284,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1427,
+"end": 1440,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1489,
+"end": 1492,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1505,
+"end": 1518,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1576,
+"end": 1603,
+"label": "LOCATION",
+"text": "Hawassa Central Market'.\n\nI"
+},
+{
+"start": 1651,
+"end": 1676,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia (Tabor"
+},
+{
+"start": 1696,
+"end": 1702,
+"label": "LOCATION",
+"text": "7.0504"
+},
+{
+"start": 1716,
+"end": 1723,
+"label": "LOCATION",
+"text": "38.4955"
+},
+{
+"start": 1754,
+"end": 1767,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1967,
+"end": 1980,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1999,
+"end": 2002,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2174,
+"end": 2187,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2513,
+"end": 2527,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 2529,
+"end": 2535,
+"label": "LOCATION",
+"text": "Friday"
+},
+{
+"start": 2536,
+"end": 2553,
+"label": "DATE",
+"text": "10:00 PM)\nContact"
+},
+{
+"start": 2560,
+"end": 2582,
+"label": "PERSON",
+"text": "Selamawit Girma\nMobile"
+}
+]

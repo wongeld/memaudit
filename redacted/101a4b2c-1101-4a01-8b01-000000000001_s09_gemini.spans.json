@@ -1,0 +1,104 @@
+[
+{
+"start": 59,
+"end": 70,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 84,
+"end": 94,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 102,
+"end": 115,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 185,
+"end": 196,
+"label": "LOCATION",
+"text": "Embu, Kenya"
+},
+{
+"start": 198,
+"end": 204,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 301,
+"end": 312,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 314,
+"end": 327,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 412,
+"end": 423,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 425,
+"end": 438,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 500,
+"end": 511,
+"label": "LOCATION",
+"text": "Embu, Kenya"
+},
+{
+"start": 513,
+"end": 519,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 692,
+"end": 703,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 705,
+"end": 718,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 863,
+"end": 874,
+"label": "LOCATION",
+"text": "Embu, Kenya"
+},
+{
+"start": 876,
+"end": 882,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 888,
+"end": 899,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 901,
+"end": 914,
+"label": "PHONE",
+"text": "+254122951015"
+}
+]

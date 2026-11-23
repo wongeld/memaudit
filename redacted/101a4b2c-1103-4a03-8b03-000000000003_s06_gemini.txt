@@ -1,0 +1,76 @@
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu), rekodi kikumbusho (reminder) kwenye mada ya school kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) cha kukusanya insha na madaftari ya wanafunzi Ijumaa saa 9:00 alasiri.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi kikumbusho hicho cha kukusanya insha na madaftari ya wanafunzi.
+
+Ili niweze kurekodi kikumbusho kwa usahihi, naomba unipe tarehe kamili ya Ijumaa ambayo kikumbusho hiki kinatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: school
+*   **activity_type**: reminder
+*   **title**: Kukusanya insha na madaftari ya wanafunzi
+*   **date_time**: [Tarehe maalum ya Ijumaa] saa 9:00 alasiri
+*   **mobile_phone**: [PHONE]
+*   **notes**: Afya njema bila ugonjwasugu.
+
+Tafadhali nithibitishie tarehe kamili ya Ijumaa.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha Ijumaa saa 9:00 alasiri kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Samahani, [PERSON], lakini bado ninahitaji tarehe kamili ya Ijumaa ili kuhifadhi kikumbusho chako. "Ijumaa saa 9:00 alasiri" pekee haitoshi kwa rekodi sahihi.
+
+Tafadhali nipa tarehe kamili ya Ijumaa (kwa mfano, "2024-08-09") ili niweze kuhifadhi kikumbusho hiki.
+
+User:
+Naomba urekodi shopping_item kwenye mada ya school kwa [PERSON] ([PHONE]) ya kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Samahani, [PERSON]. Bidhaa yako ya ununuzi haijahifadhiwa. Ninaomba msamaha kwa usumbufu huu unaoendelea.
+
+Tafadhali thibitisha taarifa zifuatazo ili niweze kuhifadhi bidhaa hii ya ununuzi:
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: Kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Je, ninaweza kuhifadhi bidhaa hii ya ununuzi sasa?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) kuwa vitabu hivyo ni nakala 20 za fasihi kwa [PERSON] ([PHONE]) kwenye profile_id [[ID_NUMBER]], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, [PERSON]. Ninaongeza maelezo ya "nakala 20 za fasihi" kwenye bidhaa hiyo ya ununuzi.
+
+Haya ndio maelezo kamili ya bidhaa ya ununuzi nitakayojaribu kuhifadhi. Tafadhali thibitisha kuwa ni sahihi:
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: Kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Vitabu ni nakala 20 za fasihi.
+
+Je, ninaweza kuhifadhi bidhaa hii ya ununuzi sasa?
+
+User:
+Rekodi booking kwenye mada ya school ya ukumbi wa mikutano wa shule huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) Alhamisi saa 8:00 mchana na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi booking ya ukumbi wa mikutano wa shule.
+
+Ili niweze kurekodi booking kwa usahihi, naomba unipe tarehe kamili ya Alhamisi ambayo booking hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: school
+*   **activity_type**: booking
+*   **title**: Ukumbi wa mikutano wa shule
+*   **date_time**: [Tarehe maalum ya Alhamisi] saa 8:00 mchana
+*   **location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **mobile_phone**: [PHONE]
+
+Tafadhali nithibitishie tarehe kamili ya Alhamisi.

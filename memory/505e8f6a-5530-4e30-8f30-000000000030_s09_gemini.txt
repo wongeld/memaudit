@@ -1,0 +1,4 @@
+* The user frequently manages shopping-related tasks, including pharmacy pickups, supply orders, and delivery reservations.
+* The user coordinates these activities with [PERSON] (phone: [PHONE], profile_id: [[ID_NUMBER]]).
+* The user regularly attempts to use the `record_user_activity` tool to schedule appointments and reminders in [LOCATION].
+* The user prefers to review and confirm activity details before they are finalized.

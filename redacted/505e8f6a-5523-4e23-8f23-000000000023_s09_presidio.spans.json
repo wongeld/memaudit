@@ -1,0 +1,170 @@
+[
+{
+"start": 120,
+"end": 127,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 129,
+"end": 142,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 144,
+"end": 151,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 179,
+"end": 193,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 233,
+"end": 245,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 260,
+"end": 264,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1029,
+"end": 1043,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 1045,
+"end": 1057,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 1087,
+"end": 1091,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2000,
+"end": 2014,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 2016,
+"end": 2028,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 2140,
+"end": 2147,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2149,
+"end": 2162,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2164,
+"end": 2171,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 2186,
+"end": 2190,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2994,
+"end": 3007,
+"label": "ORGANIZATION",
+"text": "Daily Planner"
+},
+{
+"start": 3019,
+"end": 3025,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 3040,
+"end": 3048,
+"label": "ORGANIZATION",
+"text": "Supplies"
+},
+{
+"start": 3054,
+"end": 3068,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 3070,
+"end": 3082,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 3134,
+"end": 3138,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 3550,
+"end": 3558,
+"label": "ORGANIZATION",
+"text": "Supplies"
+},
+{
+"start": 4034,
+"end": 4048,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 4050,
+"end": 4062,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 4112,
+"end": 4119,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 4121,
+"end": 4134,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4136,
+"end": 4143,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 4213,
+"end": 4217,
+"label": "PERSON",
+"text": "Evan"
+}
+]

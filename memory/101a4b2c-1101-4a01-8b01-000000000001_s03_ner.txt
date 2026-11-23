@@ -1,0 +1,6 @@
+* Ana hali ya kiafya ya Mild seasonal allergic rhinitis.
+* Anashughulika na masuala ya shule, ikiwemo kukusanya insha na madaftari ya wanafunzi.
+* Anahusiana na au anasimamia wasifu wa [PERSON] (profile_id [PROFILE_ID], nambari ya simu +254122951015).
+* Alipanga kukusanya insha na madaftari ya wanafunzi tarehe [DATE].
+* Ana mpango wa kununua vitabu vya kiada, kamusi za Kiswahili, kalamu za ubao mweupe, na nakala 20 za vitabu vya fasihi huko [LOCATION], [LOCATION] (Itabua).
+* Ana mpango wa kufanya booking ya ukumbi wa mikutano wa shule huko [LOCATION] (Itabua) tarehe [DATE].

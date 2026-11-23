@@ -1,0 +1,5 @@
+* Anatumia kitambulisho cha wasifu [PROFILE_ID] na nambari ya simu +255721105750 kwa jina la [PERSON].
+* Ana miadi ya kukutana na mshirika wa safari na usafirishaji tarehe [DATE].
+* Anapanga safari inayohusisha siku 4 za kazi.
+* Ana jukumu la kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] (Mikocheni).
+* Anapanga kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] (Mikocheni).

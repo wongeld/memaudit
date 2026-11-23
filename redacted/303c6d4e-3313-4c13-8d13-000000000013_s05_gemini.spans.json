@@ -1,0 +1,110 @@
+[
+{
+"start": 20,
+"end": 32,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 34,
+"end": 47,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 54,
+"end": 80,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 100,
+"end": 117,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 119,
+"end": 124,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 213,
+"end": 225,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 309,
+"end": 326,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 328,
+"end": 333,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 537,
+"end": 554,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 556,
+"end": 561,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 585,
+"end": 597,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 620,
+"end": 633,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 655,
+"end": 681,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 1045,
+"end": 1062,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1064,
+"end": 1069,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 1127,
+"end": 1157,
+"label": "LOCATION",
+"text": "Alula Aba Nega Airport Mekelle"
+},
+{
+"start": 1273,
+"end": 1290,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1292,
+"end": 1297,
+"label": "LOCATION",
+"text": "Ayder"
+}
+]

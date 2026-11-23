@@ -1,0 +1,5 @@
+- Mtumiaji anajali sana afya ya familia yake, hasa hali ya Iron-deficiency anemia.
+- Anapanga shughuli za kifamilia kama vile chakula cha mchana na ununuzi wa mahitaji ya nyumbani na zawadi.
+- Anapendelea kununua vyakula vya afya na matunda kwa ajili ya familia yake.
+- Eneo analopendelea kwa shughuli za kifamilia na ununuzi ni [LOCATION], [LOCATION] (Mikocheni).
+- Anashirikiana na [PERSON] (simu: [PHONE], profile_id: [PROFILE_ID]) katika kuratibu shughuli hizi za kifamilia.

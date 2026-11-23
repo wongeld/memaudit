@@ -1,0 +1,4 @@
+* የተጠቃሚው መረጃ ከ[PERSON]፣ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL] እና profile_id [[ID_NUMBER]] ጋር የተያያዘ ነው።
+* በ[LOCATION] ([LOCATION]) ረቡዕ ከሰዓት 8:00 ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋሽጓል።
+* በ[LOCATION] ([LOCATION]) አካባቢ ጉዳይ ያለው ሲሆን '[ORGANIZATION]' የተባለውን ቦታ እና የኬክሮስ 11.5936፣ ኬንትሮስ 37.3908 አድራሻን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይተላለፍ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ምርጫ አለው።

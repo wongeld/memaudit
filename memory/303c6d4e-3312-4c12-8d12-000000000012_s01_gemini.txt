@@ -1,0 +1,5 @@
+* [PERSON] የ49 ዓመት Broadcast Lifestyle Journalist (Bachelor of Arts) ሲሆኑ የመገለጫ መታወቂያቸው (profile_id) [[ID_NUMBER]] ነው።
+* የሚኖሩት በ[LOCATION]) ሲሆን፣ ባለትዳርና የሦስት ልጆች ወላጅ ናቸው።
+* የመገናኛ አድራሻቸው ስልክ [PHONE] እና ኢሜይል [EMAIL] ሲሆን፣ ሀገራቸው Ethiopia እና ተመራጭ ቋንቋቸው አማርኛ ነው።
+* Hypothyroidism የሚባል የጤና ሁኔታ አለባቸው።
+* በሥራቸው ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION]) የሚከናወን የሳምንቱ ዋና ተግባር አላቸው።

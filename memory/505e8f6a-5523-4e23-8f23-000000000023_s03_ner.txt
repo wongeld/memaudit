@@ -1,0 +1,5 @@
+- The user is [PERSON] Lindqvist.
+- Works as an Eco-Tourism Travel Consultant for [ORGANIZATION] in [LOCATION], [LOCATION].
+- Frequently manages travel-related tasks, including itinerary reviews, expense reconciliation, and shopping for travel gear (carry-on organizers, portable chargers).
+- Contact information: +16139476852.
+- Currently experiencing persistent technical issues with the assistant's ability to save activities or profiles.

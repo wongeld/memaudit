@@ -1,0 +1,72 @@
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ +251962051344) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **mobile_phone**: +251962051344
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና [ORGANIZATION] ሥራ ስላለብኝ።
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251962051344) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+ይህ የሆነበት ምክንያት የቀን ቅርጸት ትክክል ባለመሆኑ ነው። ትክክለኛውን ቀን፣ ለምሳሌ "[DATE]" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ family ሥር ለ [PERSON] (+251962051344) [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251962051344) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ family ሥር [DATE] [LOCATION], [LOCATION] (Bole) የአገልግሎት/የቦታ booking ለ [PERSON] (+251962051344) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "[DATE] ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: family
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)

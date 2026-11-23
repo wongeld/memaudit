@@ -1,0 +1,4 @@
+- ተጠቃሚው እንደ Regional Logistics Coordinator ይሰራል።
+- ተጠቃሚው 'Mild asthma' የተባለ የጤና ሁኔታ አለው።
+- ተጠቃሚው በHawassa፣ [LOCATION] (Tabor) አካባቢ ይንቀሳቀሳል።
+- ተጠቃሚው ከ[PERSON] ጋር በጉዞ (travel) ጉዳዮች ላይ የምክክር እና የክትትል ግንኙነት አለው።

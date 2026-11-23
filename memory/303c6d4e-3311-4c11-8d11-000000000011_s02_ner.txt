@@ -1,0 +1,4 @@
+* ከ [PERSON] ጋር የተያያዘ የስራ መረጃዎችን ያስተዳድራል (ስልክ፡ +251962051344፣ ኢሜይል፡ hirut.anagaw+011@gmail.com፣ Profile ID: [PROFILE_ID])።
+* በ [DATE] በ [LOCATION], [LOCATION] (Bole) ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ጊዜ አሸጋግሮታል።
+* በAddis [LOCATION] (Bole) አካባቢ (በተለይ latitude 8.9972 እና longitude 38.7869 አካባቢ) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) አብሮ እንዲካተት ይፈልጋል።

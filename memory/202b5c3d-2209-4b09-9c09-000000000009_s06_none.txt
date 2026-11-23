@@ -1,0 +1,5 @@
+* የሥራ ሙያቸው Hospital Physician ነው።
+* 'Mild asthma' ያለባቸው የጤና ሁኔታ አለባቸው።
+* ከBereket Tesfaye (profile_id [PROFILE_ID]፣ ስልክ ቁጥር +251945416026) ጋር የተያያዙ ማስታወሻዎችንና እንቅስቃሴዎችን በ'school' ጭብጥ ሥር ይመዘግባሉ።
+* በMekelle, Ethiopia (Ayder) ውስጥ የግብዓቶች ግዢ እና የአገልግሎት/የቦታ ማስያዝ (booking) እንቅስቃሴዎችን ያከናውናሉ።
+* የፍላጎታቸው/አገልግሎታቸው ሁኔታ 'Hospital Physician እና Single አገልግሎት የሚውል' በሚል ይገልጻሉ።

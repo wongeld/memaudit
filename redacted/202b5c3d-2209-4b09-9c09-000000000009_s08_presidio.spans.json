@@ -1,0 +1,140 @@
+[
+{
+"start": 28,
+"end": 43,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 45,
+"end": 58,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 65,
+"end": 94,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 96,
+"end": 109,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 113,
+"end": 138,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 261,
+"end": 285,
+"label": "DATE",
+"text": "2023-10-25 ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 515,
+"end": 532,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 553,
+"end": 566,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 582,
+"end": 611,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 630,
+"end": 637,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 639,
+"end": 657,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder)\n*"
+},
+{
+"start": 706,
+"end": 720,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 786,
+"end": 791,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 1033,
+"end": 1048,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1106,
+"end": 1119,
+"label": "LOCATION",
+"text": "Ayder Mekelle"
+},
+{
+"start": 1134,
+"end": 1147,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1228,
+"end": 1251,
+"label": "LOCATION",
+"text": "Ayder Mekelle, Ethiopia"
+},
+{
+"start": 1313,
+"end": 1326,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1435,
+"end": 1448,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1487,
+"end": 1512,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 1591,
+"end": 1604,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1779,
+"end": 1802,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 1901,
+"end": 1914,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

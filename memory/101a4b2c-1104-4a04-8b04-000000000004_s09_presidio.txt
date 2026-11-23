@@ -1,0 +1,4 @@
+* Anasimamia shughuli na wasifu wa [PERSON] wenye Profile ID [PROFILE_ID] na nambari ya simu [PHONE].
+* Anaweka kipaumbele kwenye afya ya familia na maandalizi ya chakula kinachoendana na hali ya Mild hypertension kila [DATE].
+* Hununua mahitaji ya nyumbani, zawadi za familia, pamoja na vyakula vya afya na matunda katika maeneo ya [LOCATION], [LOCATION] (Mikocheni).
+* Ana mpango wa chakula cha mchana cha familia katika eneo la [LOCATION] mnamo [DATE].

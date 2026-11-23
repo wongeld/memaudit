@@ -1,0 +1,5 @@
+- User is [PERSON] ([EMAIL]).
+- Manages type 2 diabetes.
+- Works at [ORGANIZATION] in [LOCATION], [LOCATION] (Ironbound).
+- Currently has no saved activities under the "work" theme.
+- Interested in looking up professional meeting locations and addresses near their workplace.

@@ -1,0 +1,5 @@
+* Anasimamia au kurekodi shughuli na miadi kwa ajili ya [PERSON] (Profile ID: [PROFILE_ID], simu: +254120283012).
+* Ana mpango wa kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION] mnamo [DATE].
+* Amepanga miadi ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION] mnamo [DATE].
+* Amepanga booking ya usafiri wa kuleta bidhaa nyumbani [LOCATION], [LOCATION] mnamo [DATE].
+* Anapendelea kupewa muhtasari na kurudiwa kwa maelezo kamili ili athibitishe kabla ya taarifa kuhifadhiwa.

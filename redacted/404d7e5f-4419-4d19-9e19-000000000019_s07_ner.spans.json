@@ -1,0 +1,164 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 113,
+"end": 119,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 121,
+"end": 129,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 279,
+"end": 293,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 398,
+"end": 412,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 480,
+"end": 488,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 702,
+"end": 715,
+"label": "PERSON",
+"text": "Zawadi\n**Jina"
+},
+{
+"start": 729,
+"end": 746,
+"label": "PERSON",
+"text": "Massawe\n**Nambari"
+},
+{
+"start": 827,
+"end": 843,
+"label": "LOCATION",
+"text": "Tanzania\n**Lugha"
+},
+{
+"start": 931,
+"end": 945,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1161,
+"end": 1174,
+"label": "PERSON",
+"text": "Zawadi\n**Jina"
+},
+{
+"start": 1188,
+"end": 1205,
+"label": "PERSON",
+"text": "Massawe\n**Nambari"
+},
+{
+"start": 1247,
+"end": 1285,
+"label": "PERSON",
+"text": "zawadi.massawe+019@yahoo.com\n**Nchi:**"
+},
+{
+"start": 1286,
+"end": 1302,
+"label": "LOCATION",
+"text": "Tanzania\n**Lugha"
+},
+{
+"start": 1595,
+"end": 1612,
+"label": "DATE",
+"text": "saa 12:15 asubuhi"
+},
+{
+"start": 1618,
+"end": 1624,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1626,
+"end": 1641,
+"label": "LOCATION",
+"text": "Tanzania (Njiro"
+},
+{
+"start": 1647,
+"end": 1661,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1934,
+"end": 1961,
+"label": "DATE",
+"text": "saa 12:15 asubuhi\n**Eneo:**"
+},
+{
+"start": 1962,
+"end": 1993,
+"label": "LOCATION",
+"text": "Arusha, Tanzania (Njiro)\n**Jina"
+},
+{
+"start": 2012,
+"end": 2036,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2137,
+"end": 2144,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 2149,
+"end": 2166,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 2222,
+"end": 2236,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2526,
+"end": 2553,
+"label": "DATE",
+"text": "saa 12:00 asubuhi\n**Eneo:**"
+},
+{
+"start": 2554,
+"end": 2585,
+"label": "LOCATION",
+"text": "Arusha, Tanzania (Njiro)\n**Jina"
+},
+{
+"start": 2604,
+"end": 2628,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+}
+]

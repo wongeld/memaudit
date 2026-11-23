@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (profile_id: [PROFILE_ID]፣ የመታወቂያ ቁጥር፡ 3922715388)
+* የመኖሪያ ቦታ፦ [LOCATION]፣ [LOCATION] (Bole)፤ አገር፦ [LOCATION]
+* ሙያ እና የትምህርት ደረጃ፦ Commercial Florist and Event Decorator፣ በBusiness Management የዲፕሎማ ተመራቂ
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሁለት ልጆች ወላጅ
+* የጤና ሁኔታ፦ Mild seasonal allergic rhinitis አለባቸው
+* የመገናኛ መረጃ እና የተመራጭ ቋንቋ፦ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ቋንቋ አማርኛ

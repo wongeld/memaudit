@@ -1,0 +1,44 @@
+User:
+I'm Rachel Kim (mock ID 2171961713, email rachel.kim+032@gmail.com), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in Boston, United States (Back Bay) at 06:30 PM.
+
+Assistant:
+Here are the details for your daily planning task:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** task
+- **Title:** Evening Meal Prep and Next-Day Prioritization
+- **Date/Time:** 06:30 PM
+- **Location:** Boston, United States (Back Bay)
+- **Contact Name:** Rachel Kim
+- **Mobile Phone:** `+16098633034`
+
+Please confirm if these details are accurate so I can proceed with saving the task.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in Boston, United States (Back Bay), so do not save it.
+
+Assistant:
+Understood. The 06:30 PM daily planning task for evening meal prep and next-day prioritization has been canceled and will not be saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+There are currently no saved activities for profile ID `[PROFILE_ID]` under the **daily_planning** theme.
+
+User:
+I need to check a nearby landmark along my daily commute in Boston, United States (Back Bay); please call search_places for 'Boston Public Library Copley Square' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I was unable to search for "Boston Public Library Copley Square" because the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Attribution: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.*
+
+User:
+Please call reverse_geocode for coordinates latitude 42.3505 and longitude -71.0765 in Boston, United States (Back Bay) to verify the street address on my route, with OpenStreetMap attribution.
+
+Assistant:
+I was unable to reverse geocode the coordinates `42.3505, -71.0765` because access to the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Attribution: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.*

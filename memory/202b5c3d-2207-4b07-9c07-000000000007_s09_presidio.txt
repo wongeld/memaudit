@@ -1,0 +1,5 @@
+* የሥራ ሙያ፡ የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* የጤና ሁኔታ፡ መጠነኛ የደም ግፊት (Mild hypertension) አለበት።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* ከቤተሰብ አባል/ተጠሪ ጋር የተያያዘ መረጃ፡ [PERSON] (profile_id: [PROFILE_ID]፣ ስልክ፡ [PHONE])።
+* የአካባቢ እንቅስቃሴ እና እቅድ፡ በ [LOCATION], [LOCATION] (Yeka) ለቤተሰብ የሚያስፈልጉ ግብይቶች እና የአገልግሎት/ቦታ ማስያዣ (booking) እቅዶች አሉት።

@@ -1,0 +1,42 @@
+User:
+በ work ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION]   **mobile\_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [PROFILE_ID] በ 'work' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ '[LOCATION]' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenS[ORGANIZATION] ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude [LOCATION] እና longitude [LOCATION] አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ [ORGANIZATION] መሣሪያውን በመጠቀም [DATE] አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።

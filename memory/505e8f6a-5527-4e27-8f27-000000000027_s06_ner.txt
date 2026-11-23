@@ -1,0 +1,4 @@
+- The user frequently manages shopping-related tasks, including pharmacy pickups, supply orders, and delivery reservations.
+- The user coordinates these activities for [PERSON] (mobile: +15759823598) using profile_id [PROFILE_ID].
+- The user regularly interacts with [ORGANIZATION] [LOCATION] in [LOCATION], [LOCATION] ([LOCATION]).
+- The user is aware of a persistent technical issue with the `record_user_activity` tool that prevents data from being saved.

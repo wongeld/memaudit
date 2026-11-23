@@ -1,0 +1,5 @@
+* የሙያ መስክ፡ Broadcast Lifestyle Journalist ነው።/ናት።
+* የጤና ሁኔታ፡ ሃይፖታይሮይዲዝም (Hypothyroidism) አለበት/ባት።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሦስት ልጆች ወላጅ ነው/ናት (Married with three children)።
+* የመገለጫ መረጃ፡ Profile ID [PROFILE_ID]፣ ስልክ ቁጥር +251986279168፣ ከ[PERSON] ጋር የተያያዘ።
+* በ[LOCATION], [LOCATION] አስፈላጊ የጤና እና የሥራ ግብዓቶችን የመግዛት እንዲሁም በ[DATE] የአገልግሎት/የቦታ ማስያዝ (booking) እቅድ አለው/ላት።

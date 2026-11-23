@@ -1,0 +1,5 @@
+* የሥራ ሙያው የብሮድካስት ላይፍስታይል ጋዜጠኛ (Broadcast Lifestyle Journalist) ነው።
+* የጤና ሁኔታው 'Hypothyroidism' ነው።
+* የቤተሰብ ሁኔታው ባለትዳርና የሦስት ልጆች ወላጅ (Married with three children) ነው።
+* ከ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) ጋር የተያያዙ የሥራ (work) ማስታወሻዎችን፣ ግዢዎችን እና መርሃ-ግብሮችን ይመዘግባል።
+* በ[LOCATION]) የሥራ እና የጤና ግብዓቶች ግዢ እንዲሁም የቅዳሜ ጠዋት 4:00 ሰዓት የአገልግሎት/የቦታ booking እቅድ አለው።

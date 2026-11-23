@@ -1,0 +1,5 @@
+- The user frequently coordinates shopping, pharmacy, and supply-related activities for Gregory Halstead (phone: +15759823598).
+- The user's activities are centered in the Lincoln Park area of Chicago, United States.
+- The user manages various types of shopping tasks, including pharmacy pickups, supplier consultations, and delivery slot reservations.
+- The user is aware of a persistent technical issue with the `record_user_activity` tool that prevents data from being saved.
+- The user uses profile_id [PROFILE_ID] for these activities.

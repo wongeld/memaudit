@@ -1,0 +1,5 @@
+* የተጠቃሚው የመለያ ቁጥር profile_id `[PROFILE_ID]` ነው።
+* ከ[PERSON] ጋር የሚደረጉ የስራ ምክክር ቀጠሮዎችን ([PHONE]፣ [EMAIL]) ያስተዳድራል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይተላለፍ ጥንቃቄ ማድረግ ይመርጣል።
+* በAddis [LOCATION] (Bole አካባቢ፣ latitude 8.9972 እና longitude 38.7869) ለጉዳዩ የሚሆኑ ቦታዎችን ይፈልጋል።
+* የቦታ መረጃዎች ሲቀርቡ የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

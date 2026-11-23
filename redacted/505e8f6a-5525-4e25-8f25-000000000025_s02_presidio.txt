@@ -1,0 +1,32 @@
+User:
+I'm [PERSON] (mock ID 8913518751, managing mild asthma), and I'd like to use record_user_activity in the school theme to book an appointment with my academic advising cohort in [LOCATION], [LOCATION] ([LOCATION]) on Wednesday at 03:00 PM.
+
+Assistant:
+I will attempt to record this school appointment, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Assistant:
+As anticipated, the system canceled the save operation for the "Academic advising cohort appointment" for [PERSON]. This appointment has not been saved. I apologize for the continued technical difficulties.
+
+User:
+Cancel that Wednesday 03:00 PM school appointment—the advising session was moved to email ([EMAIL]), so do not save it.
+
+Assistant:
+Okay, I understand. The Wednesday 03:00 PM school appointment for the academic advising session was not saved in the first place due to the ongoing system issue with saving activities. Therefore, there is nothing to cancel. I will not attempt to save it.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] with theme school so I can check all my academic activities.
+
+Assistant:
+There are no saved academic activities for profile ID `[PROFILE_ID]` under the 'school' theme. This is consistent with the ongoing issue where all activity saves are being canceled.
+
+User:
+I need the location of the campus library and lecture hall; please use search_places to find '[ORGANIZATION]-[ORGANIZATION] [LOCATION]' without sending personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I am still encountering an error when trying to use the OpenStreetMap `search_places` tool. It seems there's an ongoing issue with accessing this functionality. I apologize that I cannot fulfill your request for the library and lecture hall locations at this time.
+
+User:
+Please use reverse_geocode to look up the address for coordinates latitude 30.2849 and longitude -97.7341 in [LOCATION], [LOCATION] ([LOCATION]), including OpenStreetMap attribution.
+
+Assistant:
+I am still experiencing an error when attempting to use the OpenStreetMap `reverse_geocode` tool. It seems there's an ongoing issue with accessing this functionality, and I apologize that I cannot fulfill your request for the address at this time.

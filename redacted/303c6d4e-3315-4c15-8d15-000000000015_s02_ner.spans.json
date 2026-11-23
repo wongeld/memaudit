@@ -1,0 +1,194 @@
+[
+{
+"start": 20,
+"end": 35,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 88,
+"end": 101,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 105,
+"end": 130,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia (Tabor"
+},
+{
+"start": 417,
+"end": 435,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n**ቦታ"
+},
+{
+"start": 450,
+"end": 483,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor)\n**የእውቂያ"
+},
+{
+"start": 505,
+"end": 528,
+"label": "PERSON",
+"text": "Selamawit Girma\n**የሞባይል"
+},
+{
+"start": 673,
+"end": 687,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 753,
+"end": 767,
+"label": "DATE",
+"text": "የረቡዕን 8:00 ሰዓት"
+},
+{
+"start": 1104,
+"end": 1119,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor"
+},
+{
+"start": 1177,
+"end": 1192,
+"label": "LOCATION",
+"text": "Hawassa Airport"
+},
+{
+"start": 1207,
+"end": 1220,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1423,
+"end": 1438,
+"label": "LOCATION",
+"text": "Hawassa Airport"
+},
+{
+"start": 1479,
+"end": 1492,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1830,
+"end": 1843,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1924,
+"end": 1931,
+"label": "LOCATION",
+"text": "Hawassa"
+},
+{
+"start": 1942,
+"end": 1949,
+"label": "LOCATION",
+"text": "Hawassa"
+},
+{
+"start": 1951,
+"end": 1966,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor"
+},
+{
+"start": 2237,
+"end": 2240,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2272,
+"end": 2285,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2751,
+"end": 2768,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap MCP"
+},
+{
+"start": 3271,
+"end": 3274,
+"label": "DATE",
+"text": "አርብ"
+},
+{
+"start": 3275,
+"end": 3285,
+"label": "DATE",
+"text": "ከሰዓት 10:00"
+},
+{
+"start": 3294,
+"end": 3311,
+"label": "DATE",
+"text": "10:00 PM)\nContact"
+},
+{
+"start": 3318,
+"end": 3340,
+"label": "PERSON",
+"text": "Selamawit Girma\nMobile"
+},
+{
+"start": 3605,
+"end": 3623,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia"
+},
+{
+"start": 3708,
+"end": 3721,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3966,
+"end": 3979,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3998,
+"end": 4001,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 4197,
+"end": 4210,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 4329,
+"end": 4344,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 4590,
+"end": 4630,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00 (Friday 10:00 PM)\nContact"
+},
+{
+"start": 4637,
+"end": 4659,
+"label": "PERSON",
+"text": "Selamawit Girma\nMobile"
+}
+]

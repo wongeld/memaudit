@@ -1,0 +1,200 @@
+[
+{
+"start": 125,
+"end": 146,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 327,
+"end": 348,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 629,
+"end": 633,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 635,
+"end": 640,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 642,
+"end": 648,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 890,
+"end": 901,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 915,
+"end": 925,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 933,
+"end": 946,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 1016,
+"end": 1020,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1022,
+"end": 1027,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1029,
+"end": 1035,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1139,
+"end": 1150,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1311,
+"end": 1321,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1347,
+"end": 1358,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1378,
+"end": 1391,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 1494,
+"end": 1498,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1500,
+"end": 1505,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1507,
+"end": 1513,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1658,
+"end": 1669,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1671,
+"end": 1684,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 1789,
+"end": 1800,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2093,
+"end": 2104,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2106,
+"end": 2119,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 2181,
+"end": 2185,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2187,
+"end": 2192,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2194,
+"end": 2200,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 2274,
+"end": 2285,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2460,
+"end": 2470,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2496,
+"end": 2507,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2527,
+"end": 2540,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 2607,
+"end": 2611,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2613,
+"end": 2618,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2620,
+"end": 2626,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

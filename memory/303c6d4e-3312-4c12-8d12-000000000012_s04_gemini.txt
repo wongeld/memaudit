@@ -1,0 +1,7 @@
+* ስም [PERSON] ሲሆኑ፣ የ profile_id መለያቸው [[ID_NUMBER]] ነው።
+* ዕድሜያቸው 49 ዓመት ሲሆን፣ የሙያ ዘርፋቸው Broadcast Lifestyle Journalist (የ Bachelor of Arts ተመራቂ) ነው።
+* የሚኖሩት በ[LOCATION], [LOCATION] ([LOCATION]) ነው።
+* የቤተሰብ ሁኔታቸው ባለትዳር እና የሦስት ልጆች ወላጅ (Married with three children) ናቸው።
+* የጤና ሁኔታ፦ ሃይፖታይሮይዲዝም (Hypothyroidism) አለባቸው።
+* የመገናኛ አድራሻቸው ስልክ ቁጥር [PHONE] እና ኢሜይል [EMAIL] ሲሆን፣ ተመራጭ ቋንቋቸው አማርኛ ነው።
+* ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) በቤተሰብ (family) ዙሪያ የታቀደ የሳምንቱ ዋና ተግባር አላቸው።

@@ -1,0 +1,5 @@
+* Ni [PERSON], ana Diploma in Tourism Management, na ameoa/ameolewa akiwa na watoto wawili.
+* Ana kitambulisho cha wasifu (profile_id) chenye namba [PROFILE_ID].
+* Anapatikana au anajihusisha na maeneo ya [LOCATION], [LOCATION] (Njiro).
+* Hufanya mazoezi mepesi pamoja na ukaguzi wa afya wa kawaida.
+* Anajali faragha ya taarifa zake binafsi wakati wa kutafuta huduma na anapendelea uwazi wa nukuu (attribution) ya [ORGANIZATION].

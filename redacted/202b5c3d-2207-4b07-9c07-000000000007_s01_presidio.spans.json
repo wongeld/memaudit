@@ -1,0 +1,272 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 55,
+"end": 67,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 69,
+"end": 77,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 90,
+"end": 97,
+"label": "DATE",
+"text": "የ46 ዓመት"
+},
+{
+"start": 380,
+"end": 390,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 408,
+"end": 415,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 431,
+"end": 441,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 454,
+"end": 467,
+"label": "LOCATION",
+"text": "Addis Ababa\n*"
+},
+{
+"start": 484,
+"end": 490,
+"label": "LOCATION",
+"text": "Yeka\n*"
+},
+{
+"start": 615,
+"end": 619,
+"label": "DATE",
+"text": "46\n*"
+},
+{
+"start": 924,
+"end": 938,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 944,
+"end": 957,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 964,
+"end": 994,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1000,
+"end": 1008,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1171,
+"end": 1181,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 1199,
+"end": 1206,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 1227,
+"end": 1240,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1256,
+"end": 1288,
+"label": "PERSON",
+"text": "andualem.abate+007@outlook.com\n*"
+},
+{
+"start": 1304,
+"end": 1314,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1359,
+"end": 1373,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1386,
+"end": 1399,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1675,
+"end": 1690,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1691,
+"end": 1703,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1705,
+"end": 1719,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 1744,
+"end": 1758,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1760,
+"end": 1773,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1995,
+"end": 2012,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 2029,
+"end": 2040,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2042,
+"end": 2050,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2080,
+"end": 2096,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 2117,
+"end": 2130,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2187,
+"end": 2202,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2210,
+"end": 2224,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2226,
+"end": 2239,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2432,
+"end": 2442,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 2460,
+"end": 2467,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 2488,
+"end": 2501,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2517,
+"end": 2549,
+"label": "PERSON",
+"text": "andualem.abate+007@outlook.com\n*"
+},
+{
+"start": 2565,
+"end": 2575,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 2819,
+"end": 2824,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2852,
+"end": 2869,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 2886,
+"end": 2897,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2899,
+"end": 2907,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2937,
+"end": 2953,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 2974,
+"end": 2987,
+"label": "PHONE",
+"text": "+251906564148"
+}
+]

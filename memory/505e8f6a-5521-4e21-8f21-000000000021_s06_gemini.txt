@@ -1,0 +1,4 @@
+- The user is married with two children.
+- The user prioritizes healthy family meals and has no chronic health conditions.
+- The user coordinates family activities, including grocery shopping and weekend brunch reservations, for [PERSON] ([PHONE]).
+- The user frequently manages family-related tasks in [LOCATION] ([LOCATION]).

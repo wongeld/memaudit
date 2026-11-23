@@ -1,0 +1,5 @@
+- User's name is Nathan Mercer.
+- Lives in the Back Bay area of Boston, United States.
+- Frequently plans family activities and household tasks, such as budget reviews and outings.
+- Interested in visiting the Boston Public Garden.
+- Experiences persistent technical issues with the assistant's `record_user_activity`, `search_places`, and `reverse_geocode` tools.

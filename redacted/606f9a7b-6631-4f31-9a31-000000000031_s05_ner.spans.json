@@ -1,0 +1,104 @@
+[
+{
+"start": 11,
+"end": 14,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 72,
+"end": 78,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 80,
+"end": 93,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 255,
+"end": 271,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 565,
+"end": 571,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 573,
+"end": 586,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 621,
+"end": 637,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 688,
+"end": 691,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 749,
+"end": 755,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1008,
+"end": 1024,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1368,
+"end": 1374,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1383,
+"end": 1389,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 1491,
+"end": 1494,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1552,
+"end": 1558,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2166,
+"end": 2182,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2441,
+"end": 2457,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2589,
+"end": 2605,
+"label": "PERSON",
+"text": "Suzanne Francois"
+}
+]

@@ -1,0 +1,5 @@
+* The user is married with three children.
+* The user manages type 2 diabetes and prioritizes healthy family meals.
+* The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations.
+* The user is associated with [PERSON] (profile_id [[ID_NUMBER]], phone [PHONE]).
+* The user's family activities often take place in [LOCATION].

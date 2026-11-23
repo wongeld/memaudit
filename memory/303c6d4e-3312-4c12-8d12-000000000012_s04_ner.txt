@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ profile_id [PROFILE_ID] ሲሆን የመታወቂያ ቁጥራቸው 3923394857 ነው።
+* የሚኖሩት በ[LOCATION], [LOCATION] ውስጥ ነው።
+* የትምህርት ደረጃቸው Bachelor of Arts ሲሆን የሥራ ሙያቸው Broadcast Lifestyle Journalist ነው።
+* ባለትዳርና የሦስት ልጆች ወላጅ ናቸው።
+* 'Hypothyroidism' የተባለ የጤና ሁኔታ አለባቸው።
+* ስልክ ቁጥራቸው +251986279168፣ ኢሜይላቸው [PERSON] እና ተመራጭ ቋንቋቸው አማርኛ ነው።

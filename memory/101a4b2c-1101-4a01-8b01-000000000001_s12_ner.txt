@@ -1,0 +1,5 @@
+* Ana profile_id ya [PROFILE_ID].
+* Anahusishwa na [PERSON] mwenye nambari ya simu +254122951015.
+* Amethibitisha miadi ya ukaguzi wa afya na ushauri wa lishe mnamo [DATE] katika kituo cha [ORGANIZATION] huko [LOCATION].
+* Hutumia huduma za kituo cha afya cha [ORGANIZATION] chenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION], [LOCATION].
+* Hutumia ratiba ya `daily_planning` kuorodhesha na kupanga shughuli pamoja na miadi yake.

@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], mwenye elimu ya Bachelor of Commerce na kitambulisho [ID_NUMBER] (Profile ID: [PROFILE_ID]).
+* Atakuwa na wageni wa familia nyumbani Jumapili saa 9:00 alasiri.
+* Anapanga matembezi ya familia mwishoni mwa wiki kuelekea [LOCATION] [LOCATION].
+* Ana eneo la familia lenye majira-nukta latitude -6.7712 na longitude 39.2398 huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapendelea kutotuma taarifa zake binafsi wakati wa kufanya utafutaji wa ramani na maeneo.

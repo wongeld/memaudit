@@ -1,0 +1,62 @@
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ travel ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ travel ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: [PERSON]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: [PHONE]
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

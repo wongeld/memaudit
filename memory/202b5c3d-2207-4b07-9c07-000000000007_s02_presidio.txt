@@ -1,0 +1,4 @@
+* የመገለጫ መታወቂያው (Profile ID) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION], [LOCATION] ሊያደርገው የነበረውን የሥራ ምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፎታል።
+* የካርታና የቦታ ፍለጋዎች ሲደረጉ የግል መረጃው እንዳይተላለፍ ጥንቃቄ ያደርጋል፣ እንዲሁም የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።
+* በAddis ([LOCATION]) በተለይም በ[LOCATION] (Yeka) አካባቢ (በlatitude [LOCATION] እና longitude [LOCATION]) ለጉዳዩ የሚሆን ቦታ እና አድራሻ ይፈልጋል።

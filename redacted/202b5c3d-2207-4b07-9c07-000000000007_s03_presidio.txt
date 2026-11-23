@@ -1,0 +1,64 @@
+User:
+የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ እና የUniversity Lecturer ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የክትትል ማስታወሻ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** reminder
+*   **Title:** የክትትል ማስታወሻ
+*   **Date/Time:** [DATE] [DATE]   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ! የክትትል ማስታወሻው አልተቀመጠም። ምናልባት ማረጋገጫውን እንደገና እንድሰጥ ሊጠይቀኝ ይችላል። እባክህ እንደገና እንድሞክር ትፈልጋለህ?
+
+ከዚህ በፊት የመገለጫ መረጃው ስላልተቀመጠ እንቅስቃሴዎቹም ሊቀመጡ አልቻሉም። መጀመሪያ መገለጫህን በትክክል ማስቀመጥ ሊያስፈልግ ይችላል።
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION] (Yeka) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'University Lecturer እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር እና ማስታወሻ አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+*   **Notes:** University Lecturer እና Married with two children አገልግሎት የሚውል
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+በ work ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተለውን የአገልግሎት/የቦታ ማስያዣ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** booking
+*   **Title:** የአገልግሎት/የቦታ booking
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?

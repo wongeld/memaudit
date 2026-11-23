@@ -1,0 +1,5 @@
+- Mtumiaji anashirikiana na [PERSON] (namba +255767902219) katika masuala ya manunuzi (shopping).
+- Shughuli za manunuzi zinahusisha eneo la [LOCATION] (Mikocheni).
+- Mtumiaji anajihusisha na ununuzi wa bidhaa na dawa, pamoja na ukaguzi wa ubora wa bidhaa na wauzaji.
+- Mtumiaji anapanga usafiri wa kuleta bidhaa nyumbani [LOCATION].
+- Mtumiaji anatumia mfumo wa AI kuratibu vikumbusho, miadi, na booking za manunuzi.

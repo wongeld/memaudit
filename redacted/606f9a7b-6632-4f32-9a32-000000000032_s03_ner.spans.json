@@ -1,0 +1,158 @@
+[
+{
+"start": 65,
+"end": 75,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 538,
+"end": 548,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 782,
+"end": 792,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 898,
+"end": 908,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1262,
+"end": 1272,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1467,
+"end": 1473,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1475,
+"end": 1488,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1530,
+"end": 1536,
+"label": "PERSON",
+"text": "Rachel"
+},
+{
+"start": 1846,
+"end": 1852,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1854,
+"end": 1867,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1869,
+"end": 1877,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1899,
+"end": 1909,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2137,
+"end": 2147,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2528,
+"end": 2534,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2536,
+"end": 2549,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2551,
+"end": 2559,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2581,
+"end": 2591,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2786,
+"end": 2796,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2878,
+"end": 2896,
+"label": "ORGANIZATION",
+"text": "Child Psychologist"
+},
+{
+"start": 2905,
+"end": 2911,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2913,
+"end": 2926,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2933,
+"end": 2936,
+"label": "LOCATION",
+"text": "Bay"
+},
+{
+"start": 3208,
+"end": 3214,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3216,
+"end": 3229,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3231,
+"end": 3239,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 3261,
+"end": 3271,
+"label": "PERSON",
+"text": "Rachel Kim"
+}
+]

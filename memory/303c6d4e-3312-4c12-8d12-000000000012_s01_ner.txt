@@ -1,0 +1,7 @@
+* ስም፡ [PERSON] (profile_id: [PROFILE_ID]፣ የመታወቂያ ቁጥር፡ 3923394857)
+* መኖሪያ ሥፍራ፡ [LOCATION], [LOCATION]
+* የሥራ መስክ እና ትምህርት፡ Broadcast Lifestyle Journalist (Bachelor of Arts)
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሦስት ልጆች ወላጅ (Married with three children)
+* የጤና ሁኔታ፡ ሃይፖታይሮይዲዝም (Hypothyroidism)
+* የመገናኛ መረጃ፡ ስልክ ቁጥር +251986279168፣ ኢሜይል [PERSON]
+* ተመራጭ ቋንቋ፡ አማርኛ

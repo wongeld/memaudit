@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], akiwa na nambari ya simu +254742509640 na profile_id [PROFILE_ID].
+* Ana mpango wa miadi ya kukutana na mshirika wa safari na usafirishaji [DATE].
+* Ana mpango wa kusafiri kutoka [LOCATION], [LOCATION] (Malava) kwa ajili ya safari inayohusisha siku 4 za kazi.
+* Ana kazi ya kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka.
+* Anapanga kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION].

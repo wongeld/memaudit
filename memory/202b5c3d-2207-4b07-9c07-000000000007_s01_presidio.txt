@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (Profile ID: [PROFILE_ID]) ሲሆኑ የሚኖሩት በ[LOCATION]፣ [LOCATION] (Yeka) ነው።
+* ሙያ፦ የዩኒቨርሲቲ መምህር (University Lecturer - Doctor of Philosophy) ሲሆኑ የመታወቂያ ቁጥራቸው 3923122090 ነው።
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሁለት ልጆች ወላጅ ናቸው።
+* የጤና ሁኔታ፦ 'Mild hypertension' አለበት/ባት።
+* የመገናኛ መረጃ፦ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION] ሲሆን ተመራጭ ቋንቋቸው አማርኛ ነው።
+* የሥራ ዕቅድ፦ በ[DATE] በ[LOCATION], [LOCATION] (Yeka) ከ[PERSON] ([PHONE]) ጋር የተያዘ የሳምንቱ ዋና የሥራ ተግባር አላቸው።

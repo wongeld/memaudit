@@ -1,0 +1,4 @@
+* Anahusiana na [PERSON] mwenye profile_id [PROFILE_ID] na nambari ya simu +254122951015.
+* Hali ya kiafya ya familia inajumuisha "Mild seasonal allergic rhinitis", inayohitaji maandalizi ya chakula bora cha familia kila jioni saa [DATE].
+* Ana mpango wa kufanya ununuzi wa mahitaji ya nyumbani, zawadi za familia, pamoja na vyakula vya afya vya familia na matunda huko [LOCATION], [LOCATION] (Itabua).
+* Anapanga chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) mnamo [DATE].

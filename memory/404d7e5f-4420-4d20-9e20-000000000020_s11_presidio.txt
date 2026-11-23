@@ -1,0 +1,5 @@
+* Mtumiaji anajishughulisha na kazi za kikazi zinazohusisha mikutano na mawasiliano ya barua pepe ([EMAIL]).
+* Ana uhusiano wa kikazi na [PERSON] (namba ya simu: +255890185741).
+* Ana hali ya kiafya ya Type 2 diabetes ambayo anahitaji kuizingatia wakati wa kufanya kazi.
+* Anatumia zana za kidijitali kupanga ratiba za mikutano na vikumbusho vya kazi katika maeneo ya [LOCATION].
+* Anaonyesha umakini katika usahihi wa taarifa za ratiba zake na anafuatilia utambuzi wa maeneo ya kijiografia (geocoding).

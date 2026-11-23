@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 163,
+"end": 170,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 172,
+"end": 185,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 187,
+"end": 199,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 482,
+"end": 489,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 491,
+"end": 504,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 506,
+"end": 518,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 542,
+"end": 556,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1099,
+"end": 1113,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1339,
+"end": 1346,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1348,
+"end": 1361,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1363,
+"end": 1375,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1412,
+"end": 1436,
+"label": "LOCATION",
+"text": "Lincoln Park Zoo Chicago"
+},
+{
+"start": 1598,
+"end": 1610,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1615,
+"end": 1622,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1852,
+"end": 1859,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1861,
+"end": 1874,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1876,
+"end": 1888,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1949,
+"end": 1962,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2082,
+"end": 2095,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

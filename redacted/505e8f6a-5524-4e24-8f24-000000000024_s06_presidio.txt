@@ -1,0 +1,75 @@
+User:
+Using record_user_activity under the shopping theme, please add a reminder for [PERSON] (profile_id [PROFILE_ID], mobile_phone +18466001447) to pick up my pharmacy and supply order in [LOCATION], [LOCATION] ([LOCATION]) on Friday at 05:30 PM.
+
+Assistant:
+Here are the details for your shopping reminder:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: shopping
+*   **Activity Type**: reminder
+*   **Title**: Pick up pharmacy and supply order
+*   **Date/Time**: Friday at 05:30 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: +18466001447
+
+Please confirm these details, and I will attempt to save this reminder. As before, I am encountering issues where saving operations are being canceled.
+
+User:
+Yes, I confirm the Friday 05:30 PM shopping reminder for [PERSON] (+18466001447)—please save it.
+
+Assistant:
+I apologize, but I was again unable to save the shopping reminder. The `record_user_activity` tool reported that the operation was canceled, even after your confirmation. It seems there is a persistent issue with saving any user-related data.
+
+User:
+Please schedule a shopping appointment via record_user_activity for [PERSON] (+18466001447) for an in-store pickup and supplier consultation in [LOCATION], [LOCATION] ([LOCATION]) on Saturday at 11:00 AM, and show the summary first.
+
+Assistant:
+Here is the summary for your shopping appointment:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: shopping
+*   **Activity Type**: appointment
+*   **Title**: In-store pickup and supplier consultation
+*   **Date/Time**: Saturday at 11:00 AM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: +18466001447
+
+Please confirm these details, and I will attempt to save this appointment. I must remind you that I've been encountering issues where saving operations are being canceled.
+
+User:
+Wait, please change the time of that Saturday shopping appointment to 01:30 PM for [PERSON] (+18466001447) on profile_id [PROFILE_ID], and repeat all submitted fields for confirmation.
+
+Assistant:
+I couldn't update the time of that shopping appointment because the previous attempt to save it was canceled, and no activity was recorded. I am still encountering issues saving any user-related data.
+
+However, if you'd like to try saving a *new* appointment with the updated time, here are the details:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: shopping
+*   **Activity Type**: appointment
+*   **Title**: In-store pickup and supplier consultation
+*   **Date/Time**: Saturday at 01:30 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: +18466001447
+
+Please let me know if you would like me to attempt to save this appointment with these details, keeping in mind the ongoing saving issues.
+
+User:
+Please record a shopping booking via record_user_activity for [PERSON] (+18466001447) to reserve a delivery slot in [LOCATION], [LOCATION] ([LOCATION]) on Monday at 04:00 PM, and show me the confirmation details before saving.
+
+Assistant:
+Here are the confirmation details for your shopping booking:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: shopping
+*   **Activity Type**: booking
+*   **Title**: Reserve a delivery slot
+*   **Date/Time**: Monday at 04:00 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: +18466001447
+
+Please confirm these details, and I will attempt to save this booking. I must remind you that I've been encountering issues where saving operations are being canceled.

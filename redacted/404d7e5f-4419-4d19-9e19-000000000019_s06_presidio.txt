@@ -1,0 +1,70 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [PROFILE_ID], simu [PHONE]) cha kuandaa chakula bora cha familia kinachoendana na afya njema bila ugonjwa sugu kila [DATE] kuhifadhi kikumbusho chako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** family
+**Aina ya Shughuli:** reminder
+**Kichwa:** kuandaa chakula bora cha familia kinachoendana na afya njema bila ugonjwa sugu
+**Muda:** kila [DATE] la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho chako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** family
+**Aina ya Shughuli:** reminder
+**Kichwa:** kuandaa chakula bora cha familia kinachoendana na afya njema bila ugonjwa sugu
+**Muda:** kila [DATE] la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] ([PHONE]) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION], [LOCATION] (Njiro); nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** family
+**Aina ya Shughuli:** shopping_item
+**Kichwa:** kununua mahitaji ya nyumbani na zawadi za familia
+**Eneo:** [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] ([PHONE]) kwenye profile_id [PROFILE_ID], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** family
+**Aina ya Shughuli:** shopping_item
+**Kichwa:** kununua mahitaji ya nyumbani na zawadi za familia
+**Eneo:** [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+**Maelezo:** vyakula vya afya vya familia na matunda
+
+Je, maelezo haya ni sahihi?
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] (Njiro) kwa [PERSON] ([PHONE]) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi booking yako. Tafadhali thibitisha muhtasari ufuatao kabla ya kuhifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** family
+**Aina ya Shughuli:** booking
+**Kichwa:** chakula cha mchana cha familia
+**Muda:** [DATE] [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, unathibitisha kuhifadhi?

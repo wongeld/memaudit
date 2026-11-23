@@ -1,0 +1,46 @@
+User:
+በ daily_planning ሥር ለ [PERSON] (+251945416026፣ ኢሜይል bereket.tesfaye+009@yahoo.com) [DATE] ላይ [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+የምክክር ቀጠሮው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: daily_planning
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact_name**: [PERSON]   **mobile_phone**: +251945416026
+*   **email**: bereket.tesfaye+009@yahoo.com
+*   **location**: [LOCATION], [LOCATION]   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ daily_planning ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id [PROFILE_ID] አልተመዘገበም።
+
+User:
+በMekelle, [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] Nominatim አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳል።

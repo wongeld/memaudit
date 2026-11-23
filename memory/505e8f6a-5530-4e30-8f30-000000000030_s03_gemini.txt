@@ -1,0 +1,6 @@
+* The user works as an Executive Regional Logistics Coordinator.
+* The user is based in [LOCATION], [LOCATION] ([LOCATION]).
+* The user manages mild seasonal allergic rhinitis.
+* The user has a recurring work routine every Friday at 04:00 PM to submit departmental metrics and take a break.
+* The user frequently attempts to use the `record_user_activity` tool for work-related tasks, including scheduling meetings, setting reminders, and ordering ergonomic office supplies and reference materials.
+* The user is associated with profile_id [[ID_NUMBER]], [PERSON], and [PHONE].

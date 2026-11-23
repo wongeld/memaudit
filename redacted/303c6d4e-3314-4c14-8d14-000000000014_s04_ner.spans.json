@@ -1,0 +1,164 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 53,
+"end": 65,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 67,
+"end": 75,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ34 ዓመት"
+},
+{
+"start": 370,
+"end": 382,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 440,
+"end": 448,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 510,
+"end": 522,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 590,
+"end": 604,
+"label": "PERSON",
+"text": "Meron Bekele\n*"
+},
+{
+"start": 684,
+"end": 694,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 757,
+"end": 769,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 851,
+"end": 863,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1078,
+"end": 1093,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1094,
+"end": 1106,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1108,
+"end": 1116,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1118,
+"end": 1122,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 1147,
+"end": 1159,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1216,
+"end": 1228,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1393,
+"end": 1406,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30\n*"
+},
+{
+"start": 1423,
+"end": 1434,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1436,
+"end": 1444,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1696,
+"end": 1711,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1719,
+"end": 1731,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1797,
+"end": 1809,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1941,
+"end": 1946,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1974,
+"end": 1987,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00\n*"
+},
+{
+"start": 2004,
+"end": 2015,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2017,
+"end": 2025,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

@@ -1,0 +1,7 @@
+* The user is managing mild hypertension.
+* The user is coordinating health and wellness activities for [PERSON] (ID: [[ID_NUMBER]], Phone: [PHONE]).
+* The user is planning a routine wellness checkup in [LOCATION] for Friday at 02:30 PM.
+* The user is planning a morning fitness and stretching session in [LOCATION] for Saturday at 08:30 AM.
+* The user is shopping for a daily planner, a hydration bottle, and wellness supplies in [LOCATION].
+* The user prefers to approve all bookings and activities before they are saved.
+* The `record_user_activity` tool has been experiencing technical issues with saving entries for the user.

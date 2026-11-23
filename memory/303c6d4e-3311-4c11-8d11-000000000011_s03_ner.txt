@@ -1,0 +1,5 @@
+* የጤና ሁኔታ፡ 'Mild seasonal allergic rhinitis' አለበት/አለባት።
+* ከ [ORGANIZATION] ጋር የተያያዘ የሥራ ኃላፊነት አለበት/አለባት።
+* 'Florist and Event Decorator' ሥራ ላይ የተሰማራ/ች እና ሁለት ልጆች ያሉት/ያሏት ባለትዳር ነው/ናት።
+* የተግባራት እና ግዢዎች መፈጸሚያ ቦታ፡ [LOCATION], [LOCATION] (Bole)።
+* የሥራ ግንኙነት ያለው/ያላት ሰው፦ [PERSON] (profile_id: [PROFILE_ID]፣ ስልክ ቁጥር፡ +251962051344)።

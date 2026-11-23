@@ -1,0 +1,7 @@
+- Jina: [PERSON] (ID ya Wasifu: [PROFILE_ID]).
+- Umri: miaka 34.
+- Kazi: Retail Import Buyer anayefanya kazi [LOCATION], [LOCATION] (Mikocheni).
+- Hali ya familia: Ameoa/ameolewa na ana watoto wawili.
+- Afya: Ana hali ya Iron-deficiency anemia.
+- Mawasiliano: Simu [PHONE] na barua pepe [EMAIL].
+- Shughuli iliyoratibiwa: Ukaguzi wa afya ya familia uliopangwa kufanyika [DATE] huko [LOCATION], [LOCATION].

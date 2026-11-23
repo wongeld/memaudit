@@ -1,0 +1,4 @@
+- User is [PERSON] (ID: [PHONE], email: [EMAIL]).
+- User is interested in comparing vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]).
+- User is currently experiencing persistent technical issues with the assistant's tools, specifically regarding saving activities/profiles and using OpenStreetMap services.
+- User attempted to search for [ORGANIZATION] and perform reverse geocoding for a retail location in [LOCATION], [LOCATION] ([LOCATION]), but both failed.

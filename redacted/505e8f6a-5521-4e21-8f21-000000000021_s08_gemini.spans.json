@@ -1,0 +1,140 @@
+[
+{
+"start": 10,
+"end": 21,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 31,
+"end": 41,
+"label": "ID_NUMBER",
+"text": "3833758790"
+},
+{
+"start": 49,
+"end": 74,
+"label": "EMAIL",
+"text": "james.bosse+021@gmail.com"
+},
+{
+"start": 211,
+"end": 217,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 219,
+"end": 232,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 234,
+"end": 242,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 478,
+"end": 484,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 486,
+"end": 499,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 501,
+"end": 509,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 525,
+"end": 536,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 551,
+"end": 563,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 719,
+"end": 725,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 727,
+"end": 740,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 742,
+"end": 750,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1086,
+"end": 1097,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1197,
+"end": 1203,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1205,
+"end": 1218,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1220,
+"end": 1228,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1262,
+"end": 1297,
+"label": "LOCATION",
+"text": "Boston Public Library Copley Square"
+},
+{
+"start": 1409,
+"end": 1444,
+"label": "LOCATION",
+"text": "Boston Public Library Copley Square"
+},
+{
+"start": 1679,
+"end": 1685,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1687,
+"end": 1700,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1702,
+"end": 1710,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

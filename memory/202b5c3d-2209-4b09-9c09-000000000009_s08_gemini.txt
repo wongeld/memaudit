@@ -1,0 +1,4 @@
+* የተጠቃሚው Profile ID [[ID_NUMBER]] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ([LOCATION]) ሊያደርጉት የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግረዋል።
+* በ[LOCATION] ([LOCATION]) (በተለይ በ Mekelle / latitude 13.5078 እና longitude 39.4622 አካባቢ) ለጉዳያቸው የሚሆን ቦታ ይፈልጋሉ።
+* የቦታ ፍለጋ ሲካሄድ የግል መረጃ እንዳይጋራ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋሉ።

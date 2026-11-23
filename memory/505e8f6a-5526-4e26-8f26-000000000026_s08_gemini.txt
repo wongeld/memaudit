@@ -1,0 +1,4 @@
+- User's name is Nathan.
+- User is planning a family gathering and outing in [LOCATION] ([LOCATION]).
+- User manages household budget and family calendar tasks.
+- User experiences persistent technical issues with the assistant's `record_user_activity`, `search_places`, and `reverse_geocode` tools.

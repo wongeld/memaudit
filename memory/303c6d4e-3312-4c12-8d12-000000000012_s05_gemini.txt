@@ -1,0 +1,5 @@
+* የተጠቃሚው profile_id `[PROFILE_ID]` ነው።
+* ከ`[PERSON]` (ስልክ: `[PHONE]`፣ ኢሜይል: `[EMAIL]`) ጋር የተያያዘ የቤተሰብ ጉዳይ አለው።
+* በ[LOCATION] ([LOCATION]) ለረቡዕ ከሰዓት 8:00 ታስቦ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሯል።
+* በ[LOCATION] ([LOCATION]) አካባቢ በተለይም በ latitude 9.0158 እና longitude 38.7712 አቅራቢያ የሚገኙ ቦታዎችን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይጋራ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

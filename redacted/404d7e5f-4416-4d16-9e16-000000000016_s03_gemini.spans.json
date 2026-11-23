@@ -1,0 +1,242 @@
+[
+{
+"start": 59,
+"end": 75,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 89,
+"end": 99,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 107,
+"end": 120,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 146,
+"end": 176,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 407,
+"end": 417,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 509,
+"end": 539,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 605,
+"end": 618,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 805,
+"end": 821,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 823,
+"end": 836,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 1005,
+"end": 1015,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1107,
+"end": 1137,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 1203,
+"end": 1216,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 1378,
+"end": 1394,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1396,
+"end": 1409,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 1449,
+"end": 1453,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1455,
+"end": 1460,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1462,
+"end": 1468,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1656,
+"end": 1666,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1821,
+"end": 1825,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1827,
+"end": 1832,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1834,
+"end": 1840,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1867,
+"end": 1880,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 2036,
+"end": 2052,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2054,
+"end": 2067,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 2219,
+"end": 2235,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2258,
+"end": 2268,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2360,
+"end": 2373,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 2596,
+"end": 2600,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2602,
+"end": 2607,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2609,
+"end": 2615,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 2721,
+"end": 2737,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2739,
+"end": 2752,
+"label": "PHONE",
+"text": "+254170314031"
+},
+{
+"start": 2806,
+"end": 2810,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2812,
+"end": 2817,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2819,
+"end": 2825,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 3022,
+"end": 3032,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3161,
+"end": 3165,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3167,
+"end": 3172,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 3174,
+"end": 3180,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 3207,
+"end": 3220,
+"label": "PHONE",
+"text": "+254170314031"
+}
+]

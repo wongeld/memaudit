@@ -1,0 +1,4 @@
+* የ profile_id [PROFILE_ID] ተጠቃሚ ሲሆን/ስትሆን ከቤተሰብ (family) ጋር የተያያዘ የ [PERSON] (ስልክ፡ [PHONE]፣ ኢሜይል፡ [EMAIL]) መረጃ አለው/አላት።
+* ለ [PERSON] በ [LOCATION], [LOCATION] ሊደረግ የነበረውን የ [DATE] የምክክር ቀጠሮ ወደ ሌላ ቀን አዘዋውሯል/ታለች።
+* በAddis [LOCATION], [LOCATION] (Bole) አካባቢ (በተለይ latitude 8.9972፣ longitude 38.7869) ለጉዳዩ የሚሆን ቦታ ይፈልጋል/ትፈልጋለች።
+* የቦታ ፍለጋ በሚካሄድበት ጊዜ የግል መረጃ እንዳይጋራ እና የ [ORGANIZATION] እውቅና እንዲካተት ይመርጣል/ትመርጣለች።

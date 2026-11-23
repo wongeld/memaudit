@@ -1,0 +1,104 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 65,
+"end": 75,
+"label": "PHONE",
+"text": "3463185582"
+},
+{
+"start": 188,
+"end": 213,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 219,
+"end": 225,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 227,
+"end": 269,
+"label": "LOCATION",
+"text": "Tanzania (Area C).\n\nAssistant:\nNimekuelewa"
+},
+{
+"start": 328,
+"end": 349,
+"label": "PERSON",
+"text": "Halima Kikwete.\n\nHaya"
+},
+{
+"start": 437,
+"end": 453,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 618,
+"end": 645,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri\n*"
+},
+{
+"start": 658,
+"end": 664,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 666,
+"end": 694,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n\nTafadhali"
+},
+{
+"start": 791,
+"end": 816,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1369,
+"end": 1386,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1428,
+"end": 1449,
+"label": "LOCATION",
+"text": "Nyerere Square Dodoma"
+},
+{
+"start": 1570,
+"end": 1591,
+"label": "LOCATION",
+"text": "Nyerere Square Dodoma"
+},
+{
+"start": 1827,
+"end": 1833,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1835,
+"end": 1851,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 1874,
+"end": 1909,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

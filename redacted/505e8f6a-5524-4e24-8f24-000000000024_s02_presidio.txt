@@ -1,0 +1,40 @@
+User:
+I'm [PERSON] ([EMAIL]), and since I'm managing type 2 diabetes, please use record_user_activity in the work theme to schedule an appointment for a mid-week stakeholder review in [LOCATION], [LOCATION] ([LOCATION]) on Wednesday at 02:00 PM.
+
+Assistant:
+I have the following details for a work appointment:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: appointment
+*   **Title**: mid-week stakeholder review
+*   **Date/Time**: Wednesday at 02:00 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Email**: [EMAIL]
+
+Please confirm these details, and I will attempt to save this appointment. Please note that I have been encountering issues with saving activities, where the operation gets canceled.
+
+User:
+No, cancel that Wednesday 02:00 PM work appointment for [PERSON]—the stakeholder review was moved to next month, so do not save it.
+
+Assistant:
+Understood. I will not save the Wednesday 02:00 PM work appointment.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] filtered to the work theme so I can review all my scheduled professional commitments.
+
+Assistant:
+There are no saved activities for [PERSON] under the work theme. This is consistent with the earlier issues we encountered when trying to save your profile and activities, as all those operations were reported as canceled and not saved.
+
+User:
+I have an off-site professional meeting coming up; please use search_places on the OpenStreetMap server to look up 'Merchandise Mart [LOCATION]' without sending any personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I'm sorry, I encountered an error when trying to search for '[ORGANIZATION]' using [ORGANIZATION]. I will try to investigate the `search_places` tool to understand the required parameters.
+
+User:
+Could you use reverse_geocode to find the street address for coordinates latitude 41.9214 and longitude -87.6513 near my work area in [LOCATION], [LOCATION] ([LOCATION]), including OpenStreetMap attribution?
+
+Assistant:
+I apologize, but I encountered an error again when trying to use `reverse_geocode` on the [ORGANIZATION] server. It seems there's an issue with executing tools on the [ORGANIZATION] server at the moment.

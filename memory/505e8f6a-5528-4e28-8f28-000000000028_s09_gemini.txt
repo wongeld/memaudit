@@ -1,0 +1,6 @@
+* The user is managing health and wellness activities for [PERSON] (ID: [[ID_NUMBER]], Phone: [PHONE]).
+* The user is in good health with no chronic conditions.
+* The user is interested in maintaining a routine that includes wellness checkups, fitness, and stretching.
+* The user is planning to purchase a daily planner, a hydration bottle, and wellness supplies.
+* The user prefers morning fitness and stretching sessions, specifically scheduling them for Saturdays at 08:30 AM.
+* The user frequently uses the `record_user_activity` tool for daily planning, though they have experienced persistent technical issues with saving these entries.

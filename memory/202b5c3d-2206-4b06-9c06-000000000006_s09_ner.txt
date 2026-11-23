@@ -1,0 +1,5 @@
+* የሥራ መስኩ የCommercial Florist and Event Decorator ነው።
+* ሙሉ ጤነኛ መሆኑን ገልጿል።
+* ከ[PERSON] (profile_id [PROFILE_ID]፣ ስልክ ቁጥር +251996949340) ጋር የተያያዙ ዕለታዊ ዕቅዶችን (daily_planning) ይከታተላል።
+* በ[LOCATION], [LOCATION] (Bole) ለCommercial Florist and Event Decorator እና ለSingle አገልግሎት የሚውሉ አስፈላጊ ቁሳቁሶችንና የጤና/የሥራ ግብዓቶችን የመግዛት ዕቅድ አለው።
+* በ[DATE] በ[LOCATION] (Bole) የአገልግሎት ወይም የቦታ ማስያዣ (booking) የማድረግ ዕቅድ አለው።

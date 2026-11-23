@@ -1,0 +1,188 @@
+[
+{
+"start": 14,
+"end": 30,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 179,
+"end": 183,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 185,
+"end": 190,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 350,
+"end": 366,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 436,
+"end": 448,
+"label": "LOCATION",
+"text": "Kenya.\n\nHaya"
+},
+{
+"start": 543,
+"end": 554,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 577,
+"end": 585,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 643,
+"end": 675,
+"label": "PERSON",
+"text": "valentine.nayaku+016@gmail.com\n*"
+},
+{
+"start": 688,
+"end": 704,
+"label": "LOCATION",
+"text": "Kenya\n\nTafadhali"
+},
+{
+"start": 833,
+"end": 849,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 882,
+"end": 912,
+"label": "PERSON",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 919,
+"end": 924,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1141,
+"end": 1152,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 1175,
+"end": 1183,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 1241,
+"end": 1273,
+"label": "PERSON",
+"text": "valentine.nayaku+016@gmail.com\n*"
+},
+{
+"start": 1286,
+"end": 1302,
+"label": "LOCATION",
+"text": "Kenya\n\nTafadhali"
+},
+{
+"start": 1374,
+"end": 1390,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1639,
+"end": 1650,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 1673,
+"end": 1681,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 1784,
+"end": 1800,
+"label": "LOCATION",
+"text": "Kenya\n\nTafadhali"
+},
+{
+"start": 1894,
+"end": 1898,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1900,
+"end": 1905,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2059,
+"end": 2084,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 2089,
+"end": 2105,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2382,
+"end": 2409,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi\n*"
+},
+{
+"start": 2548,
+"end": 2573,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi"
+},
+{
+"start": 2629,
+"end": 2645,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2786,
+"end": 2805,
+"label": "PERSON",
+"text": "Valentine Nayaku:\n*"
+},
+{
+"start": 2861,
+"end": 2872,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 2895,
+"end": 2903,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 3109,
+"end": 3145,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi\n\nTafadhali"
+}
+]

@@ -1,0 +1,4 @@
+* የ profile_id መለያው [PROFILE_ID] ሲሆን፣ ከ [PERSON] ጋር የተያያዘ የስልክ ቁጥር (+251996949340) እና የኢሜይል አድራሻ (dereje.diriba+006@gmail.com) ይጠቀማል።
+* በ [LOCATION], [LOCATION] ሊያደርገው የነበረውን የምክክር ቀጠሮ (appointment) ወደ ሌላ ቀን አሸጋግሮታል።
+* በ Addis [LOCATION] (Bole) አካባቢ (በተለይም በ lat 8.9972, lon 38.7869 አካባቢ) ለጉዳዩ የሚሆን ቦታ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) አብሮ እንዲካተት ይፈልጋል።

@@ -1,0 +1,6 @@
+- Jina la mtumiaji ni [PERSON], ana umri wa miaka 41.
+- Anafanya kazi kama Foreign Exchange Dealer huko [LOCATION], [LOCATION] (Kilimani).
+- Hali ya familia: Ameoa na ana watoto wawili.
+- Hali ya afya: Ana tatizo la Mild hypertension.
+- Mawasiliano: [PHONE] na [EMAIL].
+- Amepanga miadi ya ukaguzi wa afya ya familia tarehe [DATE] huko [LOCATION], [LOCATION].

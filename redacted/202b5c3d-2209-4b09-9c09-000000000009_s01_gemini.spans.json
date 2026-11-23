@@ -1,0 +1,158 @@
+[
+{
+"start": 9,
+"end": 24,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 42,
+"end": 52,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 57,
+"end": 74,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 76,
+"end": 81,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 335,
+"end": 345,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 351,
+"end": 366,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 372,
+"end": 385,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 392,
+"end": 421,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 530,
+"end": 540,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 619,
+"end": 632,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 648,
+"end": 677,
+"label": "EMAIL",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 766,
+"end": 781,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 794,
+"end": 807,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 980,
+"end": 990,
+"label": "ID_NUMBER",
+"text": "3926435391"
+},
+{
+"start": 1074,
+"end": 1091,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1093,
+"end": 1098,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 1123,
+"end": 1138,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1140,
+"end": 1153,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1323,
+"end": 1338,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1353,
+"end": 1366,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1476,
+"end": 1486,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1514,
+"end": 1529,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1531,
+"end": 1544,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1627,
+"end": 1637,
+"label": "DATE",
+"text": "2023-10-26"
+},
+{
+"start": 1715,
+"end": 1730,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1746,
+"end": 1759,
+"label": "PHONE",
+"text": "+251945416026"
+}
+]

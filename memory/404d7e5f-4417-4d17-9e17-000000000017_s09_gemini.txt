@@ -1,0 +1,5 @@
+- Mtumiaji anajali afya ya familia yake, hasa kudhibiti hali ya Mild hypertension kupitia lishe.
+- Ana utaratibu wa kuandaa chakula bora cha familia kila jioni saa 12:30.
+- Anapanga kununua mahitaji ya nyumbani, zawadi za familia, na vyakula vya afya (ikiwemo matunda) huko [LOCATION].
+- Anapanga chakula cha mchana cha familia kila Jumapili saa 7:30 mchana huko [LOCATION].
+- Anashirikiana na [PERSON] (simu [PHONE], profile_id [[ID_NUMBER]]) katika shughuli hizi za kifamilia.

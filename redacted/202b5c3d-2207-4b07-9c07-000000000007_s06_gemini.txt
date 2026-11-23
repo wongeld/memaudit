@@ -1,0 +1,75 @@
+User:
+የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ እና የUniversity Lecturer ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ school ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የክትትል ማስታወሻ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** school
+*   **Activity Type:** reminder
+*   **Title:** የክትትል ማስታወሻ
+*   **Date/Time:** አርብ ከሰዓት 10:00
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ! የክትትል ማስታወሻው አልተቀመጠም። ከዚህ በፊትም በተመሳሳይ መልኩ አልተቀመጠም ነበር። ይህ ምናልባት በመሳሪያው ላይ ባለው ችግር ወይም ተጨማሪ ማረጋገጫ ስለሚያስፈልግ ሊሆን ይችላል።
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+እድገት ለማድረግ፣ መገለጫህ እና ተግባሮቹ እንዲቀመጡ በመጀመሪያ የመገለጫ መረጃህ በትክክል መመዝገብ አለበት።
+
+User:
+በ school ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** school
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [[ID_NUMBER]] 'University Lecturer እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር እና ማስታወሻ አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** school
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+*   **Notes:** University Lecturer እና Married with two children አገልግሎት የሚውል
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+በ school ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተለውን የአገልግሎት/የቦታ ማስያዣ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** school
+*   **Activity Type:** booking
+*   **Title:** የአገልግሎት/የቦታ booking
+*   **Date/Time:** ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?

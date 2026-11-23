@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (profile_id: [PROFILE_ID]፣ መታወቂያ ቁጥር፡ 3922715388)
+* የመኖሪያ አድራሻ፦ [LOCATION], [LOCATION] (Bole)፣ አገር፦ [LOCATION]
+* የመገናኛ መረጃ፦ ስልክ ቁጥር +251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com፤ ተመራጭ ቋንቋ፦ አማርኛ
+* የሙያ እና የትምህርት ሁኔታ፦ Commercial Florist and Event Decorator ሲሆኑ በ Business Management ዲፕሎማ አላቸው
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children)
+* የጤና ሁኔታ፦ 'Mild seasonal allergic rhinitis' አለባቸው

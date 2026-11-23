@@ -1,0 +1,98 @@
+[
+{
+"start": 18,
+"end": 30,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 80,
+"end": 93,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 97,
+"end": 122,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 211,
+"end": 223,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 286,
+"end": 299,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 305,
+"end": 329,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 499,
+"end": 514,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 531,
+"end": 558,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 579,
+"end": 593,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 703,
+"end": 717,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 783,
+"end": 801,
+"label": "DATE",
+"text": "የረቡዕ ከሰዓት 8:00 ሰዓት"
+},
+{
+"start": 1044,
+"end": 1059,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1117,
+"end": 1165,
+"label": "ORGANIZATION",
+"text": "Ayder Comprehensive Specialized Hospital Mekelle"
+},
+{
+"start": 1180,
+"end": 1193,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1280,
+"end": 1305,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 1384,
+"end": 1397,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

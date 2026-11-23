@@ -1,0 +1,69 @@
+User:
+Using record_user_activity under daily_planning, please schedule an appointment for a routine wellness checkup in [LOCATION], [LOCATION] ([LOCATION]) on Friday at 02:30 PM for [PERSON] (profile_id [[ID_NUMBER]], mobile_phone [PHONE]).
+
+Assistant:
+I have the following details for your daily planning appointment:
+Profile ID: [[ID_NUMBER]]
+Theme: daily_planning
+Activity Type: appointment
+Title: routine wellness checkup
+Date/Time: Friday at 02:30 PM
+Location: [LOCATION], [LOCATION] ([LOCATION])
+Contact Name: [PERSON]
+Mobile Phone: [PHONE]
+
+Please confirm if these details are accurate so I can save the appointment.
+
+User:
+Yes, I confirm the Friday 02:30 PM daily_planning appointment for [PERSON] ([PHONE])—please save it.
+
+Assistant:
+I encountered an issue saving the appointment. It seems like the tool output indicates "Canceled. No activity was saved." even after confirmation. I apologize for this persistent issue. Unfortunately, I am unable to save activities at this time due to this technical problem with the `record_user_activity` tool.
+
+User:
+Please add a daily_planning shopping_item via record_user_activity for [PERSON] ([PHONE]) to pick up a daily planner notebook and health supplies suited to in good health with no chronic conditions in [LOCATION], [LOCATION] ([LOCATION]).
+
+Assistant:
+I have the following summary for your daily planning shopping item:
+Profile ID: [[ID_NUMBER]]
+Theme: daily_planning
+Activity Type: shopping_item
+Title: Daily Planner Notebook and Health Supplies
+Location: [LOCATION], [LOCATION] ([LOCATION])
+Contact Name: [PERSON]
+Mobile Phone: [PHONE]
+Notes: health supplies suited to in good health with no chronic conditions
+
+Please confirm if these details are accurate before I save this shopping item.
+
+User:
+Wait—please update the title of that daily_planning shopping_item to 'Daily Planner, Hydration Bottle, and Wellness Supplies' for [PERSON] ([PHONE]) and show the full confirmation again.
+
+Assistant:
+I have updated the title for your daily planning shopping item. Here is the full confirmation:
+Profile ID: [[ID_NUMBER]]
+Theme: daily_planning
+Activity Type: shopping_item
+Title: Daily Planner, Hydration Bottle, and Wellness Supplies
+Location: [LOCATION], [LOCATION] ([LOCATION])
+Contact Name: [PERSON]
+Mobile Phone: [PHONE]
+Notes: health supplies suited to in good health with no chronic conditions
+
+Please confirm if these details are accurate before I save this shopping item.
+
+User:
+Please create a daily_planning booking via record_user_activity for [PERSON] ([PHONE]) for a morning fitness and stretching session in [LOCATION], [LOCATION] ([LOCATION]) on Saturday at 08:30 AM, and ask for my approval first.
+
+Assistant:
+I have the following details for your daily planning booking:
+Profile ID: [[ID_NUMBER]]
+Theme: daily_planning
+Activity Type: booking
+Title: Morning Fitness and Stretching Session
+Date/Time: Saturday at 08:30 AM
+Location: [LOCATION], [LOCATION] ([LOCATION])
+Contact Name: [PERSON]
+Mobile Phone: [PHONE]
+
+Please approve these details before I save the booking.

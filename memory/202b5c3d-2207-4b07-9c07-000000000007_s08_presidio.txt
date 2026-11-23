@@ -1,0 +1,4 @@
+* ተጠቃሚው የ [PROFILE_ID] መታወቂያ ያለው ሲሆን በቤተሰብ (family) ምድብ ሥር የ [PERSON] (ስልክ [PHONE]፣ ኢሜይል [EMAIL]) ግንኙነት መረጃ አለው።
+* በ [DATE] በ [LOCATION], [LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ጊዜ አሸጋግሮታል።
+* በAddis [LOCATION], [LOCATION] (በተለይ Yeka አካባቢ፤ latitude 9.0355፣ longitude 38.8021) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይላክ ጥንቃቄ የሚፈልግ ሲሆን የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣል።

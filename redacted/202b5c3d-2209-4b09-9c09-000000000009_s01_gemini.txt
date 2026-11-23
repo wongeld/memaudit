@@ -1,0 +1,41 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [[ID_NUMBER]])፤ በ[LOCATION] ([LOCATION]) የምኖር የ29 ዓመት Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አልተገኘም። እባክህ የስልክ ቁጥርህን እና ኢሜል አድራሻህን ጨምሮ ሙሉ የመገለጫ መረጃህን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **first_name**: Bereket
+*   **last_name**: Tesfaye
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: Ethiopia
+*   **preferred_language**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild asthma' ስለሆነ፣ በ work ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION] ([LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"የሳምንቱ ዋና ተግባር" የሚለውን እንቅስቃሴ ከማስመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "ሰኞ ጠዋት 2:30 ሰዓት" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። እንዲሁም፣ የእውቂያ ስምህ ([PERSON]) እና ስልክ ቁጥርህ ([PHONE]) የዚህ ተግባር እውቂያዎች መሆናቸውን ማረጋገጥ ትችላለህ ወይንስ እነዚህ ስለራስህ ተጨማሪ መረጃዎች ናቸው?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [[ID_NUMBER]] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ ለ"የሳምንቱ ዋና ተግባር" የተወሰነ ቀን (ለምሳሌ፣ "[DATE] ሰኞ ጠዋት 3:00 ሰዓት") ማቅረብ ትችላለህ? የ"ሰኞ ጠዋት 3:00 ሰዓት" ትክክለኛ ቀን ያስፈልገኛል።
+
+እንዲሁም፣ የ [PERSON] ስም እና ስልክ ቁጥር ([PHONE]) የዚህ ተግባር የእውቂያ ዝርዝሮች መሆናቸውን ወይም የመገለጫህ ዝርዝሮች መሆናቸውን ማረጋገጥ ትችላለህ?

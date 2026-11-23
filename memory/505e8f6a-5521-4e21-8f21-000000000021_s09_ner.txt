@@ -1,0 +1,6 @@
+- The user is managing daily planning activities for [PERSON] (mobile: +17427416378, profile_id: [PROFILE_ID]).
+- The user is in good health with no chronic conditions.
+- The user is interested in wellness, hydration, and fitness, specifically planning morning fitness and stretching sessions.
+- The user prefers to use a daily planner notebook.
+- The user is currently located in or planning activities for [LOCATION], [LOCATION] ([LOCATION]).
+- The user requires approval before the assistant saves bookings.

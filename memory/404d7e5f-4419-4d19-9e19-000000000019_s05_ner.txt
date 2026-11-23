@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Ana elimu ya Diploma katika Usimamizi wa Utalii (Tourism Management).
+* Anaishi [LOCATION], [LOCATION] (Njiro).
+* Anapanga shughuli za kifamilia, ikiwemo kupanga bajeti ya nyumbani na ada za shule.
+* Anapenda kufanya matembezi ya familia.
+* Anaonyesha nia ya kutumia zana za kidijitali (kama `search_places` na `reverse_geocode`) kupanga shughuli zake, ingawa amekumbana na changamoto za kiufundi na zana hizo.

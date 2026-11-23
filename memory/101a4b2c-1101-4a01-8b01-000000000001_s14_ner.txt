@@ -1,0 +1,4 @@
+* Anafanya ukaguzi wa kawaida wa afya na ana mpango wa kupata ushauri wa lishe kwa [PERSON] tarehe [DATE] huko [LOCATION], [LOCATION].
+* Anatumia au anasimamia wasifu wa [PERSON] mwenye kitambulisho [PROFILE_ID] na nambari ya simu +254122951015.
+* Ana mpango wa kununua shajara ya kupanga siku pamoja na vyakula vya afya huko [LOCATION], [LOCATION].
+* Anafanya shughuli na mipango yake katika maeneo ya [LOCATION], [LOCATION].

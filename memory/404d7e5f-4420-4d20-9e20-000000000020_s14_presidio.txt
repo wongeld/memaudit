@@ -1,0 +1,4 @@
+* Mtumiaji ana mpango wa kwenda matembezi ya familia tarehe [DATE] katika eneo la [LOCATION].
+* Mtumiaji anahitaji usaidizi wa kupanga milo inayozingatia hali ya afya ya Type 2 diabetes kwa ajili ya familia yake.
+* Mtumiaji alijaribu kuweka kikumbusho cha familia kwa ajili ya [PERSON] (simu: +255890185741) ili kuandaa chakula kinachofaa kwa ugonjwa wa kisukari, ingawa uhifadhi wa kikumbusho hicho haukufanikiwa.
+* Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa shughuli zake za familia.

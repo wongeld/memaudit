@@ -1,0 +1,248 @@
+[
+{
+"start": 14,
+"end": 26,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 107,
+"end": 120,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 122,
+"end": 130,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 385,
+"end": 395,
+"label": "PERSON",
+"text": "Neema\nJina"
+},
+{
+"start": 407,
+"end": 421,
+"label": "PERSON",
+"text": "Mwinyi\nNambari"
+},
+{
+"start": 431,
+"end": 444,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 457,
+"end": 483,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 490,
+"end": 501,
+"label": "LOCATION",
+"text": "Tanzania\nID"
+},
+{
+"start": 587,
+"end": 596,
+"label": "DATE",
+"text": "34\nMahali"
+},
+{
+"start": 598,
+"end": 611,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 613,
+"end": 621,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 710,
+"end": 722,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 729,
+"end": 742,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 755,
+"end": 781,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 788,
+"end": 796,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 995,
+"end": 1005,
+"label": "PERSON",
+"text": "Neema\nJina"
+},
+{
+"start": 1017,
+"end": 1028,
+"label": "PERSON",
+"text": "Mwinyi\nSimu"
+},
+{
+"start": 1041,
+"end": 1054,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1067,
+"end": 1093,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 1100,
+"end": 1121,
+"label": "LOCATION",
+"text": "Tanzania\n\nUser:\nNdiyo"
+},
+{
+"start": 1139,
+"end": 1151,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1160,
+"end": 1173,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1369,
+"end": 1379,
+"label": "PERSON",
+"text": "Neema\nJina"
+},
+{
+"start": 1391,
+"end": 1402,
+"label": "PERSON",
+"text": "Mwinyi\nSimu"
+},
+{
+"start": 1415,
+"end": 1428,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1441,
+"end": 1472,
+"label": "PERSON",
+"text": "neema.mwinyi+018@gmail.com\nNchi"
+},
+{
+"start": 1474,
+"end": 1494,
+"label": "LOCATION",
+"text": "Tanzania\n\nUser:\nKama"
+},
+{
+"start": 1712,
+"end": 1725,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1727,
+"end": 1735,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1752,
+"end": 1764,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1766,
+"end": 1779,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2035,
+"end": 2048,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2050,
+"end": 2058,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2087,
+"end": 2104,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 2117,
+"end": 2130,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2395,
+"end": 2407,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2409,
+"end": 2422,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2801,
+"end": 2814,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2816,
+"end": 2824,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2853,
+"end": 2870,
+"label": "PERSON",
+"text": "Neema Mwinyi\nSimu"
+},
+{
+"start": 2883,
+"end": 2896,
+"label": "PHONE",
+"text": "+255767902219"
+}
+]

@@ -1,0 +1,218 @@
+[
+{
+"start": 119,
+"end": 133,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 226,
+"end": 267,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri.\n\nAssistant:\nSawa"
+},
+{
+"start": 269,
+"end": 275,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 434,
+"end": 440,
+"label": "DATE",
+"text": "Ijumaa"
+},
+{
+"start": 750,
+"end": 756,
+"label": "DATE",
+"text": "Ijumaa"
+},
+{
+"start": 758,
+"end": 776,
+"label": "DATE",
+"text": "saa 9:00 alasiri\n*"
+},
+{
+"start": 897,
+"end": 917,
+"label": "DATE",
+"text": "Ijumaa.\n\nUser:\nNdiyo"
+},
+{
+"start": 955,
+"end": 978,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 983,
+"end": 997,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1058,
+"end": 1064,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1106,
+"end": 1112,
+"label": "DATE",
+"text": "Ijumaa"
+},
+{
+"start": 1146,
+"end": 1169,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 1238,
+"end": 1244,
+"label": "DATE",
+"text": "Ijumaa"
+},
+{
+"start": 1258,
+"end": 1268,
+"label": "DATE",
+"text": "2024-08-09"
+},
+{
+"start": 1371,
+"end": 1385,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1482,
+"end": 1490,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1492,
+"end": 1497,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1553,
+"end": 1559,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1916,
+"end": 1924,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1926,
+"end": 1931,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2121,
+"end": 2135,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2246,
+"end": 2252,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2624,
+"end": 2632,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2634,
+"end": 2639,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2863,
+"end": 2871,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2873,
+"end": 2878,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2880,
+"end": 2886,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2892,
+"end": 2906,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2923,
+"end": 2947,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 3010,
+"end": 3016,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3148,
+"end": 3156,
+"label": "DATE",
+"text": "Alhamisi"
+},
+{
+"start": 3446,
+"end": 3454,
+"label": "DATE",
+"text": "Alhamisi"
+},
+{
+"start": 3456,
+"end": 3473,
+"label": "DATE",
+"text": "saa 8:00 mchana\n*"
+},
+{
+"start": 3490,
+"end": 3498,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 3500,
+"end": 3505,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 3593,
+"end": 3601,
+"label": "DATE",
+"text": "Alhamisi"
+}
+]

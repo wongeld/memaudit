@@ -1,0 +1,188 @@
+[
+{
+"start": 69,
+"end": 84,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 98,
+"end": 108,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 115,
+"end": 128,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 218,
+"end": 233,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 452,
+"end": 462,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 567,
+"end": 582,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 605,
+"end": 618,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 693,
+"end": 708,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 710,
+"end": 723,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 917,
+"end": 932,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 934,
+"end": 947,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 950,
+"end": 974,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 1156,
+"end": 1166,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1294,
+"end": 1309,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1332,
+"end": 1345,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1364,
+"end": 1388,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 1464,
+"end": 1474,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1525,
+"end": 1540,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1542,
+"end": 1555,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1668,
+"end": 1678,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1806,
+"end": 1821,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1844,
+"end": 1857,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1876,
+"end": 1900,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 2013,
+"end": 2037,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 2061,
+"end": 2076,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2078,
+"end": 2091,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 2165,
+"end": 2180,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2395,
+"end": 2405,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2517,
+"end": 2532,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2555,
+"end": 2568,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 2587,
+"end": 2611,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+}
+]

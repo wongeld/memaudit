@@ -1,0 +1,5 @@
+* ተጠቃሚው 'Mild asthma' የጤና ሁኔታ ያለበት ሲሆን የሥራ ሙያው ደግሞ 'Hospital Physician' ነው።
+* ከ [PERSON] (ስልክ ቁጥር [PHONE]፣ profile_id [PROFILE_ID]) ጋር የተያያዙ የሥራ (work) እንቅስቃሴዎችን ያከናውናል።
+* በ [DATE] ላይ ለ [PERSON] የክትትል ማስታወሻ (reminder) እንዲመዘገብለት ይፈልጋል።
+* በ [LOCATION], [LOCATION] (Ayder) 'Hospital Physician እና Single አገልግሎት የሚውል' አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) ለማከናወን እቅድ አለው።
+* በ [DATE] በ [LOCATION], [LOCATION] (Ayder) ለ [PERSON] የአገልግሎት ወይም የቦታ ማስያዣ (booking) በሥራ (work) ሥር የማስመዝገብ እቅድ አለው።

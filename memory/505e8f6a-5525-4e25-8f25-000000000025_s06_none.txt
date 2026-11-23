@@ -1,0 +1,4 @@
+- The user is based in Hyde Park, Austin, United States.
+- The user manages shopping, pharmacy, and supply orders for Caleb Thornton (profile_id [PROFILE_ID], phone: +18635164802).
+- The user frequently attempts to schedule shopping-related tasks, including pharmacy pickups, supplier consultations, and delivery slot reservations.
+- The user prefers to review a summary of details before confirming any scheduled activities.

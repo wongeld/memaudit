@@ -1,0 +1,104 @@
+[
+{
+"start": 11,
+"end": 23,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 182,
+"end": 207,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 213,
+"end": 226,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 228,
+"end": 272,
+"label": "LOCATION",
+"text": "Tanzania (Mikocheni).\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 489,
+"end": 521,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\nMahali"
+},
+{
+"start": 523,
+"end": 536,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 538,
+"end": 563,
+"label": "LOCATION",
+"text": "Tanzania (Mikocheni)\nJina"
+},
+{
+"start": 575,
+"end": 595,
+"label": "PERSON",
+"text": "Neema Mwinyi\nMaelezo"
+},
+{
+"start": 683,
+"end": 708,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 774,
+"end": 800,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 850,
+"end": 875,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 1184,
+"end": 1215,
+"label": "LOCATION",
+"text": "Mlimani City Mall Dar es Salaam"
+},
+{
+"start": 1275,
+"end": 1310,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1536,
+"end": 1549,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1551,
+"end": 1559,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1561,
+"end": 1570,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1593,
+"end": 1628,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

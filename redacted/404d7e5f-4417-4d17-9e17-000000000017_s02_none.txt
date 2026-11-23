@@ -1,0 +1,42 @@
+User:
+Mimi Sheila Sifuna (Married with two children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara Jumatano saa 4:00 asubuhi huko Nairobi, Kenya (Kilimani); tafadhali thibitisha.
+
+Assistant:
+Sawa, Sheila. Ninaelewa kuwa ungependa kurekodi miadi. Tafadhali thibitisha maelezo yafuatayo ya miadi yako kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Miadi
+**Mada:** Work
+**Kichwa:** Miadi na wenzangu wa idara
+**Tarehe/Muda:** Jumatano saa 4:00 asubuhi
+**Mahali:** Nairobi, Kenya (Kilimani)
+**Jina la Mawasiliano:** Wenzangu wa idara
+**Kitambulisho cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** +254760298744
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Hapana, ghairi miadi hiyo ya Jumatano saa 4:00 asubuhi kwa sasa kwa sababu imehamishiwa kwenye mkutano wa mtandaoni, usihifadhi.
+
+Assistant:
+Naelewa, miadi hiyo imefutwa. Hakuna shughuli iliyohifadhiwa.
+
+Je, kuna jambo lingine ambalo ningeweza kukusaidia nalo?
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zangu zote za mada ya work kwa profile_id [PROFILE_ID].
+
+Assistant:
+Ninaona kuwa hakuna shughuli za mada ya "work" zilizohifadhiwa kwa profile_id [PROFILE_ID]. Inaonekana shughuli zote ulizojaribu kurekodi zimeghairiwa au hazijahifadhiwa kutokana na hitaji la uthibitisho la mfumo.
+
+User:
+Ninahitaji kwenda kwenye kikao cha kikazi; tafadhali tumia search_places kutafuta 'Nairobi Securities Exchange Westlands' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na tatizo katika kutafuta eneo kwa kutumia OpenStreetMap. Inaonekana bado kuna tatizo na huduma hii.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -1.2921 na longitude 36.7879 huko Nairobi, Kenya (Kilimani) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, inaonekana bado kuna tatizo na huduma za OpenStreetMap. Nimejaribu kutambua anwani kwa kutumia majira-nukta uliyotoa, lakini nimepata ujumbe wa hitilafu.

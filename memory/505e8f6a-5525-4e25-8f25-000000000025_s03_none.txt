@@ -1,0 +1,5 @@
+- The user is managing school-related tasks for Caleb Thornton (profile_id [PROFILE_ID], +18635164802).
+- The user has mild asthma.
+- The user is based in or frequently visits the Hyde Park area of Austin, United States.
+- Academic tasks include submitting peer-review evaluations, managing schedules, and purchasing academic reference texts, lab notebooks, graduate seminar textbooks, and presentation markers.
+- The user frequently attempts to schedule school-related bookings, such as reserving lecture seminar rooms.

@@ -1,0 +1,6 @@
+- Works as a Family Mediation Counselor.
+- Manages type 2 diabetes, which requires taking breaks.
+- Has a recurring work task to submit departmental metrics every Friday at 04:00 PM.
+- Frequently coordinates work activities, including room bookings and supply orders, through [PERSON] ([PHONE]).
+- Needs ergonomic office supplies and reference materials for their role in [LOCATION].
+- Uses profile_id [[ID_NUMBER]].

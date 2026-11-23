@@ -1,0 +1,104 @@
+[
+{
+"start": 10,
+"end": 20,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 30,
+"end": 40,
+"label": "ID_NUMBER",
+"text": "2171961713"
+},
+{
+"start": 48,
+"end": 72,
+"label": "EMAIL",
+"text": "rachel.kim+032@gmail.com"
+},
+{
+"start": 209,
+"end": 230,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 232,
+"end": 240,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 507,
+"end": 528,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 530,
+"end": 538,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 560,
+"end": 570,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 592,
+"end": 604,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 779,
+"end": 800,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 802,
+"end": 810,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1297,
+"end": 1318,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 1320,
+"end": 1328,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1362,
+"end": 1397,
+"label": "LOCATION",
+"text": "Boston Public Library Copley Square"
+},
+{
+"start": 1509,
+"end": 1544,
+"label": "LOCATION",
+"text": "Boston Public Library Copley Square"
+},
+{
+"start": 1820,
+"end": 1841,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 1843,
+"end": 1851,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

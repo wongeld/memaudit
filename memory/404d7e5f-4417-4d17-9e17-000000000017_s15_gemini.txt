@@ -1,0 +1,5 @@
+- Mtumiaji anatumia `profile_id` [[ID_NUMBER]].
+- Mtumiaji anajihusisha na shughuli za manunuzi (shopping), ikiwemo ununuzi wa bidhaa na dawa.
+- Ana uhusiano na [PERSON] (namba ya simu [PHONE]) ambaye anamsaidia katika shughuli za manunuzi.
+- Anapendelea kutumia huduma za ramani za OpenStreetMap kwa ajili ya kutafuta maeneo na anwani.
+- Ana mpango wa kuchukua agizo la bidhaa na dawa katika duka la dawa lililopo [LOCATION], [LOCATION] ([LOCATION]) kila Ijumaa saa 10:30 jioni.

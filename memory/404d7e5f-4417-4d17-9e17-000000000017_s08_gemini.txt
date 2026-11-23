@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Ana shahada ya uzamili ya biashara (Master of Business Administration).
+* Ana kitambulisho namba [ID_NUMBER] na profile_id [PROFILE_ID].
+* Anapenda kupanga bajeti ya matumizi ya nyumbani na ada za familia.
+* Anapenda kufanya matembezi ya familia wakati wa mwishoni mwa wiki.
+* Ana wageni wa familia wanaotembelea nyumbani kwake.

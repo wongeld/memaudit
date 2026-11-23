@@ -1,0 +1,116 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 110,
+"end": 117,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 119,
+"end": 124,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 493,
+"end": 506,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 575,
+"end": 580,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 971,
+"end": 984,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1700,
+"end": 1725,
+"label": "DATE",
+"text": "Jumamosi saa 3:00 asubuhi"
+},
+{
+"start": 1731,
+"end": 1738,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1740,
+"end": 1755,
+"label": "LOCATION",
+"text": "Kenya (Kilimani"
+},
+{
+"start": 1761,
+"end": 1774,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2040,
+"end": 2077,
+"label": "DATE",
+"text": "Jumamosi saa 3:00 asubuhi\n**Mahali:**"
+},
+{
+"start": 2078,
+"end": 2085,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2087,
+"end": 2118,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 2287,
+"end": 2312,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 2368,
+"end": 2381,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2489,
+"end": 2514,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 2663,
+"end": 2700,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\n**Mahali:**"
+},
+{
+"start": 2701,
+"end": 2708,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2710,
+"end": 2741,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n**Kitambulisho"
+}
+]

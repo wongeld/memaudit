@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 34 na anayeishi [LOCATION], [LOCATION] (Itabua).
+* Kazi yake ni mwalimu wa Kiswahili katika shule ya sekondari (Secondary School Kiswahili Teacher).
+* Mawasiliano yake ni nambari ya simu +254122951015 na barua pepe juma.barasa+001@gmail.com.
+* Hali ya familia: Ameoa akiwa na watoto wawili ('Married with two children').
+* Hali ya afya: Ana tatizo la mzio wa msimu (Mild seasonal allergic rhinitis).
+* Ana mpango wa miadi ya ukaguzi wa afya ya familia iliyopangwa kufanyika tarehe [DATE] huko [LOCATION], [LOCATION] (Itabua).

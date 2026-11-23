@@ -1,0 +1,158 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 95,
+"end": 101,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 103,
+"end": 116,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 118,
+"end": 127,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2207,
+"end": 2212,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 2224,
+"end": 2232,
+"label": "PERSON",
+"text": "Thornton"
+},
+{
+"start": 2247,
+"end": 2259,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 2267,
+"end": 2295,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 2305,
+"end": 2318,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2678,
+"end": 2683,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 2702,
+"end": 2710,
+"label": "PERSON",
+"text": "Thornton"
+},
+{
+"start": 2732,
+"end": 2744,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 2759,
+"end": 2787,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 2804,
+"end": 2817,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2855,
+"end": 2869,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2887,
+"end": 2899,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 3373,
+"end": 3379,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3381,
+"end": 3394,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3396,
+"end": 3405,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3568,
+"end": 3573,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 3584,
+"end": 3596,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 3878,
+"end": 3892,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 4111,
+"end": 4125,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 4130,
+"end": 4142,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 4764,
+"end": 4778,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 4780,
+"end": 4792,
+"label": "PHONE",
+"text": "+18635164802"
+}
+]

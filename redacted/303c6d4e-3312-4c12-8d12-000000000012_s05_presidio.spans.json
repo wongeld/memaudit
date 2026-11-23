@@ -1,0 +1,200 @@
+[
+{
+"start": 20,
+"end": 31,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 33,
+"end": 46,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 53,
+"end": 80,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 82,
+"end": 95,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 99,
+"end": 111,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 113,
+"end": 132,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 380,
+"end": 395,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 412,
+"end": 423,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 425,
+"end": 447,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis)\n*"
+},
+{
+"start": 468,
+"end": 481,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 503,
+"end": 530,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 574,
+"end": 588,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 654,
+"end": 667,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓት"
+},
+{
+"start": 865,
+"end": 871,
+"label": "DATE",
+"text": "የሳምንቱን"
+},
+{
+"start": 881,
+"end": 896,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 912,
+"end": 925,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 992,
+"end": 996,
+"label": "DATE",
+"text": "በአሁኑ"
+},
+{
+"start": 1044,
+"end": 1049,
+"label": "LOCATION",
+"text": "Ababa"
+},
+{
+"start": 1051,
+"end": 1070,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 1128,
+"end": 1155,
+"label": "ORGANIZATION",
+"text": "National Museum of Ethiopia"
+},
+{
+"start": 1156,
+"end": 1167,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1182,
+"end": 1195,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1281,
+"end": 1304,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 1357,
+"end": 1370,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1397,
+"end": 1410,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1474,
+"end": 1497,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 1552,
+"end": 1564,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1566,
+"end": 1585,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 1663,
+"end": 1676,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1760,
+"end": 1783,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 1836,
+"end": 1849,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1876,
+"end": 1889,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1953,
+"end": 1976,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+}
+]

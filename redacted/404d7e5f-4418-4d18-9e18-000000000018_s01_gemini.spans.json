@@ -1,0 +1,302 @@
+[
+{
+"start": 14,
+"end": 26,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 41,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 133,
+"end": 146,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 148,
+"end": 156,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 158,
+"end": 167,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 436,
+"end": 441,
+"label": "PERSON",
+"text": "Neema"
+},
+{
+"start": 458,
+"end": 464,
+"label": "PERSON",
+"text": "Mwinyi"
+},
+{
+"start": 482,
+"end": 495,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 508,
+"end": 534,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 541,
+"end": 549,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 565,
+"end": 575,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 669,
+"end": 679,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 682,
+"end": 694,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 701,
+"end": 714,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 727,
+"end": 753,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 760,
+"end": 768,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 939,
+"end": 949,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 967,
+"end": 972,
+"label": "PERSON",
+"text": "Neema"
+},
+{
+"start": 989,
+"end": 995,
+"label": "PERSON",
+"text": "Mwinyi"
+},
+{
+"start": 1013,
+"end": 1026,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1039,
+"end": 1065,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 1072,
+"end": 1080,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1111,
+"end": 1123,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1132,
+"end": 1145,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1313,
+"end": 1323,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1341,
+"end": 1346,
+"label": "PERSON",
+"text": "Neema"
+},
+{
+"start": 1363,
+"end": 1369,
+"label": "PERSON",
+"text": "Mwinyi"
+},
+{
+"start": 1387,
+"end": 1400,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1413,
+"end": 1439,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 1446,
+"end": 1454,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1492,
+"end": 1505,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1507,
+"end": 1515,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1517,
+"end": 1526,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1686,
+"end": 1698,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1700,
+"end": 1713,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1845,
+"end": 1855,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1984,
+"end": 1997,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1999,
+"end": 2007,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2009,
+"end": 2018,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 2036,
+"end": 2048,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2066,
+"end": 2079,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2174,
+"end": 2184,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2213,
+"end": 2225,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2227,
+"end": 2240,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2389,
+"end": 2399,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2528,
+"end": 2541,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2543,
+"end": 2551,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2553,
+"end": 2562,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 2580,
+"end": 2592,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2610,
+"end": 2623,
+"label": "PHONE",
+"text": "+255767902219"
+}
+]

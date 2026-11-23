@@ -1,0 +1,7 @@
+- Jina la mtumiaji ni [PERSON], ana umri wa miaka 41.
+- Anafanya kazi kama Foreign Exchange Dealer huko [LOCATION].
+- Ana familia inayojumuisha mke/mume na watoto wawili.
+- Ana hali ya afya ya "Mild hypertension".
+- Anatumia namba ya simu [PHONE] na barua pepe [EMAIL].
+- Ana kitambulisho cha wasifu (profile_id) [[ID_NUMBER]].
+- Anapanga kufanya ukaguzi wa afya ya familia kila Jumamosi saa 4:00 asubuhi huko [LOCATION].

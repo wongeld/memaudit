@@ -1,0 +1,7 @@
+* ስም: [PERSON]
+* ሙያ: Hospital Physician (Doctor of Medicine)
+* መታወቂያ ቁጥር: 3926587563
+* የጋብቻ ሁኔታ: Single
+* የጤና ሁኔታ: ሙሉ ጤነኛ
+* የሚኖርበት ቦታ: [LOCATION], [LOCATION] (Ayder)
+* ተመራጭ ቋንቋ: አማርኛ

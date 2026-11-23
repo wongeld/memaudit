@@ -1,0 +1,61 @@
+User:
+እኔ Shimelis Tilahun ነኝ (profile_id: [PROFILE_ID])፤ በAddis Ababa, Ethiopia (Kirkos) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም Shimelis Tilahun፣ ስልክ +251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: +251954834664
+*   **email**: shimelis.tilahun+008@gmail.com
+*   **country**: Ethiopia
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ Shimelis Tilahun እና የስልክ ቁጥር +251954834664 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ travel ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የሳምንቱ ዋና ተግባር (task) ለ Shimelis Tilahun (+251954834664) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Shimelis Tilahun (+251954834664) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

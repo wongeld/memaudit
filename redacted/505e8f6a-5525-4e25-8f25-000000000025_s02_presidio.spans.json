@@ -1,0 +1,74 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 189,
+"end": 195,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 197,
+"end": 210,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 212,
+"end": 221,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 532,
+"end": 546,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 737,
+"end": 765,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 1478,
+"end": 1483,
+"label": "ORGANIZATION",
+"text": "Perry"
+},
+{
+"start": 1484,
+"end": 1504,
+"label": "ORGANIZATION",
+"text": "Castaneda Library UT"
+},
+{
+"start": 1505,
+"end": 1511,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1980,
+"end": 1986,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1988,
+"end": 2001,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2003,
+"end": 2012,
+"label": "LOCATION",
+"text": "Hyde Park"
+}
+]

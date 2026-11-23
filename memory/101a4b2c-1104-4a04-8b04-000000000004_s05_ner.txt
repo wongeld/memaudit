@@ -1,0 +1,5 @@
+* Ana hali ya kiafya ya shinikizo la damu (Mild hypertension) na anahitaji kubeba dawa zake na hati za safari kwenye begi la mkononi.
+* Ana kitambulisho namba 9750779397, kitambulisho cha wasifu `[PROFILE_ID]`, namba ya simu +255721105750, na jina la mawasiliano ni `[PERSON]`.
+* Ana mpango wa safari na hupendelea kuandaa mikoba/mabegi yake mapema mchana.
+* Anafanya utafiti wa maeneo ya safari yanayohusisha `[ORGANIZATION] [LOCATION]` na eneo lililopo [LOCATION], [LOCATION] (Mikocheni) lenye majira-nukta latitude -6.7712 na longitude 39.2398.
+* Anajali faragha ya data zake na anapendelea kutotuma taarifa zake binafsi wakati wa kutafuta maeneo mtandaoni.

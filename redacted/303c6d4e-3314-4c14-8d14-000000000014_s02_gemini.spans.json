@@ -1,0 +1,98 @@
+[
+{
+"start": 20,
+"end": 32,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 34,
+"end": 47,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 54,
+"end": 80,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 100,
+"end": 121,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 123,
+"end": 127,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 221,
+"end": 233,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 427,
+"end": 448,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 450,
+"end": 454,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 478,
+"end": 491,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 514,
+"end": 526,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 535,
+"end": 561,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 890,
+"end": 911,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 913,
+"end": 917,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 975,
+"end": 1009,
+"label": "LOCATION",
+"text": "Addis Ababa University Sidist Kilo"
+},
+{
+"start": 1165,
+"end": 1186,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1188,
+"end": 1192,
+"label": "LOCATION",
+"text": "Yeka"
+}
+]

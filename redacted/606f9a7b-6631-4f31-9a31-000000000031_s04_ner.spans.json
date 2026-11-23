@@ -1,0 +1,176 @@
+[
+{
+"start": 101,
+"end": 105,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 119,
+"end": 135,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 545,
+"end": 551,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 553,
+"end": 566,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 568,
+"end": 577,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 601,
+"end": 617,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 827,
+"end": 843,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 925,
+"end": 928,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 968,
+"end": 974,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 976,
+"end": 989,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1334,
+"end": 1340,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1349,
+"end": 1355,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 1390,
+"end": 1397,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 1517,
+"end": 1520,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1669,
+"end": 1685,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1728,
+"end": 1731,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1772,
+"end": 1778,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1780,
+"end": 1793,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1795,
+"end": 1804,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 2271,
+"end": 2278,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 2290,
+"end": 2298,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 2373,
+"end": 2386,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2568,
+"end": 2575,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 2595,
+"end": 2603,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 2702,
+"end": 2715,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2838,
+"end": 2845,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 3050,
+"end": 3057,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 3075,
+"end": 3083,
+"label": "PERSON",
+"text": "Francois"
+},
+{
+"start": 3180,
+"end": 3193,
+"label": "LOCATION",
+"text": "United States"
+}
+]

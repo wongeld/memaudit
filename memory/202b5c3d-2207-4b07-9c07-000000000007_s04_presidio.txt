@@ -1,0 +1,7 @@
+* ስም [PERSON]፣ profile_id [PROFILE_ID]፣ የመታወቂያ ቁጥር 3923122090 ነው።
+* አድራሻው [LOCATION], [LOCATION] (Yeka) ሲሆን ሀገሩ [LOCATION]፣ ተመራጭ ቋንቋው አማርኛ ነው።
+* የእውቂያ መረጃው ስልክ [PHONE] እና ኢሜይል [EMAIL] ናቸው።
+* የትምህርት ደረጃውና ሙያው University Lecturer (Doctor of Philosophy) ነው።
+* የቤተሰብ ሁኔታው ያገባና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የጤና ሁኔታው መጠነኛ የደም ግፊት (Mild hypertension) አለበት።
+* በትምህርት ቤት (school) ሥር በ[LOCATION], [LOCATION] (Yeka) ከ[PERSON] ([PHONE]) ጋር ለ[DATE] የታቀደ ዋና ተግባር (task) አለው።

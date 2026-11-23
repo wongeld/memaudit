@@ -1,0 +1,218 @@
+[
+{
+"start": 62,
+"end": 76,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 90,
+"end": 100,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 107,
+"end": 120,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 231,
+"end": 245,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 260,
+"end": 270,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 410,
+"end": 423,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 478,
+"end": 492,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 494,
+"end": 507,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 630,
+"end": 644,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 646,
+"end": 659,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 662,
+"end": 681,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 683,
+"end": 695,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 827,
+"end": 841,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 856,
+"end": 866,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1002,
+"end": 1021,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1023,
+"end": 1035,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 1050,
+"end": 1063,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1143,
+"end": 1153,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1231,
+"end": 1245,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1247,
+"end": 1260,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1330,
+"end": 1344,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1359,
+"end": 1369,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1400,
+"end": 1414,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1429,
+"end": 1439,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1575,
+"end": 1594,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1596,
+"end": 1608,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 1623,
+"end": 1636,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1782,
+"end": 1801,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1803,
+"end": 1815,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 1839,
+"end": 1853,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1855,
+"end": 1868,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1963,
+"end": 1977,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1992,
+"end": 2002,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2147,
+"end": 2166,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 2168,
+"end": 2180,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 2195,
+"end": 2208,
+"label": "PHONE",
+"text": "+251960170802"
+}
+]

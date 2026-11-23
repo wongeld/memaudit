@@ -1,0 +1,170 @@
+[
+{
+"start": 10,
+"end": 22,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 65,
+"end": 68,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 110,
+"end": 116,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 118,
+"end": 131,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 151,
+"end": 184,
+"label": "ORGANIZATION",
+"text": "Master of Business Administration"
+},
+{
+"start": 494,
+"end": 500,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 512,
+"end": 517,
+"label": "PERSON",
+"text": "Vance"
+},
+{
+"start": 532,
+"end": 544,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 552,
+"end": 580,
+"label": "EMAIL",
+"text": "marcus.vance+022@outlook.com"
+},
+{
+"start": 590,
+"end": 603,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1003,
+"end": 1015,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1034,
+"end": 1046,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1659,
+"end": 1665,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 1694,
+"end": 1706,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1804,
+"end": 1807,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1842,
+"end": 1848,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1850,
+"end": 1863,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2033,
+"end": 2036,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 2114,
+"end": 2126,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2128,
+"end": 2140,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2325,
+"end": 2328,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 2429,
+"end": 2441,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2464,
+"end": 2476,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2716,
+"end": 2728,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2733,
+"end": 2745,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2968,
+"end": 2971,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 3072,
+"end": 3084,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3107,
+"end": 3119,
+"label": "PHONE",
+"text": "+14787564875"
+}
+]

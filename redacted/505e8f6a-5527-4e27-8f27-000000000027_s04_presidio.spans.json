@@ -1,0 +1,236 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 92,
+"end": 99,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 101,
+"end": 114,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 116,
+"end": 128,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 143,
+"end": 151,
+"label": "ORGANIZATION",
+"text": "Commerce"
+},
+{
+"start": 338,
+"end": 354,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 788,
+"end": 795,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 807,
+"end": 815,
+"label": "PERSON",
+"text": "Halstead"
+},
+{
+"start": 830,
+"end": 842,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 850,
+"end": 880,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 890,
+"end": 903,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1163,
+"end": 1170,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 1182,
+"end": 1190,
+"label": "ORGANIZATION",
+"text": "Halstead"
+},
+{
+"start": 1205,
+"end": 1217,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 1225,
+"end": 1255,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 1265,
+"end": 1278,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1601,
+"end": 1608,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 1635,
+"end": 1647,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 1739,
+"end": 1746,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 2200,
+"end": 2207,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2209,
+"end": 2222,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2224,
+"end": 2236,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2377,
+"end": 2393,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2395,
+"end": 2407,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 2469,
+"end": 2485,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2653,
+"end": 2669,
+"label": "ORGANIZATION",
+"text": "Gregory Halstead"
+},
+{
+"start": 2684,
+"end": 2696,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 2707,
+"end": 2714,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2716,
+"end": 2729,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2731,
+"end": 2743,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3124,
+"end": 3147,
+"label": "ORGANIZATION",
+"text": "Professional Essentials"
+},
+{
+"start": 3176,
+"end": 3192,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 3194,
+"end": 3206,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 3417,
+"end": 3433,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 4067,
+"end": 4075,
+"label": "PERSON",
+"text": "Halstead"
+},
+{
+"start": 4090,
+"end": 4102,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 4113,
+"end": 4120,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 4122,
+"end": 4135,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4137,
+"end": 4149,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

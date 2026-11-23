@@ -1,0 +1,7 @@
+- Name: Rachel Kim
+- Age: 34
+- Profession: Child Psychologist
+- Education: Doctor of Philosophy
+- Family: Married with two children
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Preferred Language: English

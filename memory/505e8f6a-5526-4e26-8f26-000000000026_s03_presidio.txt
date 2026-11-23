@@ -1,0 +1,6 @@
+- User is a lecturer at [ORGANIZATION] based in [LOCATION], [LOCATION].
+- User requires ergonomic office supplies and reference materials for their role.
+- User has a recurring work task to submit departmental metrics every Friday at 04:00 PM.
+- User maintains a healthy lifestyle with no chronic conditions.
+- User frequently attempts to schedule work-related activities, including conference room bookings and reminders, via [PERSON] ([PHONE]).
+- There is a persistent technical issue preventing the system from saving the user's profile or activity records.

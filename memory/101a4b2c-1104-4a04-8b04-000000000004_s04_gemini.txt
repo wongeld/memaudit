@@ -1,0 +1,6 @@
+* Ni [PERSON] mwenye kitambulisho cha wasifu (profile_id) [[ID_NUMBER]].
+* Ana umri wa miaka 38 na ana shahada ya Bachelor of Commerce.
+* Anafanya kazi kama Regional Logistics Coordinator huko [LOCATION], [LOCATION] ([LOCATION]).
+* Maelezo yake ya mawasiliano ni nambari ya simu [PHONE], barua pepe [EMAIL], na nchi ni [LOCATION].
+* Anapendelea wasifu wake uangaliwe kupitia mfumo kabla ya safari zake kupangwa.
+* Ana mpango wa safari ya kikazi na usafiri iliyopangwa kuanza Jumatatu saa 2:30 asubuhi.

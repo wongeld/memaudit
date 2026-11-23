@@ -1,0 +1,6 @@
+- The user is married with three children.
+- The user is managing mild hypertension and prioritizes healthy family meals.
+- The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations.
+- The user is based in or frequently visits [LOCATION], [LOCATION] ([LOCATION]).
+- The user is associated with [PERSON] (mobile: +15759823598).
+- The user is aware of persistent technical issues with the `record_user_activity` tool that prevent data from being saved.

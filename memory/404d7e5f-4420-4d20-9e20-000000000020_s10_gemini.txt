@@ -1,0 +1,4 @@
+* Mtumiaji anafanya kazi na [PERSON] (simu: [PHONE], profile_id: [[ID_NUMBER]]).
+* Mtumiaji ana hali ya afya ya Type 2 diabetes ambayo anahitaji kuizingatia wakati wa kazi.
+* Mtumiaji ana utaratibu wa kazi unaohusisha kupitia barua pepe ([EMAIL]) kila Alhamisi saa 8:00 mchana.
+* Mtumiaji anajishughulisha na utafutaji wa anwani za majengo ya kikazi kwa kutumia majira-nukta (latitude/longitude) katika [LOCATION].

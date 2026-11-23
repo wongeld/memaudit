@@ -1,0 +1,86 @@
+[
+{
+"start": 20,
+"end": 31,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 33,
+"end": 46,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 53,
+"end": 80,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 100,
+"end": 121,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 123,
+"end": 132,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 412,
+"end": 433,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 435,
+"end": 444,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 468,
+"end": 481,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 503,
+"end": 530,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 1038,
+"end": 1059,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1061,
+"end": 1070,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 1128,
+"end": 1167,
+"label": "LOCATION",
+"text": "National Museum of Ethiopia Addis Ababa"
+},
+{
+"start": 1553,
+"end": 1574,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1576,
+"end": 1585,
+"label": "LOCATION",
+"text": "Kazanchis"
+}
+]

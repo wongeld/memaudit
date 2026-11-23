@@ -1,0 +1,110 @@
+[
+{
+"start": 423,
+"end": 437,
+"label": "LOCATION",
+"text": "Nyerere Square"
+},
+{
+"start": 438,
+"end": 444,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 577,
+"end": 591,
+"label": "LOCATION",
+"text": "Nyerere Square"
+},
+{
+"start": 592,
+"end": 598,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1068,
+"end": 1074,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1076,
+"end": 1084,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1086,
+"end": 1092,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1241,
+"end": 1247,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1249,
+"end": 1257,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1260,
+"end": 1266,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1628,
+"end": 1642,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1674,
+"end": 1687,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2239,
+"end": 2253,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2293,
+"end": 2306,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2433,
+"end": 2447,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2449,
+"end": 2462,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 3008,
+"end": 3022,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 3036,
+"end": 3049,
+"label": "PHONE",
+"text": "+255890185741"
+}
+]

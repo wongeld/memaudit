@@ -1,0 +1,5 @@
+* የሥራ መስኩ/ቷ 'Commercial Florist and Event Decorator' ነው።
+* 'Mild seasonal allergic rhinitis' ያለበት/የሚገኝበት የጤና ሁኔታ አለበት/አለባት።
+* ባለትዳርና የሁለት ልጆች ወላጅ (Married with two children) ነው።/ናት።
+* ከ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ ቁጥር [PHONE]) ጋር የተያያዙ የቤተሰብ (family) ማስታወሻዎችን እና ተግባራትን ይመዘግባል/ትመዘግባለች።
+* በ[LOCATION]) የግዢ (shopping_item) እና የአገልግሎት ወይም የቦታ ማስያዣ (booking) ዕቅዶች አሉት/አሏት።

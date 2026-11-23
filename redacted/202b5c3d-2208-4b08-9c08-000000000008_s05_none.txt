@@ -1,0 +1,45 @@
+User:
+በ travel ሥር ለ Shimelis Tilahun (+251954834664፣ ኢሜይል shimelis.tilahun+008@gmail.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Kirkos) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: shimelis.tilahun+008@gmail.com
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ያንን ቀጠሮ አልመዘግብም። ሌላ ልረዳዎ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ travel ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile\_id [PROFILE_ID] በ 'travel' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+User:
+በAddis Ababa, Ethiopia (Kirkos) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Bole International Airport Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ 'Bole International Airport Addis Ababa' የሚለውን ቦታ ለመፈለግ ስሞክር ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ ቦታዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Kirkos) የሚገኘውን የ latitude 9.0054 እና longitude 38.7578 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በ 9.0054 እና 38.7578 ላይ ያለውን አድራሻ ለመፈለግ ስሞክር እንደገና ችግር አጋጥሞኛል። የ OpenStreetMap መሣሪያውን በመጠቀም በአሁኑ ጊዜ አድራሻዎችን መፈለግ አልቻልኩም።
+
+የOpenStreetMap ውሂብን ሲጠቀሙ ሁልጊዜ የባለቤትነት መብትን (attribution) ማካተት እንዳለብዎ እባክዎ ያስተውሉ።

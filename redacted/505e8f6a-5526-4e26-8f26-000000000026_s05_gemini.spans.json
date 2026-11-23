@@ -1,0 +1,98 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 33,
+"end": 43,
+"label": "ID_NUMBER",
+"text": "6576730124"
+},
+{
+"start": 209,
+"end": 215,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 217,
+"end": 230,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 232,
+"end": 240,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 563,
+"end": 569,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 571,
+"end": 584,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 586,
+"end": 594,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 614,
+"end": 627,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 646,
+"end": 658,
+"label": "PHONE",
+"text": "+15246107452"
+},
+{
+"start": 913,
+"end": 942,
+"label": "EMAIL",
+"text": "nathan.mercer+026@outlook.com"
+},
+{
+"start": 1731,
+"end": 1748,
+"label": "ORGANIZATION",
+"text": "Boston University"
+},
+{
+"start": 1749,
+"end": 1768,
+"label": "ADDRESS",
+"text": "Commonwealth Avenue"
+},
+{
+"start": 2402,
+"end": 2408,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2410,
+"end": 2423,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2425,
+"end": 2433,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

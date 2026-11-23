@@ -1,0 +1,236 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 53,
+"end": 61,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 63,
+"end": 71,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 85,
+"end": 92,
+"label": "DATE",
+"text": "የ29 ዓመት"
+},
+{
+"start": 197,
+"end": 209,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 359,
+"end": 367,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 386,
+"end": 393,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 488,
+"end": 498,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 645,
+"end": 657,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 715,
+"end": 723,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 871,
+"end": 879,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 898,
+"end": 905,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 1000,
+"end": 1010,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1095,
+"end": 1107,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1293,
+"end": 1305,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1415,
+"end": 1423,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 1442,
+"end": 1449,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 1544,
+"end": 1554,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1725,
+"end": 1740,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1741,
+"end": 1749,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 1751,
+"end": 1759,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1791,
+"end": 1803,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1855,
+"end": 1867,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1930,
+"end": 1945,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1948,
+"end": 1955,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1957,
+"end": 1965,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2141,
+"end": 2158,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 2175,
+"end": 2182,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2184,
+"end": 2192,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2194,
+"end": 2202,
+"label": "LOCATION",
+"text": "Ayder)\n*"
+},
+{
+"start": 2223,
+"end": 2237,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 2434,
+"end": 2449,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2457,
+"end": 2469,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2546,
+"end": 2561,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2693,
+"end": 2698,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2726,
+"end": 2743,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 2760,
+"end": 2767,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2769,
+"end": 2777,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2808,
+"end": 2822,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+}
+]

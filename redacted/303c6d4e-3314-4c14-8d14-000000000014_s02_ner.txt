@@ -1,0 +1,38 @@
+User:
+በ school ሥር ለ [PERSON] (+251936812879፣ ኢሜይል meron.bekele+014@yahoo.com) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የ [PERSON] የምክክር ቀጠሮ እንደሚከተለው ላስቀምጥ፦
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** appointment
+*   **Title:** የምክክር ቀጠሮ
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION]   **Mobile Phone:** +251936812879
+*   **Contact Name:** [PERSON] (Email: meron.bekele+014@yahoo.com)
+
+ይህ መረጃ ትክክል ነው? እስካሁን አላስቀመጥኩም።
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+የረቡዕ [DATE] ቀጠሮ ተሰርዟል። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ school ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ school ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis [LOCATION], [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` የሚባል tool የለኝም። በምትኩ `mcp__openstreetmap` tool ን መጠቀም ትፈልጋለህ?
+
+User:
+እባክህ [LOCATION], [LOCATION]) የሚገኘውን የ latitude 9.0355 እና longitude 38.8021 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` የሚባል tool የለኝም። በምትኩ `mcp__openstreetmap` tool ን መጠቀም ትፈልጋለህ?

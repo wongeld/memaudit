@@ -1,0 +1,6 @@
+* The user is managing mild hypertension.
+* The user is based in or frequently visits the Ironbound area of Newark, United States.
+* The user is scheduling health-related activities for Marcus Vance (Profile ID: [PROFILE_ID], Phone: +14787564875).
+* The user's health routine includes a wellness checkup, purchasing a daily planner, a hydration bottle, and wellness supplies.
+* The user has a fitness routine that includes a morning fitness and stretching session on Saturdays at 08:30 AM.
+* The user prefers to review and approve booking details before they are saved.

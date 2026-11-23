@@ -1,0 +1,5 @@
+* Mtumiaji anapanga kufanya ukaguzi wa afya na kupata ushauri wa lishe.
+* Ana miadi iliyopangwa siku ya Ijumaa saa 9:00 alasiri na [PERSON] (simu: [PHONE]).
+* Eneo la miadi hiyo ni [LOCATION], [LOCATION] ([LOCATION]).
+* Mtumiaji anatumia mfumo wa `daily_planning` kuhifadhi shughuli zake chini ya `profile_id` `[[ID_NUMBER]]`.
+* Mtumiaji anajali sana faragha yake na amesisitiza kutotuma taarifa binafsi wakati wa kutumia zana za utafutaji wa maeneo.

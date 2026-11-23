@@ -1,0 +1,38 @@
+User:
+Mimi Neema Mwinyi (elimu: Bachelor of Commerce, kitambulisho 1998399537), nataka kurekodi kazi (task) kwenye mada ya family ya kupanga bajeti ya matumizi ya nyumbani na ada za familia Jumapili saa 9:00 alasiri huko Dar es Salaam, Tanzania (Mikocheni).
+
+Assistant:
+Nimeghairi kuhifadhi kazi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: task
+Kichwa: kupanga bajeti ya matumizi ya nyumbani na ada za familia
+Muda: Jumapili saa 9:00 alasiri
+Mahali: Dar es Salaam, Tanzania (Mikocheni)
+Jina la Anwani: Neema Mwinyi
+Maelezo: elimu: Bachelor of Commerce, kitambulisho 1998399537
+
+User:
+Hapana, ghairi kazi hiyo ya Jumapili saa 9:00 alasiri kwa sasa kwa sababu tutakuwa na wageni wa familia nyumbani, usihifadhi chochote.
+
+Assistant:
+Nimeghairi kazi hiyo ya Jumapili saa 9:00 alasiri. Hakuna kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya family kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa mada ya family kwa wasifu wako.
+
+User:
+Tunataka kwenda matembezi ya familia mwishoni mwa wiki; tafadhali tumia search_places kutafuta 'National Museum of Tanzania Dar es Salaam' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutafuta eneo la matembezi. Jaribu tena baada ya muda.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la familia lenye majira-nukta latitude -6.7712 na longitude 39.2398 huko Dar es Salaam, Tanzania (Mikocheni) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutambua anwani ya eneo la familia. Jaribu tena baada ya muda.

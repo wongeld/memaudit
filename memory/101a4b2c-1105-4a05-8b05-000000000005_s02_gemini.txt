@@ -1,0 +1,5 @@
+* Ana hali ya kiafya ya mzio wa msimu (Mild seasonal allergic rhinitis) na huhitaji kubeba dawa pamoja na hati za safari kwenye begi la mkononi.
+* Anapendelea kuandaa begi lake la safari mapema mchana.
+* Ana mipango ya safari inayohusisha kutembelea au kutafuta vituo vya usafiri katika [LOCATION] (yenye majira-nukta latitude -3.3667 na longitude 36.6833 huko [LOCATION], [LOCATION] ([LOCATION])).
+* Anajali sana faragha ya taarifa zake binafsi anapofanya utafutaji na anapendelea matokeo ya maeneo yawe na nukuu (attribution) ya OpenStreetMap.
+* Anatumia kitambulisho chenye profile_id [PROFILE_ID] na nambari ya kitambulisho [ID_NUMBER].

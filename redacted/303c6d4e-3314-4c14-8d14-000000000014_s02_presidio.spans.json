@@ -1,0 +1,128 @@
+[
+{
+"start": 20,
+"end": 32,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 34,
+"end": 47,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 54,
+"end": 80,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 82,
+"end": 95,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 99,
+"end": 111,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 113,
+"end": 127,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 221,
+"end": 233,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 395,
+"end": 410,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 427,
+"end": 438,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 440,
+"end": 457,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 478,
+"end": 491,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 514,
+"end": 526,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 535,
+"end": 561,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 607,
+"end": 621,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 688,
+"end": 701,
+"label": "DATE",
+"text": "ከሰዓት 8:00 ሰዓት"
+},
+{
+"start": 896,
+"end": 901,
+"label": "LOCATION",
+"text": "Ababa"
+},
+{
+"start": 903,
+"end": 917,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 975,
+"end": 1009,
+"label": "LOCATION",
+"text": "Addis Ababa University Sidist Kilo"
+},
+{
+"start": 1164,
+"end": 1176,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1178,
+"end": 1192,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 1270,
+"end": 1283,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

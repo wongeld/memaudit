@@ -1,0 +1,83 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [[ID_NUMBER]])፤ በ[LOCATION]) የምኖር የ46 ዓመት University Lecturer (Doctor of Philosophy፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+አሁንም ለ `profile_id` [[ID_NUMBER]] የተመዘገበ መገለጫ የለም። ከዚህ ቀደም መገለጫህን ለማስቀመጥ በተደጋጋሚ ሞክረን ነበር፣ ግን አልተሳካም።
+
+መገለጫህን እንደገና ለማስቀመጥ ትፈልጋለህ? የሚከተሉትን መረጃዎች መጠቀም እችላለሁ፡-
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+
+ይህን መረጃ አሁን ላስቀምጥልህ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን የመገለጫ ዝርዝሮች አረጋግጥልኝ። ትክክል ከሆኑ አስቀምጣቸዋለሁ።
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ! መገለጫው አሁንም አልተቀመጠም። በተደጋጋሚ ሙከራዎች `save_user_profile` የሚለው መሳሪያ "ተሰርዟል. ምንም መገለጫ አልተቀመጠም" የሚል ምላሽ እየሰጠ ነው።
+
+ይህ ምናልባት በመሳሪያው ላይ ባለው ችግር ወይም ስርዓቱ በሚጠብቀው ተጨማሪ ማረጋገጫ ምክንያት ሊሆን ይችላል። ምንም እንኳን እኔ መረጃውን ላረጋግጥልህ ብሞክርም፣ ማስቀመጡ አልተሳካም።
+
+በዚህ ጉዳይ ላይ ምን ማድረግ ትፈልጋለህ?
+
+User:
+እንደ University Lecturer (Doctor of Philosophy፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ፣ በ family ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የ [PERSON] መገለጫ እስካሁን በትክክል አልተቀመጠም። ከዚህ ቀደም የተደረጉ የመገለጫ እና የእንቅስቃሴ ማስቀመጥ ሙከራዎች ተሰርዘዋል። በዚህ ምክንያት፣ የቤተሰብ ተግባርንም አሁን ማስቀመጥ አልችልም።
+
+የመገለጫህን መረጃ (profile_id: [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ) ማስቀመጥ አልቻልኩም።
+
+ይህን ችግር ለመፍታት ምን ማድረግ ትፈልጋለህ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [[ID_NUMBER]] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ይቅርታ፣ ከዚህ በፊት የነበሩት የመገለጫ ማስቀመጫ እና የእንቅስቃሴ መዝገብ ጥያቄዎች ያልተሳኩ በመሆናቸው፣ የጠቀስከው ተግባር ገና አልተቀመጠም። ስለዚህ ሰዓቱን መቀየር አልችልም።
+
+የ [PERSON] መገለጫ መረጃ እና የቤተሰብ ተግባር መጀመሪያ በትክክል መመዝገብ አለባቸው። መገለጫህን አሁን እንደገና ለማስቀመጥ ትፈልጋለህ?
+
+**የመገለጫ ዝርዝሮች:**
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **First Name:** Andualem
+*   **Last Name:** Abate
+*   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL]
+*   **Country:** [LOCATION]
+*   **Preferred Language:** አማርኛ
+*   **Profession:** University Lecturer (Doctor of Philosophy, መታወቂያ [ID_NUMBER])
+*   **Health Condition:** Mild hypertension
+
+**የቤተሰብ ተግባር ዝርዝሮች (ሊመዘገብ የነበረው):**
+
+*   **Theme:** family
+*   **Activity Type:** task
+*   **Title:** የሳምንቱ ዋና ተግባር
+*   **Date/Time:** ሰኞ ጠዋት 3:00 ሰዓት (አሁን ባለው ጥያቄ መሠረት)
+*   **Location:** [LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+መገለጫህን ለማስቀመጥ እና ይህን እንቅስቃሴ ለመመዝገብ እንደገና እንድሞክር ትፈልጋለህ?

@@ -1,0 +1,5 @@
+* The user is involved in academic activities, specifically managing peer-review evaluations, graduate seminar textbooks, and lecture room bookings.
+* The user has a recurring school-related schedule involving [PERSON] (profile_id [[ID_NUMBER]], mobile_phone [PHONE]).
+* The user manages mild asthma.
+* The user frequently coordinates school-related tasks, including shopping for academic reference texts, lab notebooks, and presentation markers in [LOCATION].
+* The user requires assistance with scheduling and administrative tasks related to their academic work.

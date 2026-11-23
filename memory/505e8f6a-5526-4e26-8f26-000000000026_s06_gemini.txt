@@ -1,0 +1,6 @@
+- The user's name is Nathan.
+- The user is involved in academic activities, specifically graduate seminars.
+- The user is currently managing school-related tasks for [PERSON] (profile_id [[ID_NUMBER]], phone [PHONE]).
+- The user has no chronic health conditions and is in good health.
+- The user frequently attempts to schedule school-related tasks, including peer-review evaluations, shopping for academic texts and lab notebooks, and booking lecture seminar rooms.
+- The user is experiencing persistent technical issues with the `record_user_activity` tool, which consistently fails to save his requests.

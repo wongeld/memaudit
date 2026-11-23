@@ -1,0 +1,200 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 179,
+"end": 187,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 189,
+"end": 194,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 785,
+"end": 793,
+"label": "PERSON",
+"text": "Daniel\n*"
+},
+{
+"start": 811,
+"end": 820,
+"label": "PERSON",
+"text": "Wemanya\n*"
+},
+{
+"start": 870,
+"end": 900,
+"label": "PERSON",
+"text": "daniel.wemanya+003@gmail.com\n*"
+},
+{
+"start": 916,
+"end": 938,
+"label": "LOCATION",
+"text": "Kenya\n\nUser:\nTafadhali"
+},
+{
+"start": 1008,
+"end": 1022,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1055,
+"end": 1083,
+"label": "PERSON",
+"text": "daniel.wemanya+003@gmail.com"
+},
+{
+"start": 1090,
+"end": 1095,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1494,
+"end": 1502,
+"label": "PERSON",
+"text": "Daniel\n*"
+},
+{
+"start": 1520,
+"end": 1529,
+"label": "PERSON",
+"text": "Wemanya\n*"
+},
+{
+"start": 1579,
+"end": 1609,
+"label": "PERSON",
+"text": "daniel.wemanya+003@gmail.com\n*"
+},
+{
+"start": 1625,
+"end": 1632,
+"label": "LOCATION",
+"text": "Kenya\n*"
+},
+{
+"start": 1844,
+"end": 1858,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2683,
+"end": 2691,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2693,
+"end": 2698,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2700,
+"end": 2706,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2847,
+"end": 2872,
+"label": "DATE",
+"text": "Jumatatu saa 2:00 asubuhi"
+},
+{
+"start": 2877,
+"end": 2891,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2927,
+"end": 2933,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3091,
+"end": 3099,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 3410,
+"end": 3418,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 3420,
+"end": 3438,
+"label": "DATE",
+"text": "saa 2:00 asubuhi\n*"
+},
+{
+"start": 3515,
+"end": 3541,
+"label": "DATE",
+"text": "Jumatatu.\n\nUser:\nBadilisha"
+},
+{
+"start": 3574,
+"end": 3599,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 3655,
+"end": 3669,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 3821,
+"end": 3829,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 3981,
+"end": 3991,
+"label": "DATE",
+"text": "2024-08-05"
+},
+{
+"start": 3997,
+"end": 4005,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 4037,
+"end": 4053,
+"label": "DATE",
+"text": "saa 1:30 asubuhi"
+},
+{
+"start": 4293,
+"end": 4301,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 4303,
+"end": 4321,
+"label": "DATE",
+"text": "saa 1:30 asubuhi\n*"
+}
+]

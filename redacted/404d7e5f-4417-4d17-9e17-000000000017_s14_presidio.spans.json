@@ -1,0 +1,188 @@
+[
+{
+"start": 29,
+"end": 42,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 51,
+"end": 64,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 361,
+"end": 376,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 416,
+"end": 429,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 460,
+"end": 489,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 515,
+"end": 524,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+},
+{
+"start": 808,
+"end": 822,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 838,
+"end": 851,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 853,
+"end": 866,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1249,
+"end": 1263,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 1319,
+"end": 1334,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 1374,
+"end": 1387,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1641,
+"end": 1654,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1656,
+"end": 1669,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2082,
+"end": 2098,
+"label": "ORGANIZATION",
+"text": "Foreign Exchange"
+},
+{
+"start": 2133,
+"end": 2140,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2142,
+"end": 2147,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2203,
+"end": 2218,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 2258,
+"end": 2271,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2354,
+"end": 2367,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2527,
+"end": 2552,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 2558,
+"end": 2565,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2567,
+"end": 2572,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2985,
+"end": 3012,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\n-"
+},
+{
+"start": 3038,
+"end": 3045,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 3047,
+"end": 3065,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n-"
+},
+{
+"start": 3108,
+"end": 3123,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 3163,
+"end": 3176,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 3277,
+"end": 3302,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 3368,
+"end": 3397,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 3453,
+"end": 3478,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+}
+]

@@ -1,0 +1,134 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 54,
+"end": 84,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 221,
+"end": 227,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 229,
+"end": 242,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 244,
+"end": 253,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 591,
+"end": 597,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 599,
+"end": 612,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 614,
+"end": 623,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 643,
+"end": 659,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 678,
+"end": 690,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 797,
+"end": 803,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 805,
+"end": 818,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 820,
+"end": 829,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1362,
+"end": 1368,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1370,
+"end": 1383,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1385,
+"end": 1394,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1428,
+"end": 1434,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1581,
+"end": 1587,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1846,
+"end": 1852,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1854,
+"end": 1867,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1869,
+"end": 1878,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 2065,
+"end": 2078,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

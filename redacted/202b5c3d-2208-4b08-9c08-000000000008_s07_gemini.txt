@@ -1,0 +1,61 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [[ID_NUMBER]])፤ በ[LOCATION]) የምኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **first\_name**: Shimelis
+*   **last\_name**: Tilahun
+*   **mobile\_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **country**: [LOCATION]
+*   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ family ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [[ID_NUMBER]] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity\_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **contact\_name**: [PERSON]
+*   **date\_time**: ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

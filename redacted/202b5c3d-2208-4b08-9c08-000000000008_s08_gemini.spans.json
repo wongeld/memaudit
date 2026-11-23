@@ -1,0 +1,74 @@
+[
+{
+"start": 20,
+"end": 36,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 38,
+"end": 51,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 58,
+"end": 88,
+"label": "EMAIL",
+"text": "shimelis.tilahun+008@gmail.com"
+},
+{
+"start": 108,
+"end": 137,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 383,
+"end": 399,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 452,
+"end": 481,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 506,
+"end": 519,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 535,
+"end": 565,
+"label": "EMAIL",
+"text": "shimelis.tilahun+008@gmail.com"
+},
+{
+"start": 910,
+"end": 939,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 997,
+"end": 1022,
+"label": "LOCATION",
+"text": "Meskel Square Addis Ababa"
+},
+{
+"start": 1088,
+"end": 1113,
+"label": "LOCATION",
+"text": "Meskel Square Addis Ababa"
+},
+{
+"start": 1298,
+"end": 1327,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kirkos"
+}
+]

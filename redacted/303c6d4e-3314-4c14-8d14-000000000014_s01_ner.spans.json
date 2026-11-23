@@ -1,0 +1,188 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 53,
+"end": 65,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 67,
+"end": 81,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ34 ዓመት"
+},
+{
+"start": 246,
+"end": 258,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 326,
+"end": 340,
+"label": "PERSON",
+"text": "Meron Bekele\n*"
+},
+{
+"start": 420,
+"end": 430,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 556,
+"end": 568,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 626,
+"end": 634,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 696,
+"end": 708,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 776,
+"end": 790,
+"label": "PERSON",
+"text": "Meron Bekele\n*"
+},
+{
+"start": 870,
+"end": 880,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 943,
+"end": 955,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1037,
+"end": 1049,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1262,
+"end": 1277,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1278,
+"end": 1290,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1292,
+"end": 1306,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 1308,
+"end": 1313,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1331,
+"end": 1343,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1400,
+"end": 1412,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1413,
+"end": 1418,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1575,
+"end": 1588,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30\n*"
+},
+{
+"start": 1605,
+"end": 1616,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1618,
+"end": 1635,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 1878,
+"end": 1893,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1901,
+"end": 1913,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1979,
+"end": 1991,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1992,
+"end": 1997,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2154,
+"end": 2167,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00\n*"
+},
+{
+"start": 2184,
+"end": 2195,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2197,
+"end": 2214,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+}
+]

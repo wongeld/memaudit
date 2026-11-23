@@ -1,0 +1,7 @@
+* ስም [PERSON]፣ የመታወቂያ ቁጥር (profile_id) [[ID_NUMBER]]።
+* በ[LOCATION]) የሚኖሩ የ39 ዓመት ግለሰብ።
+* የትምህርት ደረጃቸው Master of Science ሲሆን በሙያቸው Horticultural Export Training Coordinator ናቸው።
+* ባለትዳርና የሦስት ልጆች ወላጅ ናቸው (Married with three children)።
+* የጤና ሁኔታቸው 'Type 2 diabetes' ነው።
+* የመገናኛ አድራሻቸው ስልክ [PHONE]፣ ኢሜይል [EMAIL] ሲሆን የመረጡት ቋንቋ አማርኛ ነው።
+* ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION]) የተያዘ የጉዞ/የሥራ ተግባር (travel task) አላቸው።

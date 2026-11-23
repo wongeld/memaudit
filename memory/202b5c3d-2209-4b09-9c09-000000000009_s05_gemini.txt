@@ -1,0 +1,5 @@
+* የተጠቃሚው መለያ ቁጥር (profile_id) [[ID_NUMBER]] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ([LOCATION]) በ school ዘርፍ ሊያደርጉት የነበረውን የምክክር ቀጠሮ ወደ ሌላ ጊዜ አሸጋግረዋል።
+* በ[LOCATION] ([LOCATION]) አካባቢ ለጉዳያቸው የሚሆን የ[ORGANIZATION] ቦታ ፍለጋ ላይ ፍላጎት አላቸው።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃ እንዳይጋራ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ምርጫ አላቸው።
+* በ[LOCATION] ([LOCATION]) ውስጥ በ latitude 13.5078 እና longitude 39.4622 አድራሻ ላይ ፍላጎት አሳይተዋል።

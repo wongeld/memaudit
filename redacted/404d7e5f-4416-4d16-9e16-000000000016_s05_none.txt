@@ -1,0 +1,40 @@
+User:
+Mimi Valentine Nayaku (kitambulisho 40305595714), nataka kurekodi miadi (appointment) kwenye mada ya school ya kukutana na kamati ya taaluma na wazazi Jumanne saa 4:30 asubuhi huko Embu, Kenya (Itabua); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kurekodi miadi yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya miadi niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: school
+*   **Aina ya Shughuli**: appointment
+*   **Kichwa**: kukutana na kamati ya taaluma na wazazi
+*   **Muda**: Jumanne saa 4:30 asubuhi
+*   **Mahali**: Embu, Kenya (Itabua)
+*   **Jina la Mawasiliano**: kamati ya taaluma na wazazi
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Hapana, ghairi miadi hiyo ya Jumanne saa 4:30 asubuhi kwa sasa kwa sababu nitakuwa darasani nikisimamia jaribio, usihifadhi chochote.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Hakuna kilichohifadhiwa.
+
+User:
+Naomba uorodheshe shughuli zangu zote za mada ya school kwa kutumia list_user_activities kwa profile_id [PROFILE_ID].
+
+Assistant:
+Kwa sasa, hakuna shughuli zilizohifadhiwa chini ya mada ya 'school' kwa profile ID [PROFILE_ID].
+
+User:
+Ninahitaji kuratibu ziara ya kielimu na midahalo ya wanafunzi; tafadhali tumia search_places kutafuta 'Kangaru School Embu' bila kutuma taarifa zangu binafsi na uonyeshe attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutafuta 'Kangaru School Embu'. Tafadhali jaribu tena baada ya muda mfupi.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la shule lenye majira-nukta latitude -0.5143 na longitude 37.4589 huko Embu, Kenya (Itabua) na ujumuishe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutafuta anwani ya majira-nukta uliyotoa. Tafadhali jaribu tena baada ya muda mfupi.

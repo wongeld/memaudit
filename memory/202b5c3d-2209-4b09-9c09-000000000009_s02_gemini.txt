@@ -1,0 +1,5 @@
+* የተጠቃሚው የመገለጫ መለያ (Profile ID) `[[ID_NUMBER]]` ነው።
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር በስራ (work) ዙሪያ በ[LOCATION] ([LOCATION]) የምክክር ቀጠሮ ዕቅድ ነበረው (ቀጠሮው ወደ ሌላ ቀን የተሸጋገረ)።
+* በ[LOCATION] ([LOCATION]) አካባቢ `[ORGANIZATION]` የተሰኘ ቦታ ፍለጋ ላይ ፍላጎት አለው።
+* በ[LOCATION] ([LOCATION]) የሚገኝ የ latitude 13.5078 እና longitude 39.4622 አድራሻን ይፈልጋል።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይላክ ጥንቃቄ ይፈልጋል፤ እንዲሁም የ OpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣል።

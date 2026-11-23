@@ -1,0 +1,116 @@
+[
+{
+"start": 363,
+"end": 380,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 422,
+"end": 439,
+"label": "LOCATION",
+"text": "Nairobi Arboretum"
+},
+{
+"start": 499,
+"end": 535,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nNimetumia"
+},
+{
+"start": 569,
+"end": 592,
+"label": "LOCATION",
+"text": "**'Nairobi Arboretum'**"
+},
+{
+"start": 651,
+"end": 664,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 778,
+"end": 791,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 948,
+"end": 955,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 957,
+"end": 962,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 964,
+"end": 972,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 995,
+"end": 1031,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nNimetumia"
+},
+{
+"start": 1139,
+"end": 1152,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1276,
+"end": 1289,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1374,
+"end": 1387,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1514,
+"end": 1553,
+"label": "DATE",
+"text": "kila jioni saa 12:30.\n\nAssistant:\nKabla"
+},
+{
+"start": 1970,
+"end": 1992,
+"label": "DATE",
+"text": "Kila jioni saa 12:30\n-"
+},
+{
+"start": 2035,
+"end": 2050,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 2231,
+"end": 2244,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2766,
+"end": 2788,
+"label": "DATE",
+"text": "Kila jioni saa 12:30\n-"
+},
+{
+"start": 2831,
+"end": 2846,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+}
+]

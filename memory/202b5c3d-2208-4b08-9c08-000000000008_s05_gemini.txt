@@ -1,0 +1,5 @@
+* የተጠቃሚው የመገለጫ መታወቂያ (Profile ID) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ([LOCATION]) ሊያደርገው የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሯል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ የሚመርጥ እና ለግላዊነት ጥንቃቄ የሚያደርግ ነው።
+* የካርታ ወይም የአድራሻ መረጃዎች ሲቀርቡለት የ OpenStreetMap እውቅና (attribution) አብሮ እንዲካተት ይፈልጋል።
+* በ[LOCATION] ([LOCATION]) አካባቢ በተለይም በ latitude 9.0054 እና longitude 38.7578 መገኛ ላይ ፍላጎት አለው።

@@ -1,0 +1,62 @@
+User:
+Mimi Daniel Wemanya (kitambulisho 40472954411), nataka kurekodi miadi (appointment) kwenye mada ya school ya kukutana na kamati ya taaluma na wazazi Jumanne saa 4:30 asubuhi huko Kakamega, Kenya (Malava); tafadhali thibitisha.
+
+Assistant:
+Sawa, Daniel. Ninaweza kurekodi miadi hiyo ya kukutana na kamati ya taaluma na wazazi.
+
+Ili niweze kurekodi miadi kwa usahihi, naomba unipe tarehe kamili ya Jumanne ambayo miadi hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: appointment
+*   **title**: Kukutana na kamati ya taaluma na wazazi
+*   **date_time**: [Tarehe maalum ya Jumanne] saa 4:30 asubuhi
+*   **contact_name**: Kamati ya taaluma na wazazi
+*   **location**: Kakamega, Kenya (Malava)
+*   **notes**: Kitambulisho 40472954411
+
+Tafadhali nithibitishie tarehe kamili ya Jumanne.
+
+User:
+Hapana, ghairi miadi hiyo ya Jumanne saa 4:30 asubuhi kwa sasa kwa sababu nitakuwa darasani nikisimamia jaribio, usihifadhi chochote.
+
+Assistant:
+Sawa, Daniel. Nimeghairi ombi lako la miadi ya Jumanne saa 4:30 asubuhi. Hakuna miadi iliyohifadhiwa.
+
+User:
+Naomba uorodheshe shughuli zangu zote za mada ya school kwa kutumia list_user_activities kwa profile_id [PROFILE_ID].
+
+Assistant:
+Daniel, kwa sasa hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'school' kwa profile_id yako [PROFILE_ID].
+
+Kazi ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini, na miadi ya kukutana na kamati ya taaluma na wazazi zote hazikuhifadhiwa kwa sababu tarehe kamili ya Jumatatu/Jumanne haikubainishwa.
+
+Je, kuna shughuli nyingine ungependa kuorodhesha au kuhifadhi?
+
+User:
+Ninahitaji kuratibu ziara ya kielimu na midahalo ya wanafunzi; tafadhali tumia search_places kutafuta 'Kakamega High School' bila kutuma taarifa zangu binafsi na uonyeshe attribution ya OpenStreetMap.
+
+Assistant:
+Sawa, Daniel. Nita tafuta 'Kakamega High School' kwa kutumia `openstreetmap_search_places`. Nitahakikisha taarifa zako binafsi hazitumwi na nitatambua OpenStreetMap.
+
+Kumbuka kuwa hapo awali kulikuwa na tatizo la kiufundi na zana za OpenStreetMap. Nitajaribu tena, na nikipata hitilafu, nitakujulisha.
+
+Assistant:
+Samahani, Daniel. Inaonekana tatizo la kiufundi na zana ya utafutaji ya OpenStreetMap bado linaendelea. Nimeshindwa kutafuta 'Kakamega High School'.
+
+Kwa bahati mbaya, kwa sasa siwezi kukusaidia kutafuta maeneo kwa kutumia zana za OpenStreetMap.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la shule lenye majira-nukta latitude 0.2827 na longitude 34.7519 huko Kakamega, Kenya (Malava) na ujumuishe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, Daniel. Ninaelewa kuwa unahitaji kupata anwani ya eneo la shule.
+
+Nimejaribu kutumia zana za OpenStreetMap hapo awali, ikiwemo `reverse_geocode`, na zote zimeshindwa kufanya kazi kutokana na tatizo la kiufundi. Nitajaribu tena sasa, lakini kuna uwezekano mkubwa wa kukutana na kosa lilelile.
+
+Ninakujaribu kutafuta anwani ya eneo lenye latitude 0.2827 na longitude 34.7519.
+
+Assistant:
+Samahani tena, Daniel. Kama nilivyotarajia, zana ya `reverse_geocode` bado haifanyi kazi. Inaonekana tatizo la kiufundi na zana za OpenStreetMap linaendelea.
+
+Kwa bahati mbaya, kwa sasa siwezi kupata anwani ya eneo la shule kwa kutumia zana zilizopo. Ninaomba radhi kwa usumbufu huu.

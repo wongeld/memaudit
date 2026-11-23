@@ -1,0 +1,5 @@
+- User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+- User is interested in comparing vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]).
+- User decided not to proceed with a shopping task previously planned for Thursday at 03:00 PM.
+- User is actively trying to manage shopping tasks and search for retail locations near [LOCATION], [LOCATION] ([LOCATION]).
+- User is aware of and experiencing ongoing technical issues with the assistant's ability to save activities and use location-based tools.

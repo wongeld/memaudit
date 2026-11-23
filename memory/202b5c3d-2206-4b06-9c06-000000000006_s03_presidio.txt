@@ -1,0 +1,5 @@
+* ተጠቃሚው የCommercial Florist and Event Decorator ሥራ የሚሰሩ እና ሙሉ ጤነኛ መሆናቸውን ገልጸዋል።
+* ከ [PERSON] (profile_id: [PROFILE_ID]፣ ስልክ: [PHONE]) ጋር የተያያዙ የሥራ (work) ክትትል ማስታወሻዎችን፣ ግዢዎችን እና ቦታ ማስያዝን (booking) ያስተዳድራሉ።
+* በ [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችን እና የጤና/የሥራ ግብዓቶችን የመግዛት ዕቅድ አላቸው።
+* የሚገዟቸው ግብዓቶች ለCommercial Florist and Event Decorator እና ለSingle አገልግሎት የሚውሉ ናቸው።
+* በ [LOCATION], [LOCATION] (Bole) ለ [DATE] የአገልግሎት ወይም የቦታ booking የማድረግ ዕቅድ አላቸው።

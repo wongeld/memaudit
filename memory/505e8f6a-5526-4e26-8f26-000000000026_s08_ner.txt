@@ -1,0 +1,5 @@
+- User's name is [PERSON].
+- User is planning a family outing in [LOCATION], [LOCATION] (Back [LOCATION]).
+- User is interested in visiting the '[LOCATION] Public Garden'.
+- User manages household tasks, including budgeting and family calendar planning.
+- User has experienced persistent technical issues with the assistant's tools, specifically `record_user_activity`, `search_places`, and `reverse_geocode`.

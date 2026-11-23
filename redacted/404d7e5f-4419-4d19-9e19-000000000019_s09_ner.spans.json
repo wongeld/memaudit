@@ -1,0 +1,194 @@
+[
+{
+"start": 59,
+"end": 73,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 159,
+"end": 182,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 188,
+"end": 194,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 196,
+"end": 204,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 492,
+"end": 525,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n**Eneo:**"
+},
+{
+"start": 526,
+"end": 532,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 534,
+"end": 542,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 576,
+"end": 600,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 698,
+"end": 721,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 726,
+"end": 740,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1033,
+"end": 1066,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n**Eneo:**"
+},
+{
+"start": 1067,
+"end": 1073,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1075,
+"end": 1083,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1117,
+"end": 1141,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 1258,
+"end": 1272,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1349,
+"end": 1355,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1357,
+"end": 1365,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1678,
+"end": 1684,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1686,
+"end": 1694,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1728,
+"end": 1752,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 1928,
+"end": 1942,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2280,
+"end": 2286,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2288,
+"end": 2296,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2330,
+"end": 2354,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2500,
+"end": 2525,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi"
+},
+{
+"start": 2531,
+"end": 2537,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2539,
+"end": 2547,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2560,
+"end": 2574,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2874,
+"end": 2909,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi\n**Eneo:**"
+},
+{
+"start": 2910,
+"end": 2916,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2918,
+"end": 2926,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2960,
+"end": 2984,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+}
+]

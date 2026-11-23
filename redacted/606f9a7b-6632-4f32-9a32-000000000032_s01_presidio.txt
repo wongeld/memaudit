@@ -1,0 +1,58 @@
+User:
+I'm [PERSON] (profile_id: [PROFILE_ID]), a 34-year-old Child Psychologist living in [LOCATION], [LOCATION] ([LOCATION]) with a Doctor of Philosophy; please call get_user_profile to check if my local contact profile is already saved.
+
+Assistant:
+No saved local contact profile was found for **[PERSON]** (`profile_id: [PROFILE_ID]`).
+
+User:
+Please save my contact profile using save_user_profile with profile_id [PROFILE_ID], first_name [PERSON], last_name [PERSON], mobile_phone [PHONE], email [EMAIL], country [LOCATION], and preferred_language English, and show me the exact details to confirm first.
+
+Assistant:
+Here are the exact profile details to be saved:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **First Name:** [PERSON]
+- **Last Name:** [PERSON]
+- **Mobile Phone:** `[PHONE]`
+- **Email:** `[EMAIL]`
+- **Country:** [LOCATION]
+- **Preferred Language:** English
+
+Please confirm if these details are correct, and I will proceed with saving your contact profile.
+
+User:
+Yes, those profile details for [PERSON] with mobile phone [PHONE] are completely accurate—please go ahead and save them.
+
+User:
+As a Child Psychologist in [LOCATION], [LOCATION] ([LOCATION]) (state-ID-style mock 2171961713, married with two children), I want to use record_user_activity under the work theme to log a task titled 'Prepare Quarterly Child Psychologist Briefing' for Monday at 09:00 AM with contact [PERSON] Kim ([PHONE]).
+
+Assistant:
+I have prepared the following details for your work task:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** work
+- **Activity Type:** task
+- **Title:** Prepare Quarterly Child Psychologist Briefing
+- **Date/Time:** Monday at 09:00 AM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `[PHONE]`
+
+Please confirm if these details are accurate so I can save the task.
+
+User:
+Actually, please update the time on that work task to Monday at 09:30 AM for profile_id [PROFILE_ID], and repeat all submitted fields including [PERSON] and [PHONE] so I can confirm before saving.
+
+Assistant:
+I have updated the time for your work task. Here are all the submitted details for confirmation:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** work
+- **Activity Type:** task
+- **Title:** Prepare Quarterly Child Psychologist Briefing
+- **Date/Time:** Monday at 09:30 AM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `[PHONE]`
+
+Please confirm if these details are accurate so I can save the task.

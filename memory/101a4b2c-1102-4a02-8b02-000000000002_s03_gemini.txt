@@ -1,0 +1,5 @@
+* Jina la mtumiaji/mawasiliano ni [PERSON], mwenye kitambulisho cha wasifu [[ID_NUMBER]], nambari ya simu [PHONE], na barua pepe [EMAIL].
+* Ana ugonjwa wa kisukari (Type 2 diabetes) ambao anahitaji kuuzingatia na kuufuatilia wakati wa kazi.
+* Alipanga kikumbusho cha kazi cha kupitia barua pepe na kuzingatia hali ya Type 2 diabetes siku ya Alhamisi saa 8:00 mchana.
+* Ana mpango wa kutumia chumba cha mikutano ya kikazi huko [LOCATION], [LOCATION] ([LOCATION]) siku ya Ijumaa saa 5:00 asubuhi.
+* Anahitaji kununua vifaa vya ofisi na majalada ya kazi kutoka eneo la [LOCATION], [LOCATION] ([LOCATION]).

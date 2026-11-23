@@ -1,0 +1,188 @@
+[
+{
+"start": 54,
+"end": 66,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 112,
+"end": 126,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 200,
+"end": 212,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 276,
+"end": 290,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 465,
+"end": 481,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00\n*"
+},
+{
+"start": 502,
+"end": 516,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 637,
+"end": 652,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 661,
+"end": 673,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 838,
+"end": 850,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 915,
+"end": 929,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 1104,
+"end": 1120,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00\n*"
+},
+{
+"start": 1141,
+"end": 1155,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 1285,
+"end": 1297,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1314,
+"end": 1322,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 1324,
+"end": 1339,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1450,
+"end": 1462,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1720,
+"end": 1727,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1729,
+"end": 1747,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder)\n*"
+},
+{
+"start": 1768,
+"end": 1782,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 1956,
+"end": 1968,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2242,
+"end": 2269,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 2290,
+"end": 2304,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 2441,
+"end": 2458,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2459,
+"end": 2484,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 2508,
+"end": 2520,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2609,
+"end": 2621,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2690,
+"end": 2706,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2709,
+"end": 2733,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 2915,
+"end": 2929,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00\n*"
+},
+{
+"start": 2946,
+"end": 2973,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 2994,
+"end": 3008,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+}
+]

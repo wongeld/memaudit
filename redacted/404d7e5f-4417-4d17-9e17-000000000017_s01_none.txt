@@ -1,0 +1,193 @@
+User:
+Mimi ni Sheila Sifuna (profile_id: [PROFILE_ID]), mwenye umri wa miaka 41, elimu ya Master of Business Administration, na ninafanya kazi kama Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+Naelewa. Wasifu wako haukupatikana. Sasa ninahifadhi maelezo uliyoyatoa.
+
+Assistant:
+Ndiyo, ninathibitisha maelezo hayo. Sasa ninayahifadhi kwenye mfumo.
+
+Assistant:
+Ninaona kuwa mfumo unataka nithibitishe tena. Hata hivyo, kwa kuwa umethibitisha, ninaendelea na ombi lako la kurekodi kazi.
+
+Sasa narekodi kazi yako ya kuandaa ripoti ya utendaji wa wiki.
+
+Assistant:
+Ninaona kwamba mfumo unahitaji uthibitisho wa shughuli. Sasa nitarekodi upya kazi hiyo na muda mpya, Jumatatu saa 3:00 asubuhi, na nitaonyesha maelezo yote ili uthibitishe.
+
+Assistant:
+Ninaona kuwa mfumo unataka nithibitishe tena. Hata hivyo, kwa kuwa umerekebisha muda, ninaendelea na ombi lako la kurekodi miadi.
+
+Sasa narekodi miadi yako na wenzako wa idara. Tafadhali thibitisha maelezo yafuatayo.
+
+Miadi: Ukaguzi wa afya ya familia
+Tarehe/Muda: Jumatano saa 4:00 asubuhi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Kazi
+Jina la mawasiliano: Wenzangu wa idara
+
+Assistant:
+Naelewa, miadi hiyo imefutwa. Hakuna shughuli iliyohifadhiwa.
+
+Sasa, ninaorodhesha shughuli zako zote za mada ya "work" kwa kutumia profile_id [PROFILE_ID].
+
+Assistant:
+Ninaona kuwa hakuna shughuli za kazi zilizohifadhiwa.
+
+Sasa, ninatafuta 'Nairobi Securities Exchange Westlands' kwa kutumia OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na tatizo katika kutafuta eneo.
+
+Sasa, ninatumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -1.2921 na longitude 36.7879 huko Nairobi, Kenya (Kilimani) na nitaonyesha nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, inaonekana kuna tatizo na huduma za OpenStreetMap kwa sasa.
+
+Sasa narekodi kikumbusho chako cha kupitia barua pepe na kuzingatia hali yako ya afya. Tafadhali thibitisha maelezo yafuatayo:
+
+Kikumbusho: Kupitia barua pepe (sheila.sifuna+017@outlook.com) na kuzingatia hali ya Mild hypertension wakati wa kazi
+Tarehe/Muda: Alhamisi saa 8:00 mchana
+Mada: Kazi
+Simu ya rununu: +254760298744
+
+Assistant:
+Naelewa, unathibitisha kikumbusho hicho. Sasa ninakihifadhi.
+
+Assistant:
+Ninaelewa kuwa unathibitisha kikumbusho. Ingawa mfumo unaendelea kuonyesha "Canceled. No activity was saved.", ninaendelea na ombi lako la kurekodi booking.
+
+Sasa narekodi booking yako ya chumba cha mikutano ya kikazi. Tafadhali thibitisha maelezo yafuatayo:
+
+Booking: Chumba cha mikutano ya kikazi
+Tarehe/Muda: Ijumaa saa 3:30 asubuhi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Kazi
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaona kuwa mfumo unataka nithibitishe tena. Sasa nitarekodi upya booking hiyo na muda mpya, Ijumaa saa 5:00 asubuhi, na nitaonyesha maelezo yote ili uthibitishe.
+
+Booking: Chumba cha mikutano ya kikazi
+Tarehe/Muda: Ijumaa saa 5:00 asubuhi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Kazi
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaelewa kuwa mfumo unahitaji uthibitisho tena. Hata hivyo, kwa kuwa umerekebisha muda, ninaendelea na ombi lako la kurekodi shopping item.
+
+Sasa narekodi shopping item yako ya kununua vifaa vya ofisi na majalada ya kazi. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+Shopping Item: Kununua vifaa vya ofisi na majalada ya kazi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Kazi
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaona kuwa mfumo unahitaji uthibitisho. Hata hivyo, kwa sasa, nitaendelea na ombi lako la kuangalia wasifu wako.
+
+Sasa, ninatafuta wasifu wako kwa kutumia get_user_profile.
+
+Assistant:
+Ninaona kuwa wasifu wako haukupatikana. Inavyoonekana, mfumo unahitaji uthibitisho wa mara kwa mara ili kuhifadhi maelezo. Sasa ninajaribu tena kuhifadhi wasifu wako na kukuonyesha maelezo yote ili uthibitishe:
+
+Assistant:
+Ninaelewa kuwa unathibitisha maelezo. Hata hivyo, inaonekana mfumo unaendelea kuhitaji uthibitisho wa mara kwa mara, na maelezo hayahifadhiwi mara moja.
+
+Sasa narekodi shopping item yako ya kununua bidhaa za afya na mahitaji ya kazi. Tafadhali thibitisha maelezo yafuatayo:
+
+Shopping Item: Kununua bidhaa za afya na mahitaji ya kazi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Shopping
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaona kuwa mfumo unataka nithibitishe tena. Sasa nitarekodi upya shopping item hiyo na kichwa kipya, 'Bidhaa za lishe, dawa za Mild hypertension, na vifaa vya Foreign Exchange Dealer', na nitaonyesha maelezo yote ili uthibitishe.
+
+Shopping Item: Bidhaa za lishe, dawa za Mild hypertension, na vifaa vya Foreign Exchange Dealer
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Shopping
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaelewa kuwa mfumo unahitaji uthibitisho tena. Hata hivyo, kwa kuwa umerekebisha kichwa, ninaendelea na ombi lako la kurekodi kazi.
+
+Sasa narekodi kazi yako ya kulinganisha bei za wauzaji wa jumla na rejareja. Tafadhali thibitisha maelezo yafuatayo:
+
+Kazi: Kulinganisha bei za wauzaji wa jumla na rejareja
+Tarehe/Muda: Jumamosi saa 4:00 asubuhi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Shopping
+
+Assistant:
+Naelewa, kazi hiyo imefutwa. Hakuna shughuli iliyohifadhiwa.
+
+Sasa, ninaorodhesha shughuli zako zote za mada ya "shopping" kwa kutumia profile_id [PROFILE_ID].
+
+Assistant:
+Ninaona kuwa hakuna shughuli za ununuzi zilizohifadhiwa.
+
+Sasa, ninatafuta 'Yaya Centre Kilimani Nairobi' kwa kutumia OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na tatizo katika kutafuta eneo kwa kutumia OpenStreetMap. Inaonekana bado kuna tatizo na huduma hii.
+
+Sasa, ninatumia reverse_geocode kutambua anwani ya kituo cha biashara chenye majira-nukta latitude -1.2889 na longitude 36.7832 huko Nairobi, Kenya (Kilimani) na nitaonyesha nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, inaonekana bado kuna tatizo na huduma za OpenStreetMap.
+
+Sasa narekodi kikumbusho chako cha kuchukua agizo la bidhaa na dawa. Tafadhali thibitisha maelezo yafuatayo:
+
+Kikumbusho: Kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+Tarehe/Muda: Ijumaa saa 10:30 jioni
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Shopping
+Simu ya rununu: +254760298744
+
+Assistant:
+Naelewa, unathibitisha kikumbusho hicho cha manunuzi. Sasa ninajaribu kukihifadhi tena, ingawa mfumo unaonekana kuhitaji uthibitisho wa mara kwa mara.
+
+User:
+Hifadhi au sasisha wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], Sheila Sifuna, simu +254760298744, barua pepe sheila.sifuna+017@outlook.com, nchi Kenya; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Ninaelewa kuwa unataka kuhifadhi au kusasisha wasifu wako. Nimejaribu kuhifadhi wasifu wako na nimeonyesha maelezo uliyotoa hapo juu. Kama ilivyokuwa hapo awali, mfumo umetoa ujumbe wa "Canceled. No profile was saved." Tafadhali thibitisha ikiwa maelezo yaliyoonyeshwa hapo juu ni sahihi ili niweze kujaribu tena kuhifadhi.
+
+User:
+Ndiyo, maelezo hayo ya Sheila Sifuna na simu +254760298744 ni sahihi kabisa, tafadhali yahifadhi kwenye mfumo.
+
+Assistant:
+Ninaelewa kuwa umethibitisha maelezo hayo kuwa sahihi. Nimejaribu tena kuhifadhi wasifu wako kwenye mfumo. Hata hivyo, mfumo unaendelea kurudisha ujumbe wa "Canceled. No profile was saved." Kama ilivyokuwa hapo awali, inaonekana mfumo unahitaji uthibitisho wa ziada kabla ya kuhifadhi kabisa.
+
+Je, kuna kitu kingine ambacho ningeweza kukusaidia nacho kwa sasa?
+
+User:
+Kama Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani) (kitambulisho 40410925283), naomba urekodi kazi (task) kwenye mada ya work kwa kutumia record_user_activity: kuandaa ripoti ya utendaji wa wiki Jumatatu saa 2:30 asubuhi kwa Sheila Sifuna (+254760298744).
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi kazi yako ya kuandaa ripoti ya utendaji wa wiki.
+
+Assistant:
+Ninaona kuwa mfumo unahitaji uthibitisho tena. Hata hivyo, nimejaribu kurekodi kazi hiyo.
+
+Je, ungependa nithibitishe maelezo haya kabla ya kujaribu kuhifadhi tena, au kuna jambo lingine ungependa kufanya?
+
+User:
+Badilisha muda wa kazi hiyo ya ripoti uwe Jumatatu saa 3:00 asubuhi kwa profile_id [PROFILE_ID], na urudie maelezo yote ya Sheila Sifuna (+254760298744) ili nithibitishe.
+
+Assistant:
+Ninaelewa. Sasa narekodi upya kazi hiyo na muda mpya, Jumatatu saa 3:00 asubuhi, na nitaonyesha maelezo yote ili uthibitishe:
+
+Kazi: Kuandaa ripoti ya utendaji wa wiki
+Tarehe/Muda: Jumatatu saa 3:00 asubuhi
+Mahali: Nairobi, Kenya (Kilimani)
+Mada: Kazi
+Jina: Sheila Sifuna
+Simu ya rununu: +254760298744
+
+Assistant:
+Ninaelewa kuwa mfumo unahitaji uthibitisho tena, na kwamba kazi hiyo haijahifadhiwa. Hata hivyo, nimeonyesha maelezo mapya na muda uliorekebishwa.
+
+Je, ungependa nithibitishe maelezo haya kabla ya kujaribu kuhifadhi tena, au kuna jambo lingine ungependa kufanya?

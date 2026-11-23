@@ -1,0 +1,18 @@
+User:
+Mimi [PERSON] (Bachelor of Education, Married with two children), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi [DATE] huko [LOCATION], [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako. Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION] tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION], [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION].

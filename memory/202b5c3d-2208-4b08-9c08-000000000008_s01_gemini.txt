@@ -1,0 +1,6 @@
+* ስም [PERSON] ሲሆን የመገለጫ መታወቂያው (profile_id) [[ID_NUMBER]] ነው።
+* በ[LOCATION] የሚኖር የ39 ዓመት Horticultural Export Training Coordinator (Master of Science) ነው።
+* ባለትዳርና የሦስት ልጆች ወላጅ ነው (Married with three children)።
+* የጤና ሁኔታው ዓይነት 2 የስኳር በሽታ (Type 2 diabetes) ነው።
+* የመገናኛ አድራሻዎቹ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL] ሲሆኑ ተመራጭ ቋንቋው አማርኛ ነው።
+* በ[LOCATION] ሰኞ ጠዋት በ3:00 ሰዓት ከ[PERSON] ([PHONE]) ጋር የተያዘ የሳምንቱ ዋና የሥራ ተግባር (task) አለው።

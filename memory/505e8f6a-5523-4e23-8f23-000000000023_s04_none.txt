@@ -1,0 +1,8 @@
+- Name: Evan Lindqvist
+- Age: 34
+- Occupation: Eco-Tourism Travel Consultant
+- Location: Ballard, Seattle, United States
+- Education: Bachelor of Arts
+- Relationship status: Single
+- Health: Manages mild seasonal allergic rhinitis
+- Contact: +16139476852, evan.lindqvist+023@gmail.com

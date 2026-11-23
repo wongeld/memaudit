@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON].
+* Hali ya kifamilia: Ameoa/ameolewa na ana watoto watatu.
+* Hali ya afya: Ana shinikizo la damu la kiwango cha chini (Mild hypertension).
+* Huwa na mikutano na shughuli za kikazi na wenzake wa idara (kitambulisho cha wasifu: [PROFILE_ID]).
+* Anapendelea kutotuma taarifa zake binafsi wakati wa kufanya utafutaji wa maeneo.
+* Anafuatilia maeneo na majengo ya kikazi yaliyo [LOCATION], [LOCATION] ([LOCATION]).

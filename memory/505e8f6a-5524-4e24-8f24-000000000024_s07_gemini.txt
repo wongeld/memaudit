@@ -1,0 +1,8 @@
+* Name: David Kowalski
+* Age: 41
+* Occupation: Software Engineering Manager
+* Education: Master of Science
+* Family: Married with three children
+* Health: Managing type 2 diabetes
+* Contact: [PHONE] and [EMAIL]
+* Location: [LOCATION], [LOCATION] ([LOCATION])

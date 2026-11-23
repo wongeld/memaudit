@@ -1,0 +1,5 @@
+- Anashughulikia shughuli na kumbukumbu za [PERSON] (Profile ID: [[ID_NUMBER]], Simu: [PHONE]).
+- Ana mpango wa kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION], [LOCATION] ([LOCATION]) Ijumaa saa 10:30 jioni.
+- Ana miadi ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION], [LOCATION] ([LOCATION]) Alhamisi saa 8:00 mchana.
+- Amepanga booking ya usafiri wa kuleta bidhaa nyumbani huko [LOCATION], [LOCATION] ([LOCATION]) Jumamosi saa 9:00 alasiri.
+- Anapendelea kuona muhtasari na kuthibitisha maelezo yote kabla ya kumbukumbu au shughuli kuhifadhiwa.

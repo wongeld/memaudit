@@ -1,0 +1,6 @@
+- The user is married with two children.
+- The user manages family activities and logistics for [PERSON] (phone: +16098633034).
+- The user is interested in healthy meal planning, specifically for managing mild seasonal allergic rhinitis.
+- The user frequently shops for household groceries and family weekend supplies in [LOCATION], [LOCATION] ([LOCATION]).
+- The user prefers fresh produce when grocery shopping.
+- The user organizes family weekend outings, such as brunch reservations, in [LOCATION].

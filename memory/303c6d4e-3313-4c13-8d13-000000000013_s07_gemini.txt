@@ -1,0 +1,8 @@
+* ስም: Tigist Hailu
+* ዕድሜ: 29 ዓመት
+* ሙያ: Hospital Physician (Doctor of Medicine)
+* የጋብቻ ሁኔታ: ነጠላ (Single)
+* መኖሪያ/ሥራ ቦታ: [LOCATION] ([ORGANIZATION])
+* ቋንቋ: አማርኛ
+* መታወቂያ ቁጥር: [[ID_NUMBER]]
+* የሳምንታዊ ተግባር መርሃ ግብር: ሰኞ ጠዋት 3:00 ሰዓት ላይ የሳምንቱ ዋና ተግባር አላት።

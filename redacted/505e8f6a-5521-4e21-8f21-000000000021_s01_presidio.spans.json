@@ -1,0 +1,242 @@
+[
+{
+"start": 10,
+"end": 21,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 93,
+"end": 99,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 101,
+"end": 114,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 116,
+"end": 124,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 342,
+"end": 347,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 359,
+"end": 364,
+"label": "PERSON",
+"text": "Bosse"
+},
+{
+"start": 379,
+"end": 391,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 399,
+"end": 424,
+"label": "EMAIL",
+"text": "james.bosse+021@gmail.com"
+},
+{
+"start": 434,
+"end": 447,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 574,
+"end": 585,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 624,
+"end": 629,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 641,
+"end": 646,
+"label": "PERSON",
+"text": "Bosse"
+},
+{
+"start": 661,
+"end": 673,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 681,
+"end": 706,
+"label": "EMAIL",
+"text": "james.bosse+021@gmail.com"
+},
+{
+"start": 716,
+"end": 729,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 873,
+"end": 884,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 903,
+"end": 915,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 1085,
+"end": 1096,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1135,
+"end": 1140,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 1152,
+"end": 1157,
+"label": "PERSON",
+"text": "Bosse"
+},
+{
+"start": 1172,
+"end": 1184,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 1192,
+"end": 1217,
+"label": "EMAIL",
+"text": "james.bosse+021@gmail.com"
+},
+{
+"start": 1227,
+"end": 1240,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1377,
+"end": 1383,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1385,
+"end": 1398,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1400,
+"end": 1408,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1632,
+"end": 1637,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 1645,
+"end": 1657,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 1871,
+"end": 1877,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1879,
+"end": 1892,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1894,
+"end": 1902,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1918,
+"end": 1929,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1944,
+"end": 1956,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 2178,
+"end": 2189,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2194,
+"end": 2206,
+"label": "PHONE",
+"text": "+17427416378"
+},
+{
+"start": 2482,
+"end": 2488,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2490,
+"end": 2503,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2505,
+"end": 2513,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2529,
+"end": 2540,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2555,
+"end": 2567,
+"label": "PHONE",
+"text": "+17427416378"
+}
+]

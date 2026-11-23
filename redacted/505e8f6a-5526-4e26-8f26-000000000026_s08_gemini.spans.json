@@ -1,0 +1,86 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 33,
+"end": 43,
+"label": "ID_NUMBER",
+"text": "6576730124"
+},
+{
+"start": 162,
+"end": 183,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 185,
+"end": 193,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 518,
+"end": 539,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 541,
+"end": 549,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 569,
+"end": 582,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 601,
+"end": 613,
+"label": "PHONE",
+"text": "+15246107452"
+},
+{
+"start": 1657,
+"end": 1678,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 1680,
+"end": 1688,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1725,
+"end": 1745,
+"label": "LOCATION",
+"text": "Boston Public Garden"
+},
+{
+"start": 2148,
+"end": 2168,
+"label": "LOCATION",
+"text": "Boston Public Garden"
+},
+{
+"start": 2353,
+"end": 2374,
+"label": "LOCATION",
+"text": "Boston, United States"
+},
+{
+"start": 2376,
+"end": 2384,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

@@ -1,0 +1,4 @@
+* Anapanga safari inayohusisha siku 4 za kazi kwa [PERSON] (profile_id [PROFILE_ID], simu +255629410386).
+* Ana miadi ya kukutana na mshirika wa safari na usafirishaji mnamo [DATE].
+* Anapanga kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] (Njiro).
+* Ana mpango wa kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION]).

@@ -1,0 +1,4 @@
+* የተጠቃሚው መለያ profile_id [PROFILE_ID] ነው።
+* ከ Bereket Tesfaye (+251945416026፣ bereket.tesfaye+009@yahoo.com) ጋር በMekelle, Ethiopia (Ayder) ሊያደርገው የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሯል።
+* በMekelle, Ethiopia (Ayder) አካባቢ፣ በተለይም በኮኦርዲኔት latitude 13.5078 እና longitude 39.4622 ላይ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲካሄድ የግል መረጃው እንዳይላክ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣል።

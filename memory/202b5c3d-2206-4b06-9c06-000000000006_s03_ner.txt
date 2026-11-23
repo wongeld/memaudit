@@ -1,0 +1,5 @@
+* ተጠቃሚው የCommercial Florist and Event Decorator ሥራ አለው።
+* ተጠቃሚው ሙሉ ጤነኛ መሆኑን ገልጿል።
+* ከ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ ቁጥር +251996949340) ጋር የተያያዙ የሥራ (work) ክትትሎችንና ተግባራትን ያከናውናል።
+* በ [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችንና የጤና/የሥራ ግብዓቶችን የመግዛት እንዲሁም የአገልግሎት ወይም የቦታ booking የማድረግ ዕቅድ አለው።
+* ለሚገዛቸው ግብዓቶች "Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል" የሚል ማስታወሻ ይጠቀማል።

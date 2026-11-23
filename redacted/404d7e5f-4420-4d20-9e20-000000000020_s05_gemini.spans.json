@@ -1,0 +1,80 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 65,
+"end": 75,
+"label": "ID_NUMBER",
+"text": "3463185582"
+},
+{
+"start": 219,
+"end": 235,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 237,
+"end": 243,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 328,
+"end": 342,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 437,
+"end": 451,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 466,
+"end": 479,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 658,
+"end": 674,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 676,
+"end": 682,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1428,
+"end": 1449,
+"label": "LOCATION",
+"text": "Nyerere Square Dodoma"
+},
+{
+"start": 1570,
+"end": 1591,
+"label": "LOCATION",
+"text": "Nyerere Square Dodoma"
+},
+{
+"start": 1827,
+"end": 1843,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 1845,
+"end": 1851,
+"label": "LOCATION",
+"text": "Area C"
+}
+]

@@ -1,0 +1,4 @@
+* User is [PERSON] (ID 4225622270).
+* Plans to review household budget and family calendar in [LOCATION], [LOCATION] ([LOCATION]).
+* Planning a family outing in [LOCATION], [LOCATION] ([LOCATION]).
+* Currently experiencing persistent technical issues with the assistant's ability to save activities and execute location-based tools.

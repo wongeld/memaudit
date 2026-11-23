@@ -1,0 +1,6 @@
+- Jina la mtumiaji ni [PERSON], mwenye umri wa miaka 41.
+- Ana taaluma ya Foreign Exchange Dealer na ana shahada ya Master of Business Administration (MBA).
+- Ana hali ya afya ya 'Mild hypertension'.
+- Anaishi na kufanya kazi [LOCATION], [LOCATION] (Kilimani).
+- Anahitaji kununua bidhaa za lishe, dawa za shinikizo la damu (Mild hypertension), na vifaa vya kazi.
+- Mawasiliano yake ni [PHONE] na [EMAIL].

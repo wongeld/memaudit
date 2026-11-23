@@ -1,0 +1,5 @@
+* Anatumia kitambulisho cha wasifu [[ID_NUMBER]] na nambari ya simu [PHONE] kwa jina la [PERSON].
+* Ana miadi ya kukutana na mshirika wa safari na usafirishaji siku ya Jumatano saa 4:00 asubuhi.
+* Anapanga safari inayohusisha siku 4 za kazi kwa [PERSON].
+* Ana kazi ya kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] ([LOCATION]).
+* Anapanga kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] ([LOCATION]).

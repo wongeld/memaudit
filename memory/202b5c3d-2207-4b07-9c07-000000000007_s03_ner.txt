@@ -1,0 +1,5 @@
+* የሥራ መስኩ የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* የቤተሰብ ሁኔታው ባለትዳርና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የጤና ሁኔታው 'Mild hypertension' አለበት።
+* ከ [PERSON] (ስልክ ቁጥር፡ +251906564148) እና ከመገለጫ መለያ [PROFILE_ID] ጋር የተያያዙ የሥራ ማስታወሻዎችንና ተግባራትን ያከናውናል።
+* ተዛማጅ ቦታው [LOCATION], [LOCATION] (Yeka) ነው።

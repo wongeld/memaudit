@@ -1,0 +1,5 @@
+* Mtumiaji anajihusisha na shughuli za shule na elimu.
+* Ana afya njema na hana ugonjwa sugu.
+* Anashirikiana na [PERSON] (nambari ya simu +254170314031, profile_id [PROFILE_ID]) katika masuala ya shule.
+* Anajihusisha na ununuzi wa vifaa vya shule kama vitabu vya kiada, kamusi za Kiswahili, kalamu za ubao mweupe, na nakala 20 za fasihi.
+* Anafanya mipango ya shule inayohusisha ukumbi wa mikutano katika [LOCATION], [LOCATION].

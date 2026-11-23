@@ -1,0 +1,10 @@
+- ስም፡ ሰላማዊት ግርማ (Selamawit Girma)
+- ዕድሜ፡ 31 ዓመት
+- የሥራ መደብ፡ Regional Logistics Coordinator (የቢዝነስ ኮሜርስ የመጀመሪያ ዲግሪ አላት)
+- የጤና ሁኔታ፡ መጠነኛ አስም (Mild asthma) አላት
+- የጋብቻ ሁኔታ፡ ነጠላ (Single)
+- መኖሪያ፡ [LOCATION]
+- ተመራጭ ቋንቋ፡ አማርኛ
+- መታወቂያ ቁጥር፡ [[ID_NUMBER]]
+- ስልክ ቁጥር፡ [PHONE]
+- ኢሜይል፡ [EMAIL]

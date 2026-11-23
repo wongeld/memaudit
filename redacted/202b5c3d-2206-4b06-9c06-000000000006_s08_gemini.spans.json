@@ -1,0 +1,74 @@
+[
+{
+"start": 28,
+"end": 41,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 43,
+"end": 56,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 63,
+"end": 90,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 110,
+"end": 137,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 303,
+"end": 316,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 578,
+"end": 605,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 630,
+"end": 643,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 659,
+"end": 686,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 1361,
+"end": 1388,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1446,
+"end": 1474,
+"label": "LOCATION",
+"text": "Bole Medhanialem Addis Ababa"
+},
+{
+"start": 1600,
+"end": 1628,
+"label": "LOCATION",
+"text": "Bole Medhanialem Addis Ababa"
+},
+{
+"start": 1705,
+"end": 1732,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

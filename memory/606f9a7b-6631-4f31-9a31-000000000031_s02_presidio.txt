@@ -1,0 +1,5 @@
+* User is [PERSON], reachable at [EMAIL].
+* User is in good health with no chronic conditions.
+* User is a professional who manages work-related appointments and off-site meetings.
+* User is based in or frequently works in the [LOCATION] area, specifically mentioning the Ironbound district.
+* User is familiar with using specific tools and commands (e.g., `record_user_activity`, `list_user_activities`, `search_places`, `reverse_geocode`) to manage their schedule and location data.

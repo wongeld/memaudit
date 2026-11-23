@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 34,
+"end": 44,
+"label": "ID_NUMBER",
+"text": "4225622270"
+},
+{
+"start": 52,
+"end": 80,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 209,
+"end": 216,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 218,
+"end": 231,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 233,
+"end": 245,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 530,
+"end": 537,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 539,
+"end": 552,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 554,
+"end": 566,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 590,
+"end": 604,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 620,
+"end": 648,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 1215,
+"end": 1229,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1460,
+"end": 1467,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1469,
+"end": 1482,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1484,
+"end": 1496,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1530,
+"end": 1574,
+"label": "LOCATION",
+"text": "North and Clybourn Shopping Corridor Chicago"
+},
+{
+"start": 1729,
+"end": 1773,
+"label": "LOCATION",
+"text": "North and Clybourn Shopping Corridor Chicago"
+},
+{
+"start": 1991,
+"end": 1998,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2000,
+"end": 2013,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2015,
+"end": 2027,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

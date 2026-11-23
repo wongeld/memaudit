@@ -1,0 +1,82 @@
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ Hirut Anagaw (profile_id [PROFILE_ID]፣ ስልክ +251962051344) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "ግንቦት 31 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) አርብ ከሰዓት 10:00 ሰዓት
+*   **mobile_phone**: +251962051344
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ።
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Hirut Anagaw (+251962051344) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+የስርአቱ መልእክት ግልጽ ስላልሆነ፣ በዚያ መልኩ አርብ ከሰዓት 10:00 ሰዓት ብዬ ቀኑንና ሰዓቱን ማስገባት አልቻልኩም ብዬ እገምታለሁ። ትክክለኛውን ቀን፣ ለምሳሌ "ግንቦት 31 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ work ሥር ለ Hirut Anagaw (+251962051344) በAddis Ababa, Ethiopia (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "ግንቦት 31 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ Hirut Anagaw (+251962051344) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "ግንቦት 31 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Bole) የአገልግሎት/የቦታ booking ለ Hirut Anagaw (+251962051344) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ Hirut Anagaw የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "ሰኔ 1 ቀን 2016 ዓ.ም. ቅዳሜ ጠዋት 4:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: (አልተሰጠም)

@@ -1,0 +1,98 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 86,
+"end": 99,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 103,
+"end": 137,
+"label": "LOCATION",
+"text": "በBahir Dar, Ethiopia (Belay Zeleke"
+},
+{
+"start": 247,
+"end": 261,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 397,
+"end": 412,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 425,
+"end": 461,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia (Belay Zeleke)\n*"
+},
+{
+"start": 558,
+"end": 572,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 638,
+"end": 643,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 875,
+"end": 888,
+"label": "LOCATION",
+"text": "Dar, Ethiopia"
+},
+{
+"start": 890,
+"end": 902,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 960,
+"end": 979,
+"label": "LOCATION",
+"text": "Lake Tana Bahir Dar"
+},
+{
+"start": 1044,
+"end": 1058,
+"label": "ORGANIZATION",
+"text": "በOpenStreetMap"
+},
+{
+"start": 1153,
+"end": 1172,
+"label": "LOCATION",
+"text": "Lake Tana Bahir Dar"
+},
+{
+"start": 1207,
+"end": 1241,
+"label": "LOCATION",
+"text": "በBahir Dar, Ethiopia (Belay Zeleke"
+},
+{
+"start": 1320,
+"end": 1333,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1366,
+"end": 1380,
+"label": "ORGANIZATION",
+"text": "በOpenStreetMap"
+}
+]

@@ -1,0 +1,5 @@
+* Ana kitambulisho cha wasifu [PROFILE_ID], anatumia jina la [PERSON], nambari ya simu [PHONE], na barua pepe [EMAIL].
+* Ana hali ya kiafya ya kisukari cha aina ya pili (Type 2 diabetes) anayopaswa kuizingatia wakati wa kazi.
+* Alipanga kikumbusho cha kazi cha kupitia barua pepe na kufuatilia hali yake ya Type 2 diabetes mnamo [DATE].
+* Anafanya mipango ya kikazi ya chumba cha mikutano huko [LOCATION], [LOCATION] kwa tarehe [DATE].
+* Anapanga kununua vifaa vya ofisi na majalada ya kazi huko [LOCATION].

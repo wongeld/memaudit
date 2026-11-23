@@ -1,0 +1,57 @@
+User:
+Ndiyo, taarifa hizo za [PERSON] na simu +254760298744 ni sahihi, naomba uzihifadhi sasa.
+
+Assistant:
+Nimejaribu kuhifadhi wasifu wako kwa kutumia `save_user_profile`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No profile was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina:** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+- **Barua Pepe (`email`):** `sheila.sifuna+017@outlook.com`
+- **Nchi (`country`):** [LOCATION], ungependa tuendelee na hatua inayofuata?
+
+User:
+Kwa kuzingatia hali yangu ya familia (Married with two children) na afya (hali ya Mild hypertension), naomba urekodi miadi (appointment) kwenye mada ya family kwa record_user_activity: ukaguzi wa afya ya familia [DATE] huko [LOCATION], [LOCATION]) kwa [PERSON] (+254760298744).
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi miadi hiyo kwenye mada ya **family**, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `family`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Ukaguzi wa afya ya familia
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION], [LOCATION] (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Badilisha muda wa miadi hiyo ya familia uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] (+254760298744) ili nithibitishe.
+
+Assistant:
+Nimesasisha muda wa miadi hiyo ya familia. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `family`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Ukaguzi wa afya ya familia
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Mimi [PERSON] (elimu: Master of Business Administration, kitambulisho 40410925283), nataka kurekodi kazi (task) kwenye mada ya family ya kupanga bajeti ya matumizi ya nyumbani na ada za familia [DATE] huko [LOCATION] sijatumia `record_user_activity` kuhifadhi kazi hiyo kwenye mada ya **family**, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `family`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kupanga bajeti ya matumizi ya nyumbani na ada za familia
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION], [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu tutakuwa na wageni wa familia nyumbani, usihifadhi chochote.
+
+Assistant:
+Sawa, nimeghairi kazi hiyo ya [DATE] na sijahifadhi chochote kwenye mfumo. Je, kuna jambo lingine unalohitaji msaada?

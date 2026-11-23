@@ -1,0 +1,128 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 34,
+"end": 44,
+"label": "PHONE",
+"text": "6189768644"
+},
+{
+"start": 52,
+"end": 80,
+"label": "EMAIL",
+"text": "evan.lindqvist+023@gmail.com"
+},
+{
+"start": 209,
+"end": 216,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 218,
+"end": 231,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 233,
+"end": 240,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 279,
+"end": 283,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1137,
+"end": 1141,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1753,
+"end": 1757,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2370,
+"end": 2377,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2379,
+"end": 2392,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2394,
+"end": 2401,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2435,
+"end": 2457,
+"label": "ORGANIZATION",
+"text": "Ballard Farmers Market"
+},
+{
+"start": 2458,
+"end": 2465,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3044,
+"end": 3066,
+"label": "ORGANIZATION",
+"text": "Ballard Farmers Market"
+},
+{
+"start": 3193,
+"end": 3196,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 3345,
+"end": 3352,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3354,
+"end": 3367,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3369,
+"end": 3376,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3494,
+"end": 3498,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 4299,
+"end": 4302,
+"label": "ORGANIZATION",
+"text": "MCP"
+}
+]

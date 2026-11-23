@@ -1,0 +1,5 @@
+* User's name is Nathan Mercer.
+* User is a student in Boston, United States (Back Bay).
+* User's email address is nathan.mercer+026@outlook.com.
+* User is in good health with no chronic conditions.
+* User is currently experiencing persistent technical issues with the assistant's tools, specifically regarding saving activities and using OpenStreetMap-related functions.

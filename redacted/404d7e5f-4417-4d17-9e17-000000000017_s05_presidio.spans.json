@@ -1,0 +1,80 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 184,
+"end": 209,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 215,
+"end": 258,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani).\n\nAssistant:\nSawa"
+},
+{
+"start": 534,
+"end": 571,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\n**Mahali:**"
+},
+{
+"start": 572,
+"end": 612,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 731,
+"end": 756,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 822,
+"end": 851,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 1426,
+"end": 1454,
+"label": "LOCATION",
+"text": "Yaya Centre Kilimani Nairobi"
+},
+{
+"start": 1514,
+"end": 1549,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1603,
+"end": 1616,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1801,
+"end": 1825,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1848,
+"end": 1883,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1926,
+"end": 1939,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

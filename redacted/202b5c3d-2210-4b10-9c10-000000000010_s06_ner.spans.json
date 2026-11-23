@@ -1,0 +1,176 @@
+[
+{
+"start": 62,
+"end": 76,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 122,
+"end": 136,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 239,
+"end": 253,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 402,
+"end": 418,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00\n*"
+},
+{
+"start": 474,
+"end": 489,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 498,
+"end": 512,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 859,
+"end": 873,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 890,
+"end": 900,
+"label": "PERSON",
+"text": "በBahir Dar"
+},
+{
+"start": 902,
+"end": 910,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 912,
+"end": 924,
+"label": "PERSON",
+"text": "Belay Zeleke"
+},
+{
+"start": 1056,
+"end": 1070,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1243,
+"end": 1252,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1254,
+"end": 1279,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke)\n*"
+},
+{
+"start": 1472,
+"end": 1486,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1571,
+"end": 1585,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1641,
+"end": 1655,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1828,
+"end": 1837,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1839,
+"end": 1847,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1849,
+"end": 1864,
+"label": "LOCATION",
+"text": "Belay Zeleke)\n*"
+},
+{
+"start": 2024,
+"end": 2041,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2042,
+"end": 2052,
+"label": "LOCATION",
+"text": "በBahir Dar"
+},
+{
+"start": 2054,
+"end": 2062,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2064,
+"end": 2076,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 2100,
+"end": 2114,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 2224,
+"end": 2238,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 2389,
+"end": 2407,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት\n*"
+},
+{
+"start": 2420,
+"end": 2429,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 2431,
+"end": 2439,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2447,
+"end": 2456,
+"label": "LOCATION",
+"text": "Zeleke)\n*"
+}
+]

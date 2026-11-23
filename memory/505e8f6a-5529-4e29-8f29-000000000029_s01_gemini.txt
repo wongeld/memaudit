@@ -1,0 +1,8 @@
+- Name: Arthur Pendleton
+- Age: 46
+- Occupation: Family Mediation Counselor
+- Education: Bachelor of Laws
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Family: Married with two children
+- Profile ID: [[ID_NUMBER]]
+- Preferred language: English

@@ -1,0 +1,44 @@
+User:
+I'm [PERSON] (mock ID 2171961713, email [EMAIL]), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] ([LOCATION]) at 06:30 PM.
+
+Assistant:
+Here are the details for your daily planning task:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** task
+- **Title:** Evening Meal Prep and Next-Day Prioritization
+- **Date/Time:** 06:30 PM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `[PHONE]`
+
+Please confirm if these details are accurate so I can proceed with saving the task.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([LOCATION]), so do not save it.
+
+Assistant:
+Understood. The 06:30 PM daily planning task for evening meal prep and next-day prioritization has been canceled and will not be saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+There are currently no saved activities for profile ID `[PROFILE_ID]` under the **daily_planning** theme.
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] (Back Bay); please call search_places for '[LOCATION] Public [ORGANIZATION] Copley [LOCATION]' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I was unable to search for "[LOCATION] Public Library Copley Square" because the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Attribution: © [[ORGANIZATION]](https://www.openstreetmap.org/copyright) contributors.*
+
+User:
+Please call reverse_geocode for coordinates latitude 42.3505 and longitude -71.0765 in [LOCATION], [LOCATION] ([LOCATION]) to verify the street address on my route, with [ORGANIZATION] attribution.
+
+Assistant:
+I was unable to reverse geocode the coordinates `42.3505, -71.0765` because access to the [ORGANIZATION] server is currently blocked (requiring project server approval).
+
+*Attribution: © [[ORGANIZATION]](https://www.openstreetmap.org/copyright) contributors.*

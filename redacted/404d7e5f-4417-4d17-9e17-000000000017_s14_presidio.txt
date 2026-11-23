@@ -1,0 +1,61 @@
+User:
+Ndiyo, maelezo hayo ya [PERSON] na simu [PHONE] ni sahihi kabisa, tafadhali yahifadhi.
+
+Assistant:
+Nimejaribu kuhifadhi wasifu wako kwa kutumia `save_user_profile`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No profile was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina:** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Barua Pepe (`email`):** `[EMAIL]`
+- **Nchi (`country`):** [LOCATION], ungependa tuendelee na hatua inayofuata?
+
+User:
+Kama Foreign Exchange Dealer mwenye Master of Business Administration na hali ya afya 'Mild hypertension', naomba urekodi shopping_item kwenye mada ya shopping kwa record_user_activity: kununua bidhaa za afya na mahitaji ya kazi huko [LOCATION] (Kilimani) kwa [PERSON] ([PHONE]).
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi `shopping_item` hiyo, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `shopping_item`
+- **Kichwa (`title`):** Kununua bidhaa za afya na mahitaji ya kazi
+- **Mahali (`location`):** [LOCATION] (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Badilisha kichwa cha shopping_item hiyo kiwe 'Bidhaa za lishe, dawa za Mild hypertension, na vifaa vya Foreign Exchange Dealer' kwa profile_id [PROFILE_ID], kisha urudie maelezo ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+Nimesasisha kichwa cha `shopping_item` hiyo. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `shopping_item`
+- **Kichwa (`title`):** Bidhaa za lishe, dawa za Mild hypertension, na vifaa vya [ORGANIZATION] Dealer
+- **Mahali (`location`):** [LOCATION], [LOCATION] (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Mimi [PERSON] (kitambulisho 40410925283, Married with two children), nataka kurekodi kazi (task) kwenye mada ya shopping ya kulinganisha bei za wauzaji wa jumla na rejareja [DATE] huko [LOCATION], [LOCATION] (Kilimani).
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi kazi hiyo kwenye mada ya **shopping**, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kulinganisha bei za wauzaji wa jumla na rejareja
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION], [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu tayari nimepata orodha ya bei kwa barua pepe [EMAIL], usihifadhi.
+
+Assistant:
+Sawa, nimeghairi kazi hiyo ya [DATE] na sijahifadhi chochote kwenye mfumo. Je, kuna jambo lingine unalohitaji msaada?

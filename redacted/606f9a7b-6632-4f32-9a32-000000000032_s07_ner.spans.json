@@ -1,0 +1,176 @@
+[
+{
+"start": 10,
+"end": 20,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 92,
+"end": 98,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 100,
+"end": 113,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 115,
+"end": 123,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 315,
+"end": 325,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 446,
+"end": 452,
+"label": "PERSON",
+"text": "Rachel"
+},
+{
+"start": 464,
+"end": 467,
+"label": "PERSON",
+"text": "Kim"
+},
+{
+"start": 536,
+"end": 549,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 735,
+"end": 741,
+"label": "PERSON",
+"text": "Rachel"
+},
+{
+"start": 759,
+"end": 762,
+"label": "PERSON",
+"text": "Kim"
+},
+{
+"start": 853,
+"end": 866,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1005,
+"end": 1015,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1112,
+"end": 1122,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1284,
+"end": 1290,
+"label": "PERSON",
+"text": "Rachel"
+},
+{
+"start": 1308,
+"end": 1311,
+"label": "PERSON",
+"text": "Kim"
+},
+{
+"start": 1402,
+"end": 1415,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1513,
+"end": 1519,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1521,
+"end": 1534,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1536,
+"end": 1544,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1702,
+"end": 1712,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1984,
+"end": 1990,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1992,
+"end": 2005,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2007,
+"end": 2015,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2037,
+"end": 2047,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2405,
+"end": 2415,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2740,
+"end": 2746,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2748,
+"end": 2761,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2768,
+"end": 2771,
+"label": "LOCATION",
+"text": "Bay"
+},
+{
+"start": 2793,
+"end": 2803,
+"label": "PERSON",
+"text": "Rachel Kim"
+}
+]

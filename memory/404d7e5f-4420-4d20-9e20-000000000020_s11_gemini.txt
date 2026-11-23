@@ -1,0 +1,5 @@
+* Mtumiaji anajishughulisha na kazi za kikazi zinazohusisha mikutano na mawasiliano ya barua pepe ([EMAIL]).
+* Anaishi na hali ya afya ya Type 2 diabetes, ambayo anazingatia wakati wa ratiba zake za kazi.
+* Anafanya kazi na [PERSON] (simu: [PHONE]) kwa ajili ya shughuli za kikazi.
+* Anatumia zana za kidijitali kama `reverse_geocode` na OpenStreetMap kwa ajili ya kutambua maeneo ya kijiografia.
+* Anapendelea kupanga ratiba za mikutano na vikumbusho vya kazi kwa usahihi wa muda na maelezo.

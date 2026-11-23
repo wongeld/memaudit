@@ -1,0 +1,4 @@
+- The user frequently attempts to schedule shopping-related appointments, pharmacy pickups, and delivery slots at [ORGANIZATION] in [LOCATION], [LOCATION].
+- The user manages activities for [PERSON] (profile_id [PROFILE_ID], phone [PHONE]).
+- The user has a recurring need for in-store pickups and supplier consultations.
+- The user is aware of a persistent, systemic technical issue where the assistant is unable to save any profile or activity data.

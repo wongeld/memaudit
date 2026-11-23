@@ -1,0 +1,73 @@
+User:
+የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ እና የUniversity Lecturer ሥራ ስላለብኝ፣ ለ Andualem Abate (profile_id [PROFILE_ID]፣ ስልክ +251906564148) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የክትትል ማስታወሻ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** reminder
+*   **Title:** የክትትል ማስታወሻ
+*   **Date/Time:** አርብ ከሰዓት 10:00
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Andualem Abate (+251906564148) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ! የክትትል ማስታወሻው አልተቀመጠም። ምናልባት ማረጋገጫውን እንደገና እንድሰጥ ሊጠይቀኝ ይችላል። እባክህ እንደገና እንድሞክር ትፈልጋለህ?
+
+ከዚህ በፊት የመገለጫ መረጃው ስላልተቀመጠ እንቅስቃሴዎቹም ሊቀመጡ አልቻሉም። መጀመሪያ መገለጫህን በትክክል ማስቀመጥ ሊያስፈልግ ይችላል።
+
+User:
+በ work ሥር ለ Andualem Abate (+251906564148) በAddis Ababa, Ethiopia (Yeka) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'University Lecturer እና Married with two children አገልግሎት የሚውል' ብለህ ለ Andualem Abate (+251906564148) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር እና ማስታወሻ አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+*   **Notes:** University Lecturer እና Married with two children አገልግሎት የሚውል
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Yeka) የአገልግሎት/የቦታ booking ለ Andualem Abate (+251906564148) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተለውን የአገልግሎት/የቦታ ማስያዣ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** booking
+*   **Title:** የአገልግሎት/የቦታ booking
+*   **Date/Time:** ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?

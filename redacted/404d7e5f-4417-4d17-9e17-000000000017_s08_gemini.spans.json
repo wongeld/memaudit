@@ -1,0 +1,74 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 81,
+"end": 92,
+"label": "ID_NUMBER",
+"text": "40410925283"
+},
+{
+"start": 236,
+"end": 243,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 245,
+"end": 250,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 252,
+"end": 260,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 607,
+"end": 614,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 616,
+"end": 621,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 623,
+"end": 631,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1452,
+"end": 1469,
+"label": "LOCATION",
+"text": "Nairobi Arboretum"
+},
+{
+"start": 1810,
+"end": 1817,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1819,
+"end": 1824,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1826,
+"end": 1834,
+"label": "LOCATION",
+"text": "Kilimani"
+}
+]

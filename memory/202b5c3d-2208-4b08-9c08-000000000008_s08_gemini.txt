@@ -1,0 +1,4 @@
+* የተጠቃሚው Profile ID [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION]) ሊደረግ የነበረውን የረቡዕ ከሰዓት 8:00 የቤተሰብ (family) የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግረዋል።
+* በ[LOCATION]) አካባቢ (በተለይም በ latitude 9.0054 እና longitude 38.7578 አድራሻ) ጉዳይ ወይም ፍላጎት አላቸው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይጋራ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣሉ።

@@ -1,0 +1,5 @@
+* ስም [PERSON]፣ profile_id [[ID_NUMBER]] የሆነ/ች፣ በ[LOCATION] የሚኖር/የምትኖር የ31 ዓመት ያላገባ/ች (Single)።
+* በሙያ Commercial Florist and Event Decorator ሲሆን/ስትሆን የትምህርት ደረጃው/ዋ Bachelor of Arts ነው።
+* ሙሉ ጤነኛ መሆኑን/መሆኗን ገልጿል/ፃለች።
+* የእውቂያ መረጃ፦ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ተመራጭ ቋንቋ አማርኛ።
+* በ[LOCATION] ሰኞ ጠዋት 3:00 ሰዓት ላይ የሚከናወን የሳምንቱ ዋና የሥራ ተግባር (task) ዕቅድ አለው/አላት።

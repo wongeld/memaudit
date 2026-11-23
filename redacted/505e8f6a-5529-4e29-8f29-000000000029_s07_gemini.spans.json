@@ -1,0 +1,188 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 41,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 106,
+"end": 112,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 114,
+"end": 127,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 129,
+"end": 138,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 345,
+"end": 361,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 379,
+"end": 389,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 669,
+"end": 679,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 735,
+"end": 747,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 755,
+"end": 785,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 795,
+"end": 808,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 976,
+"end": 986,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1054,
+"end": 1066,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 1078,
+"end": 1108,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 1122,
+"end": 1135,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1200,
+"end": 1216,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1234,
+"end": 1246,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2069,
+"end": 2075,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2077,
+"end": 2090,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2092,
+"end": 2101,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2259,
+"end": 2275,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2277,
+"end": 2289,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2462,
+"end": 2472,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2622,
+"end": 2638,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2657,
+"end": 2669,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2771,
+"end": 2781,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2820,
+"end": 2836,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2838,
+"end": 2850,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 3048,
+"end": 3058,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3208,
+"end": 3224,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 3243,
+"end": 3255,
+"label": "PHONE",
+"text": "+19832584476"
+}
+]

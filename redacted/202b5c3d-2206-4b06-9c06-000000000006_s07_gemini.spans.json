@@ -1,0 +1,206 @@
+[
+{
+"start": 9,
+"end": 22,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 40,
+"end": 50,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 55,
+"end": 82,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 273,
+"end": 283,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 476,
+"end": 486,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 492,
+"end": 505,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 511,
+"end": 524,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 531,
+"end": 558,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 564,
+"end": 572,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 702,
+"end": 712,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 792,
+"end": 805,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 821,
+"end": 848,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 866,
+"end": 874,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 995,
+"end": 1008,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1021,
+"end": 1034,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 1600,
+"end": 1610,
+"label": "ID_NUMBER",
+"text": "3921292703"
+},
+{
+"start": 1689,
+"end": 1716,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1741,
+"end": 1754,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1756,
+"end": 1769,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 1863,
+"end": 1876,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1935,
+"end": 1945,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2139,
+"end": 2166,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 2191,
+"end": 2204,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 2393,
+"end": 2403,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2431,
+"end": 2444,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 2446,
+"end": 2459,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 2609,
+"end": 2622,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 2681,
+"end": 2691,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2885,
+"end": 2912,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 2937,
+"end": 2950,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 2980,
+"end": 2993,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 3076,
+"end": 3089,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 3105,
+"end": 3132,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 3150,
+"end": 3158,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

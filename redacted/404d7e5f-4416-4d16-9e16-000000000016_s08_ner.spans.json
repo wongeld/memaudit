@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 165,
+"end": 180,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 186,
+"end": 190,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 192,
+"end": 205,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 515,
+"end": 532,
+"label": "DATE",
+"text": "saa 11:30 jioni\n*"
+},
+{
+"start": 547,
+"end": 551,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 553,
+"end": 578,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n\nTafadhali"
+},
+{
+"start": 655,
+"end": 670,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 1178,
+"end": 1199,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1259,
+"end": 1294,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1334,
+"end": 1355,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1524,
+"end": 1528,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1530,
+"end": 1535,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1537,
+"end": 1543,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1566,
+"end": 1601,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

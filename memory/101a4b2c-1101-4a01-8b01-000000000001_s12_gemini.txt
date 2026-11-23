@@ -1,0 +1,4 @@
+* Ana profile_id `[[ID_NUMBER]]` kwenye mfumo wake wa shughuli za kila siku (daily planning).
+* Amepanga na kuthibitisha miadi ya ukaguzi wa afya na ushauri wa lishe kwa ajili ya [PERSON] (nambari ya simu: [PHONE]) siku ya Ijumaa saa 9:00 alasiri huko [LOCATION], [LOCATION] ([LOCATION]).
+* Huwa anafanya ukaguzi wa kawaida wa afya na alitafuta kituo cha [ORGANIZATION].
+* Anajali faragha ya taarifa zake binafsi wakati wa utafutaji wa maeneo mtandaoni.

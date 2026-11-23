@@ -1,0 +1,42 @@
+User:
+I'm [PERSON] (rachel.kim+032@gmail.com), and since I'm managing mild seasonal allergic rhinitis, please use record_user_activity in the work theme to schedule an appointment for a mid-week stakeholder review in [LOCATION], [LOCATION] ([LOCATION]) on Wednesday at 02:00 PM.
+
+Assistant:
+Here are the details for your work appointment:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** work
+- **Activity Type:** appointment
+- **Title:** Mid-week stakeholder review
+- **Date/Time:** Wednesday at 02:00 PM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+
+Please confirm if these details are accurate so I can proceed with saving the appointment.
+
+User:
+No, cancel that Wednesday 02:00 PM work appointment for [PERSON]—the stakeholder review was moved to next month, so do not save it.
+
+Assistant:
+Understood. The Wednesday 02:00 PM work appointment for [PERSON] has been canceled and will not be saved.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] filtered to the work theme so I can review all my scheduled professional commitments.
+
+Assistant:
+There are no scheduled professional commitments found for your profile (`[PROFILE_ID]`) under the **work** theme.
+
+User:
+I have an off-site professional meeting coming up; please use search_places on the [ORGANIZATION] server to look up '[LOCATION]' without sending any personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I was unable to search for "[LOCATION] Children's [LOCATION] Longwood [LOCATION]" because the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Note: OpenStreetMap data and search results require attribution: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.*
+
+User:
+Could you use reverse_geocode to find the street address for coordinates latitude 42.3505 and longitude -71.0765 near my work area in [LOCATION], [LOCATION] ([LOCATION]), including OpenStreetMap attribution?
+
+Assistant:
+I was unable to reverse geocode the coordinates `42.3505, -71.0765` because access to the [ORGANIZATION] server is currently blocked (requiring project server approval).
+
+*Attribution: © [[ORGANIZATION]](https://www.openstreetmap.org/copyright) contributors.*

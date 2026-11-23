@@ -1,0 +1,63 @@
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 34, shahada ya Bachelor of Education, na ninafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] (Itabua); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+Samahani, bado hakuna wasifu uliohifadhiwa kwa `profile_id` [PROFILE_ID].
+
+Kama nilivyokueleza mara kadhaa, kuna tatizo la kiufundi na zana za kuhifadhi na kurejesha wasifu (`save_user_profile` na `get_user_profile`). Licha ya juhudi zako na maelekezo yako sahihi, mfumo umeshindwa kuhifadhi wasifu wako tangu mwanzo.
+
+Kwa sasa, siwezi kurejesha wasifu wako kupitia zana hii. Hata hivyo, ninaendelea kuzingatia maelezo yote uliyoyatoa kwa undani:
+*   **Jina:** [PERSON]   **Profile ID:** [PROFILE_ID]
+*   **Nambari ya Simu:** +254122951015
+*   **Barua Pepe:** [EMAIL]
+*   **Nchi:** [LOCATION]   **Lugha Unayopendelea:** Kiswahili
+*   **Umri:** Miaka 34
+*   **Elimu:** Bachelor of Education
+*   **Kazi:** Secondary School Kiswahili Teacher
+*   **Mahali:** [LOCATION], [LOCATION] (Itabua)
+*   **Hali ya Familia:** Married with two children
+*   **Hali ya Afya:** Mild seasonal allergic rhinitis
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo, ukizingatia kuwa shughuli na wasifu haviwezi kuhifadhiwa kwa sasa?
+
+User:
+Tafadhali hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu +254122951015, barua pepe [EMAIL], nchi [LOCATION], lugha Kiswahili; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Samahani sana, lakini kama nilivyokueleza mara kadhaa, kuna tatizo la kiufundi na zana ya `save_user_profile` na imekuwa ikigairi uhifadhi wa wasifu wako kila wakati.
+
+Siwezi kuhifadhi wasifu wako kwa kutumia zana hii kwa sasa. Nimeelewa maelezo yote uliyotoa (Juma [PERSON], simu +254122951015, barua pepe [EMAIL], nchi [LOCATION], lugha Kiswahili), na nitaendelea kuyatumia kwa mawasiliano yetu.
+
+Je, kuna jambo lingine ninaloweza kukusaidia nalo?
+
+User:
+Ndiyo, maelezo hayo ya [PERSON] na nambari ya simu +254122951015 ni sahihi kabisa, naomba uyahifadhi sasa.
+
+Assistant:
+Samahani sana, lakini kama nilivyokueleza mara nyingi sasa, kuna tatizo la kiufundi na zana ya `save_user_profile` na imekuwa ikigairi uhifadhi wa wasifu wako kila wakati.
+
+Siwezi kuhifadhi wasifu wako kwa kutumia zana hii kwa sasa. Nimeelewa maelezo yote uliyotoa, na nitaendelea kuyatumia kwa mawasiliano yetu.
+
+Je, kuna jambo lingine ninaloweza kukusaidia nalo?
+
+User:
+Kama Secondary School Kiswahili Teacher mwenye Bachelor of Education huko [LOCATION], [LOCATION] ([LOCATION]), naomba urekodi kazi (task) kwenye mada ya school kwa kutumia record_user_activity: kuandaa maazimio ya kufundisha na mwongozo wa tathmini [DATE] kwa [PERSON] (+254122951015).
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako. Nimeelewa maelezo yote uliyoyatoa, na nitaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Badilisha muda wa kazi hiyo ya school uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] (+254122951015) ili nithibitishe.
+
+Assistant:
+Samahani sana, lakini kama nilivyokueleza mara kadhaa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi au kurekebisha kazi yako ya shule. Nimeelewa kuwa ungependa muda uwe [DATE] kwa [PERSON] (profile_id [PROFILE_ID], simu +254122951015) ya "Kuandaa maazimio ya kufundisha na mwongozo wa tathmini".
+
+Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?

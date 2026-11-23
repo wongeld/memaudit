@@ -1,0 +1,44 @@
+[
+{
+"start": 81,
+"end": 91,
+"label": "ID_NUMBER",
+"text": "1998399537"
+},
+{
+"start": 554,
+"end": 564,
+"label": "ID_NUMBER",
+"text": "1998399537"
+},
+{
+"start": 1104,
+"end": 1140,
+"label": "LOCATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 1141,
+"end": 1154,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1469,
+"end": 1482,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1484,
+"end": 1492,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1494,
+"end": 1503,
+"label": "LOCATION",
+"text": "Mikocheni"
+}
+]

@@ -1,0 +1,7 @@
+- Name: James Bosse
+- Age: 46
+- Profession: Child Psychologist (holds a Doctor of Philosophy)
+- Family: Married with two children
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Preferred language: English
+- Work task: Prepares a 'Quarterly Child Psychologist Briefing' scheduled for Mondays at 09:30 AM

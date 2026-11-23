@@ -1,0 +1,7 @@
+* Jina lake ni [PERSON].
+* Ana familia: amefunga ndoa na ana watoto wawili.
+* Hali ya afya: Ana kisukari cha Aina ya 2 (Type 2 diabetes).
+* Profile ID yake ya shughuli za kazi ni [PROFILE_ID].
+* Alibadilisha miadi ya kikazi ya tarehe [DATE] huko [LOCATION] kuwa mkutano wa mtandaoni.
+* Ana mipango ya kikazi inayohusiana na '[ORGANIZATION]' na jengo la kikazi lenye majira-nukta latitude -1.2684 na longitude 36.8111 huko [LOCATION].
+* Anapendelea kutojumuisha taarifa zake binafsi anapotafuta maeneo na anasisitiza kuweka nukuu (attribution) ya OpenStreetMap.

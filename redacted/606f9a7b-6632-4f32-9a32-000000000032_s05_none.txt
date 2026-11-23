@@ -1,0 +1,44 @@
+User:
+I'm Rachel Kim (mock ID 2171961713), and I'd like to record a family task via record_user_activity to review our household budget and family calendar in Boston, United States (Back Bay) on Sunday at 05:00 PM.
+
+Assistant:
+Here are the details for your family task:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** family
+- **Activity Type:** task
+- **Title:** Review Household Budget and Family Calendar
+- **Date/Time:** Sunday at 05:00 PM
+- **Location:** Boston, United States (Back Bay)
+- **Contact Name:** Rachel Kim
+- **Mobile Phone:** `+16098633034`
+
+Please confirm if these details are accurate so I can proceed with saving the task.
+
+User:
+Actually, cancel that Sunday 05:00 PM family task—we'll handle the household budget next week, so do not save anything.
+
+Assistant:
+Understood. The Sunday 05:00 PM family task to review the household budget and family calendar has been canceled and will not be saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] in the family theme so I can see everything we have planned.
+
+Assistant:
+There are currently no saved activities for profile ID `[PROFILE_ID]` under the **family** theme.
+
+User:
+We're planning a family outing in Boston, United States (Back Bay); please use search_places to find 'Boston Public Garden' without sending any personal details, and include the OpenStreetMap attribution.
+
+Assistant:
+I was unable to search for "Boston Public Garden" because the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Attribution: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.*
+
+User:
+Please call reverse_geocode for coordinates latitude 42.3493 and longitude -71.0816 in Boston, United States (Back Bay) so I can verify the address for our family gathering, with OpenStreetMap attribution.
+
+Assistant:
+I was unable to reverse geocode the coordinates `42.3493, -71.0816` because access to the OpenStreetMap server is currently blocked (requiring project server approval).
+
+*Attribution: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.*

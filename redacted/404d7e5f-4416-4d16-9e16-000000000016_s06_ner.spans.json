@@ -1,0 +1,134 @@
+[
+{
+"start": 119,
+"end": 135,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 228,
+"end": 275,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 538,
+"end": 563,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n*"
+},
+{
+"start": 747,
+"end": 770,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 775,
+"end": 791,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1115,
+"end": 1140,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n*"
+},
+{
+"start": 1336,
+"end": 1352,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1449,
+"end": 1453,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1455,
+"end": 1460,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1813,
+"end": 1817,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1819,
+"end": 1835,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 2036,
+"end": 2052,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2260,
+"end": 2279,
+"label": "PERSON",
+"text": "Valentine Nayaku:\n*"
+},
+{
+"start": 2559,
+"end": 2563,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2565,
+"end": 2581,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 2792,
+"end": 2796,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2798,
+"end": 2811,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 2817,
+"end": 2833,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2850,
+"end": 2874,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 3182,
+"end": 3208,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 3223,
+"end": 3227,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3229,
+"end": 3245,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+}
+]

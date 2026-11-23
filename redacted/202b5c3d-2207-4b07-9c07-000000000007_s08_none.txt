@@ -1,0 +1,43 @@
+User:
+በ family ሥር ለ Andualem Abate (+251906564148፣ ኢሜይል andualem.abate+007@outlook.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Yeka) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የምክክር ቀጠሮ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** family
+*   **Activity Type:** appointment
+*   **Title:** የምክክር ቀጠሮ
+*   **Date/Time:** ረቡዕ ከሰዓት 8:00
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+*   **Email:** andualem.abate+007@outlook.com (ይህ ኢሜይል ከመገለጫው የተወሰደ ነው፤ ለዚህ ቀጠሮ በተናጠል አይቀመጥም)
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕን የምክክር ቀጠሮ አልመዘግብም። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ `profile_id` [PROFILE_ID] በ 'family' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+ከዚህ ቀደም የመገለጫ ማስቀመጫ እና የእንቅስቃሴ መዝገብ ጥያቄዎች ያልተሳኩ በመሆናቸው፣ በዚህ ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም። መጀመሪያ መገለጫህን በትክክል ማስቀመጥ ሊያስፈልግ ይችላል።
+
+User:
+በAddis Ababa, Ethiopia (Yeka) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Unity Park Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `openstreetmap` የፍለጋ መሳሪያው በአሁኑ ጊዜ እየሰራ አይደለም። ከዚህ ቀደም የቦታ ፍለጋ እና የአድራሻ ፍለጋ ሙከራዎች ስህተት አሳይተዋል። በአሁኑ ጊዜ ቦታዎችን መፈለግ አልችልም።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Yeka) የሚገኘውን የ latitude 9.0355 እና longitude 38.8021 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `openstreetmap` የ `reverse_geocode` መሳሪያው በአሁኑ ጊዜ እየሰራ አይደለም። አድራሻውን ማግኘት አልቻልኩም።

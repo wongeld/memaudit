@@ -1,0 +1,6 @@
+- The user manages type 2 diabetes and requires a break every Friday at 04:00 PM.
+- The user works as an [ORGANIZATION] Counselor.
+- The user is based in [LOCATION], [LOCATION] ([LOCATION]).
+- The user frequently coordinates work tasks, including meetings and supply orders, through [PERSON] (+19832584476).
+- The user requires ergonomic office supplies and reference materials for their role.
+- The user prefers to review and confirm all activity details before they are saved.

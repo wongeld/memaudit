@@ -1,0 +1,6 @@
+* ስም፡ [PERSON]፣ የመገለጫ መታወቂያ (profile_id)፡ [PROFILE_ID]፣ መታወቂያ ቁጥር፡ 3921292703።
+* መኖሪያ ቦታ፡ [LOCATION], [LOCATION] (Bole) ሲሆን ሀገሩ [LOCATION] ነው።
+* ሙያ እና ትምህርት፡ Commercial Florist and Event Decorator፣ የትምህርት ደረጃው Bachelor of Arts፣ የጋብቻ ሁኔታው Single (ያላገባ)።
+* የእውቂያ መረጃ እና ቋንቋ፡ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፤ የሚመርጠው ቋንቋ አማርኛ ነው።
+* የጤና ሁኔታ፡ ሙሉ ጤነኛ።
+* እቅድ/ተግባር፡ በ shopping ሥር በ[LOCATION], [LOCATION] (Bole) ለ[DATE] በ[DATE] ሰዓት የታቀደ የሳምንቱ ዋና ተግባር አለው።

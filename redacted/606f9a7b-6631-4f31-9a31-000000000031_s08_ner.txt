@@ -1,0 +1,67 @@
+User:
+Since I'm in good health with no chronic conditions and working as a [ORGANIZATION] Shareholder Governance Analyst in [LOCATION], [LOCATION] (Ironbound), please use record_user_activity under the daily_planning theme to set a morning reminder at 07:00 AM for my daily health routine and schedule review under [PERSON] (+15775666484).
+
+Assistant:
+Please review and confirm the following details before I save this reminder using `record_user_activity`:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Theme:** `daily_planning`
+* **Activity Type:** `reminder`
+* **Title:** `Daily health routine and schedule review`
+* **Date/Time:** `07:00 AM`
+* **Location:** `[LOCATION], [LOCATION] ([LOCATION])`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `+15775666484`
+* **Notes:** `In good health with no chronic conditions; [ORGANIZATION] Shareholder Governance Analyst`
+
+Please confirm if these details are accurate, and I will proceed with recording the reminder.
+
+User:
+Please change that daily_planning reminder time to 06:45 AM for profile_id [PROFILE_ID], and repeat all submitted fields for [PERSON] (+15775666484) so I can confirm.
+
+Assistant:
+Here is the complete updated record for your reminder with the revised time. Please review and confirm before I save it:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Theme:** `daily_planning`
+* **Activity Type:** `reminder`
+* **Title:** `Daily health routine and schedule review`
+* **Date/Time:** `06:45 AM`
+* **Location:** `[LOCATION], United [LOCATION] (Ironbound)`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `+15775666484`
+* **Notes:** `In good health with no chronic conditions; [ORGANIZATION] Shareholder Governance Analyst`
+
+Please confirm if these updated details are accurate, and I will proceed with recording the reminder.
+
+User:
+I'm [PERSON] (mock ID 2434489293, email suzanne.francois+031@gmail.com), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] (Ironbound) at 06:30 PM.
+
+Assistant:
+Please review and confirm the following details before I save this daily planning task using `record_user_activity`:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Theme:** `daily_planning`
+* **Activity Type:** `task`
+* **Title:** `Evening meal prep and next-day prioritization`
+* **Date/Time:** `06:30 PM`
+* **Location:** `[LOCATION], [LOCATION] (Ironbound)`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `+15775666484`
+* **Notes:** `Mock ID 2434489293, email: suzanne.francois+031@gmail.com`
+
+Please confirm if these details are accurate so I can proceed with recording the task.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], United [LOCATION] (Ironbound), so do not save it.
+
+Assistant:
+Understood. I have canceled the 06:30 PM daily planning task for evening meal prep and prioritization, and it will not be saved. Let me know if you need any adjustments or another routine scheduled!
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+I ran `list_user_activities` for profile ID `[PROFILE_ID]` under the `daily_planning` theme. There are currently no saved activities (`"activities": []`).
+
+Let me know if you would like to log or schedule any new daily planning tasks or reminders!

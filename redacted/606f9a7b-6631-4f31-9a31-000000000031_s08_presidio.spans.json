@@ -1,0 +1,176 @@
+[
+{
+"start": 75,
+"end": 78,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 113,
+"end": 119,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 121,
+"end": 134,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 303,
+"end": 319,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 321,
+"end": 333,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 651,
+"end": 657,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 659,
+"end": 672,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 674,
+"end": 683,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 707,
+"end": 723,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 746,
+"end": 758,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 817,
+"end": 820,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1080,
+"end": 1096,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1098,
+"end": 1110,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1460,
+"end": 1466,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1475,
+"end": 1481,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 1516,
+"end": 1532,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1555,
+"end": 1567,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1626,
+"end": 1629,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 1776,
+"end": 1792,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1820,
+"end": 1850,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 1987,
+"end": 1993,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1995,
+"end": 2008,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2361,
+"end": 2367,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2369,
+"end": 2382,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2417,
+"end": 2433,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2456,
+"end": 2468,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2511,
+"end": 2541,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 2719,
+"end": 2725,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2734,
+"end": 2740,
+"label": "LOCATION",
+"text": "States"
+}
+]

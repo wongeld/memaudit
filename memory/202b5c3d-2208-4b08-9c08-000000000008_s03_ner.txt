@@ -1,0 +1,4 @@
+* የጤና ሁኔታው/ዋ 'Type 2 diabetes' ነው።
+* የሥራ መደቡ/ድርሻው 'Horticultural Export Training Coordinator' ነው።
+* የቤተሰብ ሁኔታው/ዋ 'Married with three children' (ባለትዳር እና የሦስት ልጆች ወላጅ) ነው።
+* ከ [PERSON] (profile_id: [PROFILE_ID]፣ ስልክ ቁጥር: +251954834664) ጋር በሥራ (work) ዙሪያ የክትትል ማስታወሻዎችን፣ ግዢዎችን እና ቦታ ማስያዝን (booking) ያከናውናል።

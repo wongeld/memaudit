@@ -1,0 +1,5 @@
+* Works as a Hospital Physician.
+* Frequently travels for work, specifically in [LOCATION], [LOCATION] (Ballard).
+* Needs to reconcile travel expense receipts, mileage logs, and boarding passes.
+* Currently planning travel logistics and requires a carry-on organizer and a portable charger.
+* Collaborates with [PERSON] (phone: [PHONE], profile_id: [PROFILE_ID]) on travel-related tasks and appointments.

@@ -1,0 +1,55 @@
+User:
+የጤና ሁኔታዬ 'Mild asthma' ስለሆነ እና የHospital Physician ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ [PHONE]) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ school ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ [PERSON] የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE]፣ የክትትል ማስታወሻው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "[DATE] school ሥር ለ [PERSON] ([PHONE]) [LOCATION], [LOCATION] (Ayder) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION] መረጃ ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Hospital Physician እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION]   **notes**: Hospital Physician እና Single አገልግሎት የሚውል
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+በ school ሥር [DATE] [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ የቦታ ማስያዣው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **location**: [LOCATION], [LOCATION] (Ayder)
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]

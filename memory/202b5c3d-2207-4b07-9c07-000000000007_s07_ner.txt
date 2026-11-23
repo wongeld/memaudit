@@ -1,0 +1,6 @@
+* ስም፡ [PERSON] (Profile ID: [PROFILE_ID]፣ የመታወቂያ ቁጥር: 3923122090)
+* መኖሪያ ቦታ፡ [LOCATION], [LOCATION] (Yeka)
+* ሙያ እና ትምህርት፡ የዩኒቨርሲቲ መምህር (University Lecturer / Doctor of Philosophy)
+* የቤተሰብ ሁኔታ፡ ያገባ እና የሁለት ልጆች አባት (Married with two children)
+* የጤና ሁኔታ፡ መጠነኛ የደም ግፊት (Mild hypertension) አለበት
+* የመገናኛ መረጃ እና ምርጫ፡ ስልክ +251906564148፣ ኢሜይል andualem.abate+007@outlook.com፣ ሀገር [LOCATION]፣ ተመራጭ ቋንቋ አማርኛ

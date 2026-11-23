@@ -1,0 +1,78 @@
+User:
+Naomba urekodi booking kwenye mada ya work kwa Halima Kikwete (+255890185741) ya chumba cha mikutano ya kikazi huko Dodoma, Tanzania (Area C) Ijumaa saa 3:30 asubuhi; nionyeshe uthibitisho.
+
+Assistant:
+Niko tayari kurekodi booking hiyo kwenye mada ya **work**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `booking`
+* **Kichwa (Title):** Chumba cha mikutano ya kikazi
+* **Muda (Date/Time):** Ijumaa saa 3:30 asubuhi
+* **Eneo (Location):** Dodoma, Tanzania (Area C)
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+
+Je, unathibitisha maelezo haya ili nihifadhi booking hii?
+
+User:
+Samahani, badilisha muda wa booking hiyo ya chumba cha mikutano uwe Ijumaa saa 5:00 asubuhi kwa Halima Kikwete (+255890185741) na urudie maelezo yote ili nithibitishe.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+### 1. Marekebisho ya Muda wa Booking (Mada ya `work`)
+Nimebadilisha muda wa booking ya chumba cha mikutano kuwa **Ijumaa saa 5:00 asubuhi**. Tafadhali hakiki na uthibitishe maelezo yote yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `booking`
+* **Kichwa (Title):** Chumba cha mikutano ya kikazi
+* **Muda (Date/Time):** Ijumaa saa 5:00 asubuhi
+* **Eneo (Location):** Dodoma, Tanzania (Area C)
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+
+Je, unathibitisha maelezo haya ili nihifadhi booking hii?
+
+---
+
+### 2. Utambuzi wa Anwani kwa `reverse_geocode`
+Nimejaribu kutumia zana ya `reverse_geocode` kwa majira-nukta `latitude: -6.1731` na `longitude: 35.7485` (Dodoma, Tanzania - Area C), lakini kwa sasa seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva hiyo itakapoidhinishwa, matokeo ya anwani yataonyeshwa pamoja na nukuu rasmi ya OpenStreetMap: **© OpenStreetMap contributors**.
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya work kwa Halima Kikwete (profile_id [PROFILE_ID], simu +255890185741) cha kupitia barua pepe (halima.kikwete+020@gmail.com) na kuzingatia hali ya Type 2 diabetes wakati wa kazi Alhamisi saa 8:00 mchana.
+
+Assistant:
+Niko tayari kurekodi kikumbusho (reminder) hicho kwenye mada ya **work**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kupitia barua pepe (halima.kikwete+020@gmail.com)
+* **Muda (Date/Time):** Alhamisi saa 8:00 mchana
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+* **Maelezo ya Ziada (Notes):** Kuzingatia hali ya Type 2 diabetes wakati wa kazi
+
+Je, unathibitisha maelezo haya yote ili nihifadhi kikumbusho hiki?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha Alhamisi saa 8:00 mchana kwa Halima Kikwete (+255890185741), tafadhali kihifadhi.
+
+Assistant:
+Nimetuma ombi la kuhifadhi kikumbusho hicho kupitia `record_user_activity`, lakini mfumo umerejesha ujumbe kuwa uhifadhi umesitishwa (`Canceled. No activity was saved.`). Hapa kuna muhtasari wa taarifa zilizowasilishwa:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kupitia barua pepe (halima.kikwete+020@gmail.com)
+* **Muda (Date/Time):** Alhamisi saa 8:00 mchana
+* **Jina la Mhusika:** Halima Kikwete
+* **Simu:** `+255890185741`
+* **Maelezo (Notes):** Kuzingatia hali ya Type 2 diabetes wakati wa kazi
+
+Tafadhali nijulishe jinsi unavyopenda tuendelee.

@@ -1,0 +1,5 @@
+- The user is an Eco-Tourism Travel Consultant working with [ORGANIZATION] in [LOCATION], [LOCATION].
+- The user is currently planning travel and requires assistance with logistics, itinerary reviews, and expense reconciliation.
+- The user needs to purchase travel-related items, specifically a carry-on organizer and a portable charger.
+- The user is experiencing persistent technical issues with the `record_user_activity` tool, which consistently returns a "Canceled" error.
+- The user prefers to be asked for confirmation before any tasks or shopping items are saved.

@@ -1,0 +1,206 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 55,
+"end": 67,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 69,
+"end": 77,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 90,
+"end": 97,
+"label": "DATE",
+"text": "የ46 ዓመት"
+},
+{
+"start": 432,
+"end": 442,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 460,
+"end": 467,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 565,
+"end": 575,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 705,
+"end": 719,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 781,
+"end": 789,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 952,
+"end": 962,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 980,
+"end": 987,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 1037,
+"end": 1069,
+"label": "PERSON",
+"text": "andualem.abate+007@outlook.com\n*"
+},
+{
+"start": 1085,
+"end": 1095,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1140,
+"end": 1154,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1631,
+"end": 1646,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1647,
+"end": 1659,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1661,
+"end": 1669,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1677,
+"end": 1682,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1700,
+"end": 1714,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1772,
+"end": 1786,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1948,
+"end": 1962,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2024,
+"end": 2032,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2145,
+"end": 2160,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2168,
+"end": 2182,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2358,
+"end": 2372,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2525,
+"end": 2535,
+"label": "PERSON",
+"text": "Andualem\n*"
+},
+{
+"start": 2553,
+"end": 2560,
+"label": "PERSON",
+"text": "Abate\n*"
+},
+{
+"start": 2610,
+"end": 2642,
+"label": "PERSON",
+"text": "andualem.abate+007@outlook.com\n*"
+},
+{
+"start": 2658,
+"end": 2668,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 2928,
+"end": 2933,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2961,
+"end": 2976,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 3014,
+"end": 3025,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 3027,
+"end": 3035,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 3065,
+"end": 3081,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+}
+]

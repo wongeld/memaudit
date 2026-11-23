@@ -1,0 +1,5 @@
+* Mtumiaji ana umri wa miaka 38 na ana Diploma katika Usimamizi wa Utalii (Tourism Management).
+* Anafanya kazi kama Tour Operations Manager huko [LOCATION], [LOCATION] (Njiro).
+* Ana kitambulisho cha wasifu [PROFILE_ID].
+* Anapanga safari za kikazi na usafiri, ikiwemo uhifadhi uliopangwa kuanzia [DATE].
+* Maelezo ya mawasiliano yaliyothibitishwa ni [PERSON], [PHONE], na [EMAIL].

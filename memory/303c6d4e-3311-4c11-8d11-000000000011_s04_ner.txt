@@ -1,0 +1,7 @@
+* ስም [PERSON]፣ የመገለጫ መታወቂያ (profile_id) [PROFILE_ID] እና መታወቂያ ቁጥር 3922715388 አላቸው።
+* የሚኖሩት በ[LOCATION], [LOCATION] (Bole) ሲሆን፣ ሀገራቸው [LOCATION] ነው።
+* ሙያቸው Commercial Florist and Event Decorator ሲሆን፣ በBusiness Management ዲፕሎማ አላቸው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ናቸው።
+* የጤና ሁኔታቸው 'Mild seasonal allergic rhinitis' (ቀላል የወቅታዊ አለርጂ) አለበት።
+* የስልክ ቁጥራቸው +251962051344 ሲሆን፣ የኢሜይል አድራሻቸው hirut.anagaw+011@gmail.com ነው።
+* የመገናኛ እና የመገለጫ ተመራጭ ቋንቋቸው አማርኛ ነው።

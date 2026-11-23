@@ -1,0 +1,63 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [PROFILE_ID])፤ [LOCATION], [LOCATION]) የምኖር [DATE] Broadcast Lifestyle Journalist (Bachelor of Arts፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+የተቀመጠ መገለጫ አላገኘሁም። ይሄንን መገለጫ ላስቀምጥልህ?
+
+ስም: [PERSON]: [PROFILE_ID]
+ሀገር: [LOCATION] ስልክ ቁጥር: [እባክዎ ያቅርቡ]
+ተመራጭ ቋንቋ: Amharic
+
+እባክህ የሞባይል ስልክ ቁጥርህን አረጋግጥልኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: [PHONE]
+*   **country**: [LOCATION]   **email**: [PERSON]   **preferred_language**: Amharic
+
+ይህ ትክክል ከሆነ፣ መገለጫህን አስቀምጣለሁ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ስህተት ተፈጥሮ ነበር እና ፕሮፋይሉ ሊቀመጥ አልቻለም። እንደገና ልሞክር?
+
+User:
+እንደ Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857) እና የጤና ሁኔታዬ 'Hypothyroidism' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን ተግባር አስቀምጣለሁ።
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+የተግባርን ሰዓት በቀጥታ ማስተካከል አልችልም ምክንያቱም `record_user_activity` አዲስ ተግባራትን ብቻ ነው የሚያስቀምጠው።
+
+ሆኖም፣ አዲስ ተግባር በተስተካከለው ሰዓት ማስቀመጥ እችላለሁ። የቀደመውን ተግባር መዝገብ አስቀምጠው አልነበርኩም፣ ስለዚህ አሁን ካስቀመጥኩት [DATE] ይሆናል።
+
+የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: [DATE]   **location**: [LOCATION], [LOCATION] ([LOCATION]   **mobile_phone**: [PHONE]
+*   **notes**: Broadcast Lifestyle Journalist (Bachelor of Arts፣ መታወቂያ 3923394857), የጤና ሁኔታ: Hypothyroidism
+
+ይህ ትክክል ከሆነ፣ ይህንን አዲስ ተግባር አስቀምጣለሁ።

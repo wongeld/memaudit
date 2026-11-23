@@ -1,0 +1,5 @@
+- Mtumiaji anajali sana afya ya familia yake, hasa kudhibiti hali ya "Mild hypertension" kupitia lishe bora.
+- Ana uhusiano wa karibu na [PERSON] (simu +254760298744, profile_id [PROFILE_ID]), ambaye anahusika naye katika mipango ya kifamilia.
+- Anapenda kufanya manunuzi ya mahitaji ya nyumbani na zawadi katika eneo la [LOCATION].
+- Anazingatia ununuzi wa vyakula vya afya na matunda kwa ajili ya familia.
+- Anapanga shughuli za kijamii za kifamilia, kama vile chakula cha mchana, katika eneo la [LOCATION].

@@ -1,0 +1,6 @@
+* Mtumiaji anajihusisha na shughuli za kuboresha afya na lishe.
+* Ana miadi ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri katika [LOCATION].
+* Ana mpango wa kununua shajara ya ratiba ya kila siku na mahitaji ya afya katika [LOCATION].
+* Ana booking ya mazoezi ya afya Jumamosi saa 2:00 asubuhi katika [LOCATION].
+* Anatumia mfumo wa `daily_planning` kuratibu shughuli zake zote.
+* Anafanya kazi na [PERSON] (namba ya simu [PHONE], profile_id [[ID_NUMBER]]).

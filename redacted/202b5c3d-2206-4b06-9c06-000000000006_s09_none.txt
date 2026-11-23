@@ -1,0 +1,69 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ Dereje Diriba (profile_id [PROFILE_ID]፣ ስልክ +251996949340) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the details for the follow-up reminder you'd like to record for Dereje Diriba under the "daily\_planning" theme:
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: daily\_planning
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ (Follow-up reminder)
+*   **date\_time**: አርብ ከሰዓት 10:00 (Friday 10:00 PM)
+*   **mobile\_phone**: +251996949340
+
+To save this reminder, I need a specific date for "አርብ ከሰዓት 10:00". Could you please provide the exact date (e.g., "November 15, 2024, at 10:00 PM")?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Dereje Diriba (+251996949340) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+I understand you're confirming the reminder. However, I still need a specific date for "አርብ ከሰዓት 10:00" (Friday 10:00 PM) to be able to save it. For example, "November 15, 2024, at 10:00 PM".
+
+Could you please provide the exact date for this reminder?
+
+User:
+በ daily_planning ሥር ለ Dereje Diriba (+251996949340) በAddis Ababa, Ethiopia (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+Here are the details for the shopping item you'd like to record for Dereje Diriba:
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: daily\_planning
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile\_phone**: +251996949340
+
+Please confirm if these details are correct.
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል' ብለህ ለ Dereje Diriba (+251996949340) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the updated details for the shopping item you'd like to record for Dereje Diriba:
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: daily\_planning
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile\_phone**: +251996949340
+*   **notes**: Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል (For use by Commercial Florist and Event Decorator and for Single service)
+
+Please confirm if these details are correct so I can record them.
+
+User:
+በ daily_planning ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Bole) የአገልግሎት/የቦታ booking ለ Dereje Diriba (+251996949340) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+Here are the details for the service/location booking you'd like to record for Dereje Diriba:
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: daily\_planning
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking (Service/Location booking)
+*   **date\_time**: ቅዳሜ ጠዋት 4:00 ሰዓት (Saturday 4:00 AM)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile\_phone**: +251996949340
+
+Before I can save this booking, I need a specific date for "ቅዳሜ ጠዋት 4:00 ሰዓት". Could you please provide the exact date (e.g., "November 16, 2024, at 4:00 AM")?

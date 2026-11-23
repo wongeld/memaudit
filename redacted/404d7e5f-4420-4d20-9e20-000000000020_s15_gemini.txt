@@ -1,0 +1,73 @@
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] ([PHONE]) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Niko tayari kurekodi `shopping_item` hiyo kwenye mada ya **family**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `family`
+* **Aina ya Shughuli (Activity Type):** `shopping_item`
+* **Kichwa (Title):** Kununua mahitaji ya nyumbani na zawadi za familia
+* **Eneo (Location):** [LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi `shopping_item` hii?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] ([PHONE]) kwenye profile_id [PROFILE_ID], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeongeza `'vyakula vya afya vya familia na matunda'` kwenye maelezo (notes) ya `shopping_item` hiyo ya familia. Tafadhali hakiki na uthibitishe maelezo yote yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `family`
+* **Aina ya Shughuli (Activity Type):** `shopping_item`
+* **Kichwa (Title):** Kununua mahitaji ya nyumbani na zawadi za familia
+* **Eneo (Location):** [LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+* **Maelezo ya Ziada (Notes):** Vyakula vya afya vya familia na matunda
+
+Je, unathibitisha maelezo haya yote ili nihifadhi `shopping_item` hii?
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION]) kwa [PERSON] ([PHONE]) Jumapili saa 7:30 mchana na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Niko tayari kurekodi booking hiyo kwenye mada ya **family**. Hapa kuna muhtasari wa maelezo yote ili uthibitishe kabla ya kuhifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `family`
+* **Aina ya Shughuli (Activity Type):** `booking`
+* **Kichwa (Title):** Chakula cha mchana cha familia
+* **Muda (Date/Time):** Jumapili saa 7:30 mchana
+* **Eneo (Location):** [LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi booking hii?
+
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 46 na Family Mediation Counselor huko [LOCATION]); tafadhali angalia wasifu wangu kwa get_user_profile kabla hatujapanga ratiba yangu ya kila siku.
+
+Assistant:
+Nimeangalia wasifu wako kwenye mfumo kwa kutumia `get_user_profile`, na kwa sasa hakuna wasifu uliohifadhiwa kwa `profile_id` `[PROFILE_ID]`.
+
+Tafadhali nijulishe kama ungependa tuuhifadhi wasifu wako kabla ya kupanga ratiba yako ya kila siku.
+
+User:
+Hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi Tanzania, lugha Kiswahili; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Niko tayari kuhifadhi wasifu wako kwa kutumia `save_user_profile`. Tafadhali hakiki na uthibitishe maelezo yote yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Jina la Kwanza (First Name):** [PERSON]
+* **Jina la Mwisho (Last Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+* **Barua Pepe (Email):** `[EMAIL]`
+* **Nchi (Country):** Tanzania
+* **Lugha Unayopendelea (Preferred Language):** Kiswahili
+
+Je, unathibitisha maelezo haya yote ili niyahifadhi kwenye mfumo?

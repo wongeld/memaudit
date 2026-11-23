@@ -1,0 +1,146 @@
+[
+{
+"start": 83,
+"end": 97,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 500,
+"end": 514,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 809,
+"end": 823,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1274,
+"end": 1281,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1283,
+"end": 1296,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1298,
+"end": 1310,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1316,
+"end": 1330,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1618,
+"end": 1625,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1627,
+"end": 1640,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1642,
+"end": 1654,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1678,
+"end": 1683,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 1975,
+"end": 1989,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2599,
+"end": 2606,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2608,
+"end": 2621,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2623,
+"end": 2635,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2659,
+"end": 2673,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3031,
+"end": 3038,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3040,
+"end": 3053,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3055,
+"end": 3067,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3097,
+"end": 3111,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3430,
+"end": 3437,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3439,
+"end": 3452,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3454,
+"end": 3466,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3490,
+"end": 3495,
+"label": "PERSON",
+"text": "David"
+}
+]

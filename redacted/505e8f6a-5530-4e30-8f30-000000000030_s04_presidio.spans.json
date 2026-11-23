@@ -1,0 +1,188 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 106,
+"end": 112,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 114,
+"end": 127,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 129,
+"end": 138,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 292,
+"end": 298,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 714,
+"end": 720,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 732,
+"end": 738,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 773,
+"end": 802,
+"label": "EMAIL",
+"text": "julian.brooks+030@outlook.com"
+},
+{
+"start": 812,
+"end": 825,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1008,
+"end": 1014,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 1034,
+"end": 1040,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 1091,
+"end": 1120,
+"label": "EMAIL",
+"text": "julian.brooks+030@outlook.com"
+},
+{
+"start": 1138,
+"end": 1151,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1592,
+"end": 1598,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 1599,
+"end": 1605,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 1900,
+"end": 1913,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1929,
+"end": 1958,
+"label": "EMAIL",
+"text": "julian.brooks+030@outlook.com"
+},
+{
+"start": 1960,
+"end": 1973,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2189,
+"end": 2195,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2197,
+"end": 2210,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2212,
+"end": 2221,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2372,
+"end": 2385,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2745,
+"end": 2751,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2753,
+"end": 2766,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2768,
+"end": 2777,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2801,
+"end": 2814,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3455,
+"end": 3461,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 3859,
+"end": 3865,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3867,
+"end": 3880,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3882,
+"end": 3891,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3915,
+"end": 3928,
+"label": "PERSON",
+"text": "Julian Brooks"
+}
+]

@@ -1,0 +1,5 @@
+- User's name is [PERSON].
+- User's email address is james.bosse+021@gmail.com and mobile number is +17427416378.
+- User performs evening meal prep and next-day prioritization as part of their daily routine.
+- User has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- User commutes through [LOCATION], [LOCATION] ([LOCATION]) and is interested in landmarks and street addresses along this route.

@@ -1,0 +1,4 @@
+- Anashughulikia shughuli na vikumbusho vya kifamilia kwa ajili ya [PERSON] (profile_id [PROFILE_ID], simu +254122951015).
+- Ana utaratibu wa kuandaa chakula bora cha familia kinachoendana na hali ya Mild seasonal allergic rhinitis kila jioni saa [DATE].
+- Hupanga kununua mahitaji ya nyumbani, zawadi za familia, pamoja na vyakula vya afya na matunda huko [LOCATION], [LOCATION] (Itabua).
+- Ana mpango wa kuhifadhi nafasi (booking) ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) mnamo [DATE].

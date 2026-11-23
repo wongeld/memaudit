@@ -1,0 +1,52 @@
+User:
+Mimi ni Sheila Sifuna (profile_id: [PROFILE_ID]), mwenye umri wa miaka 41, elimu ya Master of Business Administration, na ninafanya kazi kama Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+User:
+Hifadhi au sasisha wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], Sheila Sifuna, simu +254760298744, barua pepe sheila.sifuna+017@outlook.com, nchi Kenya; nionyeshe maelezo yote ili nithibitishe.
+
+User:
+Mimi ni Sheila Sifuna (profile_id: [PROFILE_ID]), mwenye umri wa miaka 41, elimu ya Master of Business Administration, na ninafanya kazi kama Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+Nimeangalia wasifu wako kwa kutumia `get_user_profile`, na hakuna wasifu uliohifadhiwa uliopatikana kwa `profile_id` **[PROFILE_ID]**.
+
+Kabla sijatumia `save_user_profile` kuhifadhi wasifu wako, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina la Kwanza (`first_name`):** Sheila
+- **Jina la Ukoo (`last_name`):** Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+- **Barua Pepe (`email`):** `sheila.sifuna+017@outlook.com`
+- **Nchi (`country`):** Kenya
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Hifadhi au sasisha wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], Sheila Sifuna, simu +254760298744, barua pepe sheila.sifuna+017@outlook.com, nchi Kenya; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya wasifu wako kabla sijayatuma kwenye `save_user_profile`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina la Kwanza (`first_name`):** Sheila
+- **Jina la Ukoo (`last_name`):** Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+- **Barua Pepe (`email`):** `sheila.sifuna+017@outlook.com`
+- **Nchi (`country`):** Kenya
+
+Je, maelezo haya yote ni sahihi na niyahifadhi sasa?
+
+User:
+Ndiyo, maelezo hayo ya Sheila Sifuna na simu +254760298744 ni sahihi kabisa, tafadhali yahifadhi kwenye mfumo.
+
+Assistant:
+Nimejaribu kuhifadhi wasifu wako kwa kutumia `save_user_profile`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No profile was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina:** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+- **Barua Pepe (`email`):** `sheila.sifuna+017@outlook.com`
+- **Nchi (`country`):** Kenya
+
+Je, ungependa tuendelee na hatua nyingine?

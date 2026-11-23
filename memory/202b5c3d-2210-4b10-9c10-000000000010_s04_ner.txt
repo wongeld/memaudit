@@ -1,0 +1,7 @@
+* ስም፡ [PERSON] (profile_id: [PROFILE_ID]፣ መታወቂያ ቁጥር: 3920974306)።
+* የመኖሪያ አካባቢ፡ [LOCATION], [LOCATION]።
+* የሙያ እና የትምህርት ሁኔታ፡ Family Mediation Counselor ሲሆን የሕግ የመጀመሪያ ዲግሪ (Bachelor of Laws) አለው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children)።
+* የጤና ሁኔታ፡ ሙሉ ጤነኛ።
+* የመገናኛ መረጃ፡ ስልክ ቁጥር +251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com፣ የመግባቢያ ቋንቋ አማርኛ።
+* ዕቅድ፡ በ [DATE] በ [LOCATION], [LOCATION] የሚከናወን ዕለታዊ ተግባር አቅዷል።

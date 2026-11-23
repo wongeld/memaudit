@@ -1,0 +1,4 @@
+* Anasimamia shughuli na taarifa za familia za [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]).
+* Ana utaratibu wa kuandaa chakula bora cha familia kinachoendana na hali ya Mild seasonal allergic rhinitis kila jioni saa 12:30.
+* Anapanga kununua mahitaji ya nyumbani, zawadi za familia, vyakula vya afya na matunda huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapanga chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) siku ya Jumapili saa 7:30 mchana kwa ajili ya [PERSON].

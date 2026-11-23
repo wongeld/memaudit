@@ -1,0 +1,45 @@
+User:
+Please record a work reminder via record_user_activity for [PERSON] (profile_id [PROFILE_ID], mobile_phone [PHONE]) to submit my weekly departmental metrics and take a brief break while in good health with no chronic conditions every Friday at 04:00 PM.
+
+Assistant:
+Please review and confirm the following details before I save this reminder using `record_user_activity`:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Theme:** `work`
+* **Activity Type:** `reminder`
+* **Title:** `Submit weekly departmental metrics and take a brief break`
+* **Date/Time:** `Every Friday at 04:00 PM`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `[PHONE]`
+* **Notes:** `Take a brief break while in good health with no chronic conditions`
+
+Please confirm if these details are accurate so I can proceed with saving the reminder.
+
+User:
+Yes, I confirm those exact reminder details for [PERSON] ([PHONE]); please save the work reminder now.
+
+Assistant:
+I called `record_user_activity` with your confirmed reminder details for [PERSON] (`[PROFILE_ID]`), mobile phone `[PHONE]`, under the `work` theme for `Every Friday at 04:00 PM`. (Note: the tool's internal interactive prompt returned `Canceled. No activity was saved.` because this session is running in non-interactive mode.)
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in [LOCATION], [LOCATION] (Ironbound) on Thursday at 11:00 AM under [PERSON] Francois ([PHONE]), and show me the confirmation summary.
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in [LOCATION], [LOCATION] ([ORGANIZATION]) on Thursday at 11:00 AM under [PERSON] ([PHONE]), and show me the confirmation summary.
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in [LOCATION], [LOCATION] ([ORGANIZATION]) on Thursday at 11:00 AM under [PERSON] ([PHONE]), and show me the confirmation summary.
+
+Assistant:
+Here is the confirmation summary for the conference room booking before saving:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Theme:** `work`
+* **Activity Type:** `booking`
+* **Title:** `Conference [ORGANIZATION] Booking`
+* **Date/Time:** `Thursday at 11:00 AM`
+* **Location:** `[LOCATION], [LOCATION] ([ORGANIZATION])`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `[PHONE]`
+
+Please confirm if these details are correct, and I will proceed with recording the booking.

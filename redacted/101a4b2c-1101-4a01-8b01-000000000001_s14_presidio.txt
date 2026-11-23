@@ -1,0 +1,39 @@
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], bado nina matatizo na zana ya `search_places` kwenye [ORGANIZATION]. Haiwezi kupata '[ORGANIZATION]' kwa sasa, na hoja ya `attribution` haitumiki na zana hii. Inaonekana kuna tatizo la jumla na huduma za [ORGANIZATION], hivyo siwezi kutoa eneo la hospitali.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION], [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION], bado nina matatizo na zana ya `reverse_geocode` kwenye [ORGANIZATION]. Hivi sasa siwezi kupata anwani ya eneo unalohitaji.
+
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [PROFILE_ID], simu +254122951015) ya ukaguzi wa afya na ushauri wa lishe [DATE] huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Sawa, ninarekodi miadi ya ukaguzi wa afya na ushauri wa lishe kwa [PERSON]. Haya ndiyo maelezo niliyokusanya:
+
+**Aina ya Shughuli:** Miadi (appointment)
+**Mandhari:** Mipango ya Kila Siku (daily_planning)
+**Kitambulisho cha Wasifu:** [PROFILE_ID]
+**Jina la Mwasiliani:** [PERSON] ya Simu:** +254122951015
+**Kichwa:** Ukaguzi wa afya na ushauri wa lishe
+**Muda na Tarehe:** [DATE] [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi kabla sijayahifadhi.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] (+254122951015), tafadhali ihifadhi.
+
+Assistant:
+Samahani, inaonekana bado kuna tatizo la kuhifadhi shughuli. Miadi ya [PERSON] haikuweza kuhifadhiwa. Nilipokea ujumbe wa "Canceled. No activity was saved." Hii inaonyesha kuwa kuna suala la msingi na mfumo wa kuhifadhi ambao unahitaji kuchunguzwa.
+
+Je, kuna kitu kingine ningeweza kukusaidia nacho kwa sasa?
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] (+254122951015) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION], [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Sawa, narekodi bidhaa ya ununuzi kwa [PERSON]. Haya ndiyo maelezo niliyokusanya:
+
+**Aina ya Shughuli:** Bidhaa ya Ununuzi (shopping_item)
+**Mandhari:** Mipango ya Kila Siku (daily_planning)
+**Kitambulisho cha Wasifu:** [PROFILE_ID]
+**Jina la Mwasiliani:** [PERSON] ya Simu:** +254122951015
+**Kichwa:** Shajara ya kupanga siku na vyakula vya afya
+**Eneo:** [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi kabla sijayahifadhi. Kumbuka kuwa kumekuwa na matatizo ya kuhifadhi shughuli hivi karibuni, kwa hivyo inawezekana isiweze kuhifadhiwa.

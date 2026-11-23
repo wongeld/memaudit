@@ -1,0 +1,82 @@
+User:
+የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የክትትል ማስታወሻውን መመዝገብ እችላለሁ፣ ነገር ግን ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) አርብ ከሰዓት 10:00 ሰዓት
+*   **mobile_phone**: [PHONE]
+*   **notes**: የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ።
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የክትትል ማስታወሻው አልተቀመጠም። ከስርአቱ የመጣው መልዕክት "Canceled. No activity was saved." ይላል።
+
+ይህ የሆነበት ምክንያት የቀን ቅርጸት ትክክል ባለመሆኑ ነው። ትክክለኛውን ቀን፣ ለምሳሌ "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት" ብለህ እንድትነግረኝ እጠይቅሃለሁ።
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: (አልተሰጠም)
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [[ID_NUMBER]] 'Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የግዢውን ዕቃ ለመመዝገብ፣ አሁንም ትክክለኛውን ቀን እና ሰዓት ማወቅ አለብኝ። ለምሳሌ "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የግዢ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **date_time**: (ትክክለኛውን ቀን እና ሰዓት ከገለጽክ በኋላ ይጨመራል)
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Commercial Florist and Event Decorator እና Married with two children አገልግሎት የሚውል
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ [PERSON] የቦታ ማስያዣ እንቅስቃሴ ለመመዝገብ፣ ትክክለኛውን ቀን ማወቅ አለብኝ። ለምሳሌ "ሰኔ 15 ቀን 2016 ዓ.ም. ቅዳሜ ጠዋት 4:00 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የቦታ ማስያዣ ዝርዝር መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: (አልተሰጠም)

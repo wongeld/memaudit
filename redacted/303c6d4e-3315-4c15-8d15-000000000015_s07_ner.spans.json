@@ -1,0 +1,206 @@
+[
+{
+"start": 9,
+"end": 24,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 56,
+"end": 64,
+"label": "LOCATION",
+"text": "በHawassa"
+},
+{
+"start": 66,
+"end": 74,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ31 ዓመት"
+},
+{
+"start": 247,
+"end": 262,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 453,
+"end": 468,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 494,
+"end": 523,
+"label": "PERSON",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 529,
+"end": 537,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 594,
+"end": 609,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 962,
+"end": 978,
+"label": "PERSON",
+"text": "Selamawit\n**የአባት"
+},
+{
+"start": 997,
+"end": 1010,
+"label": "PERSON",
+"text": "Girma\n**የሞባይል"
+},
+{
+"start": 1118,
+"end": 1133,
+"label": "LOCATION",
+"text": "Ethiopia\n**ተመራጭ"
+},
+{
+"start": 1264,
+"end": 1279,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1359,
+"end": 1374,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1558,
+"end": 1565,
+"label": "DATE",
+"text": "በአሁኑ ጊዜ"
+},
+{
+"start": 2014,
+"end": 2029,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 2030,
+"end": 2038,
+"label": "LOCATION",
+"text": "በHawassa"
+},
+{
+"start": 2040,
+"end": 2055,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor"
+},
+{
+"start": 2057,
+"end": 2062,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2080,
+"end": 2095,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 2608,
+"end": 2613,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2646,
+"end": 2666,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n**ቦታ"
+},
+{
+"start": 2681,
+"end": 2688,
+"label": "LOCATION",
+"text": "Hawassa"
+},
+{
+"start": 2690,
+"end": 2714,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor)\n**የእውቂያ"
+},
+{
+"start": 2736,
+"end": 2759,
+"label": "PERSON",
+"text": "Selamawit Girma\n**የሞባይል"
+},
+{
+"start": 3028,
+"end": 3043,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 3051,
+"end": 3066,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 3147,
+"end": 3162,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 3186,
+"end": 3201,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 3354,
+"end": 3359,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 3392,
+"end": 3412,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n**ቦታ"
+},
+{
+"start": 3427,
+"end": 3434,
+"label": "LOCATION",
+"text": "Hawassa"
+},
+{
+"start": 3436,
+"end": 3460,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor)\n**የእውቂያ"
+},
+{
+"start": 3482,
+"end": 3505,
+"label": "PERSON",
+"text": "Selamawit Girma\n**የሞባይል"
+}
+]

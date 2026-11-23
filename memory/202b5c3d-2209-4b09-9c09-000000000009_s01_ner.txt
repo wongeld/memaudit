@@ -1,0 +1,6 @@
+* ስም፡ [PERSON] (profile_id፡ [PROFILE_ID]፣ የመታወቂያ ቁጥር፡ 3926435391)
+* ሙያ፡ የሆስፒታል ሐኪም (Hospital Physician / Doctor of Medicine)፤ የጋብቻ ሁኔታ፡ ያላገባ (Single)
+* የመኖሪያ አካባቢ፡ [LOCATION], [LOCATION] (Ayder)፣ ሀገር፡ [LOCATION]
+* የመገናኛ መረጃ፡ ስልክ ቁጥር +251945416026፣ ኢሜይል [PERSON]
+* የጤና ሁኔታ፡ 'Mild asthma' (ቀላል የአስም በሽታ) አለበት
+* የመገናኛ ቋንቋ ምርጫ፡ አማርኛ

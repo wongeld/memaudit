@@ -1,0 +1,98 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 34,
+"end": 44,
+"label": "ID_NUMBER",
+"text": "8913518751"
+},
+{
+"start": 52,
+"end": 80,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 209,
+"end": 215,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 217,
+"end": 230,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 232,
+"end": 241,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 556,
+"end": 570,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1449,
+"end": 1455,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1457,
+"end": 1470,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1472,
+"end": 1481,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1515,
+"end": 1529,
+"label": "LOCATION",
+"text": "Hancock Center"
+},
+{
+"start": 1530,
+"end": 1539,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1540,
+"end": 1546,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1969,
+"end": 1975,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1977,
+"end": 1990,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1992,
+"end": 2001,
+"label": "LOCATION",
+"text": "Hyde Park"
+}
+]

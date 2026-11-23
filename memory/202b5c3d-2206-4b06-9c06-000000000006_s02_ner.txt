@@ -1,0 +1,4 @@
+* ከ[PERSON] (ስልክ ቁጥር፦ +251996949340፣ ኢሜይል፦ dereje.diriba+006@gmail.com) ጋር የተያያዙ የሥራ የምክክር ቀጠሮዎችን ያስተዳድራል።
+* የ profile_id `[PROFILE_ID]` ባለቤት ወይም ተጠቃሚ ነው።
+* በAddis `[LOCATION]` (Bole) አካባቢ (በተለይ በ latitude 8.9972 እና longitude 38.7869 አካባቢ) ለጉዳዩ የሚሆኑ ቦታዎችን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ምርጫ አለው።

@@ -1,0 +1,71 @@
+User:
+የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ እና የHorticultural Export Training Coordinator ሥራ ስላለብኝ፣ ለ Shimelis Tilahun (profile_id [PROFILE_ID]፣ ስልክ +251954834664) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ travel ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: አርብ ከሰዓት 10:00
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Shimelis Tilahun (+251954834664) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። ማስታወሻው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+በ travel ሥር ለ Shimelis Tilahun (+251954834664) በAddis Ababa, Ethiopia (Kirkos) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል' ብለህ ለ Shimelis Tilahun (+251954834664) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact\_name**: Shimelis Tilahun
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+*   **notes**: Horticultural Export Training Coordinator እና Married with three children አገልግሎት የሚውል
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+በ travel ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Kirkos) የአገልግሎት/የቦታ booking ለ Shimelis Tilahun (+251954834664) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact\_name**: Shimelis Tilahun
+*   **date\_time**: ቅዳሜ ጠዋት 4:00
+*   **location**: Addis Ababa, Ethiopia (Kirkos)
+*   **mobile\_phone**: +251954834664
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?

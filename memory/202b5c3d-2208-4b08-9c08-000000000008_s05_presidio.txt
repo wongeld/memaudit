@@ -1,0 +1,4 @@
+* የተጠቃሚው profile_id [PROFILE_ID] ነው።
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር በ [LOCATION] ሊደረግ የነበረውን የ [DATE] የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋሽገዋል።
+* በAddis [LOCATION] እና [LOCATION], [LOCATION] አካባቢ የቦታዎችን መረጃ እና አድራሻ የመፈለግ ፍላጎት አላቸው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይጋራ እና የ [ORGANIZATION] እውቅና (attribution) አብሮ እንዲካተት ይመርጣሉ።

@@ -1,0 +1,6 @@
+* Works as a Hospital Physician.
+* Frequently manages travel-related logistics, including expense reconciliation, mileage logs, and boarding passes.
+* Works in [LOCATION], [LOCATION] ([LOCATION]).
+* Coordinates travel activities with [PERSON] (phone: [PHONE], profile_id: [[ID_NUMBER]]).
+* Currently planning travel that requires a carry-on organizer and a portable charger.
+* Experiences persistent technical issues when attempting to save activities via the `record_user_activity` tool.

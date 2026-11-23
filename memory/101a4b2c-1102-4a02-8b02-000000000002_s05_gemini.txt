@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON], mwenye kitambulisho [ID_NUMBER] na profile_id [PROFILE_ID].
+* Ana ndoa na ana watoto wawili ("Married with two children").
+* Anatumia barua pepe [EMAIL].
+* Ana mpango wa kwenda kufanya manunuzi huko [LOCATION] ([LOCATION]).
+* Anafuatilia kituo cha biashara chenye majira-nukta latitude -1.2618 na longitude 36.8026 huko [LOCATION] ([LOCATION]).
+* Anapendelea kutotuma taarifa zake binafsi anapotafuta maeneo mtandaoni na anataka utambuzi/nukuu ya OpenStreetMap iwekwe.

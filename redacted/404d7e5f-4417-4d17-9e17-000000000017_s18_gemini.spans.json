@@ -1,0 +1,110 @@
+[
+{
+"start": 103,
+"end": 113,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 231,
+"end": 241,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 422,
+"end": 439,
+"label": "LOCATION",
+"text": "Nairobi Arboretum"
+},
+{
+"start": 572,
+"end": 589,
+"label": "LOCATION",
+"text": "Nairobi Arboretum"
+},
+{
+"start": 948,
+"end": 955,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 957,
+"end": 962,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 964,
+"end": 972,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1374,
+"end": 1387,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1401,
+"end": 1411,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1419,
+"end": 1432,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1740,
+"end": 1750,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2035,
+"end": 2048,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2090,
+"end": 2103,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2231,
+"end": 2244,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2246,
+"end": 2259,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2536,
+"end": 2546,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2831,
+"end": 2844,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2886,
+"end": 2899,
+"label": "PHONE",
+"text": "+254760298744"
+}
+]

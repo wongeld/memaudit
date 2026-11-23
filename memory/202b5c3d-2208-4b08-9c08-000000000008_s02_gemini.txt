@@ -1,0 +1,4 @@
+* የተጠቃሚው የመታወቂያ ቁጥር (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ([LOCATION]) ሊያደርጉት የነበረውን የረቡዕ ከሰዓት 8:00 የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋሽገዋል።
+* በ[LOCATION] ([LOCATION]) አካባቢ (latitude 9.0054፣ longitude 38.7578) ለጉዳያቸው የሚሆን ቦታ እና አድራሻ ይፈልጋሉ።
+* የቦታ ፍለጋ ሲካሄድ የግል መረጃ እንዳይላክ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣሉ።

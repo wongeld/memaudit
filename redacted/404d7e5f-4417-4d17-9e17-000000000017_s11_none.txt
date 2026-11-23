@@ -1,0 +1,59 @@
+User:
+Kama Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani) (kitambulisho 40410925283), naomba urekodi kazi (task) kwenye mada ya work kwa kutumia record_user_activity: kuandaa ripoti ya utendaji wa wiki Jumatatu saa 2:30 asubuhi kwa Sheila Sifuna (+254760298744).
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi kazi hiyo, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kuandaa ripoti ya utendaji wa wiki
+- **Tarehe/Muda (`date_time`):** Jumatatu saa 2:30 asubuhi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha maelezo haya ili niyahifadhi?
+
+User:
+Badilisha muda wa kazi hiyo ya ripoti uwe Jumatatu saa 3:00 asubuhi kwa profile_id [PROFILE_ID], na urudie maelezo yote ya Sheila Sifuna (+254760298744) ili nithibitishe.
+
+Assistant:
+Nimesasisha muda wa kazi hiyo. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kuandaa ripoti ya utendaji wa wiki
+- **Tarehe/Muda (`date_time`):** Jumatatu saa 3:00 asubuhi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Mimi Sheila Sifuna (Married with two children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara Jumatano saa 4:00 asubuhi huko Nairobi, Kenya (Kilimani); tafadhali thibitisha.
+
+User:
+Mimi Sheila Sifuna (Married with two children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara Jumatano saa 4:00 asubuhi huko Nairobi, Kenya (Kilimani); tafadhali thibitisha.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya miadi yako kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Miadi na wenzangu wa idara
+- **Tarehe/Muda (`date_time`):** Jumatano saa 4:00 asubuhi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Wenzangu wa idara
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Hapana, ghairi miadi hiyo ya Jumatano saa 4:00 asubuhi kwa sasa kwa sababu imehamishiwa kwenye mkutano wa mtandaoni, usihifadhi.
+
+Assistant:
+Sawa, nimeghairi miadi hiyo ya Jumatano saa 4:00 asubuhi na sijahifadhi chochote kwenye mfumo. Je, kuna jambo lingine unalohitaji msaada?

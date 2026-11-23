@@ -1,0 +1,6 @@
+* Mtumiaji ana hali ya kiafya ya shinikizo la damu (Mild hypertension) na anahitaji kubeba dawa anaposafiri.
+* Ana kitambulisho nambari 9750779397 (Profile ID: [PROFILE_ID]).
+* Mawasiliano yake yanahusisha [PERSON] mwenye nambari ya simu [PHONE].
+* Anapanga safari na anapendelea kuandaa begi lake mapema mchana, akihakikisha dawa na hati za safari ziko kwenye begi la mkononi.
+* Ana mpango au anachunguza eneo la safari huko [LOCATION], [LOCATION] (Mikocheni) lenye majira-nukta latitude -6.7712 na longitude 39.2398, pamoja na kituo cha usafiri cha '[ORGANIZATION] [LOCATION]'.
+* Anajali faragha na hapendi taarifa zake binafsi zitumiwe au kusambazwa wakati wa kutafuta maeneo.

@@ -1,0 +1,4 @@
+- User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+- Routinely performs evening meal prep and next-day prioritization.
+- Has a late commitment in [LOCATION] ([LOCATION]) that occasionally conflicts with evening tasks.
+- Commutes through [LOCATION] ([LOCATION]) and is interested in identifying landmarks and verifying addresses along this route.

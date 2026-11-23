@@ -1,0 +1,296 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 177,
+"end": 184,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 186,
+"end": 201,
+"label": "LOCATION",
+"text": "Kenya (Kilimani"
+},
+{
+"start": 745,
+"end": 770,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi"
+},
+{
+"start": 1094,
+"end": 1126,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\nMahali"
+},
+{
+"start": 1128,
+"end": 1135,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1137,
+"end": 1158,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\nMada"
+},
+{
+"start": 1458,
+"end": 1495,
+"label": "ORGANIZATION",
+"text": "Nairobi Securities Exchange Westlands"
+},
+{
+"start": 1509,
+"end": 1544,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1717,
+"end": 1741,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1767,
+"end": 1802,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1840,
+"end": 1853,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2124,
+"end": 2153,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\nMada"
+},
+{
+"start": 2587,
+"end": 2617,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi\nMahali"
+},
+{
+"start": 2619,
+"end": 2626,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2628,
+"end": 2649,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\nMada"
+},
+{
+"start": 2792,
+"end": 2815,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi"
+},
+{
+"start": 2915,
+"end": 2945,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi\nMahali"
+},
+{
+"start": 2947,
+"end": 2954,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2956,
+"end": 2977,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\nMada"
+},
+{
+"start": 3372,
+"end": 3379,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 3381,
+"end": 3402,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\nMada"
+},
+{
+"start": 4202,
+"end": 4232,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\nMada"
+},
+{
+"start": 4622,
+"end": 4652,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\nMada"
+},
+{
+"start": 5026,
+"end": 5058,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\nMahali"
+},
+{
+"start": 5060,
+"end": 5074,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 5076,
+"end": 5090,
+"label": "LOCATION",
+"text": "Kilimani)\nMada"
+},
+{
+"start": 5361,
+"end": 5389,
+"label": "LOCATION",
+"text": "Yaya Centre Kilimani Nairobi"
+},
+{
+"start": 5403,
+"end": 5438,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 5492,
+"end": 5505,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 5684,
+"end": 5691,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 5693,
+"end": 5708,
+"label": "LOCATION",
+"text": "Kenya (Kilimani"
+},
+{
+"start": 5734,
+"end": 5769,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 5812,
+"end": 5832,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nSasa"
+},
+{
+"start": 6016,
+"end": 6045,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni\nMahali"
+},
+{
+"start": 6047,
+"end": 6054,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 6056,
+"end": 6077,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\nMada"
+},
+{
+"start": 6368,
+"end": 6381,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 6450,
+"end": 6455,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 6864,
+"end": 6877,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 7366,
+"end": 7390,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 7536,
+"end": 7561,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 7566,
+"end": 7579,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 7956,
+"end": 7981,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi"
+},
+{
+"start": 8037,
+"end": 8050,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 8151,
+"end": 8176,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi"
+},
+{
+"start": 8278,
+"end": 8310,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi\nMahali"
+},
+{
+"start": 8312,
+"end": 8342,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\nMada"
+},
+{
+"start": 8355,
+"end": 8373,
+"label": "PERSON",
+"text": "Sheila Sifuna\nSimu"
+}
+]

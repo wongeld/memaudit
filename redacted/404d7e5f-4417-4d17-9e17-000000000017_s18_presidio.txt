@@ -1,0 +1,41 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya family kwa profile_id [PROFILE_ID].
+
+Assistant:
+Nimetumia `list_user_activities` kuangalia shughuli zako kwenye mada ya **family** kwa `profile_id` **[PROFILE_ID]**, na kwa sasa hakuna shughuli zozote zilizohifadhiwa (`"activities": []`).
+
+User:
+Tunataka kwenda matembezi ya familia [DATE]; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION] zana ya `search_places` kutafuta [LOCATION] bila kutuma taarifa zako zozote binafsi, lakini huduma ya [ORGANIZATION] imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool search_places`).
+
+*Attribution: Data ya ramani © [ORGANIZATION] contributors (ODbL).*
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la familia lenye majira-nukta latitude -1.2889 na longitude 36.7832 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya [ORGANIZATION] zana ya `reverse_geocode` kwa majira-nukta **latitude -1.2889** na **longitude 36.7832**, lakini huduma ya [ORGANIZATION] imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool reverse_geocode`).
+
+*Nukuu (Attribution): Data ya ramani © [ORGANIZATION] contributors (ODbL).*
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [PROFILE_ID], simu [PHONE]) cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension [DATE] sijatumia `record_user_activity` kuhifadhi kikumbusho hicho kwenye mada ya **family**, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `family`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension
+- **Tarehe/Muda (`date_time`):** [DATE] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Nimejaribu kuhifadhi kikumbusho hicho cha familia kwa kutumia `record_user_activity`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No activity was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `family`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension
+- **Tarehe/Muda (`date_time`):** [DATE] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, ungependa tuendelee na hatua nyingine?

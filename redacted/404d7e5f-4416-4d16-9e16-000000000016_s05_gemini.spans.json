@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 42,
+"end": 53,
+"label": "ID_NUMBER",
+"text": "40305595714"
+},
+{
+"start": 187,
+"end": 191,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 193,
+"end": 198,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 200,
+"end": 206,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 547,
+"end": 551,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 553,
+"end": 558,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 560,
+"end": 566,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1232,
+"end": 1246,
+"label": "ORGANIZATION",
+"text": "Kangaru School"
+},
+{
+"start": 1247,
+"end": 1251,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1389,
+"end": 1403,
+"label": "ORGANIZATION",
+"text": "Kangaru School"
+},
+{
+"start": 1404,
+"end": 1408,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1586,
+"end": 1590,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1592,
+"end": 1597,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1599,
+"end": 1605,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

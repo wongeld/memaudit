@@ -1,0 +1,35 @@
+User:
+Mimi [PERSON] (Diploma in Tourism Management, Married with two children), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi saa 11:30 jioni huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Samahani, ili niweze kuhifadhi kazi hii, ninahitaji `profile_id` yako. Tafadhali nipa `profile_id` yako.
+
+Pia, kutokana na sera yetu ya faragha, siwezi kuhifadhi taarifa binafsi kama "Married with two children". Hata hivyo, nitaweza kuhifadhi kazi yako ya "kupanga majukumu ya siku na kufanya mazoezi mepesi" kwa muda na eneo ulilotoa, pamoja na kitambulisho cha wasifu wako.
+
+User:
+Hapana, ghairi kazi hiyo ya saa 11:30 jioni kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+Assistant:
+Nimekuelewa. Kazi hiyo haitahifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa profile_id [PROFILE_ID] kwenye mada ya daily_planning.
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, nimeshindwa kutafuta '[ORGANIZATION] [LOCATION]' kwa kutumia zana ya OpenStreetMap. Kumekuwa na hitilafu ya mara kwa mara ninapojaribu kutumia zana za OpenStreetMap.
+
+Hata hivyo, nikipata majibu, nitaweka wazi kuwa taarifa zinatoka OpenStreetMap (© OpenStreetMap contributors). Tafadhali jaribu tena baadaye au kama unaweza, tumia njia nyingine ya kutafuta kituo cha afya.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -3.3869 na longitude 36.7081 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, nimeshindwa kutambua anwani ya eneo hilo kwa kutumia zana ya OpenStreetMap. Kumekuwa na hitilafu ya mara kwa mara ninapojaribu kutumia zana za OpenStreetMap.
+
+Hata hivyo, nikipata majibu, nitaweka wazi kuwa taarifa zinatoka OpenStreetMap (© OpenStreetMap contributors). Tafadhali jaribu tena baadaye au kama unaweza, tumia njia nyingine ya kutafuta anwani ya eneo hilo.

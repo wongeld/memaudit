@@ -1,0 +1,170 @@
+[
+{
+"start": 61,
+"end": 75,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 150,
+"end": 156,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 158,
+"end": 174,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 564,
+"end": 570,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 572,
+"end": 591,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n*"
+},
+{
+"start": 628,
+"end": 644,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 857,
+"end": 871,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1378,
+"end": 1384,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1386,
+"end": 1394,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1396,
+"end": 1405,
+"label": "LOCATION",
+"text": "Area C)\n*"
+},
+{
+"start": 1442,
+"end": 1458,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 1738,
+"end": 1744,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1746,
+"end": 1754,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1761,
+"end": 1762,
+"label": "LOCATION",
+"text": "C"
+},
+{
+"start": 1768,
+"end": 1782,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1799,
+"end": 1823,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana"
+},
+{
+"start": 2203,
+"end": 2229,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana\n*"
+},
+{
+"start": 2251,
+"end": 2257,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2259,
+"end": 2278,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n*"
+},
+{
+"start": 2315,
+"end": 2331,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 2458,
+"end": 2472,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2560,
+"end": 2566,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2568,
+"end": 2576,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3016,
+"end": 3030,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 3098,
+"end": 3106,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3388,
+"end": 3396,
+"label": "PERSON",
+"text": "Halima\n*"
+},
+{
+"start": 3429,
+"end": 3438,
+"label": "PERSON",
+"text": "Kikwete\n*"
+},
+{
+"start": 3570,
+"end": 3580,
+"label": "LOCATION",
+"text": "Tanzania\n*"
+}
+]

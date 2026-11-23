@@ -1,0 +1,5 @@
+* ተጠቃሚው 'Mild seasonal allergic rhinitis' ያለበት የጤና ሁኔታ አለው።
+* ከ [ORGANIZATION] ጋር የተያያዘ የሥራ ኃላፊነት አለበት።
+* ባለትዳርና የሁለት ልጆች ወላጅ ነው ("Married with two children")፤ እንዲሁም ከ "Florist and Event Decorator" ሥራ/አገልግሎት ጋር የተያያዘ እንቅስቃሴ አለው።
+* ከ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ [PHONE]) ጋር የተያያዙ የሥራ ማስታወሻዎችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን (booking) ያስተዳድራል።
+* በ [LOCATION], [LOCATION] (Bole) አካባቢ ለሥራና ለጤና የሚውሉ ግብዓቶችን የመግዛት እንዲሁም የአገልግሎት/የቦታ ማስያዝ (booking) ዕቅድ አለው።

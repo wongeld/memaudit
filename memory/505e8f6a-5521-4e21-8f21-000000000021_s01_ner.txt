@@ -1,0 +1,6 @@
+* User is a 46-year-old Child Psychologist with a Doctor of Philosophy.
+* Lives in [LOCATION], [LOCATION] ([LOCATION]).
+* Married with two children.
+* Contact details: [PERSON] [PERSON], mobile +17427416378, email james.bosse+021@gmail.com.
+* Preferred language is English.
+* Profile ID: [PROFILE_ID].

@@ -1,0 +1,5 @@
+* የጤና ሁኔታው 'Mild asthma' ነው።
+* የሥራ ዘርፉ Hospital Physician ነው።
+* የቤተሰብ/የግል ሁኔታው 'Single' ነው።
+* የመገለጫ መረጃው፡ ስም Bereket Tesfaye፣ profile_id [PROFILE_ID] እና ስልክ ቁጥር +251945416026 ነው።
+* የሚገለገልበት ወይም እንቅስቃሴ የሚያደርግበት አካባቢ Mekelle, Ethiopia (Ayder) ነው።

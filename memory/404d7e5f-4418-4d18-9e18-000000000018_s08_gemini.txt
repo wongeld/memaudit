@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Ana elimu ya Bachelor of Commerce na kitambulisho namba [ID_NUMBER].
+* Anapenda kupanga bajeti ya matumizi ya nyumbani na ada za familia.
+* Ana utaratibu wa kupokea wageni wa familia nyumbani.
+* Anapenda kufanya matembezi ya familia mwishoni mwa wiki.
+* Anavutiwa na maeneo yaliyo katika [LOCATION], [LOCATION] ([LOCATION]).

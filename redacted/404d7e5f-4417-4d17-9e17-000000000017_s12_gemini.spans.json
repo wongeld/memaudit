@@ -1,0 +1,146 @@
+[
+{
+"start": 107,
+"end": 117,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 233,
+"end": 243,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 411,
+"end": 438,
+"label": "ORGANIZATION",
+"text": "Nairobi Securities Exchange"
+},
+{
+"start": 439,
+"end": 448,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 581,
+"end": 608,
+"label": "ORGANIZATION",
+"text": "Nairobi Securities Exchange"
+},
+{
+"start": 609,
+"end": 618,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 979,
+"end": 986,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 988,
+"end": 993,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 995,
+"end": 1003,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1403,
+"end": 1416,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1430,
+"end": 1440,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1448,
+"end": 1461,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1487,
+"end": 1516,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 1777,
+"end": 1787,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1917,
+"end": 1946,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 2106,
+"end": 2119,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2161,
+"end": 2174,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2221,
+"end": 2250,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 2450,
+"end": 2463,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2465,
+"end": 2478,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2743,
+"end": 2753,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3038,
+"end": 3051,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 3093,
+"end": 3106,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 3154,
+"end": 3183,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+}
+]

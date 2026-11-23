@@ -1,0 +1,5 @@
+- User is [PERSON] (ID 8913518751).
+- Manages mild asthma.
+- Is a student involved in an academic advising cohort in [LOCATION], [LOCATION] ([LOCATION]).
+- Academic advising sessions are sometimes conducted via email (caleb.thornton+025@gmail.com).
+- Interested in locating campus facilities like the library and lecture hall.

@@ -1,0 +1,40 @@
+User:
+በ family ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ረቡዕ ከሰዓት 8:00 ላይ በ[LOCATION] ([LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [[ID_NUMBER]])**
+*   **ርዕስ**: የምክክር ቀጠሮ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ቀጠሮ (appointment)
+*   **ቀን/ሰዓት**: ረቡዕ ከሰዓት 8:00
+*   **አካባቢ**: [LOCATION] ([LOCATION])
+*   **ስልክ**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+
+ይህንን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕን የምክክር ቀጠሮ አልመዘግበውም እና ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id [[ID_NUMBER]] በ family ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id [[ID_NUMBER]] በ family ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በ[LOCATION] ([LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ በOpenStreetMap በኩል ቦታዎችን ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። `openstreetmap_search_places` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ '[LOCATION]' የሚለውን ቦታ መፈለግ አልችልም።
+
+User:
+እባክህ በ[LOCATION] ([LOCATION]) የሚገኘውን የ latitude 11.5936 እና longitude 37.3908 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ በOpenStreetMap በኩል የተገላቢጦሽ ጂኦኮድ ፍለጋው አልተሳካም። `openstreetmap_reverse_geocode` የተሰኘው መሳሪያ እየሰራ አይደለም። ስለዚህ የቀረበውን ኬክሮስ እና ኬንትሮስ በመጠቀም አድራሻውን ማግኘት አልችልም።

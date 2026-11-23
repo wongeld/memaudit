@@ -1,0 +1,5 @@
+* የጤና ሁኔታቸው 'Mild hypertension' ነው።
+* የሥራ ሙያቸው የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* ባለትዳርና የሁለት ልጆች ወላጅ (Married with two children) ናቸው።
+* የመገለጫ መታወቂያቸው (Profile ID) [[ID_NUMBER]] ነው።
+* ከ [PERSON] (ስልክ ቁጥር [PHONE]) ጋር የተያያዙ ማስታወሻዎችን፣ ግዢዎችን እና በ[LOCATION] የሚደረጉ የቦታ ማስያዣዎችን (booking) በ school ሥር ያከናውናሉ።

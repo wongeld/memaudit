@@ -1,0 +1,66 @@
+User:
+የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ እና የUniversity Lecturer ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ +251906564148) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ school ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የክትትል ማስታወሻ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** reminder
+*   **Title:** የክትትል ማስታወሻ
+*   **Date/Time:** [DATE] [DATE]   **Contact Name:** [PERSON]   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251906564148) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ! የክትትል ማስታወሻው አልተቀመጠም። ከዚህ በፊትም በተመሳሳይ መልኩ አልተቀመጠም ነበር። ይህ ምናልባት በመሳሪያው ላይ ባለው ችግር ወይም ተጨማሪ ማረጋገጫ ስለሚያስፈልግ ሊሆን ይችላል።
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+እድገት ለማድረግ፣ መገለጫህ እና ተግባሮቹ እንዲቀመጡ በመጀመሪያ የመገለጫ መረጃህ በትክክል መመዝገብ አለበት።
+
+User:
+በ school ሥር ለ [PERSON] (+251906564148) [LOCATION], [LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'University Lecturer እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251906564148) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የግዢ ዝርዝር እና ማስታወሻ አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** shopping\_item
+*   **Title:** አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** +251906564148
+*   **Notes:** University Lecturer እና Married with two children አገልግሎት የሚውል
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+በ school ሥር [DATE] [LOCATION], [LOCATION] ([LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251906564148) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ የሚከተለውን የአገልግሎት/የቦታ ማስያዣ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** booking
+*   **Title:** የአገልግሎት/የቦታ booking
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?

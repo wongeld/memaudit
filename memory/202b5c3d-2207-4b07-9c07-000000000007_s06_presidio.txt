@@ -1,0 +1,5 @@
+* የሥራ ሙያው University Lecturer ነው።
+* የጤና ሁኔታው Mild hypertension አለበት።
+* የቤተሰብ ሁኔታው Married with two children ነው።
+* ከ [PERSON] (ስልክ ቁጥር [PHONE]፣ Profile ID [PROFILE_ID]) ጋር የተያያዙ ተግባራትን ያከናውናል።
+* ማንኛውንም መረጃ፣ ማስታወሻ ወይም ተግባር ከመመዝገቡ በፊት ዝርዝሩ ቀርቦ እንዲረጋገጥ ይፈልጋል።

@@ -1,0 +1,7 @@
+* User is a 31-year-old Physician at [ORGANIZATION].
+* Lives in [LOCATION], [LOCATION] ([LOCATION]).
+* Marital status: single.
+* Health status: good, with no chronic conditions.
+* Routine: prefers a daily health routine and schedule review at 06:45 AM.
+* Associated contact: [PERSON] ([PHONE]).
+* Technical note: The user's profile and activity records are currently failing to save due to persistent tool errors.

@@ -1,0 +1,44 @@
+User:
+I'm Nathan Mercer (mock ID 6576730124, in good health with no chronic conditions), and I'd like to use record_user_activity in the school theme to book an appointment with my academic advising cohort in Boston, United States (Back Bay) on Wednesday at 03:00 PM.
+
+Assistant:
+Here are the details for the new appointment. Please confirm they are correct before I attempt to save them:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: School
+**Activity Type**: Appointment
+**Title**: Academic advising cohort meeting
+**Date/Time**: Wednesday at 03:00 PM
+**Location**: Boston, United States (Back Bay)
+**Contact Name**: Nathan Mercer
+**Mobile Phone**: +15246107452
+
+If confirmed, I will attempt to save this activity. Please remember the ongoing issue where the tool has consistently canceled all previous save attempts.
+
+User:
+Cancel that Wednesday 03:00 PM school appointment—the advising session was moved to email (nathan.mercer+026@outlook.com), so do not save it.
+
+Assistant:
+Understood. The academic advising cohort meeting scheduled for Wednesday at 03:00 PM has been canceled and will not be saved. This aligns with the previous cancellations we've experienced, so no activity was recorded.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] with theme school so I can check all my academic activities.
+
+Assistant:
+Nathan, I've checked your academic activities using `list_user_activities` for the "school" theme. It appears there are currently no activities saved for you under this theme. This is consistent with the previous cancellations we've encountered when attempting to record tasks and appointments.
+
+User:
+I need the location of the campus library and lecture hall; please use search_places to find 'Boston University Commonwealth Avenue' without sending personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I apologize, Nathan, but I am still encountering an error when trying to use the `search_places` tool on the OpenStreetMap server. The tool returned "Error executing tool search_places."
+
+It seems there's a persistent issue with accessing the OpenStreetMap tools. I am unable to retrieve the location of the campus library and lecture hall at this time. Would you like me to try a different approach or search for something else?
+
+User:
+Please use reverse_geocode to look up the address for coordinates latitude 42.3493 and longitude -71.0816 in Boston, United States (Back Bay), including OpenStreetMap attribution.
+
+Assistant:
+I'm sorry, Nathan, but I'm still unable to successfully use the `reverse_geocode` tool on the OpenStreetMap server. I received the same error message: "Error executing tool reverse_geocode."
+
+It appears the problem with accessing the OpenStreetMap tools persists, and I cannot retrieve the address for the given coordinates at this time. I apologize for the repeated failures.

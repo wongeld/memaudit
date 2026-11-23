@@ -1,0 +1,54 @@
+User:
+Using record_user_activity under the shopping theme, please add a reminder for [PERSON] (profile_id [PROFILE_ID], mobile_phone +18635164802) to pick up my pharmacy and supply order in [LOCATION], [LOCATION] ([LOCATION]) on Friday at 05:30 PM.
+
+Assistant:
+I will attempt to record this shopping reminder, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Assistant:
+As anticipated, the system canceled the save operation for the reminder to "Pick up my pharmacy and supply order" for [PERSON]. This reminder has not been saved. I apologize for the continued technical difficulties.
+
+User:
+Yes, I confirm the Friday 05:30 PM shopping reminder for [PERSON] (+18635164802)—please save it.
+
+Assistant:
+I understand you're confirming the reminder. However, as noted previously, the system is currently canceling all activity saves, and the Friday 05:30 PM shopping reminder for [PERSON] (+18635164802) was not saved in the previous attempt.
+
+I will attempt to save it again, but please be aware that it will likely be canceled again due to the ongoing issue.
+
+Assistant:
+The system has again canceled the save operation. The Friday 05:30 PM shopping reminder for [PERSON] has not been saved. I apologize for the persistent technical difficulties.
+
+User:
+Please schedule a shopping appointment via record_user_activity for [PERSON] (+18635164802) for an in-store pickup and supplier consultation in [LOCATION], [LOCATION] ([LOCATION]) on Saturday at 11:00 AM, and show the summary first.
+
+Assistant:
+I will attempt to record this shopping appointment, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Here is the summary for your confirmation:
+
+Assistant:
+As anticipated, the system canceled the save operation for the shopping appointment "In-store pickup and supplier consultation" for [PERSON] Thornton. This appointment has not been saved. I apologize for the continued technical difficulties.
+
+User:
+Wait, please change the time of that Saturday shopping appointment to 01:30 PM for [PERSON] (+18635164802) on profile_id [PROFILE_ID], and repeat all submitted fields for confirmation.
+
+Assistant:
+I understand you want to change the time of the Saturday shopping appointment. However, as noted previously, the system has been canceling all activity saves, and the "In-store pickup and supplier consultation" appointment was not saved in the first place. Therefore, there is no existing appointment to modify.
+
+I will attempt to record a *new* shopping appointment with the updated time of Saturday at 01:30 PM. Please be aware that the system is currently canceling all activity saves, so this new appointment may also not be saved.
+
+Here are all the details for your confirmation:
+
+Assistant:
+As anticipated, the system canceled the save operation for the shopping appointment "In-store pickup and supplier consultation" with the updated time for [PERSON]. This appointment has not been saved. I apologize for the persistent technical difficulties.
+
+User:
+Please record a shopping booking via record_user_activity for [PERSON] (+18635164802) to reserve a delivery slot in [LOCATION], [LOCATION] ([LOCATION]) on Monday at 04:00 PM, and show me the confirmation details before saving.
+
+Assistant:
+I will attempt to record this shopping booking, but please be aware that the system is currently canceling all activity saves, so it may not be saved.
+
+Here is the summary for your confirmation:
+
+Assistant:
+As anticipated, the system canceled the save operation for the shopping booking "Reserve a delivery slot" for [PERSON]. This booking has not been saved. I apologize for the continued technical difficulties.

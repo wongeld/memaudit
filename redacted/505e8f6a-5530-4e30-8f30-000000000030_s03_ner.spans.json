@@ -1,0 +1,188 @@
+[
+{
+"start": 65,
+"end": 78,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 335,
+"end": 348,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 615,
+"end": 628,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1225,
+"end": 1238,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1724,
+"end": 1730,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 1731,
+"end": 1737,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 2139,
+"end": 2145,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2147,
+"end": 2160,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2162,
+"end": 2171,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2203,
+"end": 2216,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2564,
+"end": 2570,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2572,
+"end": 2585,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2587,
+"end": 2596,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2620,
+"end": 2633,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3140,
+"end": 3149,
+"label": "ORGANIZATION",
+"text": "Executive"
+},
+{
+"start": 3208,
+"end": 3221,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3382,
+"end": 3391,
+"label": "ORGANIZATION",
+"text": "Executive"
+},
+{
+"start": 3401,
+"end": 3410,
+"label": "ORGANIZATION",
+"text": "Logistics"
+},
+{
+"start": 3432,
+"end": 3436,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 3723,
+"end": 3729,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3731,
+"end": 3744,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3746,
+"end": 3755,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3779,
+"end": 3792,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 4324,
+"end": 4337,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 4458,
+"end": 4464,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4466,
+"end": 4479,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4481,
+"end": 4490,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 4816,
+"end": 4822,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4824,
+"end": 4837,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4839,
+"end": 4848,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 4872,
+"end": 4885,
+"label": "PERSON",
+"text": "Julian Brooks"
+}
+]

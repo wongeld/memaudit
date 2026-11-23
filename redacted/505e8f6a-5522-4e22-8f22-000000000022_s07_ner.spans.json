@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 22,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 65,
+"end": 68,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 110,
+"end": 116,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 118,
+"end": 131,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 145,
+"end": 178,
+"label": "ORGANIZATION",
+"text": "Master of Business Administration"
+},
+{
+"start": 551,
+"end": 557,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 569,
+"end": 574,
+"label": "PERSON",
+"text": "Vance"
+},
+{
+"start": 647,
+"end": 660,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 868,
+"end": 874,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 894,
+"end": 899,
+"label": "PERSON",
+"text": "Vance"
+},
+{
+"start": 996,
+"end": 1009,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1174,
+"end": 1186,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1842,
+"end": 1854,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2039,
+"end": 2042,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 2077,
+"end": 2083,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2085,
+"end": 2098,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2267,
+"end": 2279,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2566,
+"end": 2578,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2834,
+"end": 2846,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3158,
+"end": 3164,
+"label": "PERSON",
+"text": "Marcus"
+}
+]

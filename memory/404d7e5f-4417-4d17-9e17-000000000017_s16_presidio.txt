@@ -1,0 +1,5 @@
+- Mtumiaji anaitwa [PERSON], ana umri wa miaka 41.
+- Ni mfanyabiashara ([ORGANIZATION] Dealer) anayepatikana [LOCATION].
+- Hali ya ndoa: Ameoa na ana watoto wawili.
+- Anajihusisha na shughuli za ununuzi wa bidhaa, ikiwemo kukagua ubora wa bidhaa na kupanga usafirishaji wa bidhaa hizo nyumbani.
+- Anatumia huduma za msaidizi wa AI kupanga na kuhifadhi miadi na shughuli zake za kibiashara.

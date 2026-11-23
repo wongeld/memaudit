@@ -1,0 +1,146 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 102,
+"end": 108,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 110,
+"end": 123,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 125,
+"end": 134,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 511,
+"end": 516,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 528,
+"end": 536,
+"label": "PERSON",
+"text": "Thornton"
+},
+{
+"start": 551,
+"end": 563,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 571,
+"end": 599,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 609,
+"end": 622,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1019,
+"end": 1024,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 1073,
+"end": 1085,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 1100,
+"end": 1128,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 1145,
+"end": 1158,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1287,
+"end": 1301,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1319,
+"end": 1331,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 1927,
+"end": 1933,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1935,
+"end": 1948,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1950,
+"end": 1959,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2117,
+"end": 2131,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2133,
+"end": 2145,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 2464,
+"end": 2478,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2700,
+"end": 2714,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2716,
+"end": 2728,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 3442,
+"end": 3456,
+"label": "PERSON",
+"text": "Caleb Thornton"
+}
+]

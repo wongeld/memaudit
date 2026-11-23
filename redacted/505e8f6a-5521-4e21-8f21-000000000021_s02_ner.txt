@@ -1,0 +1,39 @@
+User:
+I'm [PERSON] (james.bosse+021@gmail.com), and since I'm in good health with no chronic conditions, please use record_user_activity in the work theme to schedule an appointment for a mid-week stakeholder review in [LOCATION], [LOCATION] ([LOCATION]) on Wednesday at 02:00 PM.
+
+Assistant:
+I have the following details for your work appointment:
+Profile ID: [PROFILE_ID]
+Theme: work
+Activity Type: appointment
+Title: mid-week stakeholder review
+Date/Time: Wednesday at 02:00 PM
+Location: [LOCATION], [LOCATION] ([LOCATION])
+Contact Name: [PERSON]
+Mobile Phone: +17427416378
+
+Please confirm these details are accurate so I can save the appointment.
+
+User:
+No, cancel that Wednesday 02:00 PM work appointment for [PERSON]—the stakeholder review was moved to next month, so do not save it.
+
+Assistant:
+Understood. The Wednesday 02:00 PM work appointment for the stakeholder review will not be saved.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] filtered to the work theme so I can review all my scheduled professional commitments.
+
+Assistant:
+There are no scheduled professional commitments found for [PERSON] under the work theme.
+
+User:
+I have an off-site professional meeting coming up; please use search_places on the [ORGANIZATION] server to look up '[LOCATION]' without sending any personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I was unable to search for "[LOCATION]" using the OpenStreetMap tool. It seems there was an error executing the tool. OpenStreetMap data generally requires attribution when used.
+
+User:
+Could you use reverse_geocode to find the street address for coordinates latitude 42.3505 and longitude -71.0765 near my work area in [LOCATION], [LOCATION] (Back [LOCATION]), including OpenStreetMap attribution?
+
+Assistant:
+I was unable to retrieve the street address for the given coordinates using the OpenStreetMap `reverse_geocode` tool. There was an error executing the tool. OpenStreetMap data generally requires attribution when used.

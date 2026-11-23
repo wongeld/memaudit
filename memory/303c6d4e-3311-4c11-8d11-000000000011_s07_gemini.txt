@@ -1,0 +1,6 @@
+* ተጠቃሚው [PERSON] (መታወቂያ፦ [[ID_NUMBER]]) ሲሆኑ፣ ዕድሜያቸው 38 ዓመት እና ነዋሪነታቸው በ[LOCATION]) (ኢትዮጵያ) ነው።
+* የትምህርት ዝግጅታቸው በቢዝነስ ማኔጅመንት ዲፕሎማ (Diploma in Business Management) ሲሆን፣ ሙያቸው Commercial Florist and Event Decorator ነው።
+* ባለትዳርና የሁለት ልጆች ወላጅ ናቸው።
+* የጤና ሁኔታቸው ላይ 'Mild seasonal allergic rhinitis' (ቀላል ወቅታዊ የአለርጂ ችግር) አለባቸው።
+* የመገናኛ አድራሻቸው ስልክ ቁጥር [PHONE] እና ኢሜይል [EMAIL] ሲሆን፣ የመረጡት ቋንቋ አማርኛ ነው።
+* በ[LOCATION]) ሰኞ ጠዋት 3:00 ሰዓት ላይ የሚከናወን የቤተሰብ (family) ሳምንታዊ ዋና ተግባር አላቸው።

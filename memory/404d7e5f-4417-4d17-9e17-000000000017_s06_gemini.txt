@@ -1,0 +1,5 @@
+- Mtumiaji anajihusisha na shughuli za manunuzi (shopping) zinazohusisha [PERSON] (simu [PHONE], profile_id [[ID_NUMBER]]).
+- Mtumiaji anahitaji huduma za ununuzi wa bidhaa na dawa katika eneo la [LOCATION], [LOCATION] ([LOCATION]).
+- Mtumiaji anafanya ukaguzi wa ubora wa bidhaa na wauzaji.
+- Mtumiaji anapanga usafiri wa kuleta bidhaa nyumbani katika eneo la [LOCATION], [LOCATION] ([LOCATION]).
+- Mtumiaji ana utaratibu wa kupanga ratiba za shughuli zake kwa siku za Alhamisi, Ijumaa, na Jumamosi.

@@ -1,0 +1,6 @@
+- User is [PERSON], a 34-year-old Child Psychologist with a Doctor of Philosophy.
+- Lives in [LOCATION], [LOCATION] ([LOCATION]).
+- Married with two children.
+- Contact details: mobile +16098633034, email rachel.kim+032@gmail.com.
+- Preferred language is English.
+- Scheduled work task: "Prepare Quarterly Child Psychologist Briefing" for Monday at 09:30 AM.

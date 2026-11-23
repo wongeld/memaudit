@@ -1,0 +1,6 @@
+- The user is involved in academic activities, specifically graduate-level studies.
+- The user is currently planning to purchase 3 graduate seminar textbooks and presentation markers.
+- The user needs to manage school-related tasks, including submitting peer-review evaluations and reserving lecture seminar rooms.
+- The user has no chronic health conditions.
+- The user's contact information is [PERSON] with mobile number +15246107452 and profile ID [PROFILE_ID].
+- The user frequently interacts with the assistant to schedule school-related tasks in [LOCATION].

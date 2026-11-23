@@ -1,0 +1,194 @@
+[
+{
+"start": 57,
+"end": 96,
+"label": "ORGANIZATION",
+"text": "የCommercial Florist and Event Decorator"
+},
+{
+"start": 109,
+"end": 121,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 167,
+"end": 181,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 314,
+"end": 362,
+"label": "DATE",
+"text": "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 413,
+"end": 425,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 604,
+"end": 624,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00 ሰዓት\n*"
+},
+{
+"start": 725,
+"end": 764,
+"label": "ORGANIZATION",
+"text": "የCommercial Florist and Event Decorator"
+},
+{
+"start": 786,
+"end": 801,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 810,
+"end": 822,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1016,
+"end": 1053,
+"label": "DATE",
+"text": "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"
+},
+{
+"start": 1098,
+"end": 1110,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1127,
+"end": 1139,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1141,
+"end": 1149,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1315,
+"end": 1363,
+"label": "DATE",
+"text": "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 1412,
+"end": 1424,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1651,
+"end": 1662,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1664,
+"end": 1672,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1897,
+"end": 1909,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2020,
+"end": 2068,
+"label": "DATE",
+"text": "ሰኔ 14 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 2117,
+"end": 2129,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2356,
+"end": 2367,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2369,
+"end": 2377,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2535,
+"end": 2552,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2553,
+"end": 2565,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 2567,
+"end": 2575,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2605,
+"end": 2617,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2706,
+"end": 2718,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2770,
+"end": 2816,
+"label": "DATE",
+"text": "ሰኔ 15 ቀን 2016 ዓ.ም. ቅዳሜ ጠዋት 4:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 2870,
+"end": 2882,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 3068,
+"end": 3086,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት\n*"
+},
+{
+"start": 3103,
+"end": 3114,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 3116,
+"end": 3124,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

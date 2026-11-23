@@ -1,0 +1,146 @@
+[
+{
+"start": 28,
+"end": 42,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 44,
+"end": 57,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 64,
+"end": 92,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 112,
+"end": 131,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 133,
+"end": 145,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 255,
+"end": 269,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 284,
+"end": 294,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 445,
+"end": 464,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 466,
+"end": 478,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 493,
+"end": 506,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 521,
+"end": 549,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 729,
+"end": 739,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 840,
+"end": 850,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 905,
+"end": 924,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 926,
+"end": 938,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 996,
+"end": 1039,
+"label": "ORGANIZATION",
+"text": "Tibebe Ghion Specialized Hospital Bahir Dar"
+},
+{
+"start": 1099,
+"end": 1118,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1120,
+"end": 1132,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 1140,
+"end": 1183,
+"label": "ORGANIZATION",
+"text": "Tibebe Ghion Specialized Hospital Bahir Dar"
+},
+{
+"start": 1379,
+"end": 1422,
+"label": "ORGANIZATION",
+"text": "Tibebe Ghion Specialized Hospital Bahir Dar"
+},
+{
+"start": 1458,
+"end": 1477,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1479,
+"end": 1491,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 1611,
+"end": 1630,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1632,
+"end": 1644,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+}
+]

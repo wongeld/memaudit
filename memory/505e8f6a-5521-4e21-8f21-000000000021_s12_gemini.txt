@@ -1,0 +1,6 @@
+- Works as a Child Psychologist.
+- Has no chronic health conditions.
+- Needs to submit weekly departmental metrics every Friday at 04:00 PM.
+- Regularly coordinates work tasks and bookings with [PERSON] ([PHONE]).
+- Based in [LOCATION].
+- Interested in ergonomic office supplies and professional reference materials.

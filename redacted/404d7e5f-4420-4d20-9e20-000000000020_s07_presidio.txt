@@ -1,0 +1,55 @@
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 46 na Family Mediation Counselor huko [LOCATION], [LOCATION] (Area C); tafadhali angalia wasifu wangu kwa get_user_profile kabla hatujapanga ratiba yangu ya kila siku.
+
+Assistant:
+Samahani, hakuna wasifu uliohifadhiwa kwa `profile_id` [PROFILE_ID]. Inaonekana wasifu wako haukuhifadhiwa vizuri hapo awali. Nitakushauri uhifadhi wasifu wako tena.
+
+User:
+Hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu +255890185741, barua pepe [EMAIL], nchi [LOCATION], lugha Kiswahili; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Nimekuelewa. Ili kukamilisha uhifadhi wa wasifu wako, ninahitaji uthibitisho wako. Nitaendelea na hifadhi baada ya uthibitisho.
+
+Haya ni maelezo ya wasifu wako ambayo nimepokea:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina la Kwanza:** [PERSON]   **Jina la Mwisho:** [PERSON]   **Namba ya Simu:** +255890185741
+*   **Barua Pepe:** [EMAIL]
+*   **Nchi:** [LOCATION]   **Lugha Unayopendelea:** Kiswahili
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Ndiyo, maelezo hayo ya [PERSON] na simu +255890185741 ni sahihi kabisa, tafadhali yahifadhi.
+
+Assistant:
+Ninaomba radhi sana. Licha ya uthibitisho wako, bado ninaona ujumbe wa "Canceled. No profile was saved." Inaonekana kuna tatizo la kiufundi linaloendelea kuzuia uhifadhi wa wasifu wako. Ninaelewa kuwa hii inakera sana.
+
+Nitaendelea kujaribu kurekodi shughuli, lakini kwa sasa, ninaweza tu kuendelea na kazi ambazo hazihitaji kuhifadhi wasifu kwenye mfumo.
+
+User:
+Kwa kuzingatia hali yangu ya afya (hali ya Type 2 diabetes) na kazi yangu ya Family Mediation Counselor, naomba urekodi kikumbusho (reminder) kwenye daily_planning kwa record_user_activity cha kuangalia afya na ratiba ya siku [DATE] huko [LOCATION], [LOCATION]) kwa [PERSON] (+255890185741).
+
+Assistant:
+Nimekuelewa. Unataka kurekodi kikumbusho (reminder) kwenye mada ya 'daily_planning' kwa [PERSON] ni maelezo ya kikumbusho ninachotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Kikumbusho (reminder)
+*   **Mada:** Daily Planning
+*   **Kichwa:** kuangalia afya na ratiba ya siku
+*   **Muda:** [DATE]   **Eneo:** [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.
+
+User:
+Badilisha muda wa kikumbusho hicho cha [DATE] uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] (+255890185741) ili nithibitishe.
+
+Assistant:
+Nimekuelewa, lakini kikumbusho uliyotaka kurekodi awali hakikuhifadhiwa kutokana na tatizo la kiufundi. Kwa hivyo, siwezi kubadilisha muda wa kikumbusho ambacho hakipo.
+
+Je, ungependa nirekodi kikumbusho *kipya* cha 'kuangalia afya na ratiba ya siku' kwa [PERSON] (+255890185741) mnamo [DATE], huko [LOCATION] (Area C)?
+
+Haya ni maelezo yote ya kikumbusho kipya ninachotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Kikumbusho (reminder)
+*   **Mada:** Daily Planning
+*   **Kichwa:** kuangalia afya na ratiba ya siku
+*   **Muda:** [DATE]   **Eneo:** [LOCATION], [LOCATION] (Area [LOCATION] thibitisha ikiwa ungependa nirekodi kikumbusho hiki kipya.

@@ -1,0 +1,158 @@
+[
+{
+"start": 22,
+"end": 35,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 37,
+"end": 50,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 57,
+"end": 84,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 86,
+"end": 99,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 103,
+"end": 115,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 117,
+"end": 131,
+"label": "LOCATION",
+"text": "Ethiopia (Bole"
+},
+{
+"start": 297,
+"end": 310,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 506,
+"end": 519,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 521,
+"end": 541,
+"label": "DATE",
+"text": "Wednesday 8:00 PM)\n*"
+},
+{
+"start": 558,
+"end": 569,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 571,
+"end": 588,
+"label": "LOCATION",
+"text": "Ethiopia (Bole)\n*"
+},
+{
+"start": 610,
+"end": 623,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 639,
+"end": 666,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 730,
+"end": 743,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 760,
+"end": 776,
+"label": "DATE",
+"text": "November 6, 2024"
+},
+{
+"start": 781,
+"end": 800,
+"label": "DATE",
+"text": "8:00 PM\".\n\nUser:\nአይ"
+},
+{
+"start": 802,
+"end": 816,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 912,
+"end": 929,
+"label": "DATE",
+"text": "Wednesday 8:00 PM"
+},
+{
+"start": 1333,
+"end": 1338,
+"label": "LOCATION",
+"text": "Ababa"
+},
+{
+"start": 1340,
+"end": 1354,
+"label": "LOCATION",
+"text": "Ethiopia (Bole"
+},
+{
+"start": 1412,
+"end": 1433,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1448,
+"end": 1461,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1560,
+"end": 1581,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1651,
+"end": 1663,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1665,
+"end": 1673,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1757,
+"end": 1770,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

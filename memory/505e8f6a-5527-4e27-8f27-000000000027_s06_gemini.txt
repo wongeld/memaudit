@@ -1,0 +1,4 @@
+- The user frequently coordinates shopping-related tasks, including pharmacy pickups, supply orders, and supplier consultations, with [PERSON] (phone: [PHONE], profile_id: [[ID_NUMBER]]).
+- The user prefers to conduct these activities at [LOCATION], [LOCATION] ([LOCATION]).
+- The user is currently experiencing persistent technical issues with the `record_user_activity` tool, which prevents any reminders, appointments, or bookings from being saved.
+- The user is persistent in attempting to schedule these tasks despite being informed of the ongoing system failure.

@@ -1,0 +1,52 @@
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, bado nina matatizo na zana ya `search_places` kwenye OpenStreetMap. Haiwezi kupata '[ORGANIZATION]' kwa sasa, na hoja ya `attribution` haitumiki na zana hii. Inaonekana kuna tatizo la jumla na huduma za OpenStreetMap, hivyo siwezi kutoa eneo la hospitali.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, bado nina matatizo na zana ya `reverse_geocode` kwenye OpenStreetMap. Hivi sasa siwezi kupata anwani ya eneo unalohitaji.
+
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Sawa, ninarekodi miadi ya ukaguzi wa afya na ushauri wa lishe kwa [PERSON]. Haya ndiyo maelezo niliyokusanya:
+
+**Aina ya Shughuli:** Miadi (appointment)
+**Mandhari:** Mipango ya Kila Siku (daily_planning)
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Jina la Mwasiliani:** [PERSON]
+**Namba ya Simu:** [PHONE]
+**Kichwa:** Ukaguzi wa afya na ushauri wa lishe
+**Muda na Tarehe:** Ijumaa saa 9:00 alasiri
+**Eneo:** [LOCATION], [LOCATION] ([LOCATION])
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla sijayahifadhi.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya Ijumaa saa 9:00 alasiri kwa [PERSON] ([PHONE]), tafadhali ihifadhi.
+
+Assistant:
+Samahani, inaonekana bado kuna tatizo la kuhifadhi shughuli. Miadi ya [PERSON] haikuweza kuhifadhiwa. Nilipokea ujumbe wa "Canceled. No activity was saved." Hii inaonyesha kuwa kuna suala la msingi na mfumo wa kuhifadhi ambao unahitaji kuchunguzwa.
+
+Je, kuna kitu kingine ningeweza kukusaidia nacho kwa sasa?
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] ([PHONE]) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Sawa, narekodi bidhaa ya ununuzi kwa [PERSON]. Haya ndiyo maelezo niliyokusanya:
+
+**Aina ya Shughuli:** Bidhaa ya Ununuzi (shopping_item)
+**Mandhari:** Mipango ya Kila Siku (daily_planning)
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Jina la Mwasiliani:** [PERSON]
+**Namba ya Simu:** [PHONE]
+**Kichwa:** Shajara ya kupanga siku na vyakula vya afya
+**Eneo:** [LOCATION], [LOCATION] ([LOCATION])
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla sijayahifadhi. Kumbuka kuwa kumekuwa na matatizo ya kuhifadhi shughuli hivi karibuni, kwa hivyo inawezekana isiweze kuhifadhiwa.

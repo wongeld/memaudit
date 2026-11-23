@@ -1,0 +1,128 @@
+[
+{
+"start": 63,
+"end": 76,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 185,
+"end": 209,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 211,
+"end": 251,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni.\n\nAssistant:\nSawa"
+},
+{
+"start": 529,
+"end": 563,
+"label": "DATE",
+"text": "Ijumaa saa 10:30 jioni\n**Mahali:**"
+},
+{
+"start": 564,
+"end": 604,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 785,
+"end": 798,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1149,
+"end": 1162,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1222,
+"end": 1246,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1248,
+"end": 1273,
+"label": "DATE",
+"text": "Alhamisi saa 5:00 asubuhi"
+},
+{
+"start": 1564,
+"end": 1601,
+"label": "DATE",
+"text": "Alhamisi saa 5:00 asubuhi\n**Mahali:**"
+},
+{
+"start": 1602,
+"end": 1642,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 1821,
+"end": 1845,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 1850,
+"end": 1863,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1994,
+"end": 2018,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 2177,
+"end": 2213,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n**Mahali:**"
+},
+{
+"start": 2214,
+"end": 2254,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 2455,
+"end": 2479,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 2485,
+"end": 2498,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2515,
+"end": 2540,
+"label": "DATE",
+"text": "Jumamosi saa 9:00 alasiri"
+},
+{
+"start": 2847,
+"end": 2884,
+"label": "DATE",
+"text": "Jumamosi saa 9:00 alasiri\n**Mahali:**"
+},
+{
+"start": 2885,
+"end": 2925,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+}
+]

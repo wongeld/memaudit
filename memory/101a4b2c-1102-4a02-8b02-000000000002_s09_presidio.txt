@@ -1,0 +1,5 @@
+* Anashughulikia mipango ya kila siku (daily_planning) kwa ajili ya [PERSON] (Profile ID: [PROFILE_ID], Simu: [PHONE]).
+* Anaangazia afya inayohusisha usimamizi wa Kisukari cha Aina ya 2 (Type 2 diabetes).
+* Amepanga miadi ya ukaguzi wa afya na ushauri wa lishe tarehe [DATE] huko [LOCATION].
+* Anapanga kununua shajara ya ratiba ya kila siku na mahitaji ya afya huko [LOCATION].
+* Amepanga booking ya muda wa mazoezi ya afya tarehe [DATE] huko [LOCATION].

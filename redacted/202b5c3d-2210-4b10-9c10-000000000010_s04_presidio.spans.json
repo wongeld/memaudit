@@ -1,0 +1,230 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 55,
+"end": 65,
+"label": "LOCATION",
+"text": "በBahir Dar"
+},
+{
+"start": 67,
+"end": 89,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke"
+},
+{
+"start": 96,
+"end": 103,
+"label": "DATE",
+"text": "የ41 ዓመት"
+},
+{
+"start": 238,
+"end": 246,
+"label": "PERSON",
+"text": "Mekonnen"
+},
+{
+"start": 423,
+"end": 437,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 443,
+"end": 456,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 463,
+"end": 491,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 497,
+"end": 505,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 624,
+"end": 640,
+"label": "PERSON",
+"text": "Dawit Mekonnen\n*"
+},
+{
+"start": 652,
+"end": 665,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 680,
+"end": 708,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 722,
+"end": 732,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 778,
+"end": 792,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 805,
+"end": 818,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 873,
+"end": 881,
+"label": "PERSON",
+"text": "Mekonnen"
+},
+{
+"start": 1073,
+"end": 1088,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1089,
+"end": 1099,
+"label": "LOCATION",
+"text": "በBahir Dar"
+},
+{
+"start": 1101,
+"end": 1109,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1111,
+"end": 1123,
+"label": "PERSON",
+"text": "Belay Zeleke"
+},
+{
+"start": 1125,
+"end": 1130,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1148,
+"end": 1162,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1164,
+"end": 1177,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1235,
+"end": 1249,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1395,
+"end": 1412,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 1425,
+"end": 1434,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1436,
+"end": 1461,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke)\n*"
+},
+{
+"start": 1473,
+"end": 1486,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1561,
+"end": 1576,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1584,
+"end": 1598,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1600,
+"end": 1613,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 1686,
+"end": 1701,
+"label": "PERSON",
+"text": "የDawit Mekonnen"
+},
+{
+"start": 1751,
+"end": 1765,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1808,
+"end": 1813,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1911,
+"end": 1928,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 1941,
+"end": 1950,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1952,
+"end": 1977,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke)\n*"
+},
+{
+"start": 1989,
+"end": 2002,
+"label": "PHONE",
+"text": "+251960170802"
+}
+]

@@ -1,0 +1,45 @@
+User:
+Mimi [PERSON] (kitambulisho 40472954411), nataka kurekodi miadi (appointment) kwenye mada ya school ya kukutana na kamati ya taaluma na wazazi [DATE] huko [LOCATION], [LOCATION] (Malava); tafadhali thibitisha.
+
+Assistant:
+Sawa, [PERSON]. Ninaweza kurekodi miadi hiyo ya kukutana na kamati ya taaluma na wazazi.
+
+Ili niweze kurekodi miadi kwa usahihi, naomba unipe tarehe kamili ya [DATE] ambayo miadi hii inatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: school
+*   **activity_type**: appointment
+*   **title**: Kukutana na kamati ya taaluma na wazazi
+*   **date_time**: [Tarehe maalum ya [DATE]] [DATE]   **contact_name**: Kamati ya taaluma na wazazi
+*   **location**: [LOCATION], [LOCATION] (Malava)
+*   **notes**: Kitambulisho 40472954411
+
+Tafadhali nithibitishie tarehe kamili ya [DATE], ghairi miadi hiyo ya [DATE] kwa sasa kwa sababu nitakuwa darasani nikisimamia jaribio, usihifadhi chochote.
+
+Assistant:
+Sawa, [PERSON]. Nimeghairi ombi lako la miadi ya [DATE]. Hakuna miadi iliyohifadhiwa.
+
+User:
+Naomba uorodheshe shughuli zangu zote za mada ya school kwa kutumia list_user_activities kwa profile_id [PROFILE_ID].
+
+Assistant:
+Daniel, kwa sasa hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'school' kwa profile_id yako [PROFILE_ID].
+
+Kazi ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini, na miadi ya kukutana na kamati ya taaluma na wazazi zote hazikuhifadhiwa kwa sababu tarehe kamili ya [DATE] haikubainishwa.
+
+Je, kuna shughuli nyingine ungependa kuorodhesha au kuhifadhi?
+
+User:
+Ninahitaji kuratibu ziara ya kielimu na midahalo ya wanafunzi; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uonyeshe attribution ya [ORGANIZATION], [PERSON]. Nita tafuta '[ORGANIZATION]' kwa kutumia `openstreetmap_search_places`. Nitahakikisha taarifa zako binafsi hazitumwi na nitatambua [ORGANIZATION] kuwa hapo awali kulikuwa na tatizo la kiufundi na zana za [ORGANIZATION]. Nitajaribu tena, na nikipata hitilafu, nitakujulisha.
+
+Assistant:
+Samahani, [PERSON]. Inaonekana tatizo la kiufundi na zana ya utafutaji ya [ORGANIZATION] bado linaendelea. Nimeshindwa kutafuta '[ORGANIZATION] bahati mbaya, kwa sasa siwezi kukusaidia kutafuta maeneo kwa kutumia zana za [ORGANIZATION] tumia reverse_geocode kupata anwani ya eneo la shule lenye majira-nukta latitude 0.2827 na longitude 34.7519 huko [LOCATION], [LOCATION] (Malava) na ujumuishe nukuu ya [ORGANIZATION], [PERSON]. Ninaelewa kuwa unahitaji kupata anwani ya eneo la shule.
+
+Nimejaribu kutumia zana za [ORGANIZATION] hapo awali, ikiwemo `reverse_geocode`, na zote zimeshindwa kufanya kazi kutokana na tatizo la kiufundi. Nitajaribu tena sasa, lakini kuna uwezekano mkubwa wa kukutana na kosa lilelile.
+
+Ninakujaribu kutafuta anwani ya eneo lenye latitude 0.2827 na longitude 34.7519.
+
+Assistant:
+Samahani tena, [PERSON]. Kama nilivyotarajia, zana ya `reverse_geocode` bado haifanyi kazi. Inaonekana tatizo la kiufundi na zana za [ORGANIZATION] linaendelea.
+
+Kwa bahati mbaya, kwa sasa siwezi kupata anwani ya eneo la shule kwa kutumia zana zilizopo. Ninaomba radhi kwa usumbufu huu.

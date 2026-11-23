@@ -1,0 +1,4 @@
+* Anatumia wasifu wenye kitambulisho cha [PROFILE_ID] na anashughulikia ratiba kwa ajili ya [PERSON] (+254122951015).
+* Ana changamoto ya kiafya ya mzio wa msimu (Mild seasonal allergic rhinitis) inayohitaji mahitaji na vyakula vya afya.
+* Hufanya ununuzi wa shajara ya ratiba ya kila siku na bidhaa za afya katika eneo la [LOCATION], [LOCATION].
+* Alikuwa amepanga mazoezi ya afya tarehe [DATE] huko [LOCATION], [LOCATION], lakini alighairi kwa sababu ya kikao cha jioni.

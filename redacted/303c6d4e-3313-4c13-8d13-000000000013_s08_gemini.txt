@@ -1,0 +1,43 @@
+User:
+በ daily_planning ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ረቡዕ ከሰዓት 8:00 ላይ በ[LOCATION] ([LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] (profile_id: [[ID_NUMBER]]) በ daily\_planning ዘርፍ የምክክር ቀጠሮ (appointment) ረቡዕ ከሰዓት 8:00 ላይ በ [LOCATION] ([LOCATION]) እንዲመዘገብልኝ ጠይቀዋል።
+
+የቀጠሮው ዝርዝሮች እነሆ፦
+
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Theme**: daily\_planning
+*   **Activity Type**: appointment
+*   **Title**: የምክክር ቀጠሮ
+*   **Date/Time**: ረቡዕ ከሰዓት 8:00
+*   **Location**: [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Mobile Phone**: [PHONE]
+*   **Notes**: ኢሜይል: [EMAIL]
+
+ይህን ቀጠሮ ላስቀምጥ?
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕ ከሰዓት 8:00 ሰዓት ቀጠሮ ተሰርዟል፣ ምንም ነገር አልተቀመጠም። ሌላ ልረዳህ የምችለው ነገር አለ?
+
+User:
+እባክህ ለ profile_id [[ID_NUMBER]] በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ daily\_planning ዘርፍ ለ profile\_id [[ID_NUMBER]] ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+User:
+በ[LOCATION] ([LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION] Mekelle' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ቦታውን ፍለጋ ላይ ችግር አጋጥሟል። እባክህ ቆይተህ እንደገና ሞክር።
+
+User:
+እባክህ በ[LOCATION] ([LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ የጂኦኮድ ፍለጋውን ለማከናወን ችግር አጋጥሞኛል። እባክህ ቆይተህ እንደገና ሞክር።

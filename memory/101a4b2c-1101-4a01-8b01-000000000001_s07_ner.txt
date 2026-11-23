@@ -1,0 +1,7 @@
+* Jina lake ni [PERSON] (profile_id: [PROFILE_ID]), ana umri wa miaka 34 na anaishi [LOCATION], [LOCATION] (Itabua).
+* Kazi yake ni Secondary School Kiswahili Teacher na ana elimu ya Bachelor of Education.
+* Mawasiliano yake ni nambari ya simu +254122951015 na barua pepe [PERSON].
+* Lugha anayopendelea ni Kiswahili na nchi yake ni [LOCATION].
+* Hali yake ya familia ni kuwa ameoa/ameolewa akiwa na watoto wawili.
+* Ana tatizo la kiafya la mzio wa msimu (Mild seasonal allergic rhinitis).
+* Alipanga kikumbusho cha kuangalia afya na ratiba ya siku kwa tarehe [DATE] (iliyobadilishwa kutoka [DATE]).

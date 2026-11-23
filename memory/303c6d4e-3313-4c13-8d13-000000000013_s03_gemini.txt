@@ -1,0 +1,5 @@
+* ተጠቃሚው Hospital Physician (የሆስፒታል ሐኪም) ሆኖ ይሠራል።
+* ከ[PERSON] (ስልክ: [PHONE]፣ profile_id: [[ID_NUMBER]]) ጋር በሥራ ጉዳዮች ላይ ይገናኛል።
+* ለ[PERSON] በ[LOCATION] አካባቢ የሥራ እና የጤና ግብዓቶችን (shopping_item) የመግዛት ፍላጎት አለው።
+* ለ[PERSON] በ[LOCATION] ቅዳሜ ጠዋት 4:00 ሰዓት ላይ የአገልግሎት ወይም የቦታ ማስያዣ (booking) የማድረግ ዕቅድ አለው።
+* ለ[PERSON] አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) እንዲያዝለት ይፈልጋል።

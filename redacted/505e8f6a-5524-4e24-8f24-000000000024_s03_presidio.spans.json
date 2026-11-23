@@ -1,0 +1,176 @@
+[
+{
+"start": 65,
+"end": 79,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 535,
+"end": 549,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 873,
+"end": 887,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1295,
+"end": 1302,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1304,
+"end": 1317,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1319,
+"end": 1331,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1363,
+"end": 1377,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1674,
+"end": 1681,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1683,
+"end": 1696,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1698,
+"end": 1710,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1734,
+"end": 1748,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2006,
+"end": 2044,
+"label": "ORGANIZATION",
+"text": "Executive Software Engineering Manager"
+},
+{
+"start": 2054,
+"end": 2058,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 2072,
+"end": 2086,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2512,
+"end": 2542,
+"label": "ORGANIZATION",
+"text": "Executive Software Engineering"
+},
+{
+"start": 2560,
+"end": 2564,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 2631,
+"end": 2638,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2640,
+"end": 2653,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2655,
+"end": 2667,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2691,
+"end": 2705,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2990,
+"end": 3004,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3086,
+"end": 3106,
+"label": "ORGANIZATION",
+"text": "Software Engineering"
+},
+{
+"start": 3123,
+"end": 3130,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3132,
+"end": 3145,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3147,
+"end": 3159,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3440,
+"end": 3447,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3449,
+"end": 3462,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3464,
+"end": 3476,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3500,
+"end": 3505,
+"label": "PERSON",
+"text": "David"
+}
+]

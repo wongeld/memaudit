@@ -1,0 +1,4 @@
+- User is [PERSON] (ID: 8698697209).
+- Actively manages household budget and family calendar planning.
+- Planning a family outing in [LOCATION], [LOCATION] ([LOCATION]).
+- Organizing a family gathering at coordinates 41.9142, -87.6485 in [LOCATION], [LOCATION] ([LOCATION]).

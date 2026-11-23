@@ -1,0 +1,16 @@
+city,country,count,latitude,longitude,mapped
+Addis Ababa,Ethiopia,6,9.0358119,38.7524315,True
+Arusha,Tanzania,2,-3.3696827,36.6880794,True
+Austin,United States,4,30.2649261,-97.7474086,True
+Bahir Dar,Ethiopia,1,11.5913676,37.3900043,True
+Boston,United States,4,42.3588336,-71.0578303,True
+Chicago,United States,4,41.8755616,-87.6244212,True
+Dar es Salaam,Tanzania,2,-6.8160837,39.2803583,True
+Dodoma,Tanzania,1,-6.1791181,35.7468174,True
+Embu,Kenya,2,-0.5376699,37.4583949,True
+Hawassa,Ethiopia,1,7.0481029,38.47861,True
+Kakamega,Kenya,1,0.2833,34.75,True
+Mekelle,Ethiopia,2,13.4966644,39.4768259,True
+Nairobi,Kenya,2,-1.2890006,36.8172812,True
+Newark,United States,4,40.735657,-74.1723667,True
+Seattle,United States,4,47.6038321,-122.330062,True

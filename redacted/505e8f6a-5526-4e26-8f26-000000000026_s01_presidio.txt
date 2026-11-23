@@ -1,0 +1,55 @@
+User:
+I'm [PERSON] (profile_id: [PROFILE_ID]), a 38-year-old University Lecturer living in [LOCATION], [LOCATION] ([LOCATION]) with a Doctor of Philosophy; please call get_user_profile to check if my local contact profile is already saved.
+
+Assistant:
+No saved profile found. Please provide your first name, last name, mobile phone number, and email address so I can save your profile.
+
+User:
+Please save my contact profile using save_user_profile with profile_id [PROFILE_ID], first_name [PERSON], last_name [PERSON], mobile_phone [PHONE], email [EMAIL], country [LOCATION], and preferred_language English, and show me the exact details to confirm first.
+
+Assistant:
+Here are the details you provided for your profile. Please confirm they are correct:
+
+**Profile ID**: [PROFILE_ID]
+**First Name**: [PERSON]
+**Last Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+**Email**: [EMAIL]
+**Country**: [LOCATION]
+**Preferred Language**: English
+
+If confirmed, I will save your profile.
+
+User:
+Yes, those profile details for [PERSON] with mobile phone [PHONE] are completely accurate—please go ahead and save them.
+
+Assistant:
+It seems the profile save was canceled. I apologize for the inconvenience. The tool returned a "Canceled" message, but it also returned the profile details, which is a bit contradictory.
+
+Could you please confirm if you still want to save this profile, or if there was any specific reason for the cancellation?
+
+User:
+As a University Lecturer in [LOCATION], [LOCATION] (Back Bay) (state-ID-style mock [PHONE], married with two children), I want to use record_user_activity under the work theme to log a task titled 'Prepare [ORGANIZATION] Lecturer Briefing' for Monday at 09:00 AM with contact [PERSON] ([PHONE]).
+
+Assistant:
+It appears the activity save was also canceled, similar to the profile save earlier. I apologize for this repeated issue. The tool indicates "Canceled" but then returns the details that were supposed to be saved.
+
+Could you please confirm if you still wish to record this activity, and if you have any insights into why these operations might be getting canceled?
+
+User:
+Actually, please update the time on that work task to Monday at 09:30 AM for profile_id [PROFILE_ID], and repeat all submitted fields including [PERSON] and [PHONE] so I can confirm before saving.
+
+Assistant:
+It seems the previous task "Prepare Quarterly University Lecturer Briefing" was not saved due to the cancellation message we received. Therefore, there's no existing task to update.
+
+However, I can create a *new* task with the updated time. Please confirm these details for the new task:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Task
+**Title**: Prepare [ORGANIZATION] Lecturer Briefing
+**Date/Time**: Monday at 09:30 AM
+**Contact Name**: [PERSON]
+**Mobile Phone**: [PHONE]
+
+If these details are correct, I will proceed to save this new activity.

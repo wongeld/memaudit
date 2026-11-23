@@ -1,0 +1,146 @@
+[
+{
+"start": 20,
+"end": 35,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 37,
+"end": 50,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 57,
+"end": 86,
+"label": "EMAIL",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 106,
+"end": 123,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 125,
+"end": 130,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 450,
+"end": 467,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 469,
+"end": 474,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 505,
+"end": 520,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 555,
+"end": 568,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 596,
+"end": 625,
+"label": "EMAIL",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 1095,
+"end": 1112,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 1114,
+"end": 1119,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 1177,
+"end": 1192,
+"label": "LOCATION",
+"text": "Hawassa Airport"
+},
+{
+"start": 1423,
+"end": 1438,
+"label": "LOCATION",
+"text": "Hawassa Airport"
+},
+{
+"start": 1924,
+"end": 1931,
+"label": "LOCATION",
+"text": "Hawassa"
+},
+{
+"start": 1942,
+"end": 1959,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 1961,
+"end": 1966,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 3318,
+"end": 3333,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 3348,
+"end": 3361,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 3606,
+"end": 3623,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 3625,
+"end": 3630,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 4329,
+"end": 4344,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 4637,
+"end": 4652,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 4667,
+"end": 4680,
+"label": "PHONE",
+"text": "+251937514011"
+}
+]

@@ -1,0 +1,5 @@
+- The user's name is Evan.
+- Evan frequently manages pharmacy, supply, and shopping orders, including in-store pickups and delivery slot reservations.
+- He coordinates these activities for [PERSON] (mobile: [PHONE], profile_id: [[ID_NUMBER]]).
+- He regularly interacts with locations in [LOCATION], [LOCATION] ([LOCATION]).
+- Evan is aware of a persistent technical issue where the assistant is unable to save or record any activity data.

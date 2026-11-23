@@ -1,0 +1,46 @@
+User:
+በ shopping ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ለ [PERSON] የምክክር ቀጠሮ ዝርዝሮች እነሆ። እባክህ ቀጠሮው ያለበትን ትክክለኛ ቀን አረጋግጥ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: shopping
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) [DATE] (ይህ ማለት [DATE] ማለት ነው?)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile_phone**: [PHONE]
+*   **notes**: [EMAIL]
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ ለ [PERSON] [DATE] ቀጠሮ ተሰርዟል፣ እና ምንም ነገር አልተመዘገበም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ shopping ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ profile_id [PROFILE_ID] በ shopping ዘርፍ ምንም የተቀመጡ እንቅስቃሴዎች የሉም።
+
+ከዚህ ቀደም የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን እንድትሰጠኝ ጠይቄህ ነበር። እንዲሁም የምክክር ቀጠሮውን ሰርዘኸዋል። ስለዚህ፣ እስካሁን ምንም አይነት ተግባራት አልተመዘገቡም።
+
+User:
+በAddis [LOCATION], [LOCATION] (Bole) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+ይቅርታ፣ [ORGANIZATION] ላይ '[LOCATION]' የሚለውን ቦታ ለመፈለግ የሞከርኩት ሙከራ አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።
+
+User:
+እባክህ [LOCATION], [LOCATION] (Bole) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የተገላቢጦሽ ጂኦኮድ (reverse geocode) ፍለጋው እንደገና አልተሳካም። [ORGANIZATION] መሣሪያ አፈጻጸም ላይ ችግር እየገጠመው ያለ ይመስላል።
+
+የOpenStreetMap ውሂብ © [ORGANIZATION] አስተዋጽዖ አበርካቾች (contributors) ነው።

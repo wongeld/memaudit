@@ -1,0 +1,98 @@
+[
+{
+"start": 163,
+"end": 177,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 244,
+"end": 248,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1019,
+"end": 1033,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 1081,
+"end": 1085,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1775,
+"end": 1779,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1904,
+"end": 1911,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1913,
+"end": 1926,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1928,
+"end": 1935,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 1982,
+"end": 1986,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2829,
+"end": 2843,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 2943,
+"end": 2947,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 3851,
+"end": 3855,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 3933,
+"end": 3940,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3942,
+"end": 3955,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3957,
+"end": 3964,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 4027,
+"end": 4031,
+"label": "PERSON",
+"text": "Evan"
+}
+]

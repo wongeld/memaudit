@@ -1,0 +1,4 @@
+* የጤና ሁኔታው 'Mild asthma' አለበት።
+* የሥራ ሙያው 'Hospital Physician' ነው።
+* ከ [PERSON] (profile_id: [[ID_NUMBER]]፣ ስልክ: [PHONE]) ጋር የተያያዙ ዕለታዊ ማስታወሻዎችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን (booking) ያቅዳል።
+* በ[LOCATION] ([LOCATION]) የሥራ/የጤና ቁሳቁሶች ግዢ እና የቦታ ማስያዣ እቅዶች አሉት።

@@ -1,0 +1,4 @@
+* Works as an ESG Shareholder Governance Analyst.
+* Currently planning travel involving [LOCATION], [LOCATION] ([LOCATION]).
+* Manages travel-related logistics, including expense receipts and mileage logs.
+* Coordinates travel appointments and tasks with [PERSON] (phone: [PHONE], profile ID: [[ID_NUMBER]]).

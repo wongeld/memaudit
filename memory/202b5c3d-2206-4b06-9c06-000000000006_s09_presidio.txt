@@ -1,0 +1,5 @@
+* ሙሉ ጤነኛ እንደሆኑ እና የCommercial Florist and Event Decorator ሥራ እንዳለባቸው ገልጸዋል።
+* ከ[PERSON] (profile_id [PROFILE_ID]፣ ስልክ [PHONE]) ጋር የተያያዙ ዕቅዶችን በ daily_planning ሥር ያስመዘግባሉ።
+* በ[DATE] ለ[PERSON] የሚሆን የክትትል ማስታወሻ (reminder) የማስቀመጥ ዕቅድ አላቸው።
+* በ[LOCATION], [LOCATION] (Bole) ለCommercial Florist and Event Decorator እና Single አገልግሎት የሚውሉ አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) ማከናወን ይፈልጋሉ።
+* በ[DATE] በ[LOCATION] (Bole) ለ[PERSON] የአገልግሎት/የቦታ booking ለማስያዝ አቅደዋል።

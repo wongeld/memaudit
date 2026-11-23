@@ -1,0 +1,68 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 210,
+"end": 216,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 218,
+"end": 226,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 228,
+"end": 233,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 1172,
+"end": 1209,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1210,
+"end": 1216,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1335,
+"end": 1372,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1373,
+"end": 1379,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1828,
+"end": 1834,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1836,
+"end": 1844,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1846,
+"end": 1851,
+"label": "LOCATION",
+"text": "Njiro"
+}
+]

@@ -1,0 +1,7 @@
+- Name: Rachel Kim
+- Age: 34
+- Profession: Child Psychologist (holds a PhD)
+- Family: Married with two children
+- Health: Manages mild seasonal allergic rhinitis
+- Contact: [PHONE], [EMAIL]
+- Location: [LOCATION]

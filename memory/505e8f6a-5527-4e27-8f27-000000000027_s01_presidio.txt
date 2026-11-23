@@ -1,0 +1,7 @@
+- User is [PERSON], a 49-year-old Retail Import Buyer.
+- Holds a Bachelor of Commerce degree.
+- Lives in [LOCATION], [LOCATION] ([LOCATION] Park).
+- Married with three children.
+- Preferred language is English.
+- Work task: "Prepare Quarterly Retail Import Buyer Briefing" scheduled for Mondays at 09:30 AM.
+- Contact associated with work tasks is [PERSON] ([PHONE]).

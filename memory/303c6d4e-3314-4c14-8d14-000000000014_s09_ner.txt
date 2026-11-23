@@ -1,0 +1,5 @@
+* ተጠቃሚው 'Iron-deficiency anemia' የተባለ የጤና እክል አለበት።
+* በሙያው 'Private School Admissions Coordinator' ሆኖ ይሰራል።
+* ያገባ ሲሆን ሁለት ልጆች አሉት።
+* ከ [PERSON] (+251936812879) ጋር የተያያዙ የቤተሰብ (family) ጉዳዮችን፣ የጤና እና የሥራ ግብዓቶችን፣ እንዲሁም የቦታ ማስያዣ (booking) መረጃዎችን በስርዓቱ ውስጥ ያስመዘግባል።
+* በ [LOCATION], [LOCATION] (Yeka) አካባቢ አገልግሎቶችን እና ግብይቶችን ያከናውናል።

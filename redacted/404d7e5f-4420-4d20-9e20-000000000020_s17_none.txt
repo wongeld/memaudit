@@ -1,0 +1,55 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+Assistant:
+Nimeangalia shughuli zako kwa kutumia `list_user_activities`, na kwa sasa hakuna shughuli yoyote iliyohifadhiwa kwenye mada ya **daily_planning** kwa `profile_id` `[PROFILE_ID]` (`"activities": []`).
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta 'Benjamin Mkapa Hospital Dodoma' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Nimejaribu kutumia `search_places` kutafuta `'Benjamin Mkapa Hospital Dodoma'` (bila kutuma taarifa zako binafsi), lakini kwa sasa seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva ya OpenStreetMap itakapoidhinishwa, matokeo ya utafutaji yataonyeshwa pamoja na nukuu rasmi ya attribution: **© OpenStreetMap contributors**.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -6.1731 na longitude 35.7485 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Nimejaribu kutumia `reverse_geocode` kwa majira-nukta `latitude: -6.1731` na `longitude: 35.7485` (Dodoma, Tanzania - Area C), lakini kwa sasa seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva ya OpenStreetMap itakapoidhinishwa, anwani ya eneo hilo itaonyeshwa pamoja na nukuu rasmi ya OpenStreetMap: **© OpenStreetMap contributors**.
+
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa Halima Kikwete (profile_id [PROFILE_ID], simu +255890185741) ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri huko Dodoma, Tanzania (Area C); nionyeshe uthibitisho.
+
+Assistant:
+Niko tayari kurekodi miadi (appointment) hiyo kwenye mada ya **daily_planning**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `daily_planning`
+* **Aina ya Shughuli (Activity Type):** `appointment`
+* **Kichwa (Title):** Ukaguzi wa afya na ushauri wa lishe
+* **Muda (Date/Time):** Ijumaa saa 9:00 alasiri
+* **Eneo (Location):** Dodoma, Tanzania (Area C)
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+
+Je, unathibitisha maelezo haya ili nihifadhi miadi hii?
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya Ijumaa saa 9:00 alasiri kwa Halima Kikwete (+255890185741), tafadhali ihifadhi.
+
+Assistant:
+Nimetuma ombi la kuhifadhi miadi hiyo kupitia `record_user_activity`, lakini mfumo umerejesha ujumbe kuwa uhifadhi umesitishwa (`Canceled. No activity was saved.`). Hapa kuna muhtasari wa taarifa zilizowasilishwa:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `daily_planning`
+* **Aina ya Shughuli (Activity Type):** `appointment`
+* **Kichwa (Title):** Ukaguzi wa afya na ushauri wa lishe
+* **Muda (Date/Time):** Ijumaa saa 9:00 alasiri
+* **Eneo (Location):** Dodoma, Tanzania (Area C)
+* **Jina la Mhusika:** Halima Kikwete
+* **Simu:** `+255890185741`
+
+Tafadhali nijulishe jinsi unavyopenda tuendelee.

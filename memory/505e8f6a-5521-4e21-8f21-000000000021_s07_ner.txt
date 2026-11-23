@@ -1,0 +1,8 @@
+- Name: [PERSON]
+- Age: 46 years old
+- Profession: Child Psychologist (holds a PhD)
+- Family status: Married with two children
+- Health status: Good health with no chronic conditions
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Contact: +17427416378 / james.bosse+021@gmail.com
+- Routine: Daily health routine and schedule review reminder set for 06:45 AM

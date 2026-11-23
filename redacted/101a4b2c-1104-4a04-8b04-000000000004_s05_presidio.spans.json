@@ -1,0 +1,146 @@
+[
+{
+"start": 196,
+"end": 243,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku.\n\nAssistant:\nNimejaribu"
+},
+{
+"start": 559,
+"end": 584,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku\n*"
+},
+{
+"start": 612,
+"end": 630,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 654,
+"end": 667,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1343,
+"end": 1366,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 1479,
+"end": 1502,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 1946,
+"end": 1982,
+"label": "ORGANIZATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 1983,
+"end": 1996,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2056,
+"end": 2091,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2114,
+"end": 2150,
+"label": "ORGANIZATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 2151,
+"end": 2164,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2186,
+"end": 2199,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2288,
+"end": 2301,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2340,
+"end": 2349,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 2542,
+"end": 2565,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 2697,
+"end": 2706,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 3187,
+"end": 3200,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3202,
+"end": 3210,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3244,
+"end": 3279,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 3346,
+"end": 3359,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3466,
+"end": 3479,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3518,
+"end": 3527,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 3722,
+"end": 3745,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 3877,
+"end": 3886,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+}
+]

@@ -1,0 +1,7 @@
+* User is [PERSON], a 41-year-old Software Engineering Manager.
+* Holds a Master of Science degree.
+* Married with three children.
+* Manages type 2 diabetes.
+* Contact details: +18466001447 and [EMAIL].
+* Resides in [LOCATION], [LOCATION] ([LOCATION]).
+* Currently experiencing persistent technical issues with saving profile data and activity records.

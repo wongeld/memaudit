@@ -1,0 +1,206 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 38,
+"end": 48,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 95,
+"end": 102,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 104,
+"end": 117,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 119,
+"end": 126,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 505,
+"end": 515,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 593,
+"end": 606,
+"label": "PHONE",
+"text": "206) 555-0199"
+},
+{
+"start": 622,
+"end": 647,
+"label": "EMAIL",
+"text": "lucas.bennett@example.com"
+},
+{
+"start": 665,
+"end": 678,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 838,
+"end": 848,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 901,
+"end": 913,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 921,
+"end": 948,
+"label": "EMAIL",
+"text": "lucas.bennett+028@yahoo.com"
+},
+{
+"start": 958,
+"end": 971,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1188,
+"end": 1198,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1275,
+"end": 1287,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1303,
+"end": 1330,
+"label": "EMAIL",
+"text": "lucas.bennett+028@yahoo.com"
+},
+{
+"start": 1348,
+"end": 1361,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1531,
+"end": 1544,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1563,
+"end": 1575,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 2280,
+"end": 2287,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2289,
+"end": 2302,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2304,
+"end": 2311,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2334,
+"end": 2344,
+"label": "ID_NUMBER",
+"text": "7969405462"
+},
+{
+"start": 2516,
+"end": 2529,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2531,
+"end": 2543,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 2721,
+"end": 2731,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2902,
+"end": 2915,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2938,
+"end": 2950,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3135,
+"end": 3145,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3190,
+"end": 3203,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3208,
+"end": 3220,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3455,
+"end": 3465,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3636,
+"end": 3649,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3672,
+"end": 3684,
+"label": "PHONE",
+"text": "+16314978227"
+}
+]

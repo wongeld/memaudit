@@ -1,0 +1,4 @@
+- Hutumia profile_id [PROFILE_ID] na nambari ya simu [PHONE] kwa ajili ya mipango ya kila siku (daily_planning) inayohusiana na [PERSON].
+- Hufanya ukaguzi wa kawaida wa afya katika kituo cha '[ORGANIZATION]'.
+- Amepanga miadi ya ukaguzi wa afya na ushauri wa lishe kwa [PERSON] siku ya Ijumaa saa 9:00 alasiri huko [LOCATION], [LOCATION] ([LOCATION]).
+- Anajali faragha ya taarifa zake binafsi wakati wa kufanya utafutaji wa maeneo mtandaoni.

@@ -1,0 +1,5 @@
+- The user is married with two children.
+- The user is managing type 2 diabetes and prioritizes healthy family meals.
+- The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations, in [LOCATION].
+- The user manages these activities in coordination with [PERSON] (phone: [PHONE]).
+- The user is experiencing technical issues with the `record_user_activity` tool, which consistently returns a "Canceled" status.

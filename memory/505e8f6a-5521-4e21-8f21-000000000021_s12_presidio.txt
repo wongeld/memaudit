@@ -1,0 +1,6 @@
+- The user works as a Child Psychologist.
+- The user has no chronic health conditions.
+- The user has a recurring work routine every Friday at 04:00 PM to submit departmental metrics and take a break.
+- The user frequently coordinates work tasks, bookings, and supply orders through [PERSON] ([PHONE]).
+- The user is currently organizing an "Executive Child Psychologist Strategy" meeting at [LOCATION].
+- The user is in the process of ordering ergonomic office supplies and reference materials for their role.

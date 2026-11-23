@@ -1,0 +1,7 @@
+* User is [PERSON], a 41-year-old Software [ORGANIZATION] Manager.
+* Lives in [LOCATION], [LOCATION] ([LOCATION]).
+* Married with three children.
+* Manages type 2 diabetes.
+* Needs to purchase specialty wellness items and weekly essentials.
+* Contact details: mobile +18466001447, email [EMAIL].
+* Experiences persistent technical issues with the assistant saving profile data and shopping activities.

@@ -1,0 +1,6 @@
+- User is [PERSON], a 29-year-old single Doctoral Research Fellow.
+- Holds a Master of Science degree.
+- Based in [LOCATION], [LOCATION] ([LOCATION]).
+- Manages mild asthma.
+- Requires assistance with shopping lists for specialty wellness items and weekly essentials.
+- Contact details: [PHONE] and [EMAIL].

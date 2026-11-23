@@ -1,0 +1,176 @@
+[
+{
+"start": 120,
+"end": 126,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 128,
+"end": 141,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 143,
+"end": 152,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 180,
+"end": 196,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 577,
+"end": 583,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 585,
+"end": 598,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 629,
+"end": 645,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 768,
+"end": 784,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1459,
+"end": 1475,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1585,
+"end": 1591,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1593,
+"end": 1606,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1979,
+"end": 1985,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1987,
+"end": 2000,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2002,
+"end": 2011,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2031,
+"end": 2047,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2234,
+"end": 2250,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2594,
+"end": 2600,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2638,
+"end": 2644,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2646,
+"end": 2659,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2661,
+"end": 2670,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2697,
+"end": 2706,
+"label": "PERSON",
+"text": "Pendleton"
+},
+{
+"start": 2831,
+"end": 2847,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2911,
+"end": 2917,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2919,
+"end": 2932,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2934,
+"end": 2943,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3335,
+"end": 3341,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3343,
+"end": 3356,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3387,
+"end": 3393,
+"label": "ORGANIZATION",
+"text": "Arthur"
+},
+{
+"start": 3394,
+"end": 3403,
+"label": "LOCATION",
+"text": "Pendleton"
+}
+]

@@ -1,0 +1,6 @@
+* Anaitwa [PERSON].
+* Ameoa/ameolewa na ana watoto watatu.
+* Ana changamoto ya kiafya ya shinikizo la damu (Mild hypertension).
+* Anatumia kitambulisho cha wasifu (profile_id) cha [PROFILE_ID] kwa shughuli zake za kazi.
+* Anapendelea kutojumuisha taarifa zake binafsi anapofanya utafutaji wa maeneo.
+* Ana shughuli na vikao vya kikazi vinavyohusiana na eneo la [LOCATION], [LOCATION] (Mikocheni).

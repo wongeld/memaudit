@@ -1,0 +1,4 @@
+* በ work ዘርፍ ከ [PERSON] (ስልክ: +251945416026፣ ኢሜይል: bereket.tesfaye+009@yahoo.com) ጋር የምክክር ቀጠሮዎችን ያዘጋጃል።
+* በ profile_id [PROFILE_ID] ስር የስራ እንቅስቃሴዎችን ይመዘግባል።
+* በ Mekelle, [LOCATION] (በተለይም በኮኦርዲኔት latitude 13.5078 እና longitude 39.4622) አካባቢ የቦታና የአድራሻ ፍለጋ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይጋራ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣል።

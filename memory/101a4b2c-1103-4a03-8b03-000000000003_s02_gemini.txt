@@ -1,0 +1,5 @@
+* Ana afya njema bila ugonjwa sugu.
+* Nambari yake ya kitambulisho ni [ID_NUMBER] na kitambulisho chake cha wasifu ni [PROFILE_ID].
+* Ana mpango wa safari na hupendelea kuandaa begi lake la safari mapema mchana.
+* Safari yake inahusisha kituo cha usafiri huko [LOCATION] na majira-nukta latitude 0.2827 na longitude 34.7519 huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapendelea kutotuma taarifa zake binafsi wakati anatafutiwa maeneo kwenye zana za ramani.

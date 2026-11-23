@@ -1,0 +1,5 @@
+* የሥራ ሙያቸው University Lecturer ነው።
+* የጤና ሁኔታቸው 'Mild hypertension' አለበት።
+* ያገቡ እና የሁለት ልጆች ወላጅ ናቸው (Married with two children)።
+* የመገለጫ መታወቂያቸው [PROFILE_ID]፣ ስማቸው [PERSON] እና ስልክ ቁጥራቸው +251906564148 ነው።
+* በ [LOCATION], [LOCATION] (Yeka) ለቤተሰብ እና ለሥራ/ጤና ግብዓቶች የሚሆኑ ዕቃዎችን የመግዛት እንዲሁም በ [DATE] የአገልግሎት/የቦታ ማስያዣ (booking) የማድረግ ዕቅድ ነበራቸው።

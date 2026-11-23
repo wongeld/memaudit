@@ -1,0 +1,98 @@
+[
+{
+"start": 10,
+"end": 21,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 222,
+"end": 228,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 230,
+"end": 243,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 245,
+"end": 253,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 491,
+"end": 497,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 499,
+"end": 512,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 514,
+"end": 522,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 538,
+"end": 549,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 714,
+"end": 725,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1127,
+"end": 1138,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1251,
+"end": 1264,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1284,
+"end": 1326,
+"label": "LOCATION",
+"text": "Boston Children's Hospital Longwood Avenue"
+},
+{
+"start": 1446,
+"end": 1488,
+"label": "LOCATION",
+"text": "Boston Children's Hospital Longwood Avenue"
+},
+{
+"start": 1770,
+"end": 1776,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1778,
+"end": 1791,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1798,
+"end": 1801,
+"label": "LOCATION",
+"text": "Bay"
+}
+]

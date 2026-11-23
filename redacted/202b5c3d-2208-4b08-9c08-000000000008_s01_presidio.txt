@@ -1,0 +1,51 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [PROFILE_ID])፤ [LOCATION], [LOCATION] (Kirkos) የምኖር [DATE] Horticultural Export Training Coordinator (Master of Science፣ Married with three children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ይቅርታ፣ በዛ መታወቂያ የተመዘገበ ምንም መገለጫ አላገኘሁም። መገለጫ መፍጠር ይፈልጋሉ?
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **first\_name**: [PERSON]   **last\_name**: [PERSON]   **mobile\_phone**: [PHONE]
+*   **email**: [PERSON]   **country**: [LOCATION]   **preferred\_language**: አማርኛ
+
+ይህን መገለጫ ማስቀመጥ እችላለሁ?
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ የሆነ ችግር ተፈጥሯል። መገለጫው አልተቀመጠም። እባክዎ እንደገና ይሞክሩ።
+
+User:
+እንደ Horticultural Export Training Coordinator (Master of Science፣ መታወቂያ 3921201991) እና የጤና ሁኔታዬ 'Type 2 diabetes' ስለሆነ፣ በ work ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION] (Kirkos) [DATE] ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ [DATE] ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክዎ መረጃውን ያረጋግጡ፦
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact\_name**: [PERSON]   **date\_time**: [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: [PHONE]
+
+ይህንን እንቅስቃሴ ማስቀመጥ እችላለሁ?
