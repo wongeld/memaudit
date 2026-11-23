@@ -1,0 +1,5 @@
+- The user's name is Nathan.
+- He is married and has two children.
+- He prioritizes healthy family meals and fresh produce.
+- He frequently organizes family activities, including weekend brunches and grocery shopping.
+- He is currently experiencing persistent technical issues with the `record_user_activity` tool, which prevents him from saving reminders, shopping lists, and bookings.

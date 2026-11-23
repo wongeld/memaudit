@@ -1,0 +1,6 @@
+* The user is Julian Brooks, who works as an Executive Regional Logistics Coordinator.
+* The user is based in Austin, United States (Hyde Park).
+* The user manages mild seasonal allergic rhinitis.
+* The user has a recurring work routine every Friday at 04:00 PM to submit departmental metrics and take a break.
+* The user frequently attempts to use the `record_user_activity` tool for work-related tasks, including conference room bookings and ordering ergonomic office supplies.
+* Contact details: mobile phone +18694794339, profile_id [PROFILE_ID].

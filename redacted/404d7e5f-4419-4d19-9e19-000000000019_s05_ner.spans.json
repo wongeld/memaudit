@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 201,
+"end": 226,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 232,
+"end": 238,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 240,
+"end": 248,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 518,
+"end": 553,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri\n**Eneo:**"
+},
+{
+"start": 554,
+"end": 560,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 562,
+"end": 570,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 643,
+"end": 668,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1085,
+"end": 1102,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1144,
+"end": 1164,
+"label": "LOCATION",
+"text": "Arusha National Park"
+},
+{
+"start": 1224,
+"end": 1259,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1305,
+"end": 1325,
+"label": "LOCATION",
+"text": "Arusha National Park"
+},
+{
+"start": 1485,
+"end": 1491,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1493,
+"end": 1501,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1531,
+"end": 1566,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

@@ -1,0 +1,86 @@
+[
+{
+"start": 11,
+"end": 23,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 190,
+"end": 215,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 221,
+"end": 280,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni).\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 503,
+"end": 535,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri\nMahali"
+},
+{
+"start": 537,
+"end": 577,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni)\nJina"
+},
+{
+"start": 589,
+"end": 609,
+"label": "PERSON",
+"text": "Neema Mwinyi\nMaelezo"
+},
+{
+"start": 699,
+"end": 724,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 842,
+"end": 867,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1135,
+"end": 1152,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1194,
+"end": 1221,
+"label": "ORGANIZATION",
+"text": "National Museum of Tanzania"
+},
+{
+"start": 1222,
+"end": 1235,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1295,
+"end": 1330,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1549,
+"end": 1583,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni"
+},
+{
+"start": 1606,
+"end": 1641,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

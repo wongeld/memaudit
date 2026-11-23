@@ -1,0 +1,5 @@
+* የሥራ መስኩ Commercial Florist and Event Decorator ነው።
+* ሙሉ ጤነኛ እንደሆነ ገልጿል።
+* ለ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) የዕለት ተዕለት ዕቅዶችን (daily_planning)፣ ማስታወሻዎችንና ግዢዎችን ያስተዳድራል።
+* በ[LOCATION] ([LOCATION]) አስፈላጊ ቁሳቁሶችን እና የሥራ/የጤና ግብዓቶችን ግዢ እንዲሁም የአገልግሎት/የቦታ booking ያቅዳል።
+* የግዢ ዕቃዎቹ ማስታወሻ ለCommercial Florist and Event Decorator እና Single አገልግሎት የሚውል እንዲሆን ይፈልጋል።

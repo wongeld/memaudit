@@ -1,0 +1,6 @@
+* የጤና ሁኔታው ሙሉ ጤነኛ ነው።
+* የሥራ መስክ፡ Family Mediation Counselor ነው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ ነው (Married with two children)።
+* ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ ቁጥር [PHONE]) የዕለታዊ ዕቅድ (daily_planning) እንቅስቃሴዎችን ያስተዳድራል።
+* በ [LOCATION], [LOCATION] አስፈላጊ ቁሳቁሶችን የመግዛት እንዲሁም በ [DATE] የክትትል ማስታወሻ እና የአገልግሎት/ቦታ ማስያዝ (booking) ዕቅዶች አሉት።
+* ማንኛውም መረጃ ወይም እንቅስቃሴ ከመመዝገቡ በፊት አስቀድሞ ለማረጋገጫ እንዲቀርብለት ይፈልጋል።

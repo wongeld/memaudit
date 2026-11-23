@@ -1,0 +1,5 @@
+* Works as a Regional Logistics Coordinator.
+* Based in Hyde Park, Austin, United States.
+* Frequently manages travel-related tasks, including itinerary reviews, expense reconciliation, and shopping for travel gear (e.g., carry-on organizers and portable chargers).
+* Works with Julian Brooks (phone: +18694794339) on travel logistics.
+* Uses profile_id [PROFILE_ID] for activity tracking.

@@ -1,0 +1,74 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya shopping kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) cha kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION], [LOCATION] ([LOCATION]) Ijumaa saa 10:30 jioni.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [[ID_NUMBER]]
+Mada: shopping
+Aina ya Shughuli: reminder
+Kichwa: kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+Muda: Ijumaa saa 10:30 jioni
+Mahali: [LOCATION], [LOCATION] ([LOCATION])
+Jina la Anwani: [PERSON]
+Simu ya Mkononi: [PHONE]
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha manunuzi kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [[ID_NUMBER]]
+Mada: shopping
+Aina ya Shughuli: reminder
+Kichwa: kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+Muda: Ijumaa saa 10:30 jioni
+Mahali: [LOCATION], [LOCATION] ([LOCATION])
+Jina la Anwani: [PERSON]
+Simu ya Mkononi: [PHONE]
+
+User:
+Naomba urekodi miadi (appointment) kwenye mada ya shopping kwa [PERSON] ([PHONE]) ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION], [LOCATION] ([LOCATION]) Alhamisi saa 5:00 asubuhi; nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [[ID_NUMBER]]
+Mada: shopping
+Aina ya Shughuli: appointment
+Kichwa: kukagua ubora wa bidhaa na muuzaji
+Muda: Alhamisi saa 5:00 asubuhi
+Mahali: [LOCATION], [LOCATION] ([LOCATION])
+Jina la Anwani: [PERSON]
+Simu ya Mkononi: [PHONE]
+
+User:
+Samahani, badilisha muda wa miadi hiyo ya muuzaji uwe Alhamisi saa 8:00 mchana kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [[ID_NUMBER]]
+Mada: shopping
+Aina ya Shughuli: appointment
+Kichwa: kukagua ubora wa bidhaa na muuzaji
+Muda: Alhamisi saa 8:00 mchana
+Mahali: [LOCATION], [LOCATION] ([LOCATION])
+Jina la Anwani: [PERSON]
+Simu ya Mkononi: [PHONE]
+
+User:
+Rekodi booking kwenye mada ya shopping ya usafiri wa kuleta bidhaa nyumbani [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) Jumamosi saa 9:00 alasiri na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi booking hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [[ID_NUMBER]]
+Mada: shopping
+Aina ya Shughuli: booking
+Kichwa: usafiri wa kuleta bidhaa nyumbani
+Muda: Jumamosi saa 9:00 alasiri
+Mahali: [LOCATION], [LOCATION] ([LOCATION])
+Jina la Anwani: [PERSON]
+Simu ya Mkononi: [PHONE]

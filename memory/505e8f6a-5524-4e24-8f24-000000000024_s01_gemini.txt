@@ -1,0 +1,8 @@
+* Name: David Kowalski
+* Age: 41
+* Occupation: Software Engineering Manager
+* Education: Master of Science
+* Family: Married with three children
+* Location: [LOCATION], [LOCATION] ([LOCATION])
+* Preferred Language: English
+* Professional Task: Preparing a "Quarterly Software Engineering Manager Briefing"

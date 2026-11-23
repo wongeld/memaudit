@@ -1,0 +1,200 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 39,
+"end": 49,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 54,
+"end": 81,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 258,
+"end": 268,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 354,
+"end": 364,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 370,
+"end": 382,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 388,
+"end": 401,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 408,
+"end": 434,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 510,
+"end": 522,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 566,
+"end": 576,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 590,
+"end": 602,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 616,
+"end": 629,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 644,
+"end": 670,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 757,
+"end": 769,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 782,
+"end": 795,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 851,
+"end": 863,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 986,
+"end": 996,
+"label": "ID_NUMBER",
+"text": "3929228411"
+},
+{
+"start": 1093,
+"end": 1120,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1145,
+"end": 1157,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1159,
+"end": 1172,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1214,
+"end": 1226,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1279,
+"end": 1289,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1419,
+"end": 1446,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1470,
+"end": 1483,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1567,
+"end": 1577,
+"label": "ID_NUMBER",
+"text": "3929228411"
+},
+{
+"start": 1677,
+"end": 1687,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1715,
+"end": 1727,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1729,
+"end": 1742,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1793,
+"end": 1805,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1858,
+"end": 1868,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1998,
+"end": 2025,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 2049,
+"end": 2062,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 2146,
+"end": 2156,
+"label": "ID_NUMBER",
+"text": "3929228411"
+}
+]

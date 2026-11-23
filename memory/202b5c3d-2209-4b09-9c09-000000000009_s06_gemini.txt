@@ -1,0 +1,5 @@
+* የሥራ መስካቸው Hospital Physician ነው።
+* የጤና ሁኔታቸው 'Mild asthma' አለባቸው።
+* የግል ሁኔታቸው 'Single' መሆኑን አመልክተዋል።
+* ከ [PERSON] (profile_id: [[ID_NUMBER]]፣ ስልክ፡ [PHONE]) ጋር የተያያዙ ማስታወሻዎችን፣ ግዢዎችንና ቀጠሮዎችን በ school ሥር ይመዘግባሉ።
+* በ[LOCATION] የግዢና የአገልግሎት/የቦታ ማስያዣ (booking) ዕቅዶች አሏቸው።

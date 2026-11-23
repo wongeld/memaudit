@@ -1,0 +1,64 @@
+User:
+I'm [PERSON] (profile_id: [[ID_NUMBER]]), a 38-year-old ESG Shareholder Governance Analyst living in [LOCATION], [LOCATION] ([LOCATION]) with a Master of Business Administration; please call get_user_profile to check if my local contact profile is already saved.
+
+Assistant:
+It seems that saving your profile was canceled. Would you like to try saving it again with the same details?
+
+User:
+Please save my contact profile using save_user_profile with profile_id [[ID_NUMBER]], first_name Marcus, last_name Vance, mobile_phone [PHONE], email [EMAIL], country [LOCATION], and preferred_language English, and show me the exact details to confirm first.
+
+Assistant:
+It appears the profile save was canceled again. The tool displays the details and then waits for your confirmation. Since you have confirmed these details multiple times, please go ahead and explicitly state "yes, save my profile" or similar, so the tool can proceed.
+
+User:
+Yes, those profile details for [PERSON] with mobile phone [PHONE] are completely accurate—please go ahead and save them.
+
+Assistant:
+It appears there's an issue with saving your profile that persists even after your confirmation. I will report this unexpected behavior.
+
+In the meantime, I will proceed with your next request to record a work task.
+
+Assistant:
+The work task details were not saved as the tool is awaiting your confirmation. Here's a summary:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:00 AM
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate so I can proceed with saving the task.
+
+User:
+As a ESG Shareholder Governance Analyst in [LOCATION], [LOCATION] ([LOCATION]) (state-ID-style mock [ID_NUMBER], married with two children), I want to use record_user_activity under the work theme to log a task titled 'Prepare Quarterly ESG Shareholder Governance Analyst Briefing' for Monday at 09:00 AM with contact [PERSON] ([PHONE]).
+
+Assistant:
+The work task details are ready for your confirmation:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:00 AM
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate, and I will proceed with saving the task.
+
+User:
+Actually, please update the time on that work task to Monday at 09:30 AM for profile_id [[ID_NUMBER]], and repeat all submitted fields including [PERSON] and [PHONE] so I can confirm before saving.
+
+Assistant:
+The updated work task details are ready for your confirmation:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:30 AM
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate so I can proceed with saving the task.

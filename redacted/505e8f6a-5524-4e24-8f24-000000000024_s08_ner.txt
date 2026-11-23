@@ -1,0 +1,39 @@
+User:
+I'm [PERSON] (mock ID 4225622270), and I'd like to record a family task via record_user_activity to review our household budget and family calendar in [LOCATION], [LOCATION] ([LOCATION]) on Sunday at 05:00 PM.
+
+Assistant:
+Here are the details for your family task:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: family
+*   **Activity Type**: task
+*   **Title**: Review our household budget and family calendar
+*   **Date/Time**: Sunday at 05:00 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+
+Please confirm these details, and I will attempt to save this task. I must remind you that I have been encountering issues where saving operations are being canceled.
+
+User:
+Actually, cancel that Sunday 05:00 PM family task—we'll handle the household budget next week, so do not save anything.
+
+Assistant:
+Understood. I will not save the Sunday 05:00 PM family task.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] in the family theme so I can see everything we have planned.
+
+Assistant:
+There are no saved activities for [PERSON] under the family theme. This is consistent with the earlier issues we encountered when trying to save your activities, as all those operations were reported as canceled and not saved.
+
+User:
+We're planning a family outing in [LOCATION], [LOCATION] ([LOCATION]); please use search_places to find '[LOCATION]' without sending any personal details, and include the OpenStreetMap attribution.
+
+Assistant:
+I'm sorry, I encountered an error again when trying to search for '[LOCATION] Zoo [LOCATION]' using OpenStreetMap. It seems there's a persistent issue with executing tools on the OpenStreetMap server. I will try to investigate.
+
+User:
+Please call reverse_geocode for coordinates latitude 41.9142 and longitude -87.6485 in [LOCATION], [LOCATION] ([LOCATION]) so I can verify the address for our family gathering, with [ORGANIZATION] attribution.
+
+Assistant:
+I apologize, but I encountered an error once more when trying to use `reverse_geocode` on the [ORGANIZATION] server. It seems there's a persistent issue preventing the execution of tools on that server.

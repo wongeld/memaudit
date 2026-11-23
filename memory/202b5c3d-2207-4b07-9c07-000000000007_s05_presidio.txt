@@ -1,0 +1,4 @@
+* የመገለጫ መለያው (Profile ID) [PROFILE_ID] ሲሆን፣ የተገናኘው እውቂያ [PERSON] ([PHONE]፣ [EMAIL]) ነው።
+* በ "school" ዘርፍ በ [DATE] በ [LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሮ ሰርዞታል።
+* በ Addis [LOCATION] አካባቢ '[LOCATION]' እንዲሁም በ [LOCATION], [LOCATION] (Yeka) በ latitude 9.0355 እና longitude 38.8021 የሚገኙ አድራሻዎችን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይጋራ እና የ [ORGANIZATION] / OpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣል።

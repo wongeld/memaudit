@@ -1,0 +1,5 @@
+* የተጠቃሚው የመገለጫ መታወቂያ (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] ጋር የቤተሰብ (family) ግንኙነት አለው (ስልክ፦ +251954834664፣ ኢሜይል፦ shimelis.tilahun+008@gmail.com)።
+* በ[LOCATION], [LOCATION] ለ[DATE] ተይዞ የነበረውን የ[PERSON] የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋሽጓል።
+* በAddis [LOCATION] አካባቢ (በተለይ latitude 9.0054 እና longitude [LOCATION] ላይ) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ[ORGANIZATION] attribution (የባለቤትነት እውቅና) እንዲካተት ይፈልጋል።

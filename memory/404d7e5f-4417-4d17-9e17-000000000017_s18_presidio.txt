@@ -1,0 +1,5 @@
+- Mtumiaji ana hali ya afya ya "Mild hypertension".
+- Mtumiaji anajali sana lishe bora ya familia yake inayozingatia hali hiyo ya afya.
+- Mtumiaji anapanga matembezi ya familia katika eneo la [LOCATION].
+- Mtumiaji anashirikiana na [PERSON] (simu: [PHONE]) katika kuratibu shughuli za kifamilia.
+- Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa ajili ya kuhifadhi shughuli zake.

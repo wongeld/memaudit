@@ -1,0 +1,236 @@
+[
+{
+"start": 163,
+"end": 176,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 190,
+"end": 200,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 216,
+"end": 228,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 379,
+"end": 389,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 566,
+"end": 579,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 602,
+"end": 614,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 897,
+"end": 910,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 912,
+"end": 924,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1372,
+"end": 1385,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1387,
+"end": 1399,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1489,
+"end": 1496,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1498,
+"end": 1511,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1513,
+"end": 1520,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 1696,
+"end": 1706,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1877,
+"end": 1890,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1913,
+"end": 1925,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1944,
+"end": 1951,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1953,
+"end": 1966,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1968,
+"end": 1975,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2387,
+"end": 2400,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2402,
+"end": 2414,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 2431,
+"end": 2441,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2939,
+"end": 2949,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3091,
+"end": 3104,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3127,
+"end": 3139,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3158,
+"end": 3165,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3167,
+"end": 3180,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3182,
+"end": 3189,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3569,
+"end": 3582,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3584,
+"end": 3596,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3650,
+"end": 3657,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3659,
+"end": 3672,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3674,
+"end": 3681,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3882,
+"end": 3892,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 4036,
+"end": 4049,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 4072,
+"end": 4084,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 4103,
+"end": 4110,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 4112,
+"end": 4125,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4127,
+"end": 4134,
+"label": "LOCATION",
+"text": "Ballard"
+}
+]

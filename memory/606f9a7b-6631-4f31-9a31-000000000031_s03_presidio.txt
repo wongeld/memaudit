@@ -1,0 +1,5 @@
+* Works in a role that requires submitting weekly departmental metrics.
+* Has no chronic health conditions.
+* Maintains a routine of taking a brief break every Friday at 04:00 PM.
+* Frequently books conference rooms at [LOCATION], [LOCATION] ([ORGANIZATION]) for Thursdays at 11:00 AM.
+* Coordinates work-related activities and bookings under the name [PERSON] ([PHONE]).

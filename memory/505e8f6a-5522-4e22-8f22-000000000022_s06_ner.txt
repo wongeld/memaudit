@@ -1,0 +1,6 @@
+* Works as an ESG Shareholder Governance Analyst.
+* Frequently manages travel-related logistics, including expense reconciliation and itinerary reviews.
+* Currently coordinating travel tasks and shopping needs with [PERSON] (phone: +14787564875).
+* Needs to purchase travel accessories, specifically a carry-on organizer and a portable charger.
+* Operates in [LOCATION], [LOCATION] (specifically the Ironbound area).
+* Requires confirmation prompts before the assistant saves any travel-related activities or tasks.

@@ -1,0 +1,56 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zangu zote za mada ya work kwa profile_id [[ID_NUMBER]].
+
+Assistant:
+Nimetumia `list_user_activities` kuangalia shughuli zako kwenye mada ya **work** kwa `profile_id` **[[ID_NUMBER]]**, na kwa sasa hakuna shughuli zozote zilizohifadhiwa (`"activities": []`).
+
+User:
+Ninahitaji kwenda kwenye kikao cha kikazi; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Nimetumia zana ya `search_places` kutafuta **'[ORGANIZATION] [LOCATION]'** bila kutuma taarifa zako zozote binafsi, lakini huduma ya OpenStreetMap imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool search_places`).
+
+*Attribution: Data ya ramani © OpenStreetMap contributors (ODbL).*
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -1.2921 na longitude 36.7879 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Nimetumia zana ya `reverse_geocode` kwa majira-nukta **latitude -1.2921** na **longitude 36.7879**, lakini huduma ya OpenStreetMap imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool reverse_geocode`).
+
+*Nukuu (Attribution): Data ya ramani © OpenStreetMap contributors (ODbL).*
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya work kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) cha kupitia barua pepe ([EMAIL]) na kuzingatia hali ya Mild hypertension wakati wa kazi Alhamisi saa 8:00 mchana.
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi kikumbusho hicho, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[[ID_NUMBER]]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kupitia barua pepe (`[EMAIL]`) na kuzingatia hali ya Mild hypertension wakati wa kazi
+- **Tarehe/Muda (`date_time`):** Alhamisi saa 8:00 mchana
+- **Jina la Mawasiliano (`contact_name`):** [PERSON]
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Maelezo (`notes`):** Kupitia barua pepe `[EMAIL]` na kuzingatia hali ya Mild hypertension wakati wa kazi
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha Alhamisi saa 8:00 mchana kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Nimejaribu kuhifadhi kikumbusho hicho kwa kutumia `record_user_activity`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No activity was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[[ID_NUMBER]]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kupitia barua pepe na kuzingatia hali ya Mild hypertension wakati wa kazi
+- **Tarehe/Muda (`date_time`):** Alhamisi saa 8:00 mchana
+- **Jina la Mawasiliano (`contact_name`):** [PERSON]
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Maelezo (`notes`):** Kupitia barua pepe (`[EMAIL]`) na kuzingatia hali ya Mild hypertension wakati wa kazi
+
+Je, ungependa tuendelee na hatua nyingine?

@@ -1,0 +1,110 @@
+[
+{
+"start": 66,
+"end": 76,
+"label": "PHONE",
+"text": "6189768644"
+},
+{
+"start": 228,
+"end": 232,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1001,
+"end": 1015,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 1079,
+"end": 1083,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1686,
+"end": 1690,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2314,
+"end": 2321,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2323,
+"end": 2336,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2338,
+"end": 2345,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2379,
+"end": 2386,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2387,
+"end": 2415,
+"label": "LOCATION",
+"text": "Tacoma International Airport"
+},
+{
+"start": 2474,
+"end": 2487,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2780,
+"end": 2793,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2877,
+"end": 2880,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 3366,
+"end": 3373,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3375,
+"end": 3388,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3390,
+"end": 3397,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3452,
+"end": 3465,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 4120,
+"end": 4123,
+"label": "ORGANIZATION",
+"text": "MCP"
+}
+]

@@ -1,0 +1,8 @@
+* Name: Lucas Bennett
+* Age: 31
+* Occupation: Hospital Physician
+* Location: [LOCATION], [LOCATION] ([LOCATION])
+* Marital status: Single
+* Health status: Good health, no chronic conditions
+* Contact details: [PHONE], [EMAIL]
+* Routine preference: Daily health routine and schedule review at 06:45 AM

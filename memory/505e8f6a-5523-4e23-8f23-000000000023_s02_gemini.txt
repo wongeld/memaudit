@@ -1,0 +1,4 @@
+- The user is managing mild seasonal allergic rhinitis (mock ID [ID_NUMBER]).
+- The user is currently preparing for travel and has already packed their travel bag.
+- The user is planning to depart from [LOCATION], [LOCATION] ([LOCATION]).
+- The user is attempting to verify transit hub locations and addresses for their travel stops.

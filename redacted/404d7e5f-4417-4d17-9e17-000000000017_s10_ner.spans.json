@@ -1,0 +1,122 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 177,
+"end": 184,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 186,
+"end": 191,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 352,
+"end": 365,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 434,
+"end": 439,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 497,
+"end": 510,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 660,
+"end": 667,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 669,
+"end": 674,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1104,
+"end": 1112,
+"label": "PERSON",
+"text": "Sheila\n-"
+},
+{
+"start": 1145,
+"end": 1153,
+"label": "PERSON",
+"text": "Sifuna\n-"
+},
+{
+"start": 1292,
+"end": 1301,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+},
+{
+"start": 1454,
+"end": 1467,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1536,
+"end": 1541,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1804,
+"end": 1812,
+"label": "PERSON",
+"text": "Sheila\n-"
+},
+{
+"start": 1845,
+"end": 1853,
+"label": "PERSON",
+"text": "Sifuna\n-"
+},
+{
+"start": 1992,
+"end": 2001,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+},
+{
+"start": 2089,
+"end": 2095,
+"label": "PERSON",
+"text": "Sifuna"
+},
+{
+"start": 2427,
+"end": 2433,
+"label": "PERSON",
+"text": "Sheila"
+},
+{
+"start": 2434,
+"end": 2442,
+"label": "PERSON",
+"text": "Sifuna\n-"
+},
+{
+"start": 2581,
+"end": 2590,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+}
+]

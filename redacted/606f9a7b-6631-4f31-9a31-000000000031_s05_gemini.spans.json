@@ -1,0 +1,152 @@
+[
+{
+"start": 72,
+"end": 78,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 80,
+"end": 93,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 95,
+"end": 104,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 255,
+"end": 271,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 273,
+"end": 285,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 565,
+"end": 571,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 573,
+"end": 586,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 588,
+"end": 597,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 621,
+"end": 637,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 660,
+"end": 672,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 749,
+"end": 755,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1008,
+"end": 1024,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1026,
+"end": 1038,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1368,
+"end": 1374,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1376,
+"end": 1389,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1391,
+"end": 1400,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1424,
+"end": 1440,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1463,
+"end": 1475,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1552,
+"end": 1558,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1720,
+"end": 1730,
+"label": "ID_NUMBER",
+"text": "2434489293"
+},
+{
+"start": 2166,
+"end": 2182,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2205,
+"end": 2217,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2284,
+"end": 2294,
+"label": "ID_NUMBER",
+"text": "2434489293"
+},
+{
+"start": 2441,
+"end": 2457,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2589,
+"end": 2605,
+"label": "PERSON",
+"text": "Suzanne Francois"
+}
+]

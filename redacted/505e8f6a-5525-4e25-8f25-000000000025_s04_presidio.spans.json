@@ -1,0 +1,176 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 95,
+"end": 101,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 103,
+"end": 116,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 118,
+"end": 127,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 505,
+"end": 510,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 522,
+"end": 530,
+"label": "PERSON",
+"text": "Thornton"
+},
+{
+"start": 545,
+"end": 557,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 565,
+"end": 593,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 603,
+"end": 616,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 996,
+"end": 1001,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 1020,
+"end": 1028,
+"label": "PERSON",
+"text": "Thornton"
+},
+{
+"start": 1050,
+"end": 1062,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 1077,
+"end": 1105,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 1122,
+"end": 1135,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1230,
+"end": 1244,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1262,
+"end": 1274,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 1892,
+"end": 1898,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1900,
+"end": 1913,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1915,
+"end": 1924,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2065,
+"end": 2079,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2081,
+"end": 2093,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 2398,
+"end": 2412,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2592,
+"end": 2616,
+"label": "ORGANIZATION",
+"text": "Weekly Wellness Supplies"
+},
+{
+"start": 2648,
+"end": 2658,
+"label": "ORGANIZATION",
+"text": "Essentials"
+},
+{
+"start": 2687,
+"end": 2701,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2703,
+"end": 2715,
+"label": "PHONE",
+"text": "+18635164802"
+},
+{
+"start": 3302,
+"end": 3326,
+"label": "ORGANIZATION",
+"text": "Weekly Wellness Supplies"
+},
+{
+"start": 3358,
+"end": 3368,
+"label": "ORGANIZATION",
+"text": "Essentials"
+},
+{
+"start": 3374,
+"end": 3388,
+"label": "PERSON",
+"text": "Caleb Thornton"
+}
+]

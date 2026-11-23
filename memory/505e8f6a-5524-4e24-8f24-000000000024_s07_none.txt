@@ -1,0 +1,8 @@
+* Name: David Kowalski
+* Age: 41
+* Occupation: Software Engineering Manager
+* Location: Lincoln Park, Chicago, United States
+* Family: Married with three children
+* Health: Managing type 2 diabetes
+* Education: Master of Science
+* Contact: +18466001447, david.kowalski+024@yahoo.com

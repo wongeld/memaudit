@@ -1,0 +1,4 @@
+- The user is managing mild seasonal allergic rhinitis (mock ID 6189768644).
+- The user is currently preparing for travel and has already packed their travel bag.
+- The user is attempting to coordinate travel logistics, including checking transit hub locations and addresses near [LOCATION], [LOCATION] ([LOCATION]).
+- The user is experiencing persistent technical issues with the assistant's ability to save activities, retrieve data, and execute location-based tools.

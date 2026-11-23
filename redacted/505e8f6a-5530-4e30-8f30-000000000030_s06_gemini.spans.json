@@ -1,0 +1,242 @@
+[
+{
+"start": 163,
+"end": 176,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 190,
+"end": 200,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 216,
+"end": 228,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 405,
+"end": 415,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 592,
+"end": 605,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 628,
+"end": 640,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 1192,
+"end": 1205,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1207,
+"end": 1219,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 1317,
+"end": 1330,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1953,
+"end": 1966,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1968,
+"end": 1980,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 2082,
+"end": 2088,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2090,
+"end": 2103,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2105,
+"end": 2114,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2272,
+"end": 2282,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2418,
+"end": 2424,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2426,
+"end": 2439,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2441,
+"end": 2450,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2474,
+"end": 2487,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2510,
+"end": 2522,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 3111,
+"end": 3124,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3126,
+"end": 3138,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 3155,
+"end": 3165,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3421,
+"end": 3431,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3569,
+"end": 3575,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3577,
+"end": 3590,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3592,
+"end": 3601,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3625,
+"end": 3638,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 3661,
+"end": 3673,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 4249,
+"end": 4262,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 4264,
+"end": 4276,
+"label": "PHONE",
+"text": "+18694794339"
+},
+{
+"start": 4330,
+"end": 4336,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4338,
+"end": 4351,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4353,
+"end": 4362,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 4545,
+"end": 4555,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 4695,
+"end": 4701,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4703,
+"end": 4716,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4718,
+"end": 4727,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 4751,
+"end": 4764,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 4787,
+"end": 4799,
+"label": "PHONE",
+"text": "+18694794339"
+}
+]

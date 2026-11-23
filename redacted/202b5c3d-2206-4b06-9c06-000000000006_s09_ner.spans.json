@@ -1,0 +1,206 @@
+[
+{
+"start": 74,
+"end": 87,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 133,
+"end": 147,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 300,
+"end": 313,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 516,
+"end": 530,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 532,
+"end": 550,
+"label": "DATE",
+"text": "Friday 10:00 PM)\n*"
+},
+{
+"start": 638,
+"end": 652,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 703,
+"end": 720,
+"label": "DATE",
+"text": "November 15, 2024"
+},
+{
+"start": 725,
+"end": 746,
+"label": "DATE",
+"text": "10:00 PM\")?\n\nUser:\nአዎ"
+},
+{
+"start": 748,
+"end": 763,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 772,
+"end": 785,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 924,
+"end": 938,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 941,
+"end": 956,
+"label": "DATE",
+"text": "Friday 10:00 PM"
+},
+{
+"start": 995,
+"end": 1012,
+"label": "DATE",
+"text": "November 15, 2024"
+},
+{
+"start": 1017,
+"end": 1034,
+"label": "DATE",
+"text": "10:00 PM\".\n\nCould"
+},
+{
+"start": 1117,
+"end": 1130,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1147,
+"end": 1159,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1161,
+"end": 1169,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1352,
+"end": 1369,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 1593,
+"end": 1604,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1606,
+"end": 1614,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1843,
+"end": 1856,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1987,
+"end": 2004,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 2228,
+"end": 2249,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 2539,
+"end": 2556,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2557,
+"end": 2579,
+"label": "LOCATION",
+"text": "በAddis Ababa, Ethiopia"
+},
+{
+"start": 2609,
+"end": 2622,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 2788,
+"end": 2805,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 2983,
+"end": 2999,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 3001,
+"end": 3020,
+"label": "DATE",
+"text": "Saturday 4:00 AM)\n*"
+},
+{
+"start": 3037,
+"end": 3048,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 3050,
+"end": 3058,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 3164,
+"end": 3180,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 3231,
+"end": 3248,
+"label": "DATE",
+"text": "November 16, 2024"
+},
+{
+"start": 3253,
+"end": 3260,
+"label": "DATE",
+"text": "4:00 AM"
+}
+]

@@ -1,0 +1,98 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 215,
+"end": 221,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 223,
+"end": 236,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 238,
+"end": 247,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 584,
+"end": 590,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 592,
+"end": 605,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 699,
+"end": 715,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 881,
+"end": 897,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1363,
+"end": 1388,
+"label": "ORGANIZATION",
+"text": "One Gateway Center Newark"
+},
+{
+"start": 1389,
+"end": 1391,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 1533,
+"end": 1551,
+"label": "ORGANIZATION",
+"text": "One Gateway Center"
+},
+{
+"start": 1552,
+"end": 1558,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1559,
+"end": 1561,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 1789,
+"end": 1795,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1797,
+"end": 1810,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1967,
+"end": 1980,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"start": 65,
+"end": 77,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 91,
+"end": 101,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 117,
+"end": 129,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 313,
+"end": 325,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 349,
+"end": 359,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 546,
+"end": 558,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 581,
+"end": 593,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 726,
+"end": 738,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 740,
+"end": 752,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1190,
+"end": 1200,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1350,
+"end": 1371,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 1373,
+"end": 1382,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1406,
+"end": 1418,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1441,
+"end": 1453,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1647,
+"end": 1668,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 1670,
+"end": 1679,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1711,
+"end": 1723,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1725,
+"end": 1737,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1876,
+"end": 1886,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2036,
+"end": 2057,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 2059,
+"end": 2068,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2092,
+"end": 2104,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2127,
+"end": 2139,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2337,
+"end": 2349,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2351,
+"end": 2363,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2380,
+"end": 2390,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2542,
+"end": 2552,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2745,
+"end": 2766,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 2768,
+"end": 2777,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2801,
+"end": 2813,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2836,
+"end": 2848,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 3010,
+"end": 3022,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3024,
+"end": 3036,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 3147,
+"end": 3168,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 3170,
+"end": 3179,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3301,
+"end": 3311,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3459,
+"end": 3480,
+"label": "LOCATION",
+"text": "Newark, United States"
+},
+{
+"start": 3482,
+"end": 3491,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3515,
+"end": 3527,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3550,
+"end": 3562,
+"label": "PHONE",
+"text": "+14787564875"
+}
+]

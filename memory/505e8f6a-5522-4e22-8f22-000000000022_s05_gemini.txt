@@ -1,0 +1,5 @@
+* The user is managing mild hypertension (ID: [ID_NUMBER]).
+* The user is currently planning travel and has a regional flight and hotel itinerary scheduled for Monday at 08:15 AM.
+* The user is traveling from [LOCATION], [LOCATION] ([LOCATION]).
+* The user is interested in locating [LOCATION] Liberty International Airport and specific coordinates (40.7347, -74.1642) for their travel.
+* The user prefers using OpenStreetMap tools for location and address lookups.

@@ -1,0 +1,4 @@
+* Jina lake ni [PERSON] (profile_id: [[ID_NUMBER]]), mwenye umri wa miaka 29.
+* Ana shahada ya Bachelor of Education na anafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] ([LOCATION]).
+* Taarifa zake za mawasiliano ni simu [PHONE], barua pepe [EMAIL], na nchi ni [LOCATION].
+* Anapanga safari ya kikazi inayotarajiwa kuanza siku ya Jumatatu saa 2:30 asubuhi.

@@ -1,0 +1,122 @@
+[
+{
+"start": 90,
+"end": 100,
+"label": "PHONE",
+"text": "4047325359"
+},
+{
+"start": 210,
+"end": 257,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 597,
+"end": 607,
+"label": "PHONE",
+"text": "4047325359"
+},
+{
+"start": 758,
+"end": 783,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku\n*"
+},
+{
+"start": 880,
+"end": 903,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 1356,
+"end": 1379,
+"label": "ORGANIZATION",
+"text": "Arusha Airport Tanzania"
+},
+{
+"start": 1439,
+"end": 1474,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1498,
+"end": 1504,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1505,
+"end": 1521,
+"label": "ORGANIZATION",
+"text": "Airport Tanzania"
+},
+{
+"start": 1543,
+"end": 1556,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1692,
+"end": 1705,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1782,
+"end": 1795,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1799,
+"end": 1812,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2061,
+"end": 2067,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2069,
+"end": 2077,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2107,
+"end": 2142,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2205,
+"end": 2218,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2287,
+"end": 2307,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nHata"
+},
+{
+"start": 2368,
+"end": 2381,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2385,
+"end": 2398,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

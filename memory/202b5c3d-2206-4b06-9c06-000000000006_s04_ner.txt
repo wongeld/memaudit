@@ -1,0 +1,7 @@
+* ስም፦ [PERSON] (profile_id: [PROFILE_ID]፣ መታወቂያ ቁጥር፦ 3921292703)
+* የመኖሪያ ቦታ፦ [LOCATION], [LOCATION] (Bole)፣ አገር፦ [LOCATION]
+* የሥራ መስክ እና ትምህርት፦ Commercial Florist and Event Decorator ሲሆኑ የ Bachelor of Arts ዲግሪ አላቸው
+* የጋብቻ ሁኔታ፦ ያላገባ/ች (Single)
+* የጤና ሁኔታ፦ ሙሉ ጤነኛ
+* የእውቂያ መረጃ እና ቋንቋ፦ ስልክ ቁጥር +251996949340፣ ኢሜይል dereje.diriba+006@gmail.com፣ ተመራጭ ቋንቋ አማርኛ
+* ዕቅድ/ተግባር፦ በ [LOCATION], [LOCATION] (Bole) በ shopping ሥር ለ [DATE] በ [DATE] የተያዘ የሳምንቱ ዋና ተግባር አላቸው

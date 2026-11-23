@@ -1,0 +1,5 @@
+* የመገለጫ መለያው (profile_id) [PROFILE_ID] ነው።
+* ከ [PERSON] ጋር የምክክር ቀጠሮ ያለው ሲሆን የመገናኛ መረጃዎቹ +251986279168 እና elsa.assefa+012@outlook.com ናቸው (የ[DATE] ቀጠሮውን ወደ ሌላ ቀን አሸጋግሯል)።
+* በAddis [LOCATION], [LOCATION] (Kazanchis) አካባቢ (latitude 9.0158፣ longitude 38.7712) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋዎች ሲደረጉ የግል መረጃው እንዳይላክ ጥንቃቄ ማድረግን ይመርጣል።
+* የካርታ መረጃዎችን በሚጠቀምበት ወቅት የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

@@ -1,0 +1,4 @@
+- The user frequently coordinates shopping, pharmacy pickups, and supply orders with [PERSON] (profile_id [[ID_NUMBER]], phone [PHONE]).
+- The user conducts business or errands in [LOCATION], [LOCATION] ([LOCATION]).
+- The user requires assistance with scheduling recurring or specific shopping-related tasks, including in-store pickups, supplier consultations, and delivery reservations.
+- The user prefers to review and confirm all details before finalizing any scheduled appointments or bookings.

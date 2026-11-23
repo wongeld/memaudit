@@ -1,0 +1,51 @@
+User:
+I'm [PERSON] (mock ID 1815853866, email marcus.vance+022@outlook.com), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] (Ironbound) at 06:30 PM.
+
+Assistant:
+Here are the details for your daily planning task:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** daily\_planning
+*   **Activity Type:** task
+*   **Title:** Evening meal prep and next-day prioritization
+*   **Date/Time:** 06:30 PM
+*   **Location:** [LOCATION], [LOCATION] (Ironbound)
+
+Please confirm if these details are accurate, and I will attempt to save this task.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([ORGANIZATION]), so do not save it.
+
+Assistant:
+Understood. I will not save the 06:30 PM daily planning task.
+
+Now, I will display your current daily schedule by listing your daily_planning activities.
+
+Assistant:
+I couldn't find any saved daily planning activities for profile ID [PROFILE_ID]. This is likely because all previous attempts to save activities were canceled due to the tool's confirmation requirement.
+
+If you would like to save any of your daily planning activities, please let me know and explicitly confirm the details when prompted.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+I have already performed this action in the previous turn. There are no saved daily planning activities for profile ID `[PROFILE_ID]`. All previous attempts to save activities were canceled because they required explicit confirmation.
+
+If you would like to save any of your daily planning activities, please let me know and explicitly confirm the details when prompted.
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] (Ironbound); please call search_places for '[LOCATION]' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I encountered an error again when trying to search for '[LOCATION]' using the OpenStreetMap `search_places` tool. It seems the issue with the OpenStreetMap tools is still present.
+
+Would you like me to try again or explore an alternative way to find the location?
+
+User:
+Please call reverse_geocode for coordinates latitude 40.7282 and longitude -74.1502 in [LOCATION], [LOCATION] (Ironbound) to verify the street address on my route, with OpenStreetMap attribution.
+
+Assistant:
+I encountered another error when trying to use the OpenStreetMap `reverse_geocode` tool to find the address for the given coordinates. It seems the issue with the OpenStreetMap tools is still present.
+
+Would you like me to try again, or is there another way I can assist you with verifying the street address?

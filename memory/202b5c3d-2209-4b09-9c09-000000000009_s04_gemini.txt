@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ የመገለጫ መታወቂያ (profile_id) [[ID_NUMBER]] ነው።
+* ዕድሜው 29 ዓመት ሲሆን የሙያ ዘርፉ Hospital Physician (Doctor of Medicine) እና የጋብቻ ሁኔታው ያላገባ (Single) ነው።
+* የሚኖረው በ[LOCATION], [LOCATION] ([LOCATION]) ውስጥ ነው።
+* የመገናኛ መረጃው፦ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL] ሲሆን የመገናኛ ቋንቋ ምርጫው አማርኛ ነው።
+* የጤና ሁኔታው 'Mild asthma' (ቀላል የአስም በሽታ) አለበት።
+* በ school ጭብጥ ሥር በ[LOCATION], [LOCATION] ([LOCATION]) ለ[PERSON] ([PHONE]) በሰኞ ጠዋት 3:00 ሰዓት የሚከናወን "የሳምንቱ ዋና ተግባር" እቅድ አለው።

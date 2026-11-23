@@ -1,0 +1,200 @@
+[
+{
+"start": 120,
+"end": 126,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 128,
+"end": 141,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 180,
+"end": 192,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 513,
+"end": 519,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 521,
+"end": 534,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 569,
+"end": 581,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 781,
+"end": 793,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1428,
+"end": 1434,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1436,
+"end": 1449,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1484,
+"end": 1490,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 1704,
+"end": 1716,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1828,
+"end": 1834,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1836,
+"end": 1849,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2161,
+"end": 2167,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2169,
+"end": 2182,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2184,
+"end": 2193,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2217,
+"end": 2229,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2461,
+"end": 2467,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2482,
+"end": 2490,
+"label": "ORGANIZATION",
+"text": "Supplies"
+},
+{
+"start": 2496,
+"end": 2508,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2779,
+"end": 2795,
+"label": "ORGANIZATION",
+"text": "Hydration Bottle"
+},
+{
+"start": 2797,
+"end": 2818,
+"label": "ORGANIZATION",
+"text": "and Wellness Supplies"
+},
+{
+"start": 2837,
+"end": 2843,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2845,
+"end": 2858,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2860,
+"end": 2869,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2893,
+"end": 2905,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3118,
+"end": 3124,
+"label": "PERSON",
+"text": "Marcus"
+},
+{
+"start": 3194,
+"end": 3200,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3202,
+"end": 3215,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3558,
+"end": 3564,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3566,
+"end": 3579,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3581,
+"end": 3590,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3614,
+"end": 3626,
+"label": "PERSON",
+"text": "Marcus Vance"
+}
+]

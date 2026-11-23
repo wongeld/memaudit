@@ -1,0 +1,5 @@
+- The user is married with two children.
+- The user resides in or frequently visits the Back Bay area of Boston, United States.
+- The user prioritizes healthy family meals and fresh produce.
+- The user maintains a routine of family weekend activities, including grocery shopping and Sunday brunch.
+- The user is currently experiencing persistent technical issues with the `record_user_activity` tool, preventing the saving of reminders, shopping lists, and bookings.

@@ -1,0 +1,5 @@
+* Coordinates shopping activities for [PERSON] (mobile: +18466001447, profile_id: [PROFILE_ID]).
+* Regularly manages pharmacy and supply orders, including in-store pickups and supplier consultations.
+* Frequently schedules shopping-related tasks in [LOCATION], [LOCATION] ([LOCATION]).
+* Requires assistance with booking delivery slots.
+* Currently experiencing technical issues with the assistant's ability to save activity records.

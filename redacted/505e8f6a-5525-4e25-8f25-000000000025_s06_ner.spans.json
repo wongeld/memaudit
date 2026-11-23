@@ -1,0 +1,122 @@
+[
+{
+"start": 85,
+"end": 99,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 196,
+"end": 202,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 204,
+"end": 217,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 219,
+"end": 228,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 547,
+"end": 561,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 715,
+"end": 729,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 948,
+"end": 962,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1239,
+"end": 1253,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1404,
+"end": 1418,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 1486,
+"end": 1492,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1494,
+"end": 1507,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1509,
+"end": 1518,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1928,
+"end": 1933,
+"label": "PERSON",
+"text": "Caleb"
+},
+{
+"start": 2125,
+"end": 2139,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 2996,
+"end": 3010,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 3173,
+"end": 3187,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 3233,
+"end": 3239,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 3241,
+"end": 3254,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3256,
+"end": 3265,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 3671,
+"end": 3685,
+"label": "PERSON",
+"text": "Caleb Thornton"
+}
+]

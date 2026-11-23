@@ -1,0 +1,5 @@
+- User is [PERSON], a 34-year-old Child Psychologist.
+- User is married and has two children.
+- User manages mild seasonal allergic rhinitis.
+- User has a daily health routine and schedule review at 06:45 AM.
+- User resides in [LOCATION], [LOCATION] ([LOCATION]).

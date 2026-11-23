@@ -1,0 +1,308 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 41,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 56,
+"end": 67,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 69,
+"end": 77,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 79,
+"end": 83,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 380,
+"end": 388,
+"label": "PERSON",
+"text": "Andualem"
+},
+{
+"start": 408,
+"end": 413,
+"label": "PERSON",
+"text": "Abate"
+},
+{
+"start": 431,
+"end": 439,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 454,
+"end": 465,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 484,
+"end": 488,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 639,
+"end": 649,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 908,
+"end": 918,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 924,
+"end": 938,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 944,
+"end": 957,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 964,
+"end": 994,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1000,
+"end": 1008,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1139,
+"end": 1149,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1171,
+"end": 1179,
+"label": "PERSON",
+"text": "Andualem"
+},
+{
+"start": 1199,
+"end": 1204,
+"label": "PERSON",
+"text": "Abate"
+},
+{
+"start": 1227,
+"end": 1240,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1256,
+"end": 1286,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1304,
+"end": 1312,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1359,
+"end": 1373,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1386,
+"end": 1399,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1592,
+"end": 1602,
+"label": "ID_NUMBER",
+"text": "3923122090"
+},
+{
+"start": 1692,
+"end": 1703,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1705,
+"end": 1713,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1715,
+"end": 1719,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 1744,
+"end": 1758,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1760,
+"end": 1773,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1887,
+"end": 1897,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2029,
+"end": 2040,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2042,
+"end": 2050,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2052,
+"end": 2056,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 2080,
+"end": 2094,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2117,
+"end": 2130,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2172,
+"end": 2182,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2210,
+"end": 2224,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2226,
+"end": 2239,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2400,
+"end": 2410,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2432,
+"end": 2440,
+"label": "PERSON",
+"text": "Andualem"
+},
+{
+"start": 2460,
+"end": 2465,
+"label": "PERSON",
+"text": "Abate"
+},
+{
+"start": 2488,
+"end": 2501,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2517,
+"end": 2547,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 2565,
+"end": 2573,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2676,
+"end": 2686,
+"label": "ID_NUMBER",
+"text": "3923122090"
+},
+{
+"start": 2886,
+"end": 2897,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2899,
+"end": 2907,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2909,
+"end": 2913,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 2937,
+"end": 2951,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2974,
+"end": 2987,
+"label": "PHONE",
+"text": "+251906564148"
+}
+]

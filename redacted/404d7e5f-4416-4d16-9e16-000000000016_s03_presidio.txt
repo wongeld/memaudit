@@ -1,0 +1,74 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya work kwa [PERSON] (profile_id [PROFILE_ID], simu +254170314031) cha kupitia barua pepe ([EMAIL]) na kuzingatia afya njema bila ugonjwa sugu wakati wa kazi [DATE] kurekodi kikumbusho chako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya kikumbusho niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: work
+*   **Aina ya Shughuli**: reminder
+*   **Kichwa**: kupitia barua pepe ([EMAIL])
+*   **Muda**: [DATE]   **Nambari ya Simu**: +254170314031
+*   **Notes**: Kuzingatia afya njema bila ugonjwa sugu
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha [DATE] kwa [PERSON] (+254170314031), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kurekodi kikumbusho chako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya kikumbusho niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: work
+*   **Aina ya Shughuli**: reminder
+*   **Kichwa**: kupitia barua pepe ([EMAIL])
+*   **Muda**: [DATE]   **Nambari ya Simu**: +254170314031
+*   **Notes**: Kuzingatia afya njema bila ugonjwa sugu
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Naomba urekodi booking kwenye mada ya work kwa [PERSON] (+254170314031) ya chumba cha mikutano ya kikazi huko [LOCATION], [LOCATION] (Itabua) [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kurekodi booking yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya booking niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: work
+*   **Aina ya Shughuli**: booking
+*   **Kichwa**: chumba cha mikutano ya kikazi
+*   **Muda**: [DATE]   **Mahali**: [LOCATION], [LOCATION] (Itabua)
+*   **Nambari ya Simu**: +254170314031
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Samahani, badilisha muda wa booking hiyo ya chumba cha mikutano uwe [DATE] kwa [PERSON] (+254170314031) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kurekodi booking yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo niliyopewa kwa [PERSON]   **Profile ID**: [PROFILE_ID]
+*   **Jina la Kwanza**: [PERSON]   **Jina la Mwisho**: [PERSON]   **Nambari ya Simu**: +254170314031
+
+Na hivi ndivyo ilivyobadilishwa kwa booking ya chumba cha mikutano:
+*   **Mada**: work
+*   **Aina ya Shughuli**: booking
+*   **Kichwa**: chumba cha mikutano ya kikazi
+*   **Muda**: [DATE]   **Mahali**: [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Rekodi shopping_item kwenye mada ya work kwa [PERSON] (+254170314031) ya kununua vifaa vya ofisi na majalada ya kazi huko [LOCATION], [LOCATION]), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kurekodi shopping item yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya shopping item niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: work
+*   **Aina ya Shughuli**: shopping_item
+*   **Kichwa**: vifaa vya ofisi na majalada ya kazi
+*   **Mahali**: [LOCATION], [LOCATION]   **Nambari ya Simu**: +254170314031
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla ya kuhifadhi.

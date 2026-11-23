@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], mwenye nambari ya simu [PHONE] na profile_id [PROFILE_ID].
+* Ana afya njema na hana ugonjwa sugu.
+* Anajihusisha na kazi za shule, ikiwemo kusimamia au kufundisha wanafunzi (hukusanya insha na madaftari ya wanafunzi).
+* Ana mpango wa kununua vifaa vya shule huko [LOCATION], [LOCATION] (Malava), vikiwemo nakala 20 za vitabu vya fasihi, kamusi za Kiswahili, na kalamu za ubao mweupe.
+* Anapanga kukodi ukumbi wa mikutano wa shule uliopo [LOCATION], [LOCATION] ([LOCATION]) mnamo [DATE].

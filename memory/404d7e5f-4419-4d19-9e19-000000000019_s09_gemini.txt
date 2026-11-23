@@ -1,0 +1,5 @@
+* Mtumiaji anajihusisha na shughuli za kuboresha afya, ikiwemo ukaguzi wa afya, ushauri wa lishe, na mazoezi.
+* Mtumiaji anapanga ratiba yake ya kila siku kupitia mfumo wa `daily_planning`.
+* Mtumiaji anatumia huduma za [PERSON] (simu: [PHONE]) kwa ajili ya mahitaji yake ya afya na ununuzi.
+* Mtumiaji anahitaji shajara ya kupanga ratiba ya kila siku na mahitaji ya afya.
+* Mtumiaji ana ratiba ya mazoezi ya afya kila Jumamosi saa 2:00 asubuhi huko [LOCATION].

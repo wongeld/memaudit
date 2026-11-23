@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], ana shahada ya Uzamili katika Usimamizi wa Biashara (Master of Business Administration), na ana familia (ameoa/ameolewa akiwa na watoto wawili).
+* Anapatikana au anafanya shughuli zake katika maeneo ya [LOCATION] ([LOCATION]).
+* Huwa na utaratibu wa kupanga majukumu ya siku na kufanya mazoezi mepesi nyakati za jioni.
+* Hufanya ukaguzi wa kawaida wa afya na anatafuta kituo cha afya cha '[ORGANIZATION]'.
+* Anajali faragha ya taarifa zake binafsi anapotafuta maeneo au huduma.

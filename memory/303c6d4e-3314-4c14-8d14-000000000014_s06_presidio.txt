@@ -1,0 +1,4 @@
+* ተጠቃሚው 'Iron-deficiency anemia' (የደም ማነስ) የጤና ሁኔታ አለው።
+* በሙያው 'Private School Admissions Coordinator' ሆኖ ይሠራል።
+* ያገባ ሲሆን ሁለት ልጆች አሉት።
+* ለ [PERSON] (ስልክ [PHONE]) የተለያዩ የክትትል፣ የግዢ እና የቦታ ማስያዣ (booking) መረጃዎችን በ [LOCATION] አካባቢ ይመዘግባል።

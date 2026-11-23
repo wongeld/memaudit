@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON] (profile_id: [[ID_NUMBER]]), mwenye umri wa miaka 34 anayeishi [LOCATION], [LOCATION] ([LOCATION]).
+* Anafanya kazi kama Secondary School Kiswahili Teacher na ana elimu ya Bachelor of Education.
+* Mawasiliano yake ni simu [PHONE] na barua pepe [EMAIL], nchi yake ikiwa [LOCATION] na anapendelea lugha ya Kiswahili.
+* Hali ya familia: Ameoa/ameolewa na ana watoto wawili.
+* Ana changamoto ya kiafya ya mzio (Mild seasonal allergic rhinitis).
+* Anapendelea kuwekewa kikumbusho cha asubuhi saa 12:00 asubuhi cha kuangalia afya na ratiba ya siku.

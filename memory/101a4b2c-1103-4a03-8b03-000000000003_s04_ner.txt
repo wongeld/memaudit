@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 29.
+* Ana shahada ya Bachelor of Education na anafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] (Malava).
+* Nambari yake ya simu ni +254742509640, barua pepe yake ni [PERSON], na nchi ni [LOCATION].
+* Lugha anayopendelea kutumia ni Kiswahili.
+* Anapanga au ana kazi ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini ya shule [DATE] saa [DATE].

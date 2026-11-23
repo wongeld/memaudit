@@ -1,0 +1,48 @@
+User:
+በ school ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ረቡዕ ከሰዓት 8:00 ላይ በ[LOCATION] ([LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "2023-10-25 ረቡዕ ከሰዓት 8:00") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+የምክክር ቀጠሮው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: school
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **contact_name**: [PERSON]
+*   **mobile_phone**: [PHONE]
+*   **email**: [EMAIL]
+*   **location**: [LOCATION] ([LOCATION])
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕን ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [[ID_NUMBER]] በ school ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ school ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id [[ID_NUMBER]] አልተመዘገበም።
+
+User:
+በ[LOCATION] ([LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION]' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[ORGANIZATION], [LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ OpenStreetMap Nominatim አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ OpenStreetMap Attribution ን ማካተት አይረሳል።
+
+User:
+እባክህ በ[LOCATION] ([LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ OpenStreetMap Nominatim አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ OpenStreetMap Attribution ን ማካተት አይረሳል።

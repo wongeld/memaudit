@@ -1,0 +1,5 @@
+* Jina la mtumiaji ni [PERSON], ana umri wa miaka 29.
+* Ana shahada ya Bachelor of Education na anafanya kazi kama mwalimu wa Kiswahili katika shule ya sekondari huko [LOCATION], [LOCATION] ([LOCATION]).
+* Lugha anayopendelea kutumia ni Kiswahili.
+* Mawasiliano yake ni [PHONE] na [EMAIL].
+* Ana utaratibu wa kuandaa maazimio ya kufundisha na mwongozo wa tathmini kila Jumatatu saa 1:30 asubuhi.

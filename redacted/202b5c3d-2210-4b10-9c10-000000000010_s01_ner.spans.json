@@ -1,0 +1,188 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 55,
+"end": 65,
+"label": "LOCATION",
+"text": "በBahir Dar"
+},
+{
+"start": 67,
+"end": 89,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke"
+},
+{
+"start": 96,
+"end": 103,
+"label": "DATE",
+"text": "የ41 ዓመት"
+},
+{
+"start": 238,
+"end": 246,
+"label": "PERSON",
+"text": "Mekonnen"
+},
+{
+"start": 423,
+"end": 437,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 497,
+"end": 505,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 624,
+"end": 640,
+"label": "PERSON",
+"text": "Dawit Mekonnen\n*"
+},
+{
+"start": 722,
+"end": 732,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 778,
+"end": 792,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 873,
+"end": 881,
+"label": "PERSON",
+"text": "Mekonnen"
+},
+{
+"start": 1065,
+"end": 1080,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1081,
+"end": 1091,
+"label": "LOCATION",
+"text": "በBahir Dar"
+},
+{
+"start": 1093,
+"end": 1101,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1103,
+"end": 1115,
+"label": "PERSON",
+"text": "Belay Zeleke"
+},
+{
+"start": 1117,
+"end": 1122,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1140,
+"end": 1154,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1227,
+"end": 1241,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1284,
+"end": 1289,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1375,
+"end": 1392,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 1405,
+"end": 1414,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1416,
+"end": 1441,
+"label": "LOCATION",
+"text": "Ethiopia (Belay Zeleke)\n*"
+},
+{
+"start": 1541,
+"end": 1556,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1564,
+"end": 1578,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1666,
+"end": 1681,
+"label": "PERSON",
+"text": "የDawit Mekonnen"
+},
+{
+"start": 1731,
+"end": 1745,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 1788,
+"end": 1793,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1879,
+"end": 1896,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 1909,
+"end": 1918,
+"label": "LOCATION",
+"text": "Bahir Dar"
+},
+{
+"start": 1920,
+"end": 1928,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1930,
+"end": 1945,
+"label": "LOCATION",
+"text": "Belay Zeleke)\n*"
+}
+]

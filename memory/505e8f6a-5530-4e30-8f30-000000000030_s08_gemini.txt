@@ -1,0 +1,5 @@
+* User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+* Interested in tracking shopping tasks, specifically comparing vendor quotes and seasonal prices.
+* Currently experiencing technical issues with the OpenStreetMap MCP server, preventing the use of `search_places` and `reverse_geocode` tools.
+* Has attempted to look up retail locations near [LOCATION], [LOCATION] ([LOCATION]).
+* Prefers to manage shopping activities through the `record_user_activity` tool.

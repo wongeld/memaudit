@@ -1,0 +1,170 @@
+[
+{
+"start": 65,
+"end": 81,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 121,
+"end": 133,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 615,
+"end": 631,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 654,
+"end": 666,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 894,
+"end": 910,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 912,
+"end": 924,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1047,
+"end": 1063,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1096,
+"end": 1108,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1419,
+"end": 1425,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1427,
+"end": 1440,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1483,
+"end": 1490,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 1501,
+"end": 1513,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1659,
+"end": 1665,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1667,
+"end": 1680,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1682,
+"end": 1691,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 1723,
+"end": 1739,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1741,
+"end": 1753,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1899,
+"end": 1905,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1907,
+"end": 1920,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1922,
+"end": 1931,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 1963,
+"end": 1979,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1981,
+"end": 1993,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2236,
+"end": 2240,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 2307,
+"end": 2313,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2315,
+"end": 2328,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2330,
+"end": 2339,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 2363,
+"end": 2379,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2402,
+"end": 2414,
+"label": "PHONE",
+"text": "+15775666484"
+}
+]

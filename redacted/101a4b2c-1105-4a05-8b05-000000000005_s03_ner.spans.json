@@ -1,0 +1,152 @@
+[
+{
+"start": 59,
+"end": 72,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 169,
+"end": 194,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 724,
+"end": 751,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n*"
+},
+{
+"start": 772,
+"end": 787,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 874,
+"end": 899,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 904,
+"end": 917,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 1461,
+"end": 1488,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n*"
+},
+{
+"start": 1509,
+"end": 1524,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 1628,
+"end": 1641,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 1725,
+"end": 1731,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1733,
+"end": 1741,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2271,
+"end": 2286,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 2363,
+"end": 2369,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2371,
+"end": 2379,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2482,
+"end": 2495,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 3089,
+"end": 3104,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 3181,
+"end": 3187,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 3189,
+"end": 3197,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3223,
+"end": 3224,
+"label": "DATE",
+"text": "4"
+},
+{
+"start": 3287,
+"end": 3300,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 3378,
+"end": 3384,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 3386,
+"end": 3401,
+"label": "LOCATION",
+"text": "Tanzania (Njiro"
+},
+{
+"start": 3988,
+"end": 4003,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 4065,
+"end": 4071,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 4073,
+"end": 4088,
+"label": "LOCATION",
+"text": "Tanzania (Njiro"
+}
+]

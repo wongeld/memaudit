@@ -1,0 +1,6 @@
+* Mtumiaji anaitwa Mimi [PERSON].
+* Ana familia yenye mume na watoto wawili.
+* Ana hali ya afya ya shinikizo la juu la damu (mild hypertension).
+* Anafanya kazi na mara nyingi anahitaji kuratibu mikutano na wenzake wa idara.
+* Anapendelea kutumia zana za kidijitali kama `list_user_activities`, `search_places`, na `reverse_geocode` kwa ajili ya kuratibu kazi zake.
+* Amekuwa akipata changamoto za kiufundi na huduma za ramani ([ORGANIZATION] na OpenStreetMap) anapojaribu kutafuta maeneo ya kikazi.

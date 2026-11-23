@@ -1,0 +1,5 @@
+* User's name is David Kowalski.
+* User's email address is david.kowalski+024@yahoo.com.
+* User is interested in shopping in the Lincoln Park area of Chicago, United States.
+* User specifically inquired about the "North and Clybourn Shopping Corridor" in Chicago.
+* User prefers to manage shopping tasks and vendor quote comparisons.

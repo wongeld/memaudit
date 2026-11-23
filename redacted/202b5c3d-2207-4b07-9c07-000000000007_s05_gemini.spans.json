@@ -1,0 +1,68 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 56,
+"end": 86,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 106,
+"end": 133,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 443,
+"end": 470,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 494,
+"end": 508,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 531,
+"end": 544,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 560,
+"end": 590,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1121,
+"end": 1148,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1206,
+"end": 1240,
+"label": "LOCATION",
+"text": "Addis Ababa University Sidist Kilo"
+},
+{
+"start": 1930,
+"end": 1957,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+}
+]

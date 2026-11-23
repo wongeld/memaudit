@@ -1,0 +1,176 @@
+[
+{
+"start": 76,
+"end": 90,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 104,
+"end": 114,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 121,
+"end": 134,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 300,
+"end": 310,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 447,
+"end": 461,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 484,
+"end": 497,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 567,
+"end": 581,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 583,
+"end": 596,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 831,
+"end": 845,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 847,
+"end": 860,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 863,
+"end": 890,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1071,
+"end": 1081,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1204,
+"end": 1231,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1255,
+"end": 1269,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1292,
+"end": 1305,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1397,
+"end": 1407,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1478,
+"end": 1492,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1494,
+"end": 1507,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1628,
+"end": 1638,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1761,
+"end": 1788,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1812,
+"end": 1826,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1849,
+"end": 1862,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2009,
+"end": 2036,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 2060,
+"end": 2074,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2076,
+"end": 2089,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2246,
+"end": 2256,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2398,
+"end": 2425,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 2449,
+"end": 2463,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2486,
+"end": 2499,
+"label": "PHONE",
+"text": "+251906564148"
+}
+]

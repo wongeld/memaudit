@@ -1,0 +1,128 @@
+[
+{
+"start": 28,
+"end": 40,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 42,
+"end": 55,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 62,
+"end": 88,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 90,
+"end": 103,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 107,
+"end": 132,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 221,
+"end": 233,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 307,
+"end": 320,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 326,
+"end": 350,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 531,
+"end": 546,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 563,
+"end": 590,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 611,
+"end": 625,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 646,
+"end": 659,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 681,
+"end": 707,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 735,
+"end": 749,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 815,
+"end": 833,
+"label": "DATE",
+"text": "የረቡዕ ከሰዓት 8:00 ሰዓት"
+},
+{
+"start": 1097,
+"end": 1112,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1170,
+"end": 1183,
+"label": "LOCATION",
+"text": "Ayder Mekelle"
+},
+{
+"start": 1198,
+"end": 1211,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1298,
+"end": 1306,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 1308,
+"end": 1316,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1402,
+"end": 1415,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

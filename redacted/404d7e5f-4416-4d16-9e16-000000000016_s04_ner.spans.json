@@ -1,0 +1,140 @@
+[
+{
+"start": 14,
+"end": 30,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 181,
+"end": 185,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 187,
+"end": 192,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 487,
+"end": 503,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 573,
+"end": 578,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 812,
+"end": 823,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 846,
+"end": 854,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 957,
+"end": 964,
+"label": "LOCATION",
+"text": "Kenya\n*"
+},
+{
+"start": 1085,
+"end": 1101,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1351,
+"end": 1362,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 1385,
+"end": 1393,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 1496,
+"end": 1503,
+"label": "LOCATION",
+"text": "Kenya\n*"
+},
+{
+"start": 1675,
+"end": 1679,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1681,
+"end": 1686,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1835,
+"end": 1860,
+"label": "DATE",
+"text": "Jumatatu saa 2:00 asubuhi"
+},
+{
+"start": 1865,
+"end": 1881,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2180,
+"end": 2207,
+"label": "DATE",
+"text": "Jumatatu saa 2:00 asubuhi\n*"
+},
+{
+"start": 2346,
+"end": 2371,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 2427,
+"end": 2443,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2584,
+"end": 2603,
+"label": "PERSON",
+"text": "Valentine Nayaku:\n*"
+},
+{
+"start": 2659,
+"end": 2670,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 2693,
+"end": 2701,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 2929,
+"end": 2965,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi\n\nTafadhali"
+}
+]

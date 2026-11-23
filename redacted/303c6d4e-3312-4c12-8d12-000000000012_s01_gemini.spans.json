@@ -1,0 +1,176 @@
+[
+{
+"start": 9,
+"end": 20,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 38,
+"end": 48,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 53,
+"end": 85,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 276,
+"end": 287,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 301,
+"end": 311,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 464,
+"end": 474,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 480,
+"end": 491,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 497,
+"end": 510,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 517,
+"end": 544,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 653,
+"end": 663,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 738,
+"end": 751,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 793,
+"end": 820,
+"label": "EMAIL",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 900,
+"end": 911,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 924,
+"end": 937,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1109,
+"end": 1119,
+"label": "ID_NUMBER",
+"text": "3923394857"
+},
+{
+"start": 1206,
+"end": 1238,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 1263,
+"end": 1274,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1276,
+"end": 1289,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1372,
+"end": 1382,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1514,
+"end": 1546,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 1570,
+"end": 1583,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1655,
+"end": 1665,
+"label": "ID_NUMBER",
+"text": "3923394857"
+},
+{
+"start": 1766,
+"end": 1776,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1804,
+"end": 1815,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1817,
+"end": 1830,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 2117,
+"end": 2127,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2259,
+"end": 2291,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 2315,
+"end": 2328,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 2400,
+"end": 2410,
+"label": "ID_NUMBER",
+"text": "3923394857"
+}
+]

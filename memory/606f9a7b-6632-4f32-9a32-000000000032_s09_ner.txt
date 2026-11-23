@@ -1,0 +1,6 @@
+- Manages health for [PERSON] (profile_id [PROFILE_ID]), including routine wellness checkups and mild seasonal allergic rhinitis.
+- Uses a daily planning routine to organize appointments, shopping, and fitness activities.
+- Shopping needs include a daily planner notebook, hydration products from [ORGANIZATION], and wellness supplies.
+- Incorporates morning fitness and stretching sessions into the weekend routine (Saturdays at 08:30 AM).
+- Contact information for [PERSON] is +16098633034.
+- Prefers to review and approve activity bookings before they are finalized.

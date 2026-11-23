@@ -1,0 +1,266 @@
+[
+{
+"start": 62,
+"end": 68,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 70,
+"end": 83,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 85,
+"end": 94,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 128,
+"end": 164,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 290,
+"end": 326,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 356,
+"end": 369,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 575,
+"end": 611,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 613,
+"end": 616,
+"label": "ORGANIZATION",
+"text": "EWR"
+},
+{
+"start": 636,
+"end": 647,
+"label": "LOCATION",
+"text": "Brewster Rd"
+},
+{
+"start": 649,
+"end": 655,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 657,
+"end": 659,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 697,
+"end": 706,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 719,
+"end": 725,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 727,
+"end": 729,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 760,
+"end": 773,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 924,
+"end": 930,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 932,
+"end": 945,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 947,
+"end": 956,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1011,
+"end": 1024,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1095,
+"end": 1108,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1390,
+"end": 1409,
+"label": "LOCATION",
+"text": "Newark Penn Station"
+},
+{
+"start": 1426,
+"end": 1456,
+"label": "LOCATION",
+"text": "Raymond Plaza West & Market St"
+},
+{
+"start": 1458,
+"end": 1464,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1466,
+"end": 1468,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 1820,
+"end": 1836,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2223,
+"end": 2229,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2231,
+"end": 2244,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2246,
+"end": 2255,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2279,
+"end": 2295,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2496,
+"end": 2512,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2827,
+"end": 2833,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2835,
+"end": 2848,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2850,
+"end": 2859,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2883,
+"end": 2899,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3141,
+"end": 3148,
+"label": "PERSON",
+"text": "Suzanne"
+},
+{
+"start": 3234,
+"end": 3237,
+"label": "ORGANIZATION",
+"text": "ESG"
+},
+{
+"start": 3277,
+"end": 3283,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3285,
+"end": 3298,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3300,
+"end": 3309,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 3632,
+"end": 3638,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3640,
+"end": 3653,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3655,
+"end": 3664,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 3688,
+"end": 3704,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3810,
+"end": 3813,
+"label": "ORGANIZATION",
+"text": "ESG"
+}
+]

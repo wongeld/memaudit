@@ -1,0 +1,4 @@
+- The user is managing mild seasonal allergic rhinitis (mock ID [PHONE]).
+- The user is preparing for travel and has already packed their travel bag.
+- The user is currently located in or traveling near [LOCATION], [LOCATION] ([LOCATION]).
+- The user is experiencing persistent technical issues with the assistant's ability to save activities, retrieve data, and execute location-based tools like `search_places` and `reverse_geocode`.

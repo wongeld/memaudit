@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], ana nambari ya kitambulisho 40553077639, na ana ndoa yenye watoto wawili.
+* Mawasiliano na maelezo yake ya akaunti ni pamoja na nambari ya simu [PHONE], barua pepe [EMAIL], na Profile ID [PROFILE_ID].
+* Ana mpango wa kwenda kufanya manunuzi huko [LOCATION].
+* Anapendelea taarifa zake binafsi zisitumwe wakati wa kutafuta maeneo, na anataka nukuu/attribution ya OpenStreetMap iwekwe.
+* Alitafuta taarifa za kituo cha biashara chenye majira-nukta latitude -1.2618 na longitude 36.8026 huko [LOCATION].

@@ -1,0 +1,7 @@
+* ስም [PERSON]፣ የመገለጫ መታወቂያ (Profile ID) [PROFILE_ID] እና መታወቂያ ቁጥር 3923122090 አለው።
+* የዩኒቨርሲቲ መምህር (University Lecturer, Doctor of Philosophy) ነው።
+* መኖሪያው በ[LOCATION], [LOCATION] (Yeka) ሲሆን አገሩ [LOCATION] ነው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ነው።
+* የጤና ሁኔታው 'Mild hypertension' ነው።
+* ተመራጭ ቋንቋው አማርኛ ሲሆን ስልኩ [PHONE]፣ ኢሜይሉ [EMAIL] ናቸው።
+* ከ[PERSON] ([PHONE]) ጋር የተያያዘ የቤተሰብ ተግባር አለው።

@@ -1,0 +1,51 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild seasonal allergic rhinitis kila jioni saa 12:30.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako. Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Samahani sana, lakini kama nilivyokueleza mara kadhaa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako au uthibitisho wako.
+
+Kwa sasa, siwezi kuhifadhi kikumbusho hiki cha familia. Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] ([PHONE]) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako. Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] ([PHONE]) kwenye profile_id [[ID_NUMBER]], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako, hata kwa marekebisho ya maelezo. Nimeelewa kuwa unataka kununua "Mahitaji ya nyumbani na zawadi za familia" huko [LOCATION], [LOCATION] ([LOCATION]), na maelezo ya ziada ni "vyakula vya afya vya familia na matunda" kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]).
+
+Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) Jumapili saa 7:30 mchana na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Samahani sana, lakini kama ilivyotokea mara nyingi sasa, zana ya `record_user_activity` inaendelea kurudisha ujumbe wa "Canceled. No activity was saved." Hii inaashiria kuna tatizo la kiufundi na zana yenyewe, na si uelewa wangu wa maelekezo yako.
+
+Kwa sasa, siwezi kuhifadhi shughuli zako. Nimeelewa maelezo yote uliyoyatoa, na nitayaendeleza kwa mawasiliano yetu.
+
+Je, kuna kitu kingine ninaloweza kukusaidia nalo?

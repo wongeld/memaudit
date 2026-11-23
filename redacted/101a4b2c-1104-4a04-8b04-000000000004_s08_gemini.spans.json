@@ -1,0 +1,110 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 71,
+"end": 81,
+"label": "ID_NUMBER",
+"text": "9750779397"
+},
+{
+"start": 225,
+"end": 238,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 240,
+"end": 248,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 250,
+"end": 259,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 823,
+"end": 836,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 838,
+"end": 846,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 848,
+"end": 857,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 888,
+"end": 904,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 930,
+"end": 943,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1012,
+"end": 1022,
+"label": "ID_NUMBER",
+"text": "9750779397"
+},
+{
+"start": 1794,
+"end": 1821,
+"label": "LOCATION",
+"text": "National Museum of Tanzania"
+},
+{
+"start": 1822,
+"end": 1835,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1953,
+"end": 1980,
+"label": "LOCATION",
+"text": "National Museum of Tanzania"
+},
+{
+"start": 1981,
+"end": 1994,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3018,
+"end": 3031,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3033,
+"end": 3041,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3043,
+"end": 3052,
+"label": "LOCATION",
+"text": "Mikocheni"
+}
+]

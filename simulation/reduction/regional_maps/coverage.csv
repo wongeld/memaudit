@@ -1,0 +1,17 @@
+redactor,k,saved_cases,pool_profiles,unknown_location,unknown_occupation
+gemini,1,32,40,32,0
+gemini,3,32,40,20,0
+gemini,5,32,40,16,0
+gemini,10,4,40,3,0
+ner,1,32,40,13,1
+ner,3,32,40,7,1
+ner,5,32,40,4,0
+ner,10,4,40,1,0
+none,1,32,40,0,0
+none,3,32,40,0,0
+none,5,32,40,0,0
+none,10,4,40,0,0
+presidio,1,32,40,17,1
+presidio,3,32,40,8,1
+presidio,5,32,40,7,0
+presidio,10,4,40,1,0

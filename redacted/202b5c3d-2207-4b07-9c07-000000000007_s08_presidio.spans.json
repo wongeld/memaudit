@@ -1,0 +1,134 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 56,
+"end": 86,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 88,
+"end": 101,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 105,
+"end": 117,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 119,
+"end": 133,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 411,
+"end": 426,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 443,
+"end": 454,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 456,
+"end": 473,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 494,
+"end": 510,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 531,
+"end": 544,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 560,
+"end": 590,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 684,
+"end": 698,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 764,
+"end": 769,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 1127,
+"end": 1132,
+"label": "LOCATION",
+"text": "Ababa"
+},
+{
+"start": 1134,
+"end": 1148,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 1206,
+"end": 1228,
+"label": "LOCATION",
+"text": "Unity Park Addis Ababa"
+},
+{
+"start": 1243,
+"end": 1256,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1388,
+"end": 1395,
+"label": "DATE",
+"text": "በአሁኑ ጊዜ"
+},
+{
+"start": 1426,
+"end": 1438,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1440,
+"end": 1448,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1532,
+"end": 1545,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

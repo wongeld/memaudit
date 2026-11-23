@@ -1,0 +1,56 @@
+[
+{
+"start": 79,
+"end": 89,
+"label": "ID_NUMBER",
+"text": "6792442744"
+},
+{
+"start": 1064,
+"end": 1087,
+"label": "LOCATION",
+"text": "Arusha Airport Tanzania"
+},
+{
+"start": 1228,
+"end": 1251,
+"label": "LOCATION",
+"text": "Arusha Airport Tanzania"
+},
+{
+"start": 1412,
+"end": 1418,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1420,
+"end": 1428,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1430,
+"end": 1435,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 1808,
+"end": 1813,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 1827,
+"end": 1833,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1848,
+"end": 1856,
+"label": "LOCATION",
+"text": "Tanzania"
+}
+]

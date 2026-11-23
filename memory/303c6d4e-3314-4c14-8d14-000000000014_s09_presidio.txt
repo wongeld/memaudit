@@ -1,0 +1,5 @@
+* ተጠቃሚው 'Iron-deficiency anemia' የተባለ የጤና እክል አለበት።
+* በሙያው 'Private School Admissions Coordinator' ሆኖ ይሰራል።
+* ያገባ ሲሆን ሁለት ልጆች አሉት።
+* ከ [PERSON] (ስልክ ቁጥር [PHONE]) ጋር የተያያዙ የቤተሰብ (family) ጉዳዮችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን (booking) በስርዓቱ ያስመዘግባል።
+* አብዛኛውን ጊዜ በ [LOCATION], [LOCATION] አካባቢ የሚከናወኑ ተግባራትን ያቅዳል።

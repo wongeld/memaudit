@@ -1,0 +1,5 @@
+- User is [PERSON] (ID 8698697209).
+- Plans to review household budget and family calendar with family in [LOCATION], [LOCATION] ([LOCATION]).
+- Interested in planning a family outing to [LOCATION] Zoo [LOCATION].
+- Needs to verify the address for a family gathering at coordinates 41.9142, -87.6485 in [LOCATION], [LOCATION] ([LOCATION]).
+- Mobile phone number is +15759823598.

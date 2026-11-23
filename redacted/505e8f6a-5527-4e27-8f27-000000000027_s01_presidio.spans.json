@@ -1,0 +1,164 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 99,
+"end": 106,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 108,
+"end": 121,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 123,
+"end": 135,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 521,
+"end": 528,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 540,
+"end": 548,
+"label": "PERSON",
+"text": "Halstead"
+},
+{
+"start": 563,
+"end": 575,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 583,
+"end": 613,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 623,
+"end": 636,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 861,
+"end": 868,
+"label": "PERSON",
+"text": "Gregory"
+},
+{
+"start": 880,
+"end": 888,
+"label": "LOCATION",
+"text": "Halstead"
+},
+{
+"start": 903,
+"end": 915,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 923,
+"end": 953,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 963,
+"end": 976,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1086,
+"end": 1102,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1121,
+"end": 1133,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 1454,
+"end": 1470,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1550,
+"end": 1557,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1559,
+"end": 1572,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1574,
+"end": 1581,
+"label": "LOCATION",
+"text": "Lincoln"
+},
+{
+"start": 1813,
+"end": 1829,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1831,
+"end": 1843,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 2117,
+"end": 2129,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 2367,
+"end": 2383,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2388,
+"end": 2400,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 2668,
+"end": 2684,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 2699,
+"end": 2711,
+"label": "PHONE",
+"text": "+15759823598"
+}
+]

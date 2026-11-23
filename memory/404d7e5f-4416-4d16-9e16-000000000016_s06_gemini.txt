@@ -1,0 +1,6 @@
+* Mtumiaji anajishughulisha na masuala ya elimu (school) na anafanya kazi na [PERSON] (simu: [PHONE], profile_id: [[ID_NUMBER]]).
+* Mtumiaji ana afya njema na hana ugonjwa sugu.
+* Anajihusisha na usimamizi wa wanafunzi, ikiwemo kukusanya insha na madaftari.
+* Anahitaji kununua vifaa vya shule kama vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe kutoka [LOCATION].
+* Anahitaji nakala 20 za vitabu vya fasihi kwa ajili ya shughuli zake.
+* Anapanga mikutano shuleni, ikiwemo kuweka nafasi ya ukumbi wa mikutano katika [LOCATION].

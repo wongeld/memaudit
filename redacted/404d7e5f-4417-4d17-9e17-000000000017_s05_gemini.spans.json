@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 39,
+"end": 50,
+"label": "ID_NUMBER",
+"text": "40410925283"
+},
+{
+"start": 215,
+"end": 222,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 224,
+"end": 229,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 231,
+"end": 239,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 572,
+"end": 579,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 581,
+"end": 586,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 588,
+"end": 596,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 822,
+"end": 851,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 1426,
+"end": 1437,
+"label": "LOCATION",
+"text": "Yaya Centre"
+},
+{
+"start": 1438,
+"end": 1446,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1447,
+"end": 1454,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1801,
+"end": 1808,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1810,
+"end": 1815,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1817,
+"end": 1825,
+"label": "LOCATION",
+"text": "Kilimani"
+}
+]

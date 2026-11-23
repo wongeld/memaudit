@@ -1,0 +1,320 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 53,
+"end": 61,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 63,
+"end": 71,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 85,
+"end": 92,
+"label": "DATE",
+"text": "የ29 ዓመት"
+},
+{
+"start": 197,
+"end": 209,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 318,
+"end": 326,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 345,
+"end": 352,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 374,
+"end": 387,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 403,
+"end": 429,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 447,
+"end": 457,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 604,
+"end": 616,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 622,
+"end": 635,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 642,
+"end": 668,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 674,
+"end": 682,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 830,
+"end": 838,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 857,
+"end": 864,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 886,
+"end": 899,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 915,
+"end": 941,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 959,
+"end": 969,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1054,
+"end": 1066,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1079,
+"end": 1092,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1277,
+"end": 1289,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1380,
+"end": 1388,
+"label": "PERSON",
+"text": "Tigist\n*"
+},
+{
+"start": 1407,
+"end": 1414,
+"label": "PERSON",
+"text": "Hailu\n*"
+},
+{
+"start": 1436,
+"end": 1449,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1465,
+"end": 1491,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 1509,
+"end": 1519,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 1710,
+"end": 1725,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1726,
+"end": 1734,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 1736,
+"end": 1751,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1753,
+"end": 1758,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1776,
+"end": 1788,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1790,
+"end": 1803,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1840,
+"end": 1852,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1913,
+"end": 1928,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1931,
+"end": 1938,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1940,
+"end": 1955,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 2122,
+"end": 2139,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 2156,
+"end": 2163,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2165,
+"end": 2173,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2175,
+"end": 2183,
+"label": "LOCATION",
+"text": "Ayder)\n*"
+},
+{
+"start": 2204,
+"end": 2218,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 2239,
+"end": 2252,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 2415,
+"end": 2430,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2438,
+"end": 2450,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2452,
+"end": 2465,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 2527,
+"end": 2542,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2672,
+"end": 2677,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2705,
+"end": 2722,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 2739,
+"end": 2746,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2748,
+"end": 2756,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2787,
+"end": 2801,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 2822,
+"end": 2835,
+"label": "PHONE",
+"text": "+251940072829"
+}
+]

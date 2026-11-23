@@ -1,0 +1,158 @@
+[
+{
+"start": 22,
+"end": 34,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 84,
+"end": 97,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 101,
+"end": 113,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 115,
+"end": 129,
+"label": "LOCATION",
+"text": "Ethiopia (Bole"
+},
+{
+"start": 218,
+"end": 230,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 289,
+"end": 301,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 483,
+"end": 496,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 505,
+"end": 515,
+"label": "DATE",
+"text": "ከምሽቱ 2 ሰዓት"
+},
+{
+"start": 543,
+"end": 554,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 556,
+"end": 564,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 661,
+"end": 675,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 743,
+"end": 755,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 756,
+"end": 769,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓት"
+},
+{
+"start": 1120,
+"end": 1125,
+"label": "LOCATION",
+"text": "Ababa"
+},
+{
+"start": 1127,
+"end": 1135,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1199,
+"end": 1220,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1235,
+"end": 1248,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1285,
+"end": 1299,
+"label": "ORGANIZATION",
+"text": "በOpenStreetMap"
+},
+{
+"start": 1304,
+"end": 1325,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1361,
+"end": 1375,
+"label": "ORGANIZATION",
+"text": "የOpenStreetMap"
+},
+{
+"start": 1433,
+"end": 1446,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1492,
+"end": 1504,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1506,
+"end": 1514,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1598,
+"end": 1611,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1694,
+"end": 1708,
+"label": "ORGANIZATION",
+"text": "የOpenStreetMap"
+},
+{
+"start": 1766,
+"end": 1779,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

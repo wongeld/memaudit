@@ -1,0 +1,200 @@
+[
+{
+"start": 120,
+"end": 126,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 128,
+"end": 141,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 143,
+"end": 151,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 179,
+"end": 190,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 469,
+"end": 475,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 477,
+"end": 490,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 492,
+"end": 500,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 516,
+"end": 527,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 705,
+"end": 716,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1151,
+"end": 1162,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1289,
+"end": 1295,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1297,
+"end": 1310,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1312,
+"end": 1320,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1539,
+"end": 1545,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1547,
+"end": 1560,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1562,
+"end": 1570,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1586,
+"end": 1591,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 1882,
+"end": 1888,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 1903,
+"end": 1911,
+"label": "ORGANIZATION",
+"text": "Supplies"
+},
+{
+"start": 1917,
+"end": 1928,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2197,
+"end": 2203,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2237,
+"end": 2243,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2245,
+"end": 2258,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2260,
+"end": 2268,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2284,
+"end": 2295,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2553,
+"end": 2564,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2628,
+"end": 2634,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2636,
+"end": 2649,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2651,
+"end": 2659,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2949,
+"end": 2955,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2957,
+"end": 2970,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2972,
+"end": 2980,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2996,
+"end": 3007,
+"label": "PERSON",
+"text": "James Bosse"
+}
+]

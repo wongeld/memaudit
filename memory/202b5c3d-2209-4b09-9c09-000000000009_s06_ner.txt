@@ -1,0 +1,5 @@
+* ተጠቃሚው 'Mild asthma' የተባለ የጤና ሁኔታ አለበት።
+* የሙያ ሥራው 'Hospital Physician' ነው።
+* ከ[PERSON] (profile_id [PROFILE_ID]፣ ስልክ ቁጥር +251945416026) ጋር የተያያዙ ማስታወሻዎችን እና እንቅስቃሴዎችን በ'school' ጭብጥ ሥር ይመዘግባል።
+* በ[LOCATION], [LOCATION] (Ayder) የቁሳቁሶች ግዢ (shopping_item) እና የአገልግሎት/ቦታ ማስያዝ (booking) ዕቅዶች አሉት።
+* ማንኛውም መረጃ ወይም እንቅስቃሴ ከመመዝገቡ በፊት ዝርዝሩ አስቀድሞ ለማረጋገጫ እንዲቀርብለት ይመርጣል።

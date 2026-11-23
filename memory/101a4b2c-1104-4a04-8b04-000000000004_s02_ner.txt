@@ -1,0 +1,6 @@
+* Anaitwa [PERSON].
+* Ameoa/ameolewa na ana watoto watatu.
+* Hali yake ya afya ni shinikizo la kadiri la damu (Mild hypertension).
+* Ana kitambulisho cha wasifu chenye nambari [PROFILE_ID].
+* Anafanya kazi inayohusisha idara na vikao vya kikazi katika eneo la [LOCATION], [LOCATION] (Mikocheni).
+* Hupendelea kutotuma taarifa zake binafsi wakati wa kutafuta maeneo kupitia huduma za utafutaji.

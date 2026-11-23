@@ -1,0 +1,164 @@
+[
+{
+"start": 28,
+"end": 43,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 96,
+"end": 109,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 113,
+"end": 138,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia (Tabor"
+},
+{
+"start": 453,
+"end": 471,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n**ቦታ"
+},
+{
+"start": 486,
+"end": 519,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor)\n**የእውቂያ"
+},
+{
+"start": 541,
+"end": 564,
+"label": "PERSON",
+"text": "Selamawit Girma\n**የሞባይል"
+},
+{
+"start": 744,
+"end": 758,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 824,
+"end": 838,
+"label": "DATE",
+"text": "የረቡዕን 8:00 ሰዓት"
+},
+{
+"start": 1191,
+"end": 1206,
+"label": "LOCATION",
+"text": "Ethiopia (Tabor"
+},
+{
+"start": 1264,
+"end": 1317,
+"label": "ORGANIZATION",
+"text": "Hawassa University Comprehensive Specialized Hospital"
+},
+{
+"start": 1332,
+"end": 1345,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1494,
+"end": 1507,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1556,
+"end": 1559,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1572,
+"end": 1585,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1643,
+"end": 1701,
+"label": "ORGANIZATION",
+"text": "Hawassa University Comprehensive Specialized Hospital'.\n\nI"
+},
+{
+"start": 1749,
+"end": 1774,
+"label": "LOCATION",
+"text": "በHawassa, Ethiopia (Tabor"
+},
+{
+"start": 1794,
+"end": 1800,
+"label": "LOCATION",
+"text": "7.0504"
+},
+{
+"start": 1814,
+"end": 1821,
+"label": "LOCATION",
+"text": "38.4955"
+},
+{
+"start": 1852,
+"end": 1865,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1919,
+"end": 1950,
+"label": "ORGANIZATION",
+"text": "`openstreetmap_reverse_geocode`"
+},
+{
+"start": 2065,
+"end": 2078,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2097,
+"end": 2100,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2272,
+"end": 2285,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2623,
+"end": 2637,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 2646,
+"end": 2663,
+"label": "DATE",
+"text": "10:00 PM)\nContact"
+},
+{
+"start": 2670,
+"end": 2692,
+"label": "PERSON",
+"text": "Selamawit Girma\nMobile"
+},
+{
+"start": 2752,
+"end": 2771,
+"label": "ORGANIZATION",
+"text": "የRegional Logistics"
+}
+]

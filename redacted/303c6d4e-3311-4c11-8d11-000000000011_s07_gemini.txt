@@ -1,0 +1,83 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [[ID_NUMBER]])፤ በ[LOCATION]) የምኖር የ38 ዓመት Commercial Florist and Event Decorator (Diploma in Business Management፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+መገለጫዎ አልተቀመጠም። ከዚህ ቀደም ለመመዝገብ ሞክረን ነበር ነገር ግን ተሰርዟል።
+
+መገለጫዎን ለመመዝገብ የሚከተሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: [[ID_NUMBER]]
+**first_name**: Hirut
+**last_name**: Anagaw
+**mobile_phone**: [PHONE]
+**country**: Ethiopia
+**email**: [EMAIL]
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ አሁን መገለጫዎን እንደገና ማስቀመጥ እችላለሁ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መገለጫዎን ከማስቀመጥዎ በፊት ከዚህ በታች ያሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: [[ID_NUMBER]]
+**first_name**: Hirut
+**last_name**: Anagaw
+**mobile_phone**: [PHONE]
+**country**: Ethiopia
+**email**: [EMAIL]
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ መገለጫዎን አሁን ማስቀመጥ እችላለሁ።
+
+ሆኖም፣ ቀደም ባሉት ሙከራዎች መገለጫውን ለማስቀመጥ ስሞክር "Canceled. No profile was saved." የሚል ስህተት ደርሶብኛል። ይህ ችግር አሁንም ካለ፣ መገለጫዎን ማስቀመጥ አልችልም።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር [PHONE] መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ መገለጫው እንደገና አልተቀመጠም። የሚከተለው መልእክት ከስርአቱ ደርሶኛል፡- "Canceled. No profile was saved."
+
+ይህ ለምን እየሆነ እንደሆነ አላውቅም። የመገለጫ ማስቀመጫ መሳሪያው በአሁኑ ጊዜ ችግር እየገጠመው ያለ ይመስላል።
+
+በሌላ ነገር ልረዳህ እችላለሁ?
+
+User:
+እንደ Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ፣ በ family ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ለ [PERSON] ([PHONE]) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+የሳምንቱ ዋና ተግባር ለመመዝገብ ትክክለኛውን ቀን ማወቅ እፈልጋለሁ። ለምሳሌ "ሰኔ 10 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 2:30 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ሰኞ ጠዋት 2:30 ሰዓት
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [[ID_NUMBER]] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ [PERSON] ([PHONE]) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+አልገባኝም፣ ሰኞ ጠዋት 3:00 ሰዓት የትኛው ቀን ነው? ለምሳሌ "ሰኔ 10 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 3:00 ሰዓት"። ትክክለኛውን ቀን ማወቅ አለብኝ።
+
+ለትክክለኛው ቀን፣ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ [PERSON] እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [[ID_NUMBER]]
+*   **theme**: family
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: [LOCATION])
+*   **mobile_phone**: [PHONE]
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ [ID_NUMBER]) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis'

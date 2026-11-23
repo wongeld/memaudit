@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: [EMAIL]).
+- User reports being in good health with no chronic conditions.
+- User is based in [LOCATION], [LOCATION] ([LOCATION]).
+- User is actively managing professional commitments and stakeholder reviews.
+- User is currently interested in looking up locations and addresses related to their work area.

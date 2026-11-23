@@ -1,0 +1,4 @@
+* ከBereket Tesfaye ጋር በስራ (work) ዙሪያ ግንኙነት አለው/አላት።
+* በMekelle፣ Ethiopia (በተለይም Ayder አካባቢ እና Ayder Comprehensive Specialized Hospital) ላይ ትኩረት ወይም ጉዳይ አለው/አላት።
+* የመገለጫ መታወቂያው (profile_id) `[PROFILE_ID]` ነው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይላክ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣል።

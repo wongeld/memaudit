@@ -1,0 +1,7 @@
+- Name: Arthur Pendleton
+- Age: 46
+- Occupation: Family Mediation Counselor (holds a Bachelor of Laws)
+- Family: Married with two children
+- Health: Managing type 2 diabetes
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Routine: Requires a daily health routine and schedule review reminder at 06:45 AM

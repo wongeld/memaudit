@@ -1,0 +1,6 @@
+* Manages type 2 diabetes and is actively seeking health supplies to support this.
+* Incorporates wellness routines, including routine checkups and morning fitness/stretching sessions.
+* Uses a daily planner to organize activities and health management.
+* Prefers to review and approve details before finalizing bookings or shopping lists.
+* Frequently uses the `record_user_activity` tool for daily planning, though it has been experiencing technical issues.
+* Associated with [PERSON] and [PHONE].

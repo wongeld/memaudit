@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (Profile ID: [PROFILE_ID]) ሲሆኑ የሚኖሩት በ [LOCATION], [LOCATION] (Yeka) ነው።
+* የሥራ ሁኔታ፦ University Lecturer (Doctor of Philosophy) ሲሆኑ የመታወቂያ ቁጥራቸው 3923122090 ነው።
+* የቤተሰብ ሁኔታ፦ ባለትዳርና የሁለት ልጆች ወላጅ ናቸው።
+* የጤና ሁኔታ፦ 'Mild hypertension' (ቀላል የደም ግፊት) አለባቸው።
+* የመገናኛ መረጃ እና ምርጫ፦ ስልክ ቁጥር +251906564148፣ ኢሜይል andualem.abate+007@outlook.com እንዲሁም የሚመርጡት ቋንቋ አማርኛ ነው።
+* የሥራ ዕቅድ፦ በ [DATE] በ [LOCATION], [LOCATION] (Yeka) የሚከናወን የሳምንቱ ዋና የሥራ ተግባር (task) አላቸው።

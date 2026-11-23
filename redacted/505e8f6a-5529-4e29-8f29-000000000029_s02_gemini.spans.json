@@ -1,0 +1,92 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 28,
+"end": 58,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 215,
+"end": 221,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 223,
+"end": 236,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 238,
+"end": 247,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 584,
+"end": 590,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 592,
+"end": 605,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 607,
+"end": 616,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 699,
+"end": 715,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 881,
+"end": 897,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1363,
+"end": 1391,
+"label": "ADDRESS",
+"text": "One Gateway Center Newark NJ"
+},
+{
+"start": 1533,
+"end": 1561,
+"label": "ADDRESS",
+"text": "One Gateway Center Newark NJ"
+},
+{
+"start": 1789,
+"end": 1795,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1797,
+"end": 1810,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1812,
+"end": 1821,
+"label": "LOCATION",
+"text": "Ironbound"
+}
+]

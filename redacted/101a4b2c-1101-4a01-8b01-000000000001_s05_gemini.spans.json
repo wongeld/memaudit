@@ -1,0 +1,62 @@
+[
+{
+"start": 11,
+"end": 22,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 67,
+"end": 78,
+"label": "ID_NUMBER",
+"text": "40553593576"
+},
+{
+"start": 222,
+"end": 226,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 228,
+"end": 233,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 235,
+"end": 241,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1514,
+"end": 1526,
+"label": "LOCATION",
+"text": "Embu Stadium"
+},
+{
+"start": 1776,
+"end": 1788,
+"label": "LOCATION",
+"text": "Embu Stadium"
+},
+{
+"start": 1978,
+"end": 1982,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1984,
+"end": 1989,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1991,
+"end": 1997,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+"start": 34,
+"end": 49,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 371,
+"end": 392,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 452,
+"end": 483,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nUser:\nTafadhali"
+},
+{
+"start": 590,
+"end": 609,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua"
+},
+{
+"start": 632,
+"end": 660,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nUser:\nRekodi"
+},
+{
+"start": 707,
+"end": 718,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 804,
+"end": 827,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 833,
+"end": 852,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua"
+}
+]

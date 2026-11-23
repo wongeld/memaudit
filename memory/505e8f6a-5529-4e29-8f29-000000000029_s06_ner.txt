@@ -1,0 +1,5 @@
+- The user is married with two children.
+- The user is managing type 2 diabetes and prioritizes healthy family meals.
+- The user frequently coordinates family activities, including grocery shopping and brunch reservations.
+- The user is associated with [PERSON] (Arthur [LOCATION]), who has the phone number +19832584476.
+- The user's family activities often take place in [LOCATION], [LOCATION] (Ironbound).

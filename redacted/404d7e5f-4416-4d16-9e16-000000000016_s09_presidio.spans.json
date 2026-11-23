@@ -1,0 +1,170 @@
+[
+{
+"start": 59,
+"end": 75,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 161,
+"end": 184,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 190,
+"end": 194,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 196,
+"end": 209,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 514,
+"end": 539,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n*"
+},
+{
+"start": 554,
+"end": 558,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 560,
+"end": 576,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 709,
+"end": 732,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 737,
+"end": 753,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1070,
+"end": 1095,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n*"
+},
+{
+"start": 1110,
+"end": 1114,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1116,
+"end": 1132,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 1284,
+"end": 1300,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1377,
+"end": 1381,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1383,
+"end": 1396,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 1728,
+"end": 1732,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1734,
+"end": 1739,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1961,
+"end": 1977,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2150,
+"end": 2169,
+"label": "PERSON",
+"text": "Valentine Nayaku:\n*"
+},
+{
+"start": 2451,
+"end": 2455,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2457,
+"end": 2482,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n\nTafadhali"
+},
+{
+"start": 2595,
+"end": 2620,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi"
+},
+{
+"start": 2626,
+"end": 2630,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2632,
+"end": 2645,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 2651,
+"end": 2667,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2995,
+"end": 3022,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi\n*"
+},
+{
+"start": 3037,
+"end": 3041,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3043,
+"end": 3048,
+"label": "LOCATION",
+"text": "Kenya"
+}
+]

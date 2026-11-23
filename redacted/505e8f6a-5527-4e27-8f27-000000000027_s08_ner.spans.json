@@ -1,0 +1,188 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 165,
+"end": 172,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 174,
+"end": 187,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 189,
+"end": 201,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 281,
+"end": 297,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 481,
+"end": 488,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 490,
+"end": 503,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 505,
+"end": 517,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 533,
+"end": 549,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1386,
+"end": 1402,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1778,
+"end": 1785,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1787,
+"end": 1800,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1802,
+"end": 1814,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1851,
+"end": 1863,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1868,
+"end": 1875,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1940,
+"end": 1944,
+"label": "ORGANIZATION",
+"text": "tMap"
+},
+{
+"start": 2009,
+"end": 2025,
+"label": "LOCATION",
+"text": "Lincoln Park Zoo"
+},
+{
+"start": 2026,
+"end": 2033,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2064,
+"end": 2077,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2200,
+"end": 2213,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2374,
+"end": 2387,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2461,
+"end": 2473,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2478,
+"end": 2485,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2548,
+"end": 2561,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2774,
+"end": 2781,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2783,
+"end": 2796,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2798,
+"end": 2810,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2871,
+"end": 2884,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3120,
+"end": 3133,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3334,
+"end": 3347,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3511,
+"end": 3524,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

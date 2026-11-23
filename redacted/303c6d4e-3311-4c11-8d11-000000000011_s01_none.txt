@@ -1,0 +1,76 @@
+User:
+እኔ Hirut Anagaw ነኝ (profile_id: [PROFILE_ID])፤ በAddis Ababa, Ethiopia (Bole) የምኖር የ38 ዓመት Commercial Florist and Event Decorator (Diploma in Business Management፣ Married with two children) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+መገለጫዎ አልተቀመጠም። እባክዎ መገለጫዎን ለመመዝገብ የሚከተሉትን ዝርዝሮች ያረጋግጡ።
+
+ስም: Hirut Anagaw
+profile_id: [PROFILE_ID]
+Mobile Phone: (አልተሰጠም)
+Country: Ethiopia
+Email: (አልተሰጠም)
+Preferred Language: (አልተሰጠም)
+
+እባክዎ ከመቀጠልዎ በፊት ስልክ ቁጥርዎን ያቅርቡ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም Hirut Anagaw፣ ስልክ +251962051344፣ ኢሜይል hirut.anagaw+011@gmail.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክዎ መገለጫዎን ከማስቀመጥዎ በፊት ከዚህ በታች ያሉትን ዝርዝሮች ያረጋግጡ።
+
+**profile_id**: [PROFILE_ID]
+**first_name**: Hirut
+**last_name**: Anagaw
+**mobile_phone**: +251962051344
+**country**: Ethiopia
+**email**: hirut.anagaw+011@gmail.com
+**preferred_language**: አማርኛ
+
+እነዚህ ዝርዝሮች ትክክል ከሆኑ፣ መገለጫዎን አሁን ማስቀመጥ እችላለሁ።
+
+User:
+አዎ፣ የ Hirut Anagaw እና የስልክ ቁጥር +251962051344 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+ይቅርታ፣ መገለጫው አልተቀመጠም። የሚከተለው መልእክት ከስርአቱ ደርሶኛል፡- "Canceled. No profile was saved."
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+User:
+እንደ Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388) እና የጤና ሁኔታዬ 'Mild seasonal allergic rhinitis' ስለሆነ፣ በ work ሥር በ record_user_activity ሰኞ ጠዋት 2:30 ሰዓት በAddis Ababa, Ethiopia (Bole) የሳምንቱ ዋና ተግባር (task) ለ Hirut Anagaw (+251962051344) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"ሰኞ ጠዋት 2:30 ሰዓት" ለሚለው ተግባር ትክክለኛውን ቀን ማወቅ እፈልጋለሁ። ለምሳሌ "ግንቦት 27 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 2:30 ሰዓት"።
+
+ትክክለኛውን ቀን ካቀረብክ በኋላ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል)
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388), የጤና ሁኔታ 'Mild seasonal allergic rhinitis'
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ ሰኞ ጠዋት 3:00 ሰዓት ቀይርና የ Hirut Anagaw (+251962051344) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+አልገባኝም፣ ግንቦት 27 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 3:00 ሰዓት ይሆናል? ትክክለኛውን ቀን ማወቅ አለብኝ።
+
+ለትክክለኛው ቀን፣ የሚከተለውን የሥራ እንቅስቃሴ መመዝገብ እችላለሁ።
+
+**ለ Hirut Anagaw እንቅስቃሴ ዝርዝሮች**
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: task
+*   **title**: የሳምንቱ ዋና ተግባር
+*   **date_time**: (ትክክለኛውን ቀን ከገለጽክ በኋላ ይጨመራል) ሰኞ ጠዋት 3:00 ሰዓት
+*   **location**: Addis Ababa, Ethiopia (Bole)
+*   **mobile_phone**: +251962051344
+*   **notes**: Commercial Florist and Event Decorator (Diploma in Business Management፣ መታወቂያ 3922715388), የጤና ሁኔታ 'Mild seasonal allergic rhinitis'

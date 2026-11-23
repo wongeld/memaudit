@@ -1,0 +1,5 @@
+- Mtumiaji anajali afya ya familia yake, hasa kudhibiti hali ya "Mild hypertension" kupitia lishe bora.
+- Anapendelea kununua vyakula vya afya na matunda kwa ajili ya familia.
+- Anashughulikia mipango ya familia ikiwemo ununuzi wa mahitaji ya nyumbani na zawadi katika [LOCATION].
+- Anapanga matukio ya kijamii kama chakula cha mchana cha familia katika [LOCATION].
+- Anawasiliana na [PERSON] (simu [PHONE], profile_id [PROFILE_ID]) kuhusu masuala haya ya kifamilia.

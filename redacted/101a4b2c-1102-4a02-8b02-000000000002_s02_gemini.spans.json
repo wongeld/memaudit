@@ -1,0 +1,86 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 193,
+"end": 200,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 202,
+"end": 207,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 209,
+"end": 218,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 380,
+"end": 390,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 532,
+"end": 539,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 541,
+"end": 546,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 548,
+"end": 557,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 944,
+"end": 954,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1263,
+"end": 1284,
+"label": "ORGANIZATION",
+"text": "Central Bank of Kenya"
+},
+{
+"start": 1285,
+"end": 1292,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1609,
+"end": 1616,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1618,
+"end": 1623,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1625,
+"end": 1634,
+"label": "LOCATION",
+"text": "Westlands"
+}
+]

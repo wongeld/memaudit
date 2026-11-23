@@ -1,0 +1,6 @@
+* ስም፡ [PERSON] (Profile ID: [PROFILE_ID]፣ የመታወቂያ ቁጥር፡ 3921292703)
+* የመኖሪያ ቦታ፡ [LOCATION], [LOCATION] (Bole)፣ ሀገር፡ [LOCATION]
+* የሥራ መስክ እና ትምህርት፡ Commercial Florist and Event Decorator (የ Bachelor of Arts ተመራቂ)
+* የጋብቻ ሁኔታ፡ ያላገባ/ች (Single)
+* የጤና ሁኔታ፡ ሙሉ ጤነኛ
+* የመገናኛ መረጃ እና ተመራጭ ቋንቋ፡ ስልክ [PHONE]፣ ኢሜይል [EMAIL]፣ ተመራጭ ቋንቋ አማርኛ

@@ -1,0 +1,42 @@
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu) na kitambulisho 40472954411, rekodi kikumbusho (reminder) kwenye mada ya travel cha kubeba dawa na hati za safari kwenye begi la mkononi [DATE], [PERSON]. Ninaweza kurekodi kikumbusho hicho cha safari.
+
+Ili niweze kurekodi kikumbusho kwa usahihi, naomba unipe tarehe kamili ya [DATE] ambayo kikumbusho hiki kinatakiwa kuwa. Mara baada ya kuwa na tarehe hiyo, nitaendelea kurekodi kwa kutumia maelezo yafuatayo:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: travel
+*   **activity_type**: reminder
+*   **title**: Kubeba dawa na hati za safari kwenye begi la mkononi
+*   **date_time**: [Tarehe maalum ya [DATE]] [DATE]   **notes**: Afya njema bila ugonjwa sugu, kitambulisho 40472954411.
+
+Tafadhali nithibitishie tarehe kamili ya [DATE], ghairi kikumbusho hicho cha [DATE] kwa sasa kwa sababu nitaandaa begi langu [DATE], usihifadhi.
+
+Assistant:
+Sawa, [PERSON]. Nimeghairi ombi lako la kikumbusho hicho cha [DATE]. Hakuna kikumbusho kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya travel kwa profile_id [PROFILE_ID].
+
+Assistant:
+Daniel, kwa sasa hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'travel' kwa profile_id yako [PROFILE_ID].
+
+Je, kuna shughuli nyingine ungependa kuorodhesha au kuhifadhi?
+
+User:
+Ninahitaji kuangalia kituo cha usafiri kwa ajili ya safari yangu; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], [PERSON]. Ninaweza kutafuta '[LOCATION]' kwa kutumia `openstreetmap_search_places`. Nitahakikisha kuwa taarifa zako binafsi hazitumwi na nitatambua [ORGANIZATION] kama chanzo.
+
+Kwanza, ninaunganisha na server ya [ORGANIZATION] ili kupata metadata ya hivi punde.
+
+Assistant:
+Ninatafuta '[LOCATION]' sasa.
+
+Assistant:
+Samahani, [PERSON]. Inaonekana kumekuwa na tatizo wakati wa kutafuta "[LOCATION]" kwa kutumia zana ya [ORGANIZATION] jaribu kutafuta "[LOCATION]" tu, kuona kama tatizo linahusiana na swala langu maalum, au kuna tatizo la jumla na huduma ya utafutaji.
+
+Assistant:
+Samahani sana, [PERSON]. Inaonekana kuna tatizo la kiufundi na zana ya utafutaji ya [ORGANIZATION]. Haiwezi kukamilisha hata utafutaji rahisi kama "[LOCATION] sasa, siwezi kutafuta "[LOCATION]" kwa kutumia zana hii. Inaonekana huduma ya utafutaji haifanyi kazi inavyostahili.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya eneo la safari lenye majira-nukta latitude 0.2827 na longitude 34.7519 huko [LOCATION], [LOCATION] (Malava) na uonyeshe nukuu ya [ORGANIZATION], [PERSON]. Inaonekana bado kuna tatizo na zana za [ORGANIZATION]. Hata `reverse_geocode` imeshindwa kufanya kazi. Tatizo hili linaonekana kuathiri zana zote za [ORGANIZATION] kwa sasa.
+
+Kwa bahati mbaya, siwezi kupata anwani ya eneo hilo la safari kwa kutumia zana zilizopo hivi sasa. Tafadhali jaribu tena baadaye, au ikiwa una njia nyingine ya kupata anwani hiyo, nifahamishe.

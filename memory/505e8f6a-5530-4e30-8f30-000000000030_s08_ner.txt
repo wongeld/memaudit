@@ -1,0 +1,4 @@
+* User's name is [PERSON] (email: julian.brooks+030@outlook.com).
+* Interested in comparing vendor quotes and seasonal prices for shopping tasks.
+* Currently experiencing technical issues with the [ORGANIZATION] MCP server, specifically with `search_places` and `reverse_geocode` tools.
+* Has been advised to configure a local Nominatim instance or update the `NOMINATIM_URL` to resolve mapping tool errors.

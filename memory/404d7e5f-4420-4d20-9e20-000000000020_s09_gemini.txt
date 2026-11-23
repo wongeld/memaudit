@@ -1,0 +1,5 @@
+* Mtumiaji anasimamia ratiba ya afya ya [PERSON] (simu: [PHONE], profile_id: [[ID_NUMBER]]).
+* [PERSON] anahitaji usimamizi wa ugonjwa wa kisukari cha Aina ya 2 (Type 2 diabetes).
+* Mtumiaji anapanga shughuli za afya kwa [PERSON] zikiwemo ukaguzi wa afya, ushauri wa lishe, na mazoezi ya mwili.
+* Mtumiaji anahitaji kununua shajara ya kupanga ratiba ya kila siku na vyakula vya afya kwa ajili ya [PERSON].
+* Shughuli za afya zimepangwa kufanyika [LOCATION] kila Ijumaa saa 9:00 alasiri na Jumamosi saa 2:00 asubuhi.

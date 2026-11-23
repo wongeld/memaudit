@@ -1,0 +1,6 @@
+- User is a 46-year-old Child Psychologist with a Doctor of Philosophy.
+- Lives in [LOCATION], [LOCATION] ([LOCATION]).
+- Married with two children.
+- Preferred language is English.
+- Work task: 'Prepare Quarterly Child Psychologist Briefing' scheduled for Monday at 09:30 AM.
+- Professional contact: [PERSON] ([PHONE]).

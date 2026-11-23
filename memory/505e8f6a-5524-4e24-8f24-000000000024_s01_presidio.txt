@@ -1,0 +1,6 @@
+* User is a 41-year-old [ORGANIZATION] Manager with a Master of Science degree.
+* Lives in [LOCATION], [LOCATION] ([LOCATION]).
+* Married with three children.
+* Contact details: [PERSON], mobile +18466001447, and email [EMAIL].
+* Professional task: 'Prepare Quarterly [ORGANIZATION] Manager Briefing' (scheduled for Monday at 09:30 AM).
+* Preferred language is English.

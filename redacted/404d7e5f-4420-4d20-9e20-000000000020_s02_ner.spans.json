@@ -1,0 +1,104 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 163,
+"end": 188,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 194,
+"end": 200,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 202,
+"end": 218,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 331,
+"end": 352,
+"label": "PERSON",
+"text": "Halima Kikwete.\n\nHaya"
+},
+{
+"start": 441,
+"end": 457,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 598,
+"end": 625,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n*"
+},
+{
+"start": 638,
+"end": 644,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 646,
+"end": 674,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n\nTafadhali"
+},
+{
+"start": 772,
+"end": 797,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1392,
+"end": 1414,
+"label": "ORGANIZATION",
+"text": "High Court of Tanzania"
+},
+{
+"start": 1415,
+"end": 1421,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1542,
+"end": 1564,
+"label": "ORGANIZATION",
+"text": "High Court of Tanzania"
+},
+{
+"start": 1565,
+"end": 1571,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1809,
+"end": 1815,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1817,
+"end": 1833,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 1856,
+"end": 1891,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

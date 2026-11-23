@@ -1,0 +1,80 @@
+[
+{
+"start": 130,
+"end": 141,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 234,
+"end": 279,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri.\n\nAssistant:\nSamahani"
+},
+{
+"start": 738,
+"end": 761,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 766,
+"end": 777,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1327,
+"end": 1338,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1435,
+"end": 1439,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1441,
+"end": 1446,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2001,
+"end": 2012,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2543,
+"end": 2554,
+"label": "LOCATION",
+"text": "Embu, Kenya"
+},
+{
+"start": 2614,
+"end": 2625,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2880,
+"end": 2891,
+"label": "LOCATION",
+"text": "Embu, Kenya"
+},
+{
+"start": 2905,
+"end": 2916,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2933,
+"end": 2957,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+}
+]

@@ -1,0 +1,6 @@
+- The user works as a Child Psychologist.
+- The user is in good health with no chronic conditions.
+- The user has a recurring work task to submit departmental metrics and take a break every Friday at 04:00 PM.
+- The user manages work-related bookings and shopping for ergonomic office supplies and reference materials.
+- The user coordinates work activities with [PERSON] (mobile: +17427416378).
+- The user operates within [LOCATION], [LOCATION] ([LOCATION]).

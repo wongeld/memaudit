@@ -1,0 +1,5 @@
+* ተጠቃሚው በMekelle, Ethiopia (Ayder) አካባቢ፣ በተለይም Mekelle University እና በኬክሮስ/ኬንትሮስ (13.5078, 39.4622) ዙሪያ ፍላጎትና ጉዳይ አለው።
+* Bereket Tesfaye (+251945416026፣ bereket.tesfaye+009@yahoo.com) ከተባለ ሰው ጋር በ school ዙሪያ የምክክር ቀጠሮ የማድረግ እቅድ ነበረው።
+* ተጠቃሚው ለእንቅስቃሴዎቹ የሚጠቀምበት profile_id `[PROFILE_ID]` ነው።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይተላለፍ ጥንቃቄ ማድረግን ይመርጣል።
+* ለካርታ እና አድራሻ ፍለጋዎች የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

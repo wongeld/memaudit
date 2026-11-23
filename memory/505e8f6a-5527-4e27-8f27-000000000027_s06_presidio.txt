@@ -1,0 +1,4 @@
+- The user frequently manages pharmacy, supply, and shopping-related appointments and bookings.
+- The user coordinates these activities with [PERSON] (mobile: [PHONE]) and [ORGANIZATION] [LOCATION].
+- The user's preferred locations for these activities are in [LOCATION], [LOCATION] ([LOCATION]).
+- The user is currently experiencing persistent technical issues with the `record_user_activity` tool, which prevents any data from being saved.

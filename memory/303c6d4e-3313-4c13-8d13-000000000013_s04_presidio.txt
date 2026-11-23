@@ -1,0 +1,7 @@
+* ተጠቃሚው [PERSON] ሲሆን፣ በሙያው Hospital Physician (Doctor of Medicine) ነው።
+* መታወቂያ ቁጥሩ 3926587563 ነው።
+* የሚኖረው [LOCATION], [LOCATION] (Ayder) ነው።
+* የጋብቻ ሁኔታው Single ነው።
+* ሙሉ ጤነኛ ነው።
+* ተመራጭ ቋንቋው አማርኛ ነው።
+* profile_id: [PROFILE_ID]፣ ስልክ ቁጥር: [PHONE] እና ኢሜይል: [EMAIL] አለው።

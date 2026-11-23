@@ -1,0 +1,248 @@
+[
+{
+"start": 57,
+"end": 96,
+"label": "ORGANIZATION",
+"text": "የCommercial Florist and Event Decorator"
+},
+{
+"start": 109,
+"end": 121,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 152,
+"end": 165,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 167,
+"end": 181,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 316,
+"end": 363,
+"label": "DATE",
+"text": "ሰኔ 7 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 414,
+"end": 426,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 607,
+"end": 627,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00 ሰዓት\n*"
+},
+{
+"start": 648,
+"end": 661,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 728,
+"end": 767,
+"label": "ORGANIZATION",
+"text": "የCommercial Florist and Event Decorator"
+},
+{
+"start": 789,
+"end": 804,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 813,
+"end": 825,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 827,
+"end": 840,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1019,
+"end": 1055,
+"label": "DATE",
+"text": "ሰኔ 7 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት"
+},
+{
+"start": 1102,
+"end": 1114,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1116,
+"end": 1129,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1131,
+"end": 1143,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1145,
+"end": 1153,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1319,
+"end": 1366,
+"label": "DATE",
+"text": "ሰኔ 7 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 1415,
+"end": 1427,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1656,
+"end": 1667,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1669,
+"end": 1677,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1707,
+"end": 1720,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1902,
+"end": 1914,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1916,
+"end": 1929,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2025,
+"end": 2072,
+"label": "DATE",
+"text": "ሰኔ 7 ቀን 2016 ዓ.ም. አርብ ከሰዓት 10:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 2121,
+"end": 2133,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2362,
+"end": 2373,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2375,
+"end": 2383,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2413,
+"end": 2426,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2543,
+"end": 2560,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2561,
+"end": 2573,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 2575,
+"end": 2583,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2613,
+"end": 2625,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2627,
+"end": 2640,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2714,
+"end": 2726,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2778,
+"end": 2823,
+"label": "DATE",
+"text": "ሰኔ 8 ቀን 2016 ዓ.ም. ቅዳሜ ጠዋት 4:00 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 2877,
+"end": 2889,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 3077,
+"end": 3095,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት\n*"
+},
+{
+"start": 3112,
+"end": 3123,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 3125,
+"end": 3133,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 3163,
+"end": 3176,
+"label": "PHONE",
+"text": "+251962051344"
+}
+]

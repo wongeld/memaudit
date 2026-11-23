@@ -1,0 +1,5 @@
+* ስም [PERSON]፣ profile_id [PROFILE_ID]፣ የመታወቂያ ቁጥር 3922715388 ሲሆን የሚኖሩት በ[LOCATION], [LOCATION] (Bole) ነው።
+* የሥራ መስክ እና ትምህርት፡ Commercial Florist and Event Decorator ሲሆኑ በ Business Management ዲፕሎማ (Diploma in Business Management) አላቸው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ናቸው።
+* የእውቂያ መረጃ፡ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION] ሲሆን ተመራጭ ቋንቋቸው አማርኛ ነው።
+* የጤና ሁኔታ፡ Mild seasonal allergic rhinitis አለባቸው።

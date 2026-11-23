@@ -1,0 +1,4 @@
+- User's name is [PERSON] (ID: [ID_NUMBER]).
+- Plans to review household budget and family calendar with family in [LOCATION], [LOCATION] ([LOCATION]).
+- Currently planning a family outing in [LOCATION], [LOCATION] ([LOCATION]).
+- Interested in using location-based tools like `search_places` and `reverse_geocode` for planning family activities.

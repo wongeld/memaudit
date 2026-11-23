@@ -1,0 +1,6 @@
+* Works as a Hospital Physician.
+* Based in Ballard, Seattle, United States.
+* Frequently manages travel-related logistics, including expense reconciliation and trip planning.
+* Associated with Lucas Bennett (contact phone: +16314978227).
+* Currently needs to purchase travel accessories, specifically a carry-on organizer and a portable charger.
+* Experiences persistent technical issues when attempting to save activities via the `record_user_activity` tool.

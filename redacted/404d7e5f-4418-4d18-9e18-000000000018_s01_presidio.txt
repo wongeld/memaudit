@@ -1,0 +1,52 @@
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 34, Bachelor of Commerce, na ni Retail Import Buyer huko [LOCATION], [LOCATION] (Mikocheni); tafadhali angalia wasifu wangu kwa get_user_profile kabla ya kupanga safari zangu.
+
+Assistant:
+Asante kwa kunipa fursa ya kukusaidia. Ninaona kuwa hakuna wasifu uliohifadhiwa kwa kitambulisho hicho.
+Naweza kuhifadhi wasifu wako na maelezo yafuatayo:
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Simu: [PHONE]
+Barua pepe: [EMAIL]
+Nchi: [LOCATION] ya Wasifu: [PROFILE_ID]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi wasifu wako. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Mkononi: [PHONE]
+Barua Pepe: [EMAIL]
+Nchi: [LOCATION], maelezo hayo ya [PERSON] na simu [PHONE] ni sahihi kabisa, tafadhali yahifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi wasifu wako. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Mkononi: [PHONE]
+Barua Pepe: [EMAIL]
+Nchi: [LOCATION] Retail Import Buyer huko [LOCATION], [LOCATION] (Mikocheni), naomba urekodi booking kwenye mada ya travel kwa kutumia record_user_activity: uhifadhi wa safari ya kikazi na usafiri kuanzia [DATE] kwa [PERSON] ([PHONE]).
+
+Assistant:
+Nimeghairi kuhifadhi booking hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: booking
+Kichwa: uhifadhi wa safari ya kikazi na usafiri
+Muda: [DATE]: [LOCATION] la Anwani: [PERSON] ya Mkononi: [PHONE]
+
+User:
+Badilisha muda wa booking hiyo ya safari uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi booking hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: travel
+Aina ya Shughuli: booking
+Kichwa: uhifadhi wa safari ya kikazi na usafiri
+Muda: [DATE]: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: [PHONE]

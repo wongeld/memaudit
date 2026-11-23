@@ -1,0 +1,59 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya shopping kwa [PERSON] (profile_id [PROFILE_ID], simu +255767902219) cha kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION], [LOCATION] (Mikocheni) [DATE] kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: shopping
+Aina ya Shughuli: reminder
+Kichwa: kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+Muda: [DATE]: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha manunuzi kwa [PERSON] (+255767902219), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: shopping
+Aina ya Shughuli: reminder
+Kichwa: kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+Muda: [DATE]: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219
+
+User:
+Naomba urekodi miadi (appointment) kwenye mada ya shopping kwa [PERSON] (+255767902219) ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION], [LOCATION] (Mikocheni) [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: shopping
+Aina ya Shughuli: appointment
+Kichwa: kukagua ubora wa bidhaa na muuzaji
+Muda: [DATE]: [LOCATION], [LOCATION] la Anwani: [PERSON] ya Mkononi: +255767902219
+
+User:
+Samahani, badilisha muda wa miadi hiyo ya muuzaji uwe [DATE] kwa [PERSON] (+255767902219) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: shopping
+Aina ya Shughuli: appointment
+Kichwa: kukagua ubora wa bidhaa na muuzaji
+Muda: [DATE]: [LOCATION] la Anwani: [PERSON] ya Mkononi: +255767902219
+
+User:
+Rekodi booking kwenye mada ya shopping ya usafiri wa kuleta bidhaa nyumbani [LOCATION]) kwa [PERSON] (+255767902219) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi booking hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: shopping
+Aina ya Shughuli: booking
+Kichwa: usafiri wa kuleta bidhaa nyumbani
+Muda: [DATE]: [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219

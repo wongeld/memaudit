@@ -1,0 +1,62 @@
+[
+{
+"start": 52,
+"end": 62,
+"label": "ID_NUMBER",
+"text": "1815853866"
+},
+{
+"start": 583,
+"end": 595,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1699,
+"end": 1705,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1707,
+"end": 1720,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1722,
+"end": 1731,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1765,
+"end": 1771,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1955,
+"end": 1961,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2326,
+"end": 2332,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2334,
+"end": 2347,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2349,
+"end": 2358,
+"label": "LOCATION",
+"text": "Ironbound"
+}
+]

@@ -1,0 +1,5 @@
+* የCommercial Florist and Event Decorator ሥራ ይሰራሉ።
+* ሙሉ ጤነኛ እንደሆኑ ገልጸዋል።
+* ከ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) ጋር የተያያዙ የሥራ (work) እንቅስቃሴዎችን፣ ማስታወሻዎችን እና ቀጠሮዎችን ያስተዳድራሉ።
+* በ[LOCATION] ለCommercial Florist and Event Decorator እና ለSingle አገልግሎት የሚውሉ አስፈላጊ ቁሳቁሶችንና ግብዓቶችን የመግዛት እቅድ አላቸው።
+* በ[LOCATION] ለቅዳሜ ጠዋት 4:00 ሰዓት የአገልግሎት ወይም የቦታ ማስያዣ (booking) የማድረግ እቅድ አላቸው።

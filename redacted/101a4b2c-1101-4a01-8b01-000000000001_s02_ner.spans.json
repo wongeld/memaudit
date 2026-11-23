@@ -1,0 +1,122 @@
+[
+{
+"start": 11,
+"end": 22,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 152,
+"end": 176,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 182,
+"end": 186,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 188,
+"end": 193,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 665,
+"end": 689,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 695,
+"end": 699,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 701,
+"end": 706,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 720,
+"end": 731,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 922,
+"end": 946,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 1099,
+"end": 1123,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 1724,
+"end": 1743,
+"label": "LOCATION",
+"text": "Kangaru School Embu"
+},
+{
+"start": 1806,
+"end": 1841,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1897,
+"end": 1910,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1996,
+"end": 2015,
+"label": "LOCATION",
+"text": "Kangaru School Embu"
+},
+{
+"start": 2043,
+"end": 2056,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2203,
+"end": 2207,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2209,
+"end": 2214,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2246,
+"end": 2281,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2489,
+"end": 2502,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2596,
+"end": 2609,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

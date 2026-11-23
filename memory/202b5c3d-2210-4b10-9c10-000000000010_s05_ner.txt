@@ -1,0 +1,4 @@
+* የ [PERSON] መረጃዎች፡ ስልክ ቁጥር +251960170802፣ ኢሜይል dawit.mekonnen+010@gmail.com እና profile_id [PROFILE_ID] ይጠቀማል።
+* በ [DATE] በ [LOCATION], [LOCATION] ([LOCATION]) ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሮታል።
+* በ Bahir [LOCATION] ([LOCATION]) አካባቢ ለጉዳዩ የሚሆን ቦታ ('[ORGANIZATION] [LOCATION]') ይፈልጋል።
+* የቦታ ፍለጋዎች ሲደረጉ የግል መረጃው እንዳይላክ ጥንቃቄ የማድረግ ምርጫ አለው።

@@ -1,0 +1,5 @@
+* Mtumiaji anaitwa Baraka na kitambulisho chake cha wasifu ni [[ID_NUMBER]].
+* Anamshughulikia mwanafamilia aitwaye [PERSON] mwenye nambari ya simu [PHONE].
+* Ana ratiba ya kila siku ya kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension kila jioni saa 12:30.
+* Hununua mahitaji ya nyumbani, zawadi za familia, pamoja na vyakula vya afya na matunda huko [LOCATION], [LOCATION] ([LOCATION]).
+* Amepanga booking ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) kwa ajili ya [PERSON] siku ya Jumapili saa 7:30 mchana.

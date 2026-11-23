@@ -1,0 +1,4 @@
+* Anatumia kitambulisho cha wasifu [PROFILE_ID] na nambari ya simu +255721105750 chini ya jina [PERSON].
+* Ana ratiba ya kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension kila [DATE].
+* Anafanya ununuzi wa mahitaji ya nyumbani, zawadi za familia, pamoja na vyakula vya afya na matunda huko [LOCATION], [LOCATION] (Mikocheni).
+* Ana mpango wa chakula cha mchana cha familia huko [LOCATION] tarehe [DATE].

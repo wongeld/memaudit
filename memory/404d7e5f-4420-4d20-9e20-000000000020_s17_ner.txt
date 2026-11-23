@@ -1,0 +1,4 @@
+* Mtumiaji anapanga kufanya ukaguzi wa afya na kupata ushauri wa lishe tarehe [DATE].
+* Ana mawasiliano na [PERSON] (namba ya simu: +255890185741) kwa ajili ya miadi hiyo.
+* Anatumia `profile_id` `[PROFILE_ID]` kwa ajili ya kupanga shughuli zake za kila siku (daily_planning).
+* Anaonyesha nia ya kutafuta maeneo ya vituo vya afya na anwani maalum katika [LOCATION] kwa kutumia zana za `search_places` na `reverse_geocode`.

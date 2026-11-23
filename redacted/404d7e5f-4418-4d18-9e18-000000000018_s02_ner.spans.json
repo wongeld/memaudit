@@ -1,0 +1,68 @@
+[
+{
+"start": 201,
+"end": 248,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 478,
+"end": 507,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku\nNotes"
+},
+{
+"start": 608,
+"end": 631,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 673,
+"end": 686,
+"label": "DATE",
+"text": "mapema mchana"
+},
+{
+"start": 744,
+"end": 767,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 1104,
+"end": 1140,
+"label": "ORGANIZATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 1141,
+"end": 1154,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1214,
+"end": 1249,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1469,
+"end": 1482,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1484,
+"end": 1492,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1526,
+"end": 1561,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

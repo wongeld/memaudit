@@ -1,0 +1,176 @@
+[
+{
+"start": 9,
+"end": 20,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 52,
+"end": 64,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 66,
+"end": 85,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 92,
+"end": 99,
+"label": "DATE",
+"text": "የ49 ዓመት"
+},
+{
+"start": 341,
+"end": 354,
+"label": "PERSON",
+"text": "Elsa Assefa\n*"
+},
+{
+"start": 399,
+"end": 409,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 460,
+"end": 489,
+"label": "PERSON",
+"text": "elsa.assefa+012@outlook.com\n*"
+},
+{
+"start": 645,
+"end": 656,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 682,
+"end": 709,
+"label": "PERSON",
+"text": "elsa.assefa+012@outlook.com"
+},
+{
+"start": 715,
+"end": 723,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 850,
+"end": 856,
+"label": "PERSON",
+"text": "Elsa\n*"
+},
+{
+"start": 874,
+"end": 882,
+"label": "PERSON",
+"text": "Assefa\n*"
+},
+{
+"start": 934,
+"end": 944,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 958,
+"end": 987,
+"label": "PERSON",
+"text": "elsa.assefa+012@outlook.com\n*"
+},
+{
+"start": 1183,
+"end": 1194,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1601,
+"end": 1616,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1617,
+"end": 1629,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1631,
+"end": 1650,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 1675,
+"end": 1686,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1902,
+"end": 1919,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 1936,
+"end": 1947,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1949,
+"end": 1971,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis)\n*"
+},
+{
+"start": 2203,
+"end": 2218,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2226,
+"end": 2237,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 2473,
+"end": 2488,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2624,
+"end": 2629,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2657,
+"end": 2674,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 2691,
+"end": 2702,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2704,
+"end": 2712,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

@@ -1,0 +1,72 @@
+User:
+Ndiyo, maelezo hayo ya [PERSON] na simu [PHONE] ni sahihi kabisa, tafadhali yahifadhi.
+
+Assistant:
+Nimetuma ombi la kuhifadhi wasifu wako kupitia `save_user_profile`, lakini mfumo umerejesha ujumbe kuwa uhifadhi umesitishwa (`Canceled. No profile was saved.`). Hapa kuna muhtasari wa taarifa zilizowasilishwa:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Jina la Kwanza:** Halima
+* **Jina la Mwisho:** Kikwete
+* **Simu ya Mkononi:** `[PHONE]`
+* **Barua Pepe:** `[EMAIL]`
+* **Nchi:** Tanzania
+* **Lugha Unayopendelea:** Kiswahili
+
+Tafadhali nijulishe jinsi unavyopenda tuendelee na ratiba yako ya kila siku.
+
+User:
+Kwa kuzingatia hali yangu ya afya (hali ya Type 2 diabetes) na kazi yangu ya Family Mediation Counselor, naomba urekodi kikumbusho (reminder) kwenye daily_planning kwa record_user_activity cha kuangalia afya na ratiba ya siku saa 12:15 asubuhi huko [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]).
+
+Assistant:
+Niko tayari kurekodi kikumbusho (reminder) hicho kwenye mada ya **daily_planning**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `daily_planning`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kuangalia afya na ratiba ya siku
+* **Muda (Date/Time):** Saa 12:15 asubuhi
+* **Eneo (Location):** [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi kikumbusho hiki?
+
+User:
+Badilisha muda wa kikumbusho hicho cha asubuhi uwe saa 12:00 asubuhi kwa profile_id [[ID_NUMBER]], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+Nimebadilisha muda wa kikumbusho hicho cha asubuhi kuwa **saa 12:00 asubuhi**. Tafadhali hakiki na uthibitishe maelezo yote yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `daily_planning`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kuangalia afya na ratiba ya siku
+* **Muda (Date/Time):** Saa 12:00 asubuhi
+* **Eneo (Location):** [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya yote ili nihifadhi kikumbusho hiki?
+
+User:
+Mimi [PERSON] (Bachelor of Laws, Married with two children), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi saa 11:30 jioni huko [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Niko tayari kurekodi kazi (task) hiyo kwenye mada ya **daily_planning**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `daily_planning`
+* **Aina ya Shughuli (Activity Type):** `task`
+* **Kichwa (Title):** Kupanga majukumu ya siku na kufanya mazoezi mepesi
+* **Muda (Date/Time):** Saa 11:30 jioni
+* **Eneo (Location):** [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi kazi hii?
+
+User:
+Hapana, ghairi kazi hiyo ya saa 11:30 jioni kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+Assistant:
+Sawa kabisa, nimeghairi kazi hiyo ya saa 11:30 jioni na sijaihifadhi kwenye mfumo. Tafadhali nijulishe kama kuna shughuli nyingine unayotaka nikusaidie nayo.

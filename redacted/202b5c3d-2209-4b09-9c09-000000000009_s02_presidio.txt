@@ -1,0 +1,43 @@
+User:
+በ work ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለ"ምክክር ቀጠሮ" ትክክለኛውን ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+እውቂያዎች ለምክክር ቀጠሮው:
+*   **ስም**: [PERSON]   **ስልክ**: [PHONE]
+*   **ኢሜይል**: [EMAIL]
+*   **ቦታ**: [LOCATION]   **ርዕስ**: ምክክር ቀጠሮ
+*   **ጭብጥ**: work
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] ቀጠሮ ሰርዣለሁ። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ work ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ work ዘርፍ ምንም አይነት እንቅስቃሴ ለ profile_id [PROFILE_ID] አልተመዘገበም።
+
+User:
+በMekelle, [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[ORGANIZATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+የቦታ ፍለጋ መሳሪያው (search_places) ጥያቄዎን ለማስኬድ ተቸግሯል። "[ORGANIZATION] [LOCATION]" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳም።
+
+User:
+እባክህ [LOCATION]) የሚገኘውን የ latitude 13.5078 እና longitude 39.4622 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+የአድራሻ ፍለጋው (reverse_geocode) ጥያቄዎን ለማስኬድ ተቸግሯል። "latitude 13.5078 እና longitude 39.4622" የሚለውን ለመፈለግ ሞክሬ ነበር፣ ነገር ግን መሳሪያው ስህተት እየሰጠ ነው።
+
+ይህ ምናልባት የ [ORGANIZATION] አገልግሎት በትክክል ስላልተዋቀረ ወይም ስለማይሰራ ሊሆን ይችላል። ይህንን ችግር ማስተካከል የምችለው ከውስጥ ስርዓት እይታ አይደለም።
+
+ፍለጋው ቢሰራም የ [ORGANIZATION] Attribution ን ማካተት አይረሳም።

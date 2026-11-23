@@ -1,0 +1,5 @@
+* ተጠቃሚው ስሙ [PERSON] (profile_id: [PROFILE_ID]፣ መታወቂያ፡ 3921292703) ሲሆን ያላገባ (Single) ነው።
+* መኖሪያው በ[LOCATION], [LOCATION] (Bole) ውስጥ ነው።
+* በሙያው Commercial Florist and Event Decorator ሲሆን የBachelor of Arts ዲግሪ አለው።
+* ሙሉ ጤነኛ መሆኑን ገልጿል።
+* የመገናኛ አድራሻው ስልክ [PHONE]፣ ኢሜይል [EMAIL] ሲሆን ተመራጭ ቋንቋው አማርኛ ነው።

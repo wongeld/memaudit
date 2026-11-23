@@ -1,0 +1,56 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 162,
+"end": 187,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 193,
+"end": 218,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+},
+{
+"start": 261,
+"end": 267,
+"label": "PERSON",
+"text": "Kelvin"
+},
+{
+"start": 492,
+"end": 530,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n**Location**"
+},
+{
+"start": 532,
+"end": 562,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nJe"
+},
+{
+"start": 624,
+"end": 649,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1263,
+"end": 1292,
+"label": "ORGANIZATION",
+"text": "Central Bank of Kenya Nairobi"
+},
+{
+"start": 1609,
+"end": 1634,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+}
+]

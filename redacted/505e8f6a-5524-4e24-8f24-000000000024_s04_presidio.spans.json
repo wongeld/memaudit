@@ -1,0 +1,176 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 76,
+"end": 87,
+"label": "ORGANIZATION",
+"text": "Engineering"
+},
+{
+"start": 99,
+"end": 106,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 108,
+"end": 121,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 123,
+"end": 135,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 322,
+"end": 336,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 602,
+"end": 607,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 619,
+"end": 627,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 662,
+"end": 690,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 700,
+"end": 713,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 873,
+"end": 878,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 898,
+"end": 906,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 957,
+"end": 985,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 1003,
+"end": 1016,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1259,
+"end": 1273,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1702,
+"end": 1713,
+"label": "ORGANIZATION",
+"text": "Engineering"
+},
+{
+"start": 1725,
+"end": 1732,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1734,
+"end": 1747,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1749,
+"end": 1761,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1902,
+"end": 1916,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2166,
+"end": 2173,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2175,
+"end": 2188,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2190,
+"end": 2202,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2226,
+"end": 2240,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2658,
+"end": 2672,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3213,
+"end": 3220,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3222,
+"end": 3235,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3237,
+"end": 3249,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3273,
+"end": 3278,
+"label": "PERSON",
+"text": "David"
+}
+]

@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (የመገለጫ መታወቂያ / profile_id: [PROFILE_ID])፣ ስልክ፦ [PHONE]፣ ኢሜይል፦ [EMAIL]
+* የመኖሪያ አካባቢ፦ [LOCATION], [LOCATION] (Ayder)፣ አገር፦ [LOCATION]
+* ሙያ፦ የሆስፒታል ሐኪም (Hospital Physician / Doctor of Medicine)፤ መታወቂያ፦ 3926435391
+* የጋብቻ ሁኔታ፦ ያላገባ/ች (Single)
+* የጤና ሁኔታ፦ መጠነኛ አስም (Mild asthma)
+* የመገናኛ/የመገለጫ ቋንቋ ምርጫ፦ አማርኛ

@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON], mwenye umri wa miaka 41 na profile_id: [[ID_NUMBER]].
+* Anafanya kazi kama Foreign Exchange Dealer huko [LOCATION], [LOCATION] ([LOCATION]).
+* Mawasiliano yake ni nambari ya simu [PHONE] na barua pepe [EMAIL], na yuko katika nchi ya [LOCATION].
+* Lugha anayopendelea kutumia ni Kiswahili.
+* Ana changamoto ya kiafya ya ugonjwa wa kisukari (Type 2 diabetes).
+* Anataka kikumbusho cha kila siku asubuhi saa 12:00 asubuhi cha kuangalia afya na ratiba ya siku.

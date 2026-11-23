@@ -1,0 +1,4 @@
+* የመገለጫ መታወቂያው (Profile ID) [PROFILE_ID] ሲሆን፣ ተዛማጅ ስልክ ቁጥር +251906564148 እና ኢሜይል andualem.abate+007@outlook.com አለው።
+* ከ [PERSON] ጋር በ 'school' ዘርፍ በ [DATE] በ [LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፎታል።
+* በAddis [LOCATION] እንዲሁም በ [LOCATION], [LOCATION] (Yeka አካባቢ፤ lat 9.0355, long 38.8021) ቦታዎችን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይተላለፍ እና የክፍት ምንጭ ካርታ እውቅና (attribution) እንዲካተት ይመርጣል።

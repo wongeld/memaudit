@@ -1,0 +1,134 @@
+[
+{
+"start": 28,
+"end": 43,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 45,
+"end": 58,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 65,
+"end": 94,
+"label": "EMAIL",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 114,
+"end": 131,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 133,
+"end": 138,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 312,
+"end": 322,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 486,
+"end": 503,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 505,
+"end": 510,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 541,
+"end": 556,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 591,
+"end": 604,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 632,
+"end": 661,
+"label": "EMAIL",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 922,
+"end": 932,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1053,
+"end": 1063,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1182,
+"end": 1199,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 1201,
+"end": 1206,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 1264,
+"end": 1317,
+"label": "ORGANIZATION",
+"text": "Hawassa University Comprehensive Specialized Hospital"
+},
+{
+"start": 1643,
+"end": 1696,
+"label": "ORGANIZATION",
+"text": "Hawassa University Comprehensive Specialized Hospital"
+},
+{
+"start": 1750,
+"end": 1767,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia"
+},
+{
+"start": 1769,
+"end": 1774,
+"label": "LOCATION",
+"text": "Tabor"
+},
+{
+"start": 2514,
+"end": 2524,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2670,
+"end": 2685,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 2700,
+"end": 2713,
+"label": "PHONE",
+"text": "+251937514011"
+}
+]

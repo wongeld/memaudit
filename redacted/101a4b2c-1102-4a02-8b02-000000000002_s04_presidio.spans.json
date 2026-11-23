@@ -1,0 +1,170 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 112,
+"end": 119,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 121,
+"end": 137,
+"label": "LOCATION",
+"text": "Kenya (Westlands"
+},
+{
+"start": 435,
+"end": 448,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 455,
+"end": 468,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 481,
+"end": 510,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 517,
+"end": 522,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 750,
+"end": 763,
+"label": "PERSON",
+"text": "Kelvin\n**Jina"
+},
+{
+"start": 777,
+"end": 791,
+"label": "PERSON",
+"text": "Mutali\n**Namba"
+},
+{
+"start": 803,
+"end": 816,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 833,
+"end": 862,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 873,
+"end": 882,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+},
+{
+"start": 938,
+"end": 951,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 960,
+"end": 973,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1746,
+"end": 1771,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+},
+{
+"start": 1777,
+"end": 1790,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1792,
+"end": 1805,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2101,
+"end": 2123,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 2133,
+"end": 2146,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2161,
+"end": 2191,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nJe"
+},
+{
+"start": 2325,
+"end": 2341,
+"label": "ORGANIZATION",
+"text": "Foreign Exchange"
+},
+{
+"start": 2403,
+"end": 2416,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2418,
+"end": 2431,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2657,
+"end": 2670,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2844,
+"end": 2860,
+"label": "ORGANIZATION",
+"text": "Foreign Exchange"
+},
+{
+"start": 2886,
+"end": 2908,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 2918,
+"end": 2931,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2946,
+"end": 2983,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nTafadhali"
+}
+]

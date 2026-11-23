@@ -1,0 +1,6 @@
+* ስም [PERSON] (profile_id: [PROFILE_ID]፣ መታወቂያ: 3920974306) ሲሆን የሚኖረው በ [LOCATION], [LOCATION] ነው።
+* የሙያ ዘርፉ Family Mediation Counselor ሲሆን የህግ ትምህርት (Bachelor of Laws) አለው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* ሙሉ ጤነኛ መሆኑን ገልጿል።
+* የስልክ ቁጥሩ +251960170802 እና የኢሜይል አድራሻው dawit.mekonnen+010@gmail.com ሲሆን የመረጠው ቋንቋ አማርኛ ነው።
+* በቤተሰብ (family) ጭብጥ ስር በ [LOCATION], [LOCATION] ለ [DATE] የተያዘ "[DATE] ዋና ተግባር" የተሰኘ ተግባር አለው።

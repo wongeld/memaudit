@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ ዕድሜ 38 ዓመት፣ የመገለጫ መታወቂያ (profile_id) [[ID_NUMBER]] ሲሆኑ መኖሪያቸው በ[LOCATION]) ነው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ናቸው።
+* የትምህርት እና የሥራ መስክ፡ በ Business Management ዲፕሎማ ያላቸው Commercial Florist and Event Decorator ናቸው።
+* የጤና ሁኔታ፡ 'Mild seasonal allergic rhinitis' አለባቸው።
+* የመገናኛ መረጃዎች፡ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር Ethiopia፣ እና ተመራጭ ቋንቋ አማርኛ ነው።
+* የሥራ ዕቅድ፡ በሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION]) የሚከናወን የሳምንቱ ዋና የሥራ ተግባር (task) አላቸው።

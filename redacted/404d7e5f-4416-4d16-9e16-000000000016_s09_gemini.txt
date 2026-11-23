@@ -1,0 +1,84 @@
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) ya ukaguzi wa afya na ushauri wa lishe Ijumaa saa 9:00 alasiri huko [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kurekodi miadi yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya miadi niliyopewa:
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: appointment
+*   **Kichwa**: ukaguzi wa afya na ushauri wa lishe
+*   **Muda**: Ijumaa saa 9:00 alasiri
+*   **Mahali**: [LOCATION] ([LOCATION])
+*   **Nambari ya Simu**: [PHONE]
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya Ijumaa saa 9:00 alasiri kwa [PERSON] ([PHONE]), tafadhali ihifadhi.
+
+Assistant:
+Nimeghairi kurekodi miadi yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya miadi niliyopewa:
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: appointment
+*   **Kichwa**: ukaguzi wa afya na ushauri wa lishe
+*   **Muda**: Ijumaa saa 9:00 alasiri
+*   **Mahali**: [LOCATION] ([LOCATION])
+*   **Nambari ya Simu**: [PHONE]
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] ([PHONE]) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION] ([LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kurekodi shopping item yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya shopping item niliyopewa:
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: shopping_item
+*   **Kichwa**: shajara ya kupanga siku na vyakula vya afya
+*   **Mahali**: [LOCATION] ([LOCATION])
+*   **Nambari ya Simu**: [PHONE]
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Samahani, badilisha kichwa cha shopping_item kiwe 'Shajara ya ratiba ya kila siku na mahitaji ya afya (None)' kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kurekodi shopping item yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo niliyopewa kwa [PERSON]:
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Nambari ya Simu**: [PHONE]
+
+Na hivi ndivyo ilivyobadilishwa kwa shopping item:
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: shopping_item
+*   **Kichwa**: Shajara ya ratiba ya kila siku na mahitaji ya afya (None)
+*   **Mahali**: [LOCATION] ([LOCATION])
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Rekodi booking kwenye daily_planning ya muda wa mazoezi ya afya Jumamosi saa 2:00 asubuhi huko [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kurekodi booking yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya booking niliyopewa:
+*   **Profile ID**: [[ID_NUMBER]]
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: booking
+*   **Kichwa**: muda wa mazoezi ya afya
+*   **Muda**: Jumamosi saa 2:00 asubuhi
+*   **Mahali**: [LOCATION] ([LOCATION])
+*   **Nambari ya Simu**: [PHONE]
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla ya kuhifadhi.

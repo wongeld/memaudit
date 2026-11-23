@@ -1,0 +1,5 @@
+* Mtumiaji anajihusisha na masuala ya shule, ikiwemo kukutana na kamati ya taaluma na wazazi.
+* Mtumiaji ni mwalimu au msimamizi wa mitihani, kwani anasimamia wanafunzi darasani wakati wa majaribio.
+* Anapanga kuratibu ziara za kielimu na midahalo ya wanafunzi.
+* Anatumia kitambulisho [ID_NUMBER] na [PROFILE_ID] katika shughuli zake.
+* Anapendelea kutumia huduma za ramani (OpenStreetMap) kutafuta maeneo ya shule na anwani za kijiografia.

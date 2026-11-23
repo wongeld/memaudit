@@ -1,0 +1,29 @@
+User:
+Mimi [PERSON] (elimu: Master of Business Administration, kitambulisho 40410925283), nataka kurekodi kazi (task) kwenye mada ya family ya kupanga bajeti ya matumizi ya nyumbani na ada za familia [DATE] huko [LOCATION], [LOCATION], ninaelewa. Sasa narekodi kazi yako ya kupanga bajeti ya matumizi ya nyumbani na ada za familia. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Kazi
+**Mada:** Family
+**Kichwa:** Kupanga bajeti ya matumizi ya nyumbani na ada za familia
+**Tarehe/Muda:** [DATE] [LOCATION], [LOCATION] cha Wasifu:** [PROFILE_ID]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu tutakuwa na wageni wa familia nyumbani, usihifadhi chochote.
+
+Assistant:
+Naelewa, kazi hiyo imefutwa. Hakuna shughuli iliyohifadhiwa.
+
+Je, kuna jambo lingine ambalo ningeweza kukusaidia nalo?
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya family kwa profile_id [PROFILE_ID].
+
+Assistant:
+Ninaona kuwa hakuna shughuli za mada ya "family" zilizohifadhiwa kwa profile_id [PROFILE_ID]. Inaonekana shughuli zote ulizojaribu kurekodi zimeghairiwa au hazijahifadhiwa kutokana na hitaji la uthibitisho la mfumo.
+
+User:
+Tunataka kwenda matembezi ya familia [DATE]; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], kumekuwa na tatizo katika kutafuta eneo kwa kutumia [ORGANIZATION]. Inaonekana bado kuna tatizo na huduma hii.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la familia lenye majira-nukta latitude -1.2889 na longitude 36.7832 huko [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION], inaonekana bado kuna tatizo na huduma za [ORGANIZATION]. Nimejaribu kutambua anwani kwa kutumia majira-nukta uliyotoa, lakini nimepata ujumbe wa hitilafu.

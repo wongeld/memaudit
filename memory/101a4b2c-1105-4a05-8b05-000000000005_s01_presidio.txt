@@ -1,0 +1,4 @@
+* Jina lake ni [PERSON], mwenye umri wa miaka 34 na kitambulisho cha wasifu (profile_id) [PROFILE_ID].
+* Ana Diploma in Tourism Management na anafanya kazi kama Tour Operations Manager huko [LOCATION], [LOCATION] (Njiro).
+* Namba yake ya simu ni [PHONE], barua pepe ni [EMAIL], na anaishi [LOCATION].
+* Ana mpango wa safari ya kikazi na usafiri tarehe [DATE].

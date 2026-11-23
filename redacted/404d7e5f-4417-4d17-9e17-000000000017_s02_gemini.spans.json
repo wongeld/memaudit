@@ -1,0 +1,98 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 195,
+"end": 202,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 204,
+"end": 209,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 211,
+"end": 219,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 262,
+"end": 268,
+"label": "PERSON",
+"text": "Sheila"
+},
+{
+"start": 524,
+"end": 531,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 533,
+"end": 538,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 540,
+"end": 548,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 623,
+"end": 633,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 655,
+"end": 668,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1101,
+"end": 1111,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1205,
+"end": 1215,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1430,
+"end": 1457,
+"label": "ORGANIZATION",
+"text": "Nairobi Securities Exchange"
+},
+{
+"start": 1810,
+"end": 1817,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1819,
+"end": 1824,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1826,
+"end": 1834,
+"label": "LOCATION",
+"text": "Kilimani"
+}
+]

@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni [PERSON], ana umri wa miaka 38.
+* Anafanya kazi kama Tour Operations Manager huko [LOCATION], [LOCATION] (Njiro).
+* Lugha anayopendelea kutumia ni Kiswahili.
+* Ana afya njema na hana magonjwa sugu.
+* Mawasiliano yake ni [PHONE] na barua pepe [EMAIL].
+* Anahitaji usaidizi wa kupanga ratiba ya kila siku (daily_planning) na vikumbusho vya afya.

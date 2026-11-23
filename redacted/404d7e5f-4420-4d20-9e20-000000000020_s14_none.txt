@@ -1,0 +1,53 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya family kwa profile_id [PROFILE_ID].
+
+Assistant:
+Nimeangalia shughuli zako kwa kutumia `list_user_activities`, na kwa sasa hakuna shughuli yoyote iliyohifadhiwa kwenye mada ya **family** kwa `profile_id` `[PROFILE_ID]` (`"activities": []`).
+
+User:
+Tunataka kwenda matembezi ya familia mwishoni mwa wiki; tafadhali tumia search_places kutafuta 'Nyerere Square Dodoma' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Nimejaribu kutumia `search_places` kutafuta `'Nyerere Square Dodoma'` (bila kutuma taarifa zako binafsi), lakini kwa sasa seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva ya OpenStreetMap itakapoidhinishwa, matokeo ya utafutaji yataonyeshwa pamoja na nukuu rasmi ya attribution: **© OpenStreetMap contributors**.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la familia lenye majira-nukta latitude -6.1659 na longitude 35.7512 huko Dodoma, Tanzania (Area C) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Nimejaribu kutumia `reverse_geocode` kwa majira-nukta `latitude: -6.1659` na `longitude: 35.7512` (Dodoma, Tanzania - Area C), lakini kwa sasa seva ya MCP ya `openstreetmap` imezuiwa kwenye kipindi hiki (inahitaji idhini ya seva ya mradi / `projectServers: "allow"`).
+
+Mara tu seva ya OpenStreetMap itakapoidhinishwa, anwani ya eneo hilo itaonyeshwa pamoja na nukuu rasmi ya OpenStreetMap: **© OpenStreetMap contributors**.
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa Halima Kikwete (profile_id [PROFILE_ID], simu +255890185741) cha kuandaa chakula bora cha familia kinachoendana na hali ya Type 2 diabetes kila jioni saa 12:30.
+
+Assistant:
+Niko tayari kurekodi kikumbusho (reminder) hicho kwenye mada ya **family**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `family`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kuandaa chakula bora cha familia kinachoendana na hali ya Type 2 diabetes
+* **Muda (Date/Time):** Kila jioni saa 12:30
+* **Jina la Mhusika (Contact Name):** Halima Kikwete
+* **Simu ya Mkononi (Mobile Phone):** `+255890185741`
+
+Je, unathibitisha maelezo haya ili nihifadhi kikumbusho hiki?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa Halima Kikwete (+255890185741), tafadhali kihifadhi.
+
+Assistant:
+Nimetuma ombi la kuhifadhi kikumbusho hicho cha familia kupitia `record_user_activity`, lakini mfumo umerejesha ujumbe kuwa uhifadhi umesitishwa (`Canceled. No activity was saved.`). Hapa kuna muhtasari wa taarifa zilizowasilishwa:
+
+* **Profile ID:** `[PROFILE_ID]`
+* **Mada (Theme):** `family`
+* **Aina ya Shughuli (Activity Type):** `reminder`
+* **Kichwa (Title):** Kuandaa chakula bora cha familia kinachoendana na hali ya Type 2 diabetes
+* **Muda (Date/Time):** Kila jioni saa 12:30
+* **Jina la Mhusika:** Halima Kikwete
+* **Simu:** `+255890185741`
+
+Tafadhali nijulishe jinsi unavyopenda tuendelee.

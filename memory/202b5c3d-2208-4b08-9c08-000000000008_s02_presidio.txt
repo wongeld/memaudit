@@ -1,0 +1,5 @@
+* የ profile_id መለያቸው [PROFILE_ID] ሲሆን በስራ (work) ዘርፍ እንቅስቃሴዎችን ይከታተላሉ።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION] ሊያደርጉት የነበረውን የ[DATE] የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግረዋል።
+* በAddis [LOCATION] አካባቢ (latitude [LOCATION] እና longitude [LOCATION]) ለጉዳያቸው የሚሆን ቦታ ይፈልጋሉ።
+* ቦታዎችን በሚፈልጉበት ወቅት የግል መረጃቸው እንዳይላክ ይመርጣሉ።
+* የቦታ ፍለጋ እና የአድራሻ መረጃ በሚጠይቁበት ጊዜ የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋሉ።

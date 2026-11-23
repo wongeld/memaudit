@@ -1,0 +1,5 @@
+- User is [PERSON] (ID: [ID_NUMBER]).
+- Manages mild asthma.
+- Is a student involved in academic advising cohorts.
+- Communicates with academic advisors via email ([EMAIL]).
+- Interested in locating campus facilities like the library and lecture hall.

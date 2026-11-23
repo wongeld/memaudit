@@ -1,0 +1,646 @@
+redactor,k,side,country,city,occupation,pool_matches,saved_cases,correct_cases
+gemini,1,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+gemini,1,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+gemini,1,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+gemini,1,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+gemini,1,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+gemini,1,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+gemini,1,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+gemini,1,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+gemini,1,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+gemini,1,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+gemini,1,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+gemini,1,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+gemini,1,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+gemini,1,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+gemini,1,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+gemini,1,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+gemini,1,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+gemini,1,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+gemini,1,ground_truth,United States,Boston,Child Psychologist,2,,
+gemini,1,ground_truth,United States,Boston,University Lecturer,2,,
+gemini,1,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+gemini,1,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+gemini,1,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+gemini,1,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+gemini,1,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+gemini,1,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+gemini,1,ground_truth,United States,Seattle,Hospital Physician,2,,
+gemini,3,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+gemini,3,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+gemini,3,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+gemini,3,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+gemini,3,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+gemini,3,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+gemini,3,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+gemini,3,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+gemini,3,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+gemini,3,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+gemini,3,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+gemini,3,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+gemini,3,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+gemini,3,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+gemini,3,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+gemini,3,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+gemini,3,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+gemini,3,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+gemini,3,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+gemini,3,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,1,1
+gemini,3,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+gemini,3,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+gemini,3,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+gemini,3,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+gemini,3,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,1,1
+gemini,3,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+gemini,3,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+gemini,3,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+gemini,3,ground_truth,United States,Boston,Child Psychologist,2,,
+gemini,3,ground_truth,United States,Boston,University Lecturer,2,,
+gemini,3,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+gemini,3,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+gemini,3,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+gemini,3,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+gemini,3,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+gemini,3,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+gemini,3,ground_truth,United States,Seattle,Hospital Physician,2,,
+gemini,5,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+gemini,5,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+gemini,5,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+gemini,5,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+gemini,5,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+gemini,5,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+gemini,5,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+gemini,5,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+gemini,5,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+gemini,5,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+gemini,5,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+gemini,5,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+gemini,5,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+gemini,5,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+gemini,5,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+gemini,5,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+gemini,5,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,1,1
+gemini,5,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+gemini,5,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+gemini,5,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+gemini,5,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,1,1
+gemini,5,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+gemini,5,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+gemini,5,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+gemini,5,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+gemini,5,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+gemini,5,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+gemini,5,saved_guesses,United States,Seattle,Eco-Tourism Travel Consultant,2,1,1
+gemini,5,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+gemini,5,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+gemini,5,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+gemini,5,ground_truth,United States,Boston,Child Psychologist,2,,
+gemini,5,ground_truth,United States,Boston,University Lecturer,2,,
+gemini,5,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+gemini,5,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+gemini,5,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+gemini,5,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+gemini,5,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+gemini,5,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+gemini,5,ground_truth,United States,Seattle,Hospital Physician,2,,
+gemini,10,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+gemini,10,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+gemini,10,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+gemini,10,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+gemini,10,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+gemini,10,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+gemini,10,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+gemini,10,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+gemini,10,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+gemini,10,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+gemini,10,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+gemini,10,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+gemini,10,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+gemini,10,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+gemini,10,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+gemini,10,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+gemini,10,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+gemini,10,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+gemini,10,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+gemini,10,ground_truth,United States,Boston,Child Psychologist,2,,
+gemini,10,ground_truth,United States,Boston,University Lecturer,2,,
+gemini,10,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+gemini,10,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+gemini,10,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+gemini,10,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+gemini,10,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+gemini,10,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+gemini,10,ground_truth,United States,Seattle,Hospital Physician,2,,
+ner,1,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+ner,1,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+ner,1,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+ner,1,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+ner,1,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+ner,1,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+ner,1,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+ner,1,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+ner,1,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+ner,1,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+ner,1,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+ner,1,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+ner,1,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+ner,1,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+ner,1,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+ner,1,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+ner,1,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+ner,1,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+ner,1,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+ner,1,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+ner,1,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+ner,1,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+ner,1,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+ner,1,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+ner,1,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+ner,1,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+ner,1,saved_guesses,United States,Boston,University Lecturer,2,1,1
+ner,1,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+ner,1,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+ner,1,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+ner,1,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+ner,1,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+ner,1,ground_truth,United States,Boston,Child Psychologist,2,,
+ner,1,ground_truth,United States,Boston,University Lecturer,2,,
+ner,1,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+ner,1,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+ner,1,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+ner,1,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+ner,1,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+ner,1,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+ner,1,ground_truth,United States,Seattle,Hospital Physician,2,,
+ner,3,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+ner,3,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+ner,3,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+ner,3,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+ner,3,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+ner,3,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+ner,3,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+ner,3,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+ner,3,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+ner,3,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+ner,3,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+ner,3,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+ner,3,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+ner,3,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+ner,3,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+ner,3,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+ner,3,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+ner,3,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+ner,3,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+ner,3,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+ner,3,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+ner,3,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+ner,3,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+ner,3,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+ner,3,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+ner,3,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+ner,3,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+ner,3,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+ner,3,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+ner,3,saved_guesses,United States,Boston,University Lecturer,2,1,1
+ner,3,saved_guesses,United States,Newark,Child Psychologist,0,1,0
+ner,3,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+ner,3,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+ner,3,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+ner,3,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+ner,3,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+ner,3,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+ner,3,ground_truth,United States,Boston,Child Psychologist,2,,
+ner,3,ground_truth,United States,Boston,University Lecturer,2,,
+ner,3,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+ner,3,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+ner,3,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+ner,3,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+ner,3,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+ner,3,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+ner,3,ground_truth,United States,Seattle,Hospital Physician,2,,
+ner,5,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+ner,5,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+ner,5,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+ner,5,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+ner,5,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+ner,5,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+ner,5,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+ner,5,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+ner,5,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+ner,5,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+ner,5,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+ner,5,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+ner,5,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+ner,5,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+ner,5,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+ner,5,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+ner,5,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+ner,5,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+ner,5,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+ner,5,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+ner,5,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+ner,5,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+ner,5,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+ner,5,saved_guesses,Tanzania,Dar es Salaam,Family Mediation Counselor,0,1,0
+ner,5,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+ner,5,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+ner,5,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+ner,5,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+ner,5,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+ner,5,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+ner,5,saved_guesses,United States,Boston,University Lecturer,2,1,1
+ner,5,saved_guesses,United States,Chicago,Software Engineering Manager,2,1,1
+ner,5,saved_guesses,United States,Newark,Child Psychologist,0,1,0
+ner,5,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+ner,5,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+ner,5,saved_guesses,United States,Seattle,Eco-Tourism Travel Consultant,2,1,1
+ner,5,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+ner,5,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+ner,5,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+ner,5,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+ner,5,ground_truth,United States,Boston,Child Psychologist,2,,
+ner,5,ground_truth,United States,Boston,University Lecturer,2,,
+ner,5,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+ner,5,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+ner,5,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+ner,5,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+ner,5,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+ner,5,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+ner,5,ground_truth,United States,Seattle,Hospital Physician,2,,
+ner,10,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+ner,10,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+ner,10,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+ner,10,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+ner,10,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+ner,10,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+ner,10,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+ner,10,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+ner,10,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+ner,10,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,1,1
+ner,10,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+ner,10,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+ner,10,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+ner,10,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+ner,10,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+ner,10,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+ner,10,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+ner,10,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+ner,10,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+ner,10,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+ner,10,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+ner,10,ground_truth,United States,Boston,Child Psychologist,2,,
+ner,10,ground_truth,United States,Boston,University Lecturer,2,,
+ner,10,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+ner,10,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+ner,10,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+ner,10,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+ner,10,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+ner,10,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+ner,10,ground_truth,United States,Seattle,Hospital Physician,2,,
+none,1,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+none,1,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+none,1,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+none,1,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+none,1,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+none,1,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+none,1,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+none,1,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+none,1,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+none,1,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+none,1,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+none,1,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+none,1,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+none,1,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+none,1,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+none,1,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+none,1,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+none,1,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+none,1,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+none,1,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+none,1,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+none,1,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+none,1,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+none,1,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+none,1,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+none,1,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+none,1,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+none,1,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+none,1,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+none,1,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+none,1,saved_guesses,United States,Austin,Doctoral Research Fellow,2,1,1
+none,1,saved_guesses,United States,Austin,Regional Logistics Coordinator,1,1,1
+none,1,saved_guesses,United States,Boston,Child Psychologist,2,2,2
+none,1,saved_guesses,United States,Boston,University Lecturer,2,1,1
+none,1,saved_guesses,United States,Chicago,Retail Import Buyer,2,1,1
+none,1,saved_guesses,United States,Chicago,Software Engineering Manager,2,1,1
+none,1,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+none,1,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+none,1,saved_guesses,United States,Seattle,Eco-Tourism Travel Consultant,2,1,1
+none,1,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+none,1,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+none,1,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+none,1,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+none,1,ground_truth,United States,Boston,Child Psychologist,2,,
+none,1,ground_truth,United States,Boston,University Lecturer,2,,
+none,1,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+none,1,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+none,1,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+none,1,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+none,1,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+none,1,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+none,1,ground_truth,United States,Seattle,Hospital Physician,2,,
+none,3,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+none,3,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+none,3,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+none,3,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+none,3,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+none,3,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+none,3,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+none,3,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+none,3,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+none,3,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+none,3,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+none,3,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+none,3,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+none,3,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+none,3,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+none,3,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+none,3,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+none,3,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+none,3,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+none,3,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+none,3,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+none,3,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+none,3,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+none,3,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+none,3,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+none,3,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+none,3,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+none,3,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+none,3,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+none,3,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+none,3,saved_guesses,United States,Austin,Doctoral Research Fellow,2,1,1
+none,3,saved_guesses,United States,Austin,Regional Logistics Coordinator,1,1,1
+none,3,saved_guesses,United States,Boston,Child Psychologist,2,2,2
+none,3,saved_guesses,United States,Boston,University Lecturer,2,1,1
+none,3,saved_guesses,United States,Chicago,Retail Import Buyer,2,1,1
+none,3,saved_guesses,United States,Chicago,Software Engineering Manager,2,1,1
+none,3,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+none,3,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+none,3,saved_guesses,United States,Seattle,Eco-Tourism Travel Consultant,2,1,1
+none,3,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+none,3,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+none,3,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+none,3,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+none,3,ground_truth,United States,Boston,Child Psychologist,2,,
+none,3,ground_truth,United States,Boston,University Lecturer,2,,
+none,3,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+none,3,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+none,3,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+none,3,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+none,3,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+none,3,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+none,3,ground_truth,United States,Seattle,Hospital Physician,2,,
+none,5,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+none,5,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+none,5,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+none,5,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+none,5,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+none,5,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+none,5,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+none,5,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+none,5,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+none,5,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+none,5,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+none,5,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+none,5,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+none,5,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+none,5,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+none,5,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+none,5,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+none,5,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+none,5,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+none,5,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+none,5,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+none,5,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+none,5,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+none,5,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+none,5,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+none,5,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+none,5,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+none,5,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+none,5,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+none,5,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+none,5,saved_guesses,United States,Austin,Doctoral Research Fellow,2,1,1
+none,5,saved_guesses,United States,Austin,Regional Logistics Coordinator,1,1,1
+none,5,saved_guesses,United States,Boston,Child Psychologist,2,2,2
+none,5,saved_guesses,United States,Boston,University Lecturer,2,1,1
+none,5,saved_guesses,United States,Chicago,Retail Import Buyer,2,1,1
+none,5,saved_guesses,United States,Chicago,Software Engineering Manager,2,1,1
+none,5,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+none,5,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+none,5,saved_guesses,United States,Seattle,Eco-Tourism Travel Consultant,2,1,1
+none,5,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+none,5,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+none,5,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+none,5,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+none,5,ground_truth,United States,Boston,Child Psychologist,2,,
+none,5,ground_truth,United States,Boston,University Lecturer,2,,
+none,5,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+none,5,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+none,5,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+none,5,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+none,5,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+none,5,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+none,5,ground_truth,United States,Seattle,Hospital Physician,2,,
+none,10,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+none,10,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+none,10,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+none,10,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+none,10,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+none,10,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+none,10,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+none,10,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+none,10,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+none,10,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,1,1
+none,10,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+none,10,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+none,10,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+none,10,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+none,10,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+none,10,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+none,10,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+none,10,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+none,10,saved_guesses,United States,Boston,Child Psychologist,2,1,1
+none,10,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+none,10,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+none,10,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+none,10,ground_truth,United States,Boston,Child Psychologist,2,,
+none,10,ground_truth,United States,Boston,University Lecturer,2,,
+none,10,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+none,10,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+none,10,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+none,10,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+none,10,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+none,10,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+none,10,ground_truth,United States,Seattle,Hospital Physician,2,,
+presidio,1,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+presidio,1,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+presidio,1,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+presidio,1,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+presidio,1,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+presidio,1,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+presidio,1,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+presidio,1,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+presidio,1,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+presidio,1,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+presidio,1,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+presidio,1,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+presidio,1,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+presidio,1,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+presidio,1,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+presidio,1,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+presidio,1,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+presidio,1,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+presidio,1,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+presidio,1,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+presidio,1,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+presidio,1,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+presidio,1,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+presidio,1,saved_guesses,United States,Boston,University Lecturer,2,1,1
+presidio,1,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+presidio,1,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+presidio,1,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+presidio,1,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+presidio,1,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+presidio,1,ground_truth,United States,Boston,Child Psychologist,2,,
+presidio,1,ground_truth,United States,Boston,University Lecturer,2,,
+presidio,1,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+presidio,1,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+presidio,1,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+presidio,1,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+presidio,1,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+presidio,1,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+presidio,1,ground_truth,United States,Seattle,Hospital Physician,2,,
+presidio,3,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+presidio,3,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+presidio,3,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+presidio,3,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+presidio,3,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+presidio,3,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+presidio,3,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+presidio,3,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+presidio,3,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+presidio,3,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+presidio,3,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+presidio,3,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+presidio,3,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+presidio,3,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+presidio,3,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+presidio,3,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+presidio,3,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+presidio,3,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+presidio,3,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,1,1
+presidio,3,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+presidio,3,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+presidio,3,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+presidio,3,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+presidio,3,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+presidio,3,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+presidio,3,saved_guesses,Tanzania,Dodoma,Family Mediation Counselor,1,1,1
+presidio,3,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+presidio,3,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+presidio,3,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+presidio,3,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+presidio,3,saved_guesses,United States,Boston,University Lecturer,2,1,1
+presidio,3,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+presidio,3,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+presidio,3,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+presidio,3,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+presidio,3,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+presidio,3,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+presidio,3,ground_truth,United States,Boston,Child Psychologist,2,,
+presidio,3,ground_truth,United States,Boston,University Lecturer,2,,
+presidio,3,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+presidio,3,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+presidio,3,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+presidio,3,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+presidio,3,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+presidio,3,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+presidio,3,ground_truth,United States,Seattle,Hospital Physician,2,,
+presidio,5,saved_guesses,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,1,1
+presidio,5,saved_guesses,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,2,2
+presidio,5,saved_guesses,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,1,1
+presidio,5,saved_guesses,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,1,1
+presidio,5,saved_guesses,Ethiopia,Addis Ababa,University Lecturer,1,1,1
+presidio,5,saved_guesses,Ethiopia,Bahir Dar,Family Mediation Counselor,1,1,1
+presidio,5,saved_guesses,Ethiopia,Hawassa,Regional Logistics Coordinator,1,1,1
+presidio,5,saved_guesses,Ethiopia,Mekelle,Hospital Physician,2,2,2
+presidio,5,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+presidio,5,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+presidio,5,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+presidio,5,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+presidio,5,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+presidio,5,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+presidio,5,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+presidio,5,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+presidio,5,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,2,2
+presidio,5,saved_guesses,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,1,1
+presidio,5,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,2,2
+presidio,5,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+presidio,5,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+presidio,5,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+presidio,5,saved_guesses,Tanzania,Arusha,Tour Operations Manager,2,2,2
+presidio,5,saved_guesses,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,1,1
+presidio,5,saved_guesses,Tanzania,Dar es Salaam,Retail Import Buyer,1,1,1
+presidio,5,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+presidio,5,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+presidio,5,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+presidio,5,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+presidio,5,saved_guesses,United States,Boston,University Lecturer,2,1,1
+presidio,5,saved_guesses,United States,Chicago,Software Engineering Manager,2,1,1
+presidio,5,saved_guesses,United States,Newark,ESG Shareholder Governance Analyst,2,2,2
+presidio,5,saved_guesses,United States,Newark,Family Mediation Counselor,1,1,1
+presidio,5,saved_guesses,United States,Seattle,Hospital Physician,2,1,1
+presidio,5,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+presidio,5,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+presidio,5,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+presidio,5,ground_truth,United States,Boston,Child Psychologist,2,,
+presidio,5,ground_truth,United States,Boston,University Lecturer,2,,
+presidio,5,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+presidio,5,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+presidio,5,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+presidio,5,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+presidio,5,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+presidio,5,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+presidio,5,ground_truth,United States,Seattle,Hospital Physician,2,,
+presidio,10,ground_truth,Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1,,
+presidio,10,ground_truth,Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2,,
+presidio,10,ground_truth,Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1,,
+presidio,10,ground_truth,Ethiopia,Addis Ababa,Private School Admissions Coordinator,1,,
+presidio,10,ground_truth,Ethiopia,Addis Ababa,University Lecturer,1,,
+presidio,10,ground_truth,Ethiopia,Bahir Dar,Family Mediation Counselor,1,,
+presidio,10,ground_truth,Ethiopia,Hawassa,Regional Logistics Coordinator,1,,
+presidio,10,ground_truth,Ethiopia,Mekelle,Hospital Physician,2,,
+presidio,10,saved_guesses,Kenya,Embu,Secondary School Kiswahili Teacher,2,1,1
+presidio,10,saved_guesses,Kenya,Nairobi,Foreign Exchange Dealer,2,1,1
+presidio,10,ground_truth,Kenya,Embu,Secondary School Kiswahili Teacher,2,,
+presidio,10,ground_truth,Kenya,Kakamega,Secondary School Kiswahili Teacher,1,,
+presidio,10,ground_truth,Kenya,Nairobi,Foreign Exchange Dealer,2,,
+presidio,10,saved_guesses,Tanzania,Dar es Salaam,Family Mediation Counselor,0,1,0
+presidio,10,ground_truth,Tanzania,Arusha,Tour Operations Manager,2,,
+presidio,10,ground_truth,Tanzania,Dar es Salaam,Regional Logistics Coordinator,1,,
+presidio,10,ground_truth,Tanzania,Dar es Salaam,Retail Import Buyer,1,,
+presidio,10,ground_truth,Tanzania,Dodoma,Family Mediation Counselor,1,,
+presidio,10,ground_truth,United States,Austin,Doctoral Research Fellow,2,,
+presidio,10,ground_truth,United States,Austin,Private School Admissions Coordinator,1,,
+presidio,10,ground_truth,United States,Austin,Regional Logistics Coordinator,1,,
+presidio,10,ground_truth,United States,Boston,Child Psychologist,2,,
+presidio,10,ground_truth,United States,Boston,University Lecturer,2,,
+presidio,10,ground_truth,United States,Chicago,Retail Import Buyer,2,,
+presidio,10,ground_truth,United States,Chicago,Software Engineering Manager,2,,
+presidio,10,ground_truth,United States,Newark,Commercial Florist and Event Decorator,1,,
+presidio,10,ground_truth,United States,Newark,ESG Shareholder Governance Analyst,2,,
+presidio,10,ground_truth,United States,Newark,Family Mediation Counselor,1,,
+presidio,10,ground_truth,United States,Seattle,Eco-Tourism Travel Consultant,2,,
+presidio,10,ground_truth,United States,Seattle,Hospital Physician,2,,

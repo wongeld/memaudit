@@ -1,0 +1,4 @@
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር በ 'work' ዘርፍ የምክክር ቀጠሮዎችን የማስተዳደር እቅድ አለው (profile_id: [PROFILE_ID])።
+* በAddis [LOCATION] (Bole) አካባቢ ለጉዳዩ የሚሆን ቦታ ይፈልጋል (በተለይ በ latitude 8.9972 እና longitude 38.7869 አካባቢ)።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይላክ ይመርጣል።
+* በቦታ እና አድራሻ ፍለጋ ወቅት የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

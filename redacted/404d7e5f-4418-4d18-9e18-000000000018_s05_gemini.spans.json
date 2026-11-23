@@ -1,0 +1,98 @@
+[
+{
+"start": 11,
+"end": 23,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 38,
+"end": 48,
+"label": "ID_NUMBER",
+"text": "1998399537"
+},
+{
+"start": 213,
+"end": 226,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 228,
+"end": 236,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 238,
+"end": 247,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 523,
+"end": 536,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 538,
+"end": 546,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 548,
+"end": 557,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 575,
+"end": 587,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 610,
+"end": 620,
+"label": "ID_NUMBER",
+"text": "1998399537"
+},
+{
+"start": 774,
+"end": 800,
+"label": "EMAIL",
+"text": "neema.mwinyi+018@gmail.com"
+},
+{
+"start": 1184,
+"end": 1201,
+"label": "LOCATION",
+"text": "Mlimani City Mall"
+},
+{
+"start": 1202,
+"end": 1215,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1536,
+"end": 1549,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1551,
+"end": 1559,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1561,
+"end": 1570,
+"label": "LOCATION",
+"text": "Mikocheni"
+}
+]

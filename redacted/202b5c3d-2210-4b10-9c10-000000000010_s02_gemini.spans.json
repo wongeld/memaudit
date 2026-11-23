@@ -1,0 +1,116 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 56,
+"end": 84,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 104,
+"end": 123,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 125,
+"end": 137,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 247,
+"end": 261,
+"label": "PERSON",
+"text": "Dawit Mekonnen"
+},
+{
+"start": 276,
+"end": 286,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 425,
+"end": 444,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 446,
+"end": 458,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 473,
+"end": 486,
+"label": "PHONE",
+"text": "+251960170802"
+},
+{
+"start": 501,
+"end": 529,
+"label": "EMAIL",
+"text": "dawit.mekonnen+010@gmail.com"
+},
+{
+"start": 709,
+"end": 719,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 812,
+"end": 822,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 869,
+"end": 888,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 890,
+"end": 902,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+},
+{
+"start": 960,
+"end": 979,
+"label": "LOCATION",
+"text": "Lake Tana Bahir Dar"
+},
+{
+"start": 1153,
+"end": 1172,
+"label": "LOCATION",
+"text": "Lake Tana Bahir Dar"
+},
+{
+"start": 1208,
+"end": 1227,
+"label": "LOCATION",
+"text": "Bahir Dar, Ethiopia"
+},
+{
+"start": 1229,
+"end": 1241,
+"label": "LOCATION",
+"text": "Belay Zeleke"
+}
+]

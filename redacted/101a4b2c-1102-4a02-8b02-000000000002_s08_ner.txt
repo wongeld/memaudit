@@ -1,0 +1,38 @@
+User:
+Mimi [PERSON] (Master of Business Administration, Married with two children), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi [DATE] huko [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Sawa, [PERSON]. Naweza kurekodi kazi hii kwako. Tafadhali thibitisha maelezo yafuatayo kabla sijayahifadhi:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: daily_planning
+**Activity Type**: task
+**Title**: Kupanga majukumu ya siku na kufanya mazoezi mepesi
+**Date/Time**: [DATE] Name**: [PERSON] Phone**: +254120283012
+**Location**: [LOCATION], maelezo haya ni sahihi?
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+Assistant:
+Sawa, nimeghairi kazi hiyo. Haikuhifadhiwa kwenye mfumo.
+
+Je, ninaweza kukusaidia na kitu kingine?
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+Assistant:
+Samahani, inaonekana hakuna shughuli zilizohifadhiwa chini ya mada ya 'daily_planning' kwa profile_id yako. Hii inaweza kuwa kwa sababu hatukuweza kuhifadhi kikumbusho cha 'Kuangalia afya na ratiba ya siku' hapo awali.
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu nyingine wakati wa kutumia zana ya `search_places`. Tafadhali jaribu tena.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -1.2684 na longitude 36.8111 huko [LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu nyingine wakati wa kutumia zana ya `reverse_geocode`. Tafadhali jaribu tena.

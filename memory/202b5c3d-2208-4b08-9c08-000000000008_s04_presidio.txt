@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ profile_id [PROFILE_ID] (መታወቂያ 3921201991) ሲሆን መኖሪያው/ዋ በ [LOCATION], [LOCATION] (Kirkos) ነው።
+* የሥራ ዘርፍ Horticultural Export Training Coordinator ሲሆን የ Master of Science የትምህርት ደረጃ አለው/አላት።
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሦስት ልጆች ወላጅ (Married with three children)።
+* የጤና ሁኔታ፦ Type 2 diabetes አለበት/አለባት።
+* የመገናኛ አድራሻ፦ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL] ሲሆን ተመራጭ ቋንቋው/ዋ አማርኛ ነው።
+* በ [DATE] በ [LOCATION], [LOCATION] ከ [PERSON] ([PHONE]) ጋር የተያያዘ የጉዞ ተግባር (travel task) አለው/አላት።

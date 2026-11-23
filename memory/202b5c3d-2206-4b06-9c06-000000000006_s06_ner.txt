@@ -1,0 +1,5 @@
+* ተጠቃሚው በሙያ Commercial Florist and Event Decorator ሲሆን ሙሉ ጤነኛ መሆኑን ገልጿል።
+* ከ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ ቁጥር +251996949340) ጋር የተያያዙ ማስታወሻዎችን፣ የግዢ ዝርዝሮችን እና የቦታ ማስያዣዎችን (booking) ያስተዳድራል።
+* በ [LOCATION], [LOCATION] (Bole) ለስራ እና ለጤና ግብዓቶች የሚውሉ አስፈላጊ ቁሳቁሶችን የመግዛት እቅድ አለው።
+* በ [LOCATION], [LOCATION] (Bole) ለ [PERSON] የአገልግሎት ወይም የቦታ booking የማስመዝገብ እቅድ አለው።
+* ማንኛውም መረጃ ወይም እንቅስቃሴ (activity) ከመመዝገቡ በፊት ዝርዝሩ ለግምገማ እና ለማረጋገጫ እንዲቀርብለት ይፈልጋል።

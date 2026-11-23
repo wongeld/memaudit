@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 209,
+"end": 215,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 217,
+"end": 230,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 232,
+"end": 240,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 563,
+"end": 569,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 571,
+"end": 584,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 586,
+"end": 594,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 614,
+"end": 627,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 1335,
+"end": 1341,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1731,
+"end": 1737,
+"label": "ORGANIZATION",
+"text": "Boston"
+},
+{
+"start": 1749,
+"end": 1761,
+"label": "ORGANIZATION",
+"text": "Commonwealth"
+},
+{
+"start": 1869,
+"end": 1875,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1965,
+"end": 1978,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2402,
+"end": 2408,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2410,
+"end": 2423,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2425,
+"end": 2433,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2446,
+"end": 2459,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2496,
+"end": 2502,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 2579,
+"end": 2592,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2719,
+"end": 2732,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

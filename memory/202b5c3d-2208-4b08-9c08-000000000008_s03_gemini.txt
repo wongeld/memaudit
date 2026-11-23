@@ -1,0 +1,5 @@
+* የጤና ሁኔታ፦ Type 2 diabetes አለበት/አላት።
+* የሥራ መደብ፦ Horticultural Export Training Coordinator ሆኖ/ና ይሰራል/ትሰራለች።
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሦስት ልጆች ወላጅ (Married with three children) ነው።/ናት።
+* ከ[PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) ጋር የሥራ ግንኙነት እና የክትትል ቀጠሮዎች አሉት/አሏት።
+* በ[LOCATION] ([LOCATION]) የሥራ ግብዓቶች ግዢ እና የአገልግሎት/የቦታ ማስያዣ (booking) እቅዶች አሉት/አሏት።

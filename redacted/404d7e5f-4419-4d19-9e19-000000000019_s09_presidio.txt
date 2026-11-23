@@ -1,0 +1,75 @@
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [PROFILE_ID], simu [PHONE]) ya ukaguzi wa afya na ushauri wa lishe [DATE] huko [LOCATION], [LOCATION] (Njiro); nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi miadi yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** daily_planning
+**Aina ya Shughuli:** appointment
+**Kichwa:** ukaguzi wa afya na ushauri wa lishe
+**Muda:** [DATE] [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] ([PHONE]), tafadhali ihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi miadi yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** daily_planning
+**Aina ya Shughuli:** appointment
+**Kichwa:** ukaguzi wa afya na ushauri wa lishe
+**Muda:** [DATE] [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] ([PHONE]) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION], [LOCATION] (Njiro); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** daily_planning
+**Aina ya Shughuli:** shopping_item
+**Kichwa:** kununua shajara ya kupanga siku na vyakula vya afya
+**Eneo:** [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, maelezo haya ni sahihi?
+
+User:
+Samahani, badilisha kichwa cha shopping_item kiwe 'Shajara ya ratiba ya kila siku na mahitaji ya afya (None)' kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item yako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** daily_planning
+**Aina ya Shughuli:** shopping_item
+**Kichwa:** Shajara ya ratiba ya kila siku na mahitaji ya afya
+**Eneo:** [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+**Maelezo:** Hakuna
+
+Je, maelezo haya ni sahihi?
+
+User:
+Rekodi booking kwenye daily_planning ya muda wa mazoezi ya afya [DATE] huko [LOCATION], [LOCATION] (Njiro) kwa [PERSON] ([PHONE]) na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi booking yako. Tafadhali thibitisha muhtasari ufuatao kabla ya kuhifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** daily_planning
+**Aina ya Shughuli:** booking
+**Kichwa:** muda wa mazoezi ya afya
+**Muda:** [DATE] [LOCATION], [LOCATION] (Njiro)
+**Jina la Mawasiliano:** [PERSON] ya Simu:** [PHONE]
+
+Je, unathibitisha kuhifadhi?

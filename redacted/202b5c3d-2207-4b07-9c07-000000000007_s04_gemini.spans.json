@@ -1,0 +1,236 @@
+[
+{
+"start": 9,
+"end": 23,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 41,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 56,
+"end": 83,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 243,
+"end": 253,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 393,
+"end": 403,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 481,
+"end": 494,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 510,
+"end": 540,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 558,
+"end": 566,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 682,
+"end": 692,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 698,
+"end": 712,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 718,
+"end": 731,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 738,
+"end": 768,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 774,
+"end": 782,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 913,
+"end": 923,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1001,
+"end": 1014,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1030,
+"end": 1060,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 1078,
+"end": 1086,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1133,
+"end": 1147,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1160,
+"end": 1173,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1418,
+"end": 1428,
+"label": "ID_NUMBER",
+"text": "3923122090"
+},
+{
+"start": 1520,
+"end": 1547,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1572,
+"end": 1586,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1588,
+"end": 1601,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 1721,
+"end": 1731,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1865,
+"end": 1892,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1916,
+"end": 1930,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1953,
+"end": 1966,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2042,
+"end": 2052,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2080,
+"end": 2094,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2096,
+"end": 2109,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2265,
+"end": 2279,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2404,
+"end": 2414,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2492,
+"end": 2505,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 2521,
+"end": 2551,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 2569,
+"end": 2577,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2680,
+"end": 2690,
+"label": "ID_NUMBER",
+"text": "3923122090"
+},
+{
+"start": 2915,
+"end": 2942,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 2966,
+"end": 2980,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 3003,
+"end": 3016,
+"label": "PHONE",
+"text": "+251906564148"
+}
+]

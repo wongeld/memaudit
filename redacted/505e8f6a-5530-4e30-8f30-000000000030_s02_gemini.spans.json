@@ -1,0 +1,116 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 25,
+"end": 54,
+"label": "EMAIL",
+"text": "julian.brooks+030@outlook.com"
+},
+{
+"start": 227,
+"end": 233,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 235,
+"end": 248,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 250,
+"end": 259,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 414,
+"end": 420,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 422,
+"end": 435,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 437,
+"end": 446,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 740,
+"end": 746,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 748,
+"end": 761,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 763,
+"end": 772,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1321,
+"end": 1334,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1503,
+"end": 1516,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 1869,
+"end": 1882,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2203,
+"end": 2246,
+"label": "LOCATION",
+"text": "University of Texas at Austin Main Building"
+},
+{
+"start": 2388,
+"end": 2431,
+"label": "LOCATION",
+"text": "University of Texas at Austin Main Building"
+},
+{
+"start": 4340,
+"end": 4346,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 4348,
+"end": 4361,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4363,
+"end": 4372,
+"label": "LOCATION",
+"text": "Hyde Park"
+}
+]

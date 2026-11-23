@@ -1,0 +1,5 @@
+- Jina la mtumiaji ni Mimi [PERSON] (kitambulisho [PROFILE_ID]).
+- Ana familia yenye mume na watoto wawili.
+- Anajishughulisha na shughuli za manunuzi (shopping) na kulinganisha bei za wauzaji wa jumla na rejareja.
+- Anapendelea kupokea taarifa za bei kupitia barua pepe ([EMAIL]).
+- Anapata changamoto za kiufundi anapotumia huduma za [ORGANIZATION] kwa ajili ya kutafuta maeneo au kutambua anwani (reverse geocoding).

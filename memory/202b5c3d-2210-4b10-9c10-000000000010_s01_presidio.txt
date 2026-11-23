@@ -1,0 +1,6 @@
+* ስም [PERSON] (profile_id: [PROFILE_ID]) ሲሆን የሚኖረው በ[LOCATION], [LOCATION] ነው።
+* የትዳር ሁኔታው ያገባ እና የሁለት ልጆች አባት ነው።
+* በሙያው Family Mediation Counselor ሲሆን የሕግ የመጀመሪያ ዲግሪ (Bachelor of Laws) አለው (መታወቂያ ቁጥር፡ 3920974306)።
+* ሙሉ ጤነኛ መሆኑን ገልጿል።
+* የመገናኛ መረጃው ስልክ [PHONE]፣ ኢሜይል [EMAIL] ሲሆን የሚመርጠው ቋንቋ አማርኛ ነው።
+* በቤተሰብ (family) ጭብጥ ሥር ለ[DATE] በ[LOCATION], [LOCATION] የታቀደ "[DATE] ዋና ተግባር" የተሰኘ ተግባር አለው።

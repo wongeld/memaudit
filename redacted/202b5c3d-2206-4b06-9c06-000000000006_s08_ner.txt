@@ -1,0 +1,35 @@
+User:
+በ daily_planning ሥር ለ [PERSON] (+251996949340፣ ኢሜይል dereje.diriba+006@gmail.com) [DATE] ላይ [LOCATION], [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+Here are the details for the consultation appointment you'd like to record for [PERSON] under the "daily\_planning" theme:
+
+*   **profile\_id**: [PROFILE_ID]
+*   **theme**: daily\_planning
+*   **activity\_type**: appointment
+*   **title**: የምክክር ቀጠሮ (Consultation appointment)
+*   **date\_time**: [DATE] (Wednesday [DATE]   **location**: [LOCATION], [LOCATION]   **mobile\_phone**: +251996949340
+*   **email**: dereje.diriba+006@gmail.com
+
+Before I record this, please provide a specific **date** for "[DATE]". For example, "[DATE], at [DATE]፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+Understood. I will not record the [DATE] consultation appointment. No activity will be saved.
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+It looks like there are no activities recorded under the "daily\_planning" theme for profile ID `[PROFILE_ID]`. This is likely because the previous attempts to record activities were either canceled or lacked a specific date.
+
+User:
+በAddis [LOCATION] (Bole) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+I apologize, but I encountered an error when trying to search for '[LOCATION]'. The `search_places` tool is currently experiencing an issue.
+
+User:
+እባክህ [LOCATION], [LOCATION] (Bole) የሚገኘውን የ latitude 8.9972 እና longitude 38.7869 አድራሻ በ reverse_geocode ፈልገህ ከ [ORGANIZATION] እውቅና ጋር አሳየኝ።
+
+Assistant:
+I apologize, but I am still encountering an error when trying to perform the reverse geocoding using the provided coordinates. It seems the `reverse_geocode` tool is consistently experiencing an issue, and I cannot fulfill this request at this time.

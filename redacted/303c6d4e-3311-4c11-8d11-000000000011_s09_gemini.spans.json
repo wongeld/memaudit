@@ -1,0 +1,182 @@
+[
+{
+"start": 109,
+"end": 121,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 135,
+"end": 145,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 152,
+"end": 165,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 413,
+"end": 425,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 463,
+"end": 473,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 645,
+"end": 658,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 810,
+"end": 822,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 824,
+"end": 837,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1098,
+"end": 1110,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1112,
+"end": 1125,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1128,
+"end": 1155,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1412,
+"end": 1424,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1462,
+"end": 1472,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1651,
+"end": 1678,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1702,
+"end": 1715,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1797,
+"end": 1807,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1897,
+"end": 1909,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1911,
+"end": 1924,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2117,
+"end": 2129,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2167,
+"end": 2177,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2356,
+"end": 2383,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 2407,
+"end": 2420,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2554,
+"end": 2581,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 2605,
+"end": 2617,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2619,
+"end": 2632,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2706,
+"end": 2718,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2870,
+"end": 2882,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2920,
+"end": 2930,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3103,
+"end": 3130,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 3154,
+"end": 3167,
+"label": "PHONE",
+"text": "+251962051344"
+}
+]

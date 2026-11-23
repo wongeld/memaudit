@@ -1,0 +1,212 @@
+[
+{
+"start": 120,
+"end": 151,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 179,
+"end": 189,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 203,
+"end": 213,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 229,
+"end": 241,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 335,
+"end": 345,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 499,
+"end": 530,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 552,
+"end": 562,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 584,
+"end": 596,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 763,
+"end": 773,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 775,
+"end": 787,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 872,
+"end": 882,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1041,
+"end": 1051,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1205,
+"end": 1236,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 1258,
+"end": 1268,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1290,
+"end": 1302,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 1382,
+"end": 1392,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1394,
+"end": 1406,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 1518,
+"end": 1549,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 1645,
+"end": 1655,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1793,
+"end": 1824,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 1846,
+"end": 1856,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1878,
+"end": 1890,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 2187,
+"end": 2197,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2199,
+"end": 2211,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 2363,
+"end": 2373,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2523,
+"end": 2554,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 2576,
+"end": 2586,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2608,
+"end": 2620,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 2855,
+"end": 2865,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2867,
+"end": 2879,
+"label": "PHONE",
+"text": "+16098633034"
+},
+{
+"start": 2929,
+"end": 2960,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 3105,
+"end": 3115,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3281,
+"end": 3312,
+"label": "LOCATION",
+"text": "Boston, United States (Back Bay"
+},
+{
+"start": 3334,
+"end": 3344,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 3366,
+"end": 3378,
+"label": "PHONE",
+"text": "+16098633034"
+}
+]

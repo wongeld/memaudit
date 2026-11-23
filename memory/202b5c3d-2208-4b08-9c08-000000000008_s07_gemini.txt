@@ -1,0 +1,6 @@
+* ተጠቃሚው ስሙ [PERSON] (profile_id: [[ID_NUMBER]]) ሲሆን በ[LOCATION] የሚኖር የ39 ዓመት ሰው ነው።
+* የትምህርት ደረጃው Master of Science ሲሆን የሥራ መደቡ Horticultural Export Training Coordinator ነው።
+* ባለትዳርና የሦስት ልጆች ወላጅ (Married with three children) ነው።
+* የጤና ሁኔታው Type 2 diabetes አለበት።
+* የስልክ ቁጥሩ [PHONE]፣ ኢሜይሉ [EMAIL] ሲሆን የመገናኛ ቋንቋው አማርኛ ነው።
+* በቤተሰብ (family) ዘርፍ በ[LOCATION] ሰኞ ጠዋት 3:00 ሰዓት ከ[PERSON] ([PHONE]) ጋር የታቀደ "የሳምንቱ ዋና ተግባር" አለው።

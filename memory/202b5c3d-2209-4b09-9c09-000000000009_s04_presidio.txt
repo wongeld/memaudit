@@ -1,0 +1,5 @@
+* ስም፡ [PERSON] (profile_id: [PROFILE_ID])፣ መኖሪያ ቦታቸው [LOCATION], [LOCATION] (Ayder) ነው።
+* ሙያ፡ Hospital Physician (Doctor of Medicine፣ መታወቂያ ቁጥር 3926435391) ሲሆኑ የጋብቻ ሁኔታቸው ያላገባ (Single) ነው።
+* የመገናኛ መረጃ፡ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ እና ተመራጭ ቋንቋቸው አማርኛ ነው።
+* የጤና ሁኔታ፡ መጠነኛ የአስም በሽታ ('Mild asthma') አለባቸው።
+* በ school ርዕስ ስር [DATE] በ [LOCATION], [LOCATION] (Ayder) የሚከናወን የትምህርት/ስራ ተግባር ማቀድ እና መመዝገብ ይፈልጋሉ።

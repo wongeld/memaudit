@@ -1,0 +1,70 @@
+User:
+Naomba urekodi booking kwenye mada ya work kwa Sheila Sifuna (+254760298744) ya chumba cha mikutano ya kikazi huko Nairobi, Kenya (Kilimani) Ijumaa saa 3:30 asubuhi; nionyeshe uthibitisho.
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi booking hiyo, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `booking`
+- **Kichwa (`title`):** Chumba cha mikutano ya kikazi
+- **Tarehe/Muda (`date_time`):** Ijumaa saa 3:30 asubuhi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Samahani, badilisha muda wa booking hiyo ya chumba cha mikutano uwe Ijumaa saa 5:00 asubuhi kwa Sheila Sifuna (+254760298744) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimesasisha muda wa booking hiyo. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `booking`
+- **Kichwa (`title`):** Chumba cha mikutano ya kikazi
+- **Tarehe/Muda (`date_time`):** Ijumaa saa 5:00 asubuhi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Rekodi shopping_item kwenye mada ya work kwa Sheila Sifuna (+254760298744) ya kununua vifaa vya ofisi na majalada ya kazi huko Nairobi, Kenya (Kilimani), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Huu hapa ni muhtasari wa `shopping_item` yako kwenye mada ya **work** kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `shopping_item`
+- **Kichwa (`title`):** Kununua vifaa vya ofisi na majalada ya kazi
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Tafadhali thibitisha kama maelezo haya ni sahihi ili niyahifadhi.
+
+User:
+Mimi ni Sheila Sifuna (profile_id: [PROFILE_ID]), mwenye umri wa miaka 41 na Foreign Exchange Dealer huko Nairobi, Kenya (Kilimani) (hali ya Mild hypertension); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+Nimeangalia wasifu wako kwa kutumia `get_user_profile`, na hakuna wasifu uliohifadhiwa uliopatikana kwa `profile_id` **[PROFILE_ID]**. Je, ungependa tuuhifadhi sasa?
+
+User:
+Hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], Sheila Sifuna, simu +254760298744, barua pepe sheila.sifuna+017@outlook.com, nchi Kenya; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya wasifu wako kabla sijayatuma kwenye `save_user_profile`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina la Kwanza (`first_name`):** Sheila
+- **Jina la Ukoo (`last_name`):** Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+- **Barua Pepe (`email`):** `sheila.sifuna+017@outlook.com`
+- **Nchi (`country`):** Kenya
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?

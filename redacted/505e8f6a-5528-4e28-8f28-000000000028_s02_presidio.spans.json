@@ -1,0 +1,146 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 25,
+"end": 52,
+"label": "EMAIL",
+"text": "lucas.bennett+028@yahoo.com"
+},
+{
+"start": 226,
+"end": 233,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 235,
+"end": 248,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 250,
+"end": 257,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 598,
+"end": 605,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 607,
+"end": 620,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 622,
+"end": 629,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 789,
+"end": 802,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1468,
+"end": 1481,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1501,
+"end": 1503,
+"label": "ORGANIZATION",
+"text": "UW"
+},
+{
+"start": 1512,
+"end": 1518,
+"label": "LOCATION",
+"text": "Center"
+},
+{
+"start": 1519,
+"end": 1528,
+"label": "LOCATION",
+"text": "Northwest"
+},
+{
+"start": 1529,
+"end": 1536,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1818,
+"end": 1853,
+"label": "LOCATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 2289,
+"end": 2302,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2393,
+"end": 2428,
+"label": "LOCATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 2719,
+"end": 2754,
+"label": "LOCATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 2934,
+"end": 2947,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3078,
+"end": 3091,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3248,
+"end": 3255,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3574,
+"end": 3587,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3692,
+"end": 3705,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3724,
+"end": 3737,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

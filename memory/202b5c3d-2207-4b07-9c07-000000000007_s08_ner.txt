@@ -1,0 +1,6 @@
+* የመገለጫ መለያው (Profile ID) [PROFILE_ID] ነው።
+* በቤተሰብ (family) ዘርፍ ከ[PERSON] (+251906564148፣ andualem.abate+007@outlook.com) ጋር ግንኙነት አለው።
+* በ[DATE] በ[LOCATION], [LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፎታል።
+* በAddis [LOCATION], [LOCATION] አካባቢ ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* በ[LOCATION], [LOCATION] (Yeka) አካባቢ (latitude 9.0355 እና longitude 38.8021) አድራሻ የመፈለግ ፍላጎት አለው።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣል።

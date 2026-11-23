@@ -1,0 +1,314 @@
+[
+{
+"start": 59,
+"end": 75,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 233,
+"end": 281,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana.\n\nAssistant:\nKikumbusho"
+},
+{
+"start": 317,
+"end": 333,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 583,
+"end": 609,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 637,
+"end": 655,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 917,
+"end": 941,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 946,
+"end": 962,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2030,
+"end": 2033,
+"label": "ORGANIZATION",
+"text": "LLM"
+},
+{
+"start": 2871,
+"end": 2885,
+"label": "ORGANIZATION",
+"text": "LLM.\n\nNitaanza"
+},
+{
+"start": 4155,
+"end": 4158,
+"label": "ORGANIZATION",
+"text": "CSV"
+},
+{
+"start": 4263,
+"end": 4278,
+"label": "ORGANIZATION",
+"text": "**OpenStreetMap"
+},
+{
+"start": 4371,
+"end": 4384,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 4417,
+"end": 4426,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 4637,
+"end": 4646,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 5960,
+"end": 5973,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 7380,
+"end": 7393,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 7484,
+"end": 7497,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 9074,
+"end": 9087,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 9509,
+"end": 9522,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 9561,
+"end": 9570,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 9692,
+"end": 9701,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 9869,
+"end": 9882,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 9969,
+"end": 9978,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 10084,
+"end": 10093,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 10276,
+"end": 10285,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 10424,
+"end": 10433,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 10604,
+"end": 10617,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 10862,
+"end": 10886,
+"label": "PERSON",
+"text": "Baraka.\n\nAssistant:\nPole"
+},
+{
+"start": 11234,
+"end": 11247,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 11296,
+"end": 11309,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 11392,
+"end": 11401,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 11692,
+"end": 11705,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 11719,
+"end": 11728,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 11868,
+"end": 11881,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 12072,
+"end": 12088,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 12143,
+"end": 12166,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 12179,
+"end": 12202,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi"
+},
+{
+"start": 12305,
+"end": 12321,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 12567,
+"end": 12592,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi\n*"
+},
+{
+"start": 12607,
+"end": 12630,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 12672,
+"end": 12690,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 13131,
+"end": 13154,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi"
+},
+{
+"start": 13159,
+"end": 13175,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 13315,
+"end": 13338,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi"
+},
+{
+"start": 13686,
+"end": 13711,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi\n*"
+},
+{
+"start": 13726,
+"end": 13749,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 13791,
+"end": 13809,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 13975,
+"end": 13991,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 14060,
+"end": 14083,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 14462,
+"end": 14475,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 14477,
+"end": 14485,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 14527,
+"end": 14545,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+}
+]

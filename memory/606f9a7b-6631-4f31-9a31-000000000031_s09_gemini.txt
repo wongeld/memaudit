@@ -1,0 +1,4 @@
+* The user commutes daily through [LOCATION], [LOCATION] ([LOCATION]).
+* The user manages appointments and shopping lists for [PERSON] (Profile ID: [[ID_NUMBER]], Phone: [PHONE]).
+* The user is in good health with no chronic conditions.
+* The user is currently focused on daily planning, including purchasing a daily planner notebook and health supplies.

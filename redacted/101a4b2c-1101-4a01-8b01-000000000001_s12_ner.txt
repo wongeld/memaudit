@@ -1,0 +1,8 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION] tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION], [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION] miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [PROFILE_ID], simu +254122951015) ya ukaguzi wa afya na ushauri wa lishe [DATE] huko [LOCATION]); nionyeshe uthibitisho.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] (+254122951015), tafadhali ihifadhi.

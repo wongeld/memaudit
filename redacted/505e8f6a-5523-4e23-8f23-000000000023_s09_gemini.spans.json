@@ -1,0 +1,122 @@
+[
+{
+"start": 120,
+"end": 127,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 129,
+"end": 142,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 144,
+"end": 151,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 179,
+"end": 193,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 207,
+"end": 217,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 233,
+"end": 245,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 1029,
+"end": 1043,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 1045,
+"end": 1057,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 2000,
+"end": 2014,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 2016,
+"end": 2028,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 2140,
+"end": 2147,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2149,
+"end": 2162,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2164,
+"end": 2171,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3054,
+"end": 3068,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 3070,
+"end": 3082,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 4034,
+"end": 4048,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 4050,
+"end": 4062,
+"label": "PHONE",
+"text": "+16139476852"
+},
+{
+"start": 4112,
+"end": 4119,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 4121,
+"end": 4134,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4136,
+"end": 4143,
+"label": "LOCATION",
+"text": "Ballard"
+}
+]

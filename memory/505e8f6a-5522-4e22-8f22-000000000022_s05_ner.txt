@@ -1,0 +1,4 @@
+* Manages mild hypertension (ID: 1815853866).
+* Currently planning travel and preparing a travel kit with health essentials.
+* Resides in or is traveling through the Ironbound area of [LOCATION], [LOCATION].
+* Interested in using OpenStreetMap tools for location searches and reverse geocoding.

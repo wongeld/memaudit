@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 96,
+"end": 102,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 104,
+"end": 117,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 119,
+"end": 127,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 491,
+"end": 497,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 509,
+"end": 515,
+"label": "PERSON",
+"text": "Mercer"
+},
+{
+"start": 589,
+"end": 602,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 827,
+"end": 833,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 849,
+"end": 855,
+"label": "PERSON",
+"text": "Mercer"
+},
+{
+"start": 941,
+"end": 954,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1066,
+"end": 1079,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 1524,
+"end": 1530,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1532,
+"end": 1545,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1704,
+"end": 1724,
+"label": "ORGANIZATION",
+"text": "Quarterly University"
+},
+{
+"start": 1780,
+"end": 1793,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 2337,
+"end": 2350,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 2789,
+"end": 2809,
+"label": "ORGANIZATION",
+"text": "Quarterly University"
+},
+{
+"start": 2880,
+"end": 2893,
+"label": "PERSON",
+"text": "Nathan Mercer"
+}
+]

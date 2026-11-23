@@ -1,0 +1,182 @@
+[
+{
+"start": 85,
+"end": 99,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 196,
+"end": 203,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 205,
+"end": 218,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 220,
+"end": 232,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 513,
+"end": 520,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 522,
+"end": 535,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 537,
+"end": 549,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 573,
+"end": 587,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 840,
+"end": 854,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1216,
+"end": 1230,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1298,
+"end": 1305,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1307,
+"end": 1320,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1322,
+"end": 1334,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1660,
+"end": 1667,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1669,
+"end": 1682,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1684,
+"end": 1696,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1720,
+"end": 1734,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2033,
+"end": 2047,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2665,
+"end": 2672,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2674,
+"end": 2687,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2689,
+"end": 2701,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2725,
+"end": 2739,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2984,
+"end": 2998,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3044,
+"end": 3051,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3053,
+"end": 3066,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3068,
+"end": 3080,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3414,
+"end": 3421,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3423,
+"end": 3436,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3438,
+"end": 3450,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3474,
+"end": 3488,
+"label": "PERSON",
+"text": "David Kowalski"
+}
+]

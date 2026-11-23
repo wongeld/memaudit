@@ -1,0 +1,5 @@
+* Jina la mtumiaji ni [PERSON], mwenye nambari ya simu [PHONE] na profile_id [PROFILE_ID].
+* Ana safari inayohusisha siku 4 za kazi akiondoka [LOCATION], [LOCATION] (Malava).
+* Anapanga kukutana na mshirika wa safari na usafirishaji kwa ajili ya miadi [DATE].
+* Anahitaji kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuanza safari yake.
+* Ana mpango wa kununua begi la safari na vifaa vya huduma ya kwanza akiwa [LOCATION], [LOCATION].

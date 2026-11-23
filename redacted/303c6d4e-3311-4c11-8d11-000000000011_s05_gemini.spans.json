@@ -1,0 +1,104 @@
+[
+{
+"start": 22,
+"end": 34,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 56,
+"end": 82,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 102,
+"end": 129,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 218,
+"end": 230,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 289,
+"end": 301,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 339,
+"end": 349,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 543,
+"end": 570,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 594,
+"end": 607,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 623,
+"end": 649,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 743,
+"end": 755,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 828,
+"end": 838,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 933,
+"end": 943,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1114,
+"end": 1141,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1199,
+"end": 1220,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1304,
+"end": 1325,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1493,
+"end": 1520,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

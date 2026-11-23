@@ -1,0 +1,72 @@
+User:
+Naomba urekodi booking kwenye mada ya work kwa [PERSON] ([PHONE]) ya chumba cha mikutano ya kikazi huko [LOCATION], [LOCATION] ([LOCATION]) Ijumaa saa 3:30 asubuhi; nionyeshe uthibitisho.
+
+Assistant:
+Niko tayari kurekodi booking hiyo kwenye mada ya **work**. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `booking`
+* **Kichwa (Title):** Chumba cha mikutano ya kikazi
+* **Muda (Date/Time):** Ijumaa saa 3:30 asubuhi
+* **Eneo (Location):** [LOCATION], [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi booking hii?
+
+User:
+Samahani, badilisha muda wa booking hiyo ya chumba cha mikutano uwe Ijumaa saa 5:00 asubuhi kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimebadilisha muda wa booking hiyo ya chumba cha mikutano kuwa **Ijumaa saa 5:00 asubuhi**. Tafadhali hakiki na uthibitishe maelezo yote yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `booking`
+* **Kichwa (Title):** Chumba cha mikutano ya kikazi
+* **Muda (Date/Time):** Ijumaa saa 5:00 asubuhi
+* **Eneo (Location):** [LOCATION], [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya yote ili nihifadhi booking hii?
+
+User:
+Rekodi shopping_item kwenye mada ya work kwa [PERSON] ([PHONE]) ya kununua vifaa vya ofisi na majalada ya kazi huko [LOCATION], [LOCATION] ([LOCATION]), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Niko tayari kurekodi `shopping_item` hiyo kwenye mada ya **work**. Hapa kuna muhtasari wa maelezo yote ili uthibitishe kabla ya kuhifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Mada (Theme):** `work`
+* **Aina ya Shughuli (Activity Type):** `shopping_item`
+* **Kichwa (Title):** Kununua vifaa vya ofisi na majalada ya kazi
+* **Eneo (Location):** [LOCATION], [LOCATION] ([LOCATION])
+* **Jina la Mhusika (Contact Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili nihifadhi `shopping_item` hii?
+
+User:
+Mimi ni [PERSON] (profile_id: [[ID_NUMBER]]), mwenye umri wa miaka 46, Family Mediation Counselor huko [LOCATION], [LOCATION] ([LOCATION]), na hali yangu ya familia ni 'Married with two children'; tafadhali angalia wasifu wangu kwa get_user_profile.
+
+Assistant:
+Nimeangalia mfumo kwa kutumia `get_user_profile`, na kwa sasa hakuna wasifu uliohifadhiwa kwa `profile_id` `[[ID_NUMBER]]`.
+
+Tafadhali nijulishe kama ungependa tuuhifadhi wasifu wako sasa.
+
+User:
+Tafadhali hifadhi wasifu wangu kwa save_user_profile: profile_id [[ID_NUMBER]], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo ili nithibitishe.
+
+Assistant:
+Niko tayari kuhifadhi wasifu wako kwa kutumia `save_user_profile`. Tafadhali hakiki na uthibitishe maelezo yafuatayo kabla sijahifadhi:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Jina la Kwanza (First Name):** [PERSON]
+* **Jina la Mwisho (Last Name):** [PERSON]
+* **Simu ya Mkononi (Mobile Phone):** `[PHONE]`
+* **Barua Pepe (Email):** `[EMAIL]`
+* **Nchi (Country):** [LOCATION]
+
+Je, maelezo haya ni sahihi ili niyahifadhi kwenye mfumo?

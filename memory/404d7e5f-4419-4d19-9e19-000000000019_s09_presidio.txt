@@ -1,0 +1,5 @@
+* Mtumiaji anajihusisha na masuala ya afya na lishe, akipanga kufanya ukaguzi wa afya na ushauri wa lishe.
+* Anapanga kufanya mazoezi ya afya katika eneo la [LOCATION], [LOCATION] (Njiro).
+* Anahitaji kununua shajara ya ratiba ya kila siku na mahitaji ya afya.
+* Anatumia mfumo wa `daily_planning` kuratibu shughuli zake zote.
+* Anafanya kazi au anashirikiana na [PERSON] (simu [PHONE]) kwa ajili ya mipango yake ya kila siku.

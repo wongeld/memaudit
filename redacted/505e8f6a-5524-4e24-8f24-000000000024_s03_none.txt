@@ -1,0 +1,74 @@
+User:
+Please record a work reminder via record_user_activity for David Kowalski (profile_id [PROFILE_ID], mobile_phone +18466001447) to submit my weekly departmental metrics and take a brief break while managing type 2 diabetes every Friday at 04:00 PM.
+
+Assistant:
+Here are the details for the work reminder:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: reminder
+*   **Title**: Submit weekly departmental metrics and take a brief break
+*   **Date/Time**: Every Friday at 04:00 PM
+*   **Contact Name**: David Kowalski
+*   **Mobile Phone**: +18466001447
+*   **Notes**: while managing type 2 diabetes
+
+Please confirm these details, and I will attempt to save this reminder. I must again note that I have been encountering issues with saving activities, where the operation gets canceled.
+
+User:
+Yes, I confirm those exact reminder details for David Kowalski (+18466001447); please save the work reminder now.
+
+Assistant:
+I apologize, but I was again unable to save the work reminder. The `record_user_activity` tool reported that the operation was canceled, even after your confirmation. It seems there is a persistent issue with saving any user-related data.
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in Chicago, United States (Lincoln Park) on Thursday at 11:00 AM under David Kowalski (+18466001447), and show me the confirmation summary.
+
+Assistant:
+Here is the confirmation summary for your work booking:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: booking
+*   **Title**: Conference room
+*   **Date/Time**: Thursday at 11:00 AM
+*   **Location**: Chicago, United States (Lincoln Park)
+*   **Contact Name**: David Kowalski
+*   **Mobile Phone**: +18466001447
+
+Please confirm if these details are correct, and I will attempt to save it. I must remind you that I've been encountering issues where saving operations are being canceled.
+
+User:
+Wait—please change the booking title to 'Executive Software Engineering Manager Strategy Room Booking' for David Kowalski (+18466001447) on profile_id [PROFILE_ID] and show the full confirmation again before saving.
+
+Assistant:
+I understand you'd like to change the title. Please note that the previous booking request was not saved due to the ongoing issues with saving activities.
+
+Here is the updated confirmation summary for the work booking:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: booking
+*   **Title**: Executive Software Engineering Manager Strategy Room Booking
+*   **Date/Time**: Thursday at 11:00 AM
+*   **Location**: Chicago, United States (Lincoln Park)
+*   **Contact Name**: David Kowalski
+*   **Mobile Phone**: +18466001447
+
+Please confirm these updated details, and I will attempt to save this booking. I must reiterate that I have been encountering issues where saving operations are being canceled.
+
+User:
+Please record a work shopping_item via record_user_activity for David Kowalski (+18466001447) to order ergonomic office supplies and reference materials for my Software Engineering Manager role in Chicago, United States (Lincoln Park), and ask for my confirmation first.
+
+Assistant:
+Here are the details for your work shopping item:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: work
+*   **Activity Type**: shopping\_item
+*   **Title**: Order ergonomic office supplies and reference materials
+*   **Location**: Chicago, United States (Lincoln Park)
+*   **Contact Name**: David Kowalski
+*   **Mobile Phone**: +18466001447
+
+Please confirm these details, and I will attempt to save this shopping item. As before, I am encountering issues where saving operations are being canceled.

@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 67,
+"end": 70,
+"label": "ORGANIZATION",
+"text": "Eco"
+},
+{
+"start": 106,
+"end": 113,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 115,
+"end": 128,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 130,
+"end": 137,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 323,
+"end": 327,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 836,
+"end": 840,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 852,
+"end": 861,
+"label": "PERSON",
+"text": "Lindqvist"
+},
+{
+"start": 934,
+"end": 947,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1046,
+"end": 1050,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1786,
+"end": 1790,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 1935,
+"end": 1939,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 2577,
+"end": 2584,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2586,
+"end": 2599,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2601,
+"end": 2608,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2759,
+"end": 2773,
+"label": "PERSON",
+"text": "Evan Lindqvist"
+},
+{
+"start": 3658,
+"end": 3662,
+"label": "PERSON",
+"text": "Evan"
+},
+{
+"start": 3718,
+"end": 3722,
+"label": "PERSON",
+"text": "Evan"
+}
+]

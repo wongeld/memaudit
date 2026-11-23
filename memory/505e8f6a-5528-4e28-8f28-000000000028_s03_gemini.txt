@@ -1,0 +1,6 @@
+* Works as a Hospital Physician.
+* Requires a recurring work reminder every Friday at 04:00 PM to submit departmental metrics and take a break.
+* Currently managing work-related bookings and supply orders for [LOCATION], [LOCATION] ([LOCATION]).
+* Needs to order ergonomic office supplies and reference materials for their role.
+* Has no chronic health conditions.
+* Associated with [PERSON] (mobile: [PHONE], profile_id: [[ID_NUMBER]]).

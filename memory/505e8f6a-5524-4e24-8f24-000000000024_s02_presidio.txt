@@ -1,0 +1,5 @@
+* User is [PERSON] ([EMAIL]).
+* Manages type 2 diabetes.
+* Works in a professional role that involves stakeholder reviews and off-site meetings.
+* Based in or frequently works in [LOCATION], [LOCATION] ([LOCATION]).
+* Currently experiencing technical issues with the assistant's ability to save activities or use location-based tools.

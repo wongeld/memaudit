@@ -1,0 +1,38 @@
+User:
+I'm [PERSON] (arthur.pendleton+029@gmail.com), and since I'm managing type 2 diabetes, please use record_user_activity in the work theme to schedule an appointment for a mid-week stakeholder review in [LOCATION], [LOCATION] ([ORGANIZATION]) on Wednesday at 02:00 PM.
+
+Assistant:
+I'm going to save a new work activity with the following details for your profile. Please confirm that these details are correct:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: Work
+**Activity Type**: Appointment
+**Title**: Mid-week stakeholder review
+**Date/Time**: Wednesday at 02:00 PM
+**Location**: [LOCATION], [LOCATION] (Ironbound)
+
+Is this correct?
+
+User:
+No, cancel that Wednesday 02:00 PM work appointment for [PERSON]—the stakeholder review was moved to next month, so do not save it.
+
+Assistant:
+Understood. The mid-week stakeholder review appointment for Wednesday at 02:00 PM for [PERSON] was not saved.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] filtered to the work theme so I can review all my scheduled professional commitments.
+
+Assistant:
+It appears there are no activities saved under the "work" theme for your profile. This might be because the previous attempts to save activities were cancelled.
+
+User:
+I have an off-site professional meeting coming up; please use search_places on the OpenStreetMap server to look up '[ORGANIZATION] [LOCATION]' without sending any personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I encountered an error when trying to search for '[ORGANIZATION] [LOCATION] [LOCATION]' using OpenStreetMap. It seems there was an issue executing the `search_places` tool.
+
+User:
+Could you use reverse_geocode to find the street address for coordinates latitude 40.7282 and longitude -74.1502 near my work area in [LOCATION], [LOCATION] (Ironbound), including OpenStreetMap attribution?
+
+Assistant:
+I encountered an error when trying to reverse geocode the coordinates 40.7282, -74.1502 using [ORGANIZATION]. It seems there was an issue executing the `reverse_geocode` tool.

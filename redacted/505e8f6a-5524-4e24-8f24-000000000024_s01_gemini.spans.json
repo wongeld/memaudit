@@ -1,0 +1,164 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 39,
+"end": 49,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 106,
+"end": 113,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 115,
+"end": 128,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 130,
+"end": 142,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 692,
+"end": 702,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 756,
+"end": 768,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 776,
+"end": 804,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 814,
+"end": 827,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 990,
+"end": 1000,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1078,
+"end": 1090,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 1106,
+"end": 1134,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 1152,
+"end": 1165,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1324,
+"end": 1338,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1357,
+"end": 1369,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 1718,
+"end": 1725,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1727,
+"end": 1740,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1742,
+"end": 1754,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1777,
+"end": 1787,
+"label": "ID_NUMBER",
+"text": "4225622270"
+},
+{
+"start": 1990,
+"end": 2004,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2006,
+"end": 2018,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 2375,
+"end": 2385,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2430,
+"end": 2444,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2449,
+"end": 2461,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 2814,
+"end": 2824,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3005,
+"end": 3019,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3042,
+"end": 3054,
+"label": "PHONE",
+"text": "+18466001447"
+}
+]

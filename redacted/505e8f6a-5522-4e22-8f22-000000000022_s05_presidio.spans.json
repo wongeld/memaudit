@@ -1,0 +1,56 @@
+[
+{
+"start": 583,
+"end": 595,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1699,
+"end": 1705,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1707,
+"end": 1720,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1765,
+"end": 1779,
+"label": "LOCATION",
+"text": "Newark Liberty"
+},
+{
+"start": 1794,
+"end": 1801,
+"label": "LOCATION",
+"text": "Airport"
+},
+{
+"start": 1955,
+"end": 1991,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 2326,
+"end": 2332,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2334,
+"end": 2347,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2349,
+"end": 2358,
+"label": "LOCATION",
+"text": "Ironbound"
+}
+]

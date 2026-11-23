@@ -1,0 +1,134 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 36,
+"end": 46,
+"label": "ID_NUMBER",
+"text": "8698697209"
+},
+{
+"start": 54,
+"end": 84,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 213,
+"end": 220,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 222,
+"end": 235,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 237,
+"end": 249,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 332,
+"end": 348,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 592,
+"end": 599,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 601,
+"end": 614,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 616,
+"end": 628,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 644,
+"end": 660,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 675,
+"end": 687,
+"label": "PHONE",
+"text": "+15759823598"
+},
+{
+"start": 1510,
+"end": 1526,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1918,
+"end": 1925,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1927,
+"end": 1940,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1942,
+"end": 1954,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1988,
+"end": 2032,
+"label": "LOCATION",
+"text": "North and Clybourn Shopping Corridor Chicago"
+},
+{
+"start": 2159,
+"end": 2203,
+"label": "LOCATION",
+"text": "North and Clybourn Shopping Corridor Chicago"
+},
+{
+"start": 2929,
+"end": 2936,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2938,
+"end": 2951,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2953,
+"end": 2965,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3192,
+"end": 3199,
+"label": "LOCATION",
+"text": "Chicago"
+}
+]

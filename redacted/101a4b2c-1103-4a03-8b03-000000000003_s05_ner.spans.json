@@ -1,0 +1,194 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 155,
+"end": 179,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 185,
+"end": 193,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 195,
+"end": 200,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 251,
+"end": 257,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 402,
+"end": 409,
+"label": "DATE",
+"text": "Jumanne"
+},
+{
+"start": 713,
+"end": 720,
+"label": "DATE",
+"text": "Jumanne"
+},
+{
+"start": 722,
+"end": 740,
+"label": "DATE",
+"text": "saa 4:30 asubuhi\n*"
+},
+{
+"start": 807,
+"end": 815,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 817,
+"end": 822,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 914,
+"end": 936,
+"label": "DATE",
+"text": "Jumanne.\n\nUser:\nHapana"
+},
+{
+"start": 959,
+"end": 983,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 1082,
+"end": 1088,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1123,
+"end": 1147,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 1597,
+"end": 1613,
+"label": "DATE",
+"text": "Jumatatu/Jumanne"
+},
+{
+"start": 1804,
+"end": 1824,
+"label": "ORGANIZATION",
+"text": "Kakamega High School"
+},
+{
+"start": 1887,
+"end": 1918,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSawa"
+},
+{
+"start": 1920,
+"end": 1926,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1941,
+"end": 1961,
+"label": "ORGANIZATION",
+"text": "Kakamega High School"
+},
+{
+"start": 2065,
+"end": 2088,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nKumbuka"
+},
+{
+"start": 2147,
+"end": 2160,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2238,
+"end": 2244,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2300,
+"end": 2313,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2354,
+"end": 2381,
+"label": "ORGANIZATION",
+"text": "Kakamega High School'.\n\nKwa"
+},
+{
+"start": 2459,
+"end": 2490,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nUser:\nTafadhali"
+},
+{
+"start": 2605,
+"end": 2613,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2615,
+"end": 2620,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2652,
+"end": 2687,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2689,
+"end": 2695,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2782,
+"end": 2795,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3090,
+"end": 3096,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3206,
+"end": 3219,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

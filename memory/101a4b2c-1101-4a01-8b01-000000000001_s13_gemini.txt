@@ -1,0 +1,5 @@
+- Anapanga mipango na shughuli zake chini ya mada ya `daily_planning` kwa kutumia `profile_id` [[ID_NUMBER]].
+- Anashughulikia masuala yanayomhusu [PERSON] mwenye nambari ya simu [PHONE].
+- Ana uhitaji wa shajara ya kupanga siku na vyakula/mahitaji ya afya yanayohusiana na 'Mild seasonal allergic rhinitis' huko [LOCATION] ([LOCATION]).
+- Anapanga muda wa mazoezi ya afya Jumamosi saa 2:00 asubuhi huko [LOCATION] ([LOCATION]).
+- Huwa na vikao vya jioni (kama vile kazi au kikao kilichopangwa saa 11:30 jioni).

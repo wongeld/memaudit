@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ የመገለጫ መለያ (profile_id) [[ID_NUMBER]] (እንዲሁም መታወቂያ [ID_NUMBER]) ሲሆን የሚኖረው በ[LOCATION], [LOCATION] ([LOCATION]) ነው።
+* የ41 ዓመት Family Mediation Counselor ሲሆን የትምህርት ደረጃውም Bachelor of Laws ነው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የጤና ሁኔታው ሙሉ ጤነኛ ነው።
+* የመገናኛ አድራሻው ስልክ [PHONE] እና ኢሜይል [EMAIL] ሲሆን ቋንቋው አማርኛ ነው።
+* ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) የሚከናወን የሳምንቱ ዋና ተግባር ዕቅድ አለው።

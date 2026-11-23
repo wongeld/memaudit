@@ -1,0 +1,58 @@
+User:
+Naomba urekodi miadi (appointment) kwenye mada ya shopping kwa [PERSON] ([PHONE]) ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION]) [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi miadi hiyo, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Kukagua ubora wa bidhaa na muuzaji
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Samahani, badilisha muda wa miadi hiyo ya muuzaji uwe [DATE] kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimesasisha muda wa miadi hiyo. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Kukagua ubora wa bidhaa na muuzaji
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Rekodi booking kwenye mada ya shopping ya usafiri wa kuleta bidhaa nyumbani [LOCATION], [LOCATION]) kwa [PERSON] ([PHONE]) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Huu hapa ni muhtasari wa `booking` yako kwenye mada ya **shopping** kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `booking`
+- **Kichwa (`title`):** Usafiri wa kuleta bidhaa nyumbani
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Tafadhali thibitisha kama maelezo haya ni sahihi ili niyahifadhi.
+
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 41, [ORGANIZATION] Dealer huko [LOCATION]), na hali yangu ya familia ni 'Married with two children'; tafadhali angalia wasifu wangu kwa get_user_profile.
+
+Assistant:
+Nimeangalia wasifu wako kwa kutumia `get_user_profile`, na hakuna wasifu uliohifadhiwa uliopatikana kwa `profile_id` **[PROFILE_ID]**. Je, ungependa tuuhifadhi sasa?
+
+User:
+Tafadhali hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo ili nithibitishe.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya wasifu wako kabla sijayatuma kwenye `save_user_profile`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Jina la Kwanza (`first_name`):** [PERSON] **Jina la Ukoo (`last_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Barua Pepe (`email`):** `[EMAIL]`
+- **Nchi (`country`):** [LOCATION], unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?

@@ -1,0 +1,6 @@
+- The user is married with two children.
+- The user resides in or frequently visits the Back Bay area of Boston, United States.
+- The user is associated with [PERSON] (phone: +15246107452, profile_id: [PROFILE_ID]).
+- The user prioritizes healthy family meals and fresh produce.
+- The user frequently plans family activities, including weekend brunches and grocery shopping.
+- The user is currently experiencing persistent technical issues with the `record_user_activity` tool, which prevents saving any profile or activity data.

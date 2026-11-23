@@ -1,0 +1,5 @@
+- User name is [PERSON] (email: evan.lindqvist+023@gmail.com).
+- User follows a routine of evening meal prep and next-day prioritization at 06:30 PM.
+- User has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- User commutes in [LOCATION], [LOCATION] ([LOCATION]) and is interested in landmarks like Swedish Ballard Campus Seattle.
+- User is experiencing persistent technical issues with tool functionality, specifically regarding saving activities and using location-based services like `search_places` and `reverse_geocode`.

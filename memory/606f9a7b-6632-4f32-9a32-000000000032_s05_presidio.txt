@@ -1,0 +1,4 @@
+- User's name is [PERSON] (ID: 2171961713).
+- The user is actively managing household tasks, specifically budgeting and family calendar planning.
+- The user is planning a family gathering/outing in [LOCATION], [LOCATION] ([LOCATION]).
+- The user prefers to handle household budget reviews on a weekly basis.

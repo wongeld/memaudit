@@ -1,0 +1,6 @@
+* User is a 31-year-old Physician at [ORGANIZATION].
+* User is single and based in [LOCATION], [LOCATION].
+* Contact details: [PERSON] Bennett, mobile +16314978227, email lucas.bennett+028@yahoo.com.
+* User frequently travels for work and requires assistance with flight and hotel bookings.
+* User prefers Monday morning departures (specifically 08:15 AM).
+* Note: System tools for saving profiles and recording activities are currently experiencing persistent technical failures.

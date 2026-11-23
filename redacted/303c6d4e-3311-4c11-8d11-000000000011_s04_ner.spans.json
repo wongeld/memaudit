@@ -1,0 +1,200 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 53,
+"end": 65,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 67,
+"end": 75,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ38 ዓመት"
+},
+{
+"start": 384,
+"end": 403,
+"label": "PERSON",
+"text": "Hirut\n**last_name**"
+},
+{
+"start": 405,
+"end": 428,
+"label": "PERSON",
+"text": "Anagaw\n**mobile_phone**"
+},
+{
+"start": 457,
+"end": 475,
+"label": "LOCATION",
+"text": "Ethiopia\n**email**"
+},
+{
+"start": 661,
+"end": 673,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 731,
+"end": 739,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 890,
+"end": 909,
+"label": "PERSON",
+"text": "Hirut\n**last_name**"
+},
+{
+"start": 911,
+"end": 934,
+"label": "PERSON",
+"text": "Anagaw\n**mobile_phone**"
+},
+{
+"start": 963,
+"end": 981,
+"label": "LOCATION",
+"text": "Ethiopia\n**email**"
+},
+{
+"start": 1098,
+"end": 1110,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1322,
+"end": 1329,
+"label": "DATE",
+"text": "በአሁኑ ጊዜ"
+},
+{
+"start": 1562,
+"end": 1577,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1578,
+"end": 1590,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1592,
+"end": 1600,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1631,
+"end": 1643,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1743,
+"end": 1787,
+"label": "DATE",
+"text": "ሰኔ 3 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 2:30 ሰዓት\"።\n\nትክክለኛውን"
+},
+{
+"start": 1838,
+"end": 1850,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1967,
+"end": 1972,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2029,
+"end": 2046,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 2063,
+"end": 2074,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2076,
+"end": 2084,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2335,
+"end": 2350,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2358,
+"end": 2370,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2437,
+"end": 2460,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት የትኛው ቀን"
+},
+{
+"start": 2471,
+"end": 2504,
+"label": "DATE",
+"text": "ሰኔ 3 ቀን 2016 ዓ.ም. ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 2578,
+"end": 2590,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2707,
+"end": 2712,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 2769,
+"end": 2786,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 2803,
+"end": 2814,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2816,
+"end": 2824,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

@@ -1,0 +1,8 @@
+- Name: Caleb Thornton
+- Age: 29
+- Occupation: Doctoral Research Fellow
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Marital status: Single
+- Education: Master of Science
+- Health: Manages mild asthma
+- Shopping needs: Requires weekly wellness supplies and professional essentials

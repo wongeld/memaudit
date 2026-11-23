@@ -1,0 +1,45 @@
+User:
+በ school ሥር ለ [PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) [DATE] ላይ [LOCATION]) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የምክክር ቀጠሮ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** school
+*   **Activity Type:** appointment
+*   **Title:** የምክክር ቀጠሮ
+*   **Date/Time:** [DATE]   **Location:** [LOCATION], [LOCATION]   **Contact Name:** [PERSON]   **Mobile Phone:** [PHONE]
+*   **Email:** [EMAIL] (ይህ ኢሜይል ከመገለጫው የተወሰደ ነው፤ ለዚህ ቀጠሮ በተናጠል አይቀመጥም)
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አይ፣ [DATE] ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ [DATE] የምክክር ቀጠሮ አልመዘግብም። ምንም ነገር አልተቀመጠም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ school ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+ለ `profile_id` [PROFILE_ID] በ 'school' ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም።
+
+ከዚህ ቀደም የመገለጫ ማስቀመጫ እና የእንቅስቃሴ መዝገብ ጥያቄዎች ያልተሳኩ በመሆናቸው፣ በዚህ ዘርፍ ምንም እንቅስቃሴዎች አልተመዘገቡም። መጀመሪያ መገለጫህን በትክክል ማስቀመጥ ሊያስፈልግ ይችላል።
+
+User:
+በAddis [LOCATION]) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places '[LOCATION]' ብለህ ፈልግልኝና የ [ORGANIZATION] attribution አካትት።
+
+Assistant:
+The `search_places` tool in `mcp__openstreetmap` only takes `query` and `limit` as arguments. There is no explicit parameter for "OpenStreetMap attribution" or for handling personal information, as the tool is designed to search public map data. The general [ORGANIZATION] gateway handles not sending personal information by default, and `openstreetmap` attribution is usually handled by the [ORGANIZATION] client or is implicitly part of using the service.
+
+I can now call `search_places` with the provided query.
+
+Assistant:
+ይቅርታ፣ `openstreetmap` የፍለጋ መሳሪያው በአሁኑ ጊዜ እየሰራ አይደለም። ቦታዎችን መፈለግ አልቻልኩም። ከመጥፎ ግንኙነት ወይም ከአገልጋይ ጉዳይ የተነሳ ሊሆን ይችላል።
+
+User:
+እባክህ [LOCATION], [LOCATION] (Yeka) የሚገኘውን የ latitude 9.0355 እና longitude 38.8021 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `openstreetmap` የ `reverse_geocode` መሳሪያው በአሁኑ ጊዜ እየሰራ አይደለም። አድራሻውን ማግኘት አልቻልኩም።

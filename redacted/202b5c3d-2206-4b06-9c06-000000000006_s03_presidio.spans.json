@@ -1,0 +1,266 @@
+[
+{
+"start": 74,
+"end": 87,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 118,
+"end": 131,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 133,
+"end": 147,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 290,
+"end": 307,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 461,
+"end": 495,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00 (Friday 10:00 PM)\n*"
+},
+{
+"start": 517,
+"end": 530,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 583,
+"end": 597,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 648,
+"end": 664,
+"label": "DATE",
+"text": "November 1, 2024"
+},
+{
+"start": 669,
+"end": 690,
+"label": "DATE",
+"text": "10:00 PM\")?\n\nUser:\nአዎ"
+},
+{
+"start": 692,
+"end": 707,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 716,
+"end": 729,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 731,
+"end": 744,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 868,
+"end": 882,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 885,
+"end": 900,
+"label": "DATE",
+"text": "Friday 10:00 PM"
+},
+{
+"start": 939,
+"end": 955,
+"label": "DATE",
+"text": "November 1, 2024"
+},
+{
+"start": 960,
+"end": 977,
+"label": "DATE",
+"text": "10:00 PM\".\n\nCould"
+},
+{
+"start": 1050,
+"end": 1063,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1065,
+"end": 1078,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 1080,
+"end": 1092,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1094,
+"end": 1102,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1285,
+"end": 1302,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 1515,
+"end": 1526,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1528,
+"end": 1536,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1567,
+"end": 1580,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 1765,
+"end": 1778,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 1780,
+"end": 1793,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 1909,
+"end": 1926,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 2139,
+"end": 2150,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2152,
+"end": 2160,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2191,
+"end": 2204,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 2440,
+"end": 2457,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2458,
+"end": 2470,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 2472,
+"end": 2486,
+"label": "LOCATION",
+"text": "Ethiopia (Bole"
+},
+{
+"start": 2510,
+"end": 2523,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 2525,
+"end": 2538,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 2689,
+"end": 2706,
+"label": "PERSON",
+"text": "Dereje Diriba:\n\n*"
+},
+{
+"start": 2873,
+"end": 2889,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2891,
+"end": 2910,
+"label": "DATE",
+"text": "Saturday 4:00 AM)\n*"
+},
+{
+"start": 2927,
+"end": 2938,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2940,
+"end": 2948,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2979,
+"end": 2992,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 3054,
+"end": 3070,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 3121,
+"end": 3137,
+"label": "DATE",
+"text": "November 2, 2024"
+},
+{
+"start": 3142,
+"end": 3149,
+"label": "DATE",
+"text": "4:00 AM"
+}
+]

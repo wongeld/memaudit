@@ -1,0 +1,140 @@
+[
+{
+"start": 14,
+"end": 25,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 119,
+"end": 123,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 125,
+"end": 130,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 724,
+"end": 737,
+"label": "PERSON",
+"text": "Juma Barasa\n*"
+},
+{
+"start": 868,
+"end": 875,
+"label": "LOCATION",
+"text": "Kenya\n*"
+},
+{
+"start": 1038,
+"end": 1042,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1044,
+"end": 1049,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1368,
+"end": 1379,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1444,
+"end": 1449,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1765,
+"end": 1771,
+"label": "PERSON",
+"text": "Barasa"
+},
+{
+"start": 1836,
+"end": 1841,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1973,
+"end": 1984,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2652,
+"end": 2677,
+"label": "DATE",
+"text": "Jumamosi saa 3:00 asubuhi"
+},
+{
+"start": 2683,
+"end": 2687,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2689,
+"end": 2694,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2696,
+"end": 2702,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 2708,
+"end": 2719,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3217,
+"end": 3242,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 3298,
+"end": 3309,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3702,
+"end": 3727,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 3732,
+"end": 3743,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3826,
+"end": 3830,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3832,
+"end": 3837,
+"label": "LOCATION",
+"text": "Kenya"
+}
+]

@@ -1,0 +1,6 @@
+* The user is married with three children.
+* The user is managing type 2 diabetes within the family and prioritizes healthy meals.
+* The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations.
+* The user is based in or frequently visits [LOCATION], [LOCATION] ([LOCATION]).
+* The user manages family activities for [PERSON] (mobile: +18466001447).
+* The user is aware of persistent technical issues with the assistant's ability to save data.

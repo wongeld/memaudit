@@ -1,0 +1,4 @@
+* Jina lake ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 34.
+* Anafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] (Itabua) na ana shahada ya Bachelor of Education.
+* Mawasiliano yake ni nambari ya simu +254122951015 na barua pepe juma.barasa+001@gmail.com; nchi yake ni [LOCATION] na anapendelea lugha ya Kiswahili.
+* Ana kazi ya shule ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini iliyopangwa tarehe [DATE].

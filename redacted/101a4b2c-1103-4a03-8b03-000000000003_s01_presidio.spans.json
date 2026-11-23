@@ -1,0 +1,236 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 151,
+"end": 159,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 161,
+"end": 166,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 277,
+"end": 283,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 560,
+"end": 574,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 581,
+"end": 594,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 607,
+"end": 635,
+"label": "EMAIL",
+"text": "daniel.wemanya+003@gmail.com"
+},
+{
+"start": 642,
+"end": 647,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 848,
+"end": 856,
+"label": "PERSON",
+"text": "Daniel\n*"
+},
+{
+"start": 874,
+"end": 883,
+"label": "PERSON",
+"text": "Wemanya\n*"
+},
+{
+"start": 904,
+"end": 917,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 933,
+"end": 963,
+"label": "PERSON",
+"text": "daniel.wemanya+003@gmail.com\n*"
+},
+{
+"start": 979,
+"end": 988,
+"label": "LOCATION",
+"text": "Kenya\n\nJe"
+},
+{
+"start": 1051,
+"end": 1065,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1074,
+"end": 1087,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1574,
+"end": 1582,
+"label": "PERSON",
+"text": "Daniel\n*"
+},
+{
+"start": 1600,
+"end": 1609,
+"label": "PERSON",
+"text": "Wemanya\n*"
+},
+{
+"start": 1630,
+"end": 1643,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1659,
+"end": 1689,
+"label": "PERSON",
+"text": "daniel.wemanya+003@gmail.com\n*"
+},
+{
+"start": 1705,
+"end": 1721,
+"label": "LOCATION",
+"text": "Kenya\n\nTafadhali"
+},
+{
+"start": 1835,
+"end": 1843,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1845,
+"end": 1850,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1988,
+"end": 2013,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 2018,
+"end": 2032,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2034,
+"end": 2047,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2068,
+"end": 2074,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2205,
+"end": 2213,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 2468,
+"end": 2476,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 2485,
+"end": 2503,
+"label": "DATE",
+"text": "saa 1:30 asubuhi\n*"
+},
+{
+"start": 2524,
+"end": 2537,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2590,
+"end": 2615,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 2671,
+"end": 2685,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2687,
+"end": 2700,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 3028,
+"end": 3038,
+"label": "DATE",
+"text": "2024-08-05"
+},
+{
+"start": 3044,
+"end": 3052,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 3086,
+"end": 3102,
+"label": "DATE",
+"text": "saa 2:30 asubuhi"
+},
+{
+"start": 3310,
+"end": 3318,
+"label": "DATE",
+"text": "Jumatatu"
+},
+{
+"start": 3320,
+"end": 3338,
+"label": "DATE",
+"text": "saa 2:30 asubuhi\n*"
+},
+{
+"start": 3359,
+"end": 3372,
+"label": "PHONE",
+"text": "+254742509640"
+}
+]

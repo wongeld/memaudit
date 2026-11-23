@@ -1,0 +1,5 @@
+- User is [PERSON] (ID: 2171961713).
+- Routinely performs evening meal prep and next-day prioritization.
+- Has a daily commute in [LOCATION], [LOCATION] (Back Bay).
+- Occasionally has late commitments that conflict with evening routines.
+- Interested in verifying landmarks and street addresses along their commute route.

@@ -1,0 +1,188 @@
+[
+{
+"start": 14,
+"end": 30,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 148,
+"end": 161,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 163,
+"end": 171,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 835,
+"end": 851,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 858,
+"end": 871,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 884,
+"end": 914,
+"label": "EMAIL",
+"text": "baraka.mwakasege+004@yahoo.com"
+},
+{
+"start": 921,
+"end": 929,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1329,
+"end": 1337,
+"label": "PERSON",
+"text": "Baraka\n*"
+},
+{
+"start": 1355,
+"end": 1366,
+"label": "PERSON",
+"text": "Mwakasege\n*"
+},
+{
+"start": 1387,
+"end": 1400,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1416,
+"end": 1446,
+"label": "EMAIL",
+"text": "baraka.mwakasege+004@yahoo.com"
+},
+{
+"start": 1464,
+"end": 1476,
+"label": "LOCATION",
+"text": "Tanzania\n\nJe"
+},
+{
+"start": 1579,
+"end": 1595,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 1604,
+"end": 1617,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1684,
+"end": 1690,
+"label": "PERSON",
+"text": "Baraka"
+},
+{
+"start": 3096,
+"end": 3109,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3111,
+"end": 3119,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3121,
+"end": 3130,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 3260,
+"end": 3285,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 3290,
+"end": 3306,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 3308,
+"end": 3321,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 3682,
+"end": 3709,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi\n*"
+},
+{
+"start": 3737,
+"end": 3755,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 3779,
+"end": 3792,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 4355,
+"end": 4380,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 4436,
+"end": 4452,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 4454,
+"end": 4467,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 4556,
+"end": 4581,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 4969,
+"end": 4996,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi\n*"
+},
+{
+"start": 5024,
+"end": 5042,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 5066,
+"end": 5079,
+"label": "PHONE",
+"text": "+255721105750"
+}
+]

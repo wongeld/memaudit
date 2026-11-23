@@ -1,0 +1,164 @@
+[
+{
+"start": 83,
+"end": 96,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 305,
+"end": 311,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 808,
+"end": 821,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 917,
+"end": 923,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1415,
+"end": 1421,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1987,
+"end": 1993,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 2074,
+"end": 2080,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2082,
+"end": 2095,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2097,
+"end": 2105,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2431,
+"end": 2437,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2439,
+"end": 2452,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2454,
+"end": 2462,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2482,
+"end": 2495,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 2770,
+"end": 2783,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 3471,
+"end": 3477,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3479,
+"end": 3492,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3494,
+"end": 3502,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 3522,
+"end": 3535,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 3578,
+"end": 3585,
+"label": "ORGANIZATION",
+"text": "Include"
+},
+{
+"start": 3919,
+"end": 3932,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 3985,
+"end": 3991,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3993,
+"end": 4006,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4008,
+"end": 4016,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 4374,
+"end": 4380,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 4382,
+"end": 4395,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4397,
+"end": 4405,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 4425,
+"end": 4438,
+"label": "PERSON",
+"text": "Nathan Mercer"
+}
+]

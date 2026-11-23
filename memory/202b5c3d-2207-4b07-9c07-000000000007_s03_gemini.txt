@@ -1,0 +1,6 @@
+* የሥራ ሙያ፦ University Lecturer
+* የጤና ሁኔታ፦ Mild hypertension አለበት
+* የቤተሰብ ሁኔታ፦ ያገባ/ች እና የሁለት ልጆች ወላጅ (Married with two children)
+* የመገለጫ መለያ ቁጥር (Profile ID)፦ [[ID_NUMBER]]
+* የሥራ ግንኙነት ያለው ሰው፦ [PERSON] (ስልክ፦ [PHONE])
+* በ[LOCATION]) የአገልግሎት/የቦታ ማስያዣ (booking) እና አስፈላጊ ቁሳቁሶች ግዢ የማከናወን ዕቅድ አለው

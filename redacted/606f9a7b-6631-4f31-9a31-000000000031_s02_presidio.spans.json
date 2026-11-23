@@ -1,0 +1,236 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 28,
+"end": 58,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 232,
+"end": 238,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 240,
+"end": 253,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 604,
+"end": 610,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 612,
+"end": 625,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 627,
+"end": 636,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 660,
+"end": 676,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 699,
+"end": 711,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 734,
+"end": 764,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 961,
+"end": 977,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1716,
+"end": 1729,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1753,
+"end": 1767,
+"label": "ORGANIZATION",
+"text": "Gateway Center"
+},
+{
+"start": 1768,
+"end": 1777,
+"label": "LOCATION",
+"text": "Newark NJ"
+},
+{
+"start": 1928,
+"end": 1931,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1956,
+"end": 1959,
+"label": "LOCATION",
+"text": "One"
+},
+{
+"start": 1960,
+"end": 1967,
+"label": "ORGANIZATION",
+"text": "Gateway"
+},
+{
+"start": 1968,
+"end": 1984,
+"label": "LOCATION",
+"text": "Center Newark NJ"
+},
+{
+"start": 2173,
+"end": 2176,
+"label": "LOCATION",
+"text": "One"
+},
+{
+"start": 2177,
+"end": 2184,
+"label": "ORGANIZATION",
+"text": "Gateway"
+},
+{
+"start": 2185,
+"end": 2191,
+"label": "LOCATION",
+"text": "Center"
+},
+{
+"start": 2242,
+"end": 2260,
+"label": "LOCATION",
+"text": "Raymond Plaza West"
+},
+{
+"start": 2262,
+"end": 2268,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2270,
+"end": 2272,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 2294,
+"end": 2313,
+"label": "LOCATION",
+"text": "Newark Penn Station"
+},
+{
+"start": 2345,
+"end": 2358,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2556,
+"end": 2562,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2564,
+"end": 2577,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2579,
+"end": 2588,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2601,
+"end": 2614,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2701,
+"end": 2704,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2777,
+"end": 2780,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2960,
+"end": 2969,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2986,
+"end": 2992,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2994,
+"end": 2996,
+"label": "LOCATION",
+"text": "NJ"
+},
+{
+"start": 3004,
+"end": 3017,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3032,
+"end": 3038,
+"label": "LOCATION",
+"text": "Street"
+},
+{
+"start": 3041,
+"end": 3054,
+"label": "LOCATION",
+"text": "Wilson Avenue"
+},
+{
+"start": 3067,
+"end": 3076,
+"label": "LOCATION",
+"text": "Ironbound"
+}
+]

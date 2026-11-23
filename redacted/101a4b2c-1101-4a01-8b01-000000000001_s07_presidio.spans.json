@@ -1,0 +1,164 @@
+[
+{
+"start": 14,
+"end": 25,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 121,
+"end": 125,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 127,
+"end": 132,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 713,
+"end": 726,
+"label": "PERSON",
+"text": "Juma Barasa\n*"
+},
+{
+"start": 817,
+"end": 842,
+"label": "EMAIL",
+"text": "juma.barasa+001@gmail.com"
+},
+{
+"start": 857,
+"end": 864,
+"label": "LOCATION",
+"text": "Kenya\n*"
+},
+{
+"start": 1027,
+"end": 1031,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1033,
+"end": 1038,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1358,
+"end": 1369,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1402,
+"end": 1427,
+"label": "EMAIL",
+"text": "juma.barasa+001@gmail.com"
+},
+{
+"start": 1434,
+"end": 1439,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1772,
+"end": 1781,
+"label": "PERSON",
+"text": "Juma Bara"
+},
+{
+"start": 1816,
+"end": 1841,
+"label": "EMAIL",
+"text": "juma.barasa+001@gmail.com"
+},
+{
+"start": 1848,
+"end": 1853,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2002,
+"end": 2013,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2709,
+"end": 2726,
+"label": "DATE",
+"text": "saa 12:15 asubuhi"
+},
+{
+"start": 2732,
+"end": 2736,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2738,
+"end": 2743,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2757,
+"end": 2768,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3261,
+"end": 3268,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 3273,
+"end": 3290,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 3346,
+"end": 3357,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3714,
+"end": 3721,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 3757,
+"end": 3774,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 3779,
+"end": 3790,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3881,
+"end": 3885,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3887,
+"end": 3892,
+"label": "LOCATION",
+"text": "Kenya"
+}
+]

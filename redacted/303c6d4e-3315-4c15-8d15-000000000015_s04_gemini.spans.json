@@ -1,0 +1,182 @@
+[
+{
+"start": 9,
+"end": 24,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 42,
+"end": 52,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 57,
+"end": 81,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor"
+},
+{
+"start": 281,
+"end": 296,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 310,
+"end": 320,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 452,
+"end": 462,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 468,
+"end": 483,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 489,
+"end": 502,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 509,
+"end": 538,
+"label": "EMAIL",
+"text": "selamawit.girma+015@gmail.com"
+},
+{
+"start": 609,
+"end": 624,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1030,
+"end": 1045,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1058,
+"end": 1071,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 1125,
+"end": 1140,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1153,
+"end": 1166,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 1693,
+"end": 1703,
+"label": "ID_NUMBER",
+"text": "3920889377"
+},
+{
+"start": 1791,
+"end": 1815,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor"
+},
+{
+"start": 1840,
+"end": 1855,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 1857,
+"end": 1870,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 2262,
+"end": 2272,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2429,
+"end": 2453,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor"
+},
+{
+"start": 2484,
+"end": 2499,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 2534,
+"end": 2547,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 2761,
+"end": 2771,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2799,
+"end": 2814,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 2816,
+"end": 2829,
+"label": "PHONE",
+"text": "+251937514011"
+},
+{
+"start": 2934,
+"end": 2949,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 3002,
+"end": 3012,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3169,
+"end": 3193,
+"label": "LOCATION",
+"text": "Hawassa, Ethiopia (Tabor"
+},
+{
+"start": 3224,
+"end": 3239,
+"label": "PERSON",
+"text": "Selamawit Girma"
+},
+{
+"start": 3274,
+"end": 3287,
+"label": "PHONE",
+"text": "+251937514011"
+}
+]

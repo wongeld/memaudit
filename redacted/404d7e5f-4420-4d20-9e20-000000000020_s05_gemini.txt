@@ -1,0 +1,41 @@
+User:
+Mimi [PERSON] (elimu: Bachelor of Laws, kitambulisho [ID_NUMBER]), nataka kurekodi kazi (task) kwenye mada ya family ya kupanga bajeti ya matumizi ya nyumbani na ada za familia Jumapili saa 9:00 alasiri huko [LOCATION] ([LOCATION]).
+
+Assistant:
+Nimekuelewa. Unataka kurekodi kazi (task) kwenye mada ya 'family' kwa [PERSON].
+
+Haya ni maelezo ya kazi ninayotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]
+*   **Simu:** [PHONE]
+*   **Shughuli:** Kazi (task)
+*   **Mada:** Family
+*   **Kichwa:** kupanga bajeti ya matumizi ya nyumbani na ada za familia
+*   **Muda:** Jumapili saa 9:00 alasiri
+*   **Eneo:** [LOCATION] ([LOCATION])
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.
+
+User:
+Hapana, ghairi kazi hiyo ya Jumapili saa 9:00 alasiri kwa sasa kwa sababu tutakuwa na wageni wa familia nyumbani, usihifadhi chochote.
+
+Assistant:
+Nimekuelewa, kazi hiyo imegairiwa na haitahifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya family kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zozote zilizohifadhiwa chini ya mada ya 'family' kwa profile_id [PROFILE_ID]. Hii inaweza kuwa kwa sababu shughuli zote ulizojaribu kurekodi hapo awali ziligairiwa au hazikuhifadhiwa kwa sababu ya tatizo la kiufundi.
+
+User:
+Tunataka kwenda matembezi ya familia mwishoni mwa wiki; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imeshindikana kutafuta '[LOCATION]' kwa sasa. Kulitokea hitilafu wakati wa kutekeleza utafutaji wa eneo. Tafadhali jaribu tena baadaye.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo la familia lenye majira-nukta latitude -6.1659 na longitude 35.7512 huko [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imeshindikana kutambua anwani ya eneo hilo kwa sasa. Kulitokea hitilafu wakati wa kutekeleza utafutaji wa anwani. Tafadhali jaribu tena baadaye.

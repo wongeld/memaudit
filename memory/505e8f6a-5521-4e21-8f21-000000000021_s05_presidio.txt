@@ -1,0 +1,5 @@
+- User is [PERSON] (ID 3833758790).
+- Currently planning a family outing in [LOCATION], [LOCATION] ([LOCATION]).
+- Interested in reviewing household budget and family calendar, though no tasks are currently scheduled.
+- Prefers to use specific tools like `search_places` and `reverse_geocode` for planning activities.
+- Conscious of data privacy, specifically requesting not to send personal details when searching for locations.

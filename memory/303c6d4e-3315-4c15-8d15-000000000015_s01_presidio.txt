@@ -1,0 +1,6 @@
+- ተጠቃሚው [PERSON] ሲሆን፣ በሙያው Regional Logistics Coordinator ሆኖ ይሰራል።
+- የትምህርት ዝግጅቱ Bachelor of Commerce ነው።
+- የጤና ሁኔታው 'Mild asthma' (ቀላል አስም) እንዳለበት ገልጿል።
+- በትዳር ሁኔታ ነጠላ (Single) ነው።
+- የሚኖረው [LOCATION], [LOCATION] (Tabor) ነው።
+- የተጠቃሚ መታወቂያ (Profile ID) [PROFILE_ID]፣ ስልክ ቁጥር [PHONE] እና ኢሜይል [EMAIL] አለው።

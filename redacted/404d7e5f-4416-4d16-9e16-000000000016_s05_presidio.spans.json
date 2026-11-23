@@ -1,0 +1,86 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 157,
+"end": 181,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 187,
+"end": 191,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 193,
+"end": 206,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 506,
+"end": 532,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi\n*"
+},
+{
+"start": 547,
+"end": 551,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 553,
+"end": 569,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+},
+{
+"start": 713,
+"end": 737,
+"label": "DATE",
+"text": "Jumanne saa 4:30 asubuhi"
+},
+{
+"start": 1232,
+"end": 1251,
+"label": "LOCATION",
+"text": "Kangaru School Embu"
+},
+{
+"start": 1314,
+"end": 1349,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1389,
+"end": 1408,
+"label": "LOCATION",
+"text": "Kangaru School Embu"
+},
+{
+"start": 1586,
+"end": 1590,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1592,
+"end": 1597,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1599,
+"end": 1605,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

@@ -1,0 +1,5 @@
+- Mtumiaji anajali sana afya ya familia yake na anapendelea vyakula bora visivyo na magonjwa sugu.
+- Anapanga mara kwa mara shughuli za kifamilia kama vile chakula cha mchana na ununuzi wa mahitaji ya nyumbani.
+- Anafanya shughuli zake za kifamilia na ununuzi katika eneo la [LOCATION], [LOCATION] (Njiro).
+- Anatumia huduma ya AI kuratibu vikumbusho, orodha za manunuzi (shopping items), na nafasi za kuhifadhi (bookings) zinazohusiana na [PERSON] ([PHONE]).
+- Anazingatia umuhimu wa kununua vyakula vya afya na matunda kwa ajili ya familia yake.

@@ -1,0 +1,7 @@
+* Jina: Mimi [PERSON].
+* Hali ya ndoa: Ameolewa na ana watoto wawili.
+* Hali ya afya: Ana shinikizo la damu la wastani (mild hypertension).
+* Namba ya simu: +254760298744.
+* Kitambulisho cha wasifu: [PROFILE_ID].
+* Hupendelea kutumia huduma za ramani na eneo (kama vile OpenStreetMap na [ORGANIZATION]) kwa ajili ya shughuli zake za kikazi.
+* Hukumbana na changamoto za kiufundi anapojaribu kutafuta maeneo au anwani kwa kutumia majira-nukta (latitude/longitude).

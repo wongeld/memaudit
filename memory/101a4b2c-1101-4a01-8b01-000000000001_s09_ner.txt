@@ -1,0 +1,6 @@
+* Anasimamia mipango kwenye daily_planning kwa ajili ya [PERSON] (profile_id [PROFILE_ID], nambari ya simu +254122951015).
+* [PERSON] ana tatizo la kiafya la mzio wa "Mild seasonal allergic rhinitis".
+* Ana miadi iliyothibitishwa ya ukaguzi wa afya na ushauri wa lishe mnamo [DATE] huko [LOCATION] kwa ajili ya [PERSON].
+* Ana mpango wa kufanya manunuzi ya shajara ya ratiba ya kila siku na mahitaji ya afya / vyakula vya afya huko [LOCATION].
+* Amepanga muda wa mazoezi ya afya mnamo [DATE] huko [LOCATION] kwa ajili ya [PERSON].
+* Hupendelea kupewa uthibitisho na kuonyeshwa muhtasari wa maelezo kabla au baada ya kuhifadhi rekodi.

@@ -1,0 +1,5 @@
+* User's name is [PERSON] and their email is [EMAIL].
+* User is in good health with no chronic conditions.
+* User is currently managing professional commitments and off-site meetings.
+* User is based in or works near [LOCATION], [LOCATION] ([LOCATION]).
+* User prefers to use specific tools for scheduling and location lookups, though they have encountered technical errors with OpenStreetMap services.

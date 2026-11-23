@@ -1,0 +1,5 @@
+* Mtumiaji anashughulika na kazi zinazohusiana na [PERSON] (nambari ya simu +254170314031, profile_id [PROFILE_ID]).
+* Mtumiaji anajali afya yake kazini na anapendelea kuepuka magonjwa sugu.
+* Anajihusisha na shughuli za kikazi kama vile kupitia barua pepe ([EMAIL]) na kuhifadhi vyumba vya mikutano katika [LOCATION], [LOCATION].
+* Anahitaji kununua vifaa vya ofisi na majalada ya kazi katika [LOCATION], [LOCATION].
+* Anapendelea kuthibitisha maelezo yote ya shughuli zake (vikumbusho, booking, na orodha ya manunuzi) kabla ya kuhifadhiwa.

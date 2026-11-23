@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: james.bosse+021@gmail.com).
+- User reports being in good health with no chronic conditions.
+- User is involved in professional work that includes stakeholder reviews and off-site meetings.
+- User is based in or works near [LOCATION], [LOCATION] ([LOCATION]).
+- User is interested in using location-based services like `search_places` and `reverse_geocode` for professional planning.

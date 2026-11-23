@@ -1,0 +1,56 @@
+User:
+እኔ [PERSON] ነኝ (profile_id: [PROFILE_ID])፤ [LOCATION], [LOCATION]) የምኖር [DATE] Hospital Physician (Doctor of Medicine፣ Single) ነኝ፤ እባክህ በ get_user_profile መገለጫዬን አረጋግጥ።
+
+Assistant:
+ለ profile_id [PROFILE_ID] ምንም የተቀመጠ መገለጫ የለም።
+
+ከዚህ በፊት መገለጫዎን ለማስቀመጥ ሞክረን ነበር ነገር ግን ተሰርዟል። እንደገና ማስቀመጥ ከፈለጉ እባክዎን ያሳውቁኝ።
+
+User:
+እባክህ መገለጫዬን በ save_user_profile አስቀምጥልኝ፦ profile_id [PROFILE_ID]፣ ስም [PERSON]፣ ስልክ +251945416026፣ ኢሜይል bereket.tesfaye+009@yahoo.com፣ ሀገር [LOCATION]፣ ቋንቋ አማርኛ፤ ከማስቀመጥህ በፊት ዝርዝሩን ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **first_name**: [PERSON]   **last_name**: [PERSON]   **mobile_phone**: +251945416026
+*   **email**: bereket.tesfaye+009@yahoo.com
+*   **country**: [LOCATION]   **preferred_language**: አማርኛ
+
+ይህን መረጃ ላስቀምጥ? እባክህ "አዎ" ብለህ መልስ።
+
+User:
+አዎ፣ የ [PERSON] እና የስልክ ቁጥር +251945416026 መረጃዎች ትክክል ናቸው፤ እባክህ አሁኑኑ አስቀምጣቸው።
+
+Assistant:
+መገለጫውን ማስቀመጥ ተሰርዟል። እባክዎ እንደገና ይሞክሩ እና እንዲቀመጥ ለማረጋገጥ "አዎ" ብለው ይመልሱ።
+
+በተደጋጋሚ መገለጫው እየተሰረዘ ነው። የ `save_user_profile` ተግባር የሆነ ውስጣዊ ችግር ያለበት ይመስላል። እባክዎ በሌላ መንገድ እንድንቀጥል ያድርጉ።
+
+User:
+እንደ Hospital Physician (Doctor of Medicine፣ መታወቂያ 3926435391) እና የጤና ሁኔታዬ 'Mild asthma' ስለሆነ፣ በ daily_planning ሥር በ record_user_activity [DATE] [LOCATION], [LOCATION]) [DATE] ዋና ተግባር (task) ለ [PERSON] (+251945416026) መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+"የሳምንቱ ዋና ተግባር" የሚለውን እንቅስቃሴ ከማስመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "[DATE]" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ። (ለምሳሌ "[DATE]፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: +251945416026
+*   **location**: [LOCATION], [LOCATION] (Ayder)
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+ይቅርታ፣ የዚያን ተግባር ሰዓት ለ profile_id [PROFILE_ID] ወደ [DATE] ቀይርና የ [PERSON] (+251945416026) ሙሉ መረጃዎችን በድጋሚ ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ ለ"የሳምንቱ ዋና ተግባር" የተወሰነ ቀን (ለምሳሌ፣ "[DATE]") ማቅረብ ትችላለህ? ትክክለኛው ቀን ያስፈልገኛል።
+
+እንዲሁም፣ እባክህ የዚህ ተግባር ዝርዝሮች የሚከተሉት መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: daily_planning
+*   **activity_type**: task
+*   **title**: [DATE] ዋና ተግባር
+*   **contact_name**: [PERSON]   **mobile_phone**: +251945416026
+*   **location**: [LOCATION], [LOCATION] (Ayder)
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]

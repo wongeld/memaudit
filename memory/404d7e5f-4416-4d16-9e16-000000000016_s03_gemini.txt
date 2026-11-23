@@ -1,0 +1,5 @@
+* Mtumiaji anafanya kazi na [PERSON] (Valentine Nayaku, [PHONE], profile_id [[ID_NUMBER]]).
+* Anajali afya njema na anazingatia kutokuwa na ugonjwa sugu wakati wa kazi.
+* Ana ratiba ya kazi inayohusisha kupitia barua pepe ([EMAIL]) kila Alhamisi saa 8:00 mchana.
+* Anapanga mikutano ya kikazi katika chumba cha mikutano huko [LOCATION], [LOCATION] ([LOCATION]), kama vile Ijumaa saa 5:00 asubuhi.
+* Anahitaji kununua vifaa vya ofisi na majalada ya kazi huko [LOCATION], [LOCATION] ([LOCATION]).

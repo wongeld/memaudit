@@ -1,0 +1,5 @@
+* Anasimamia mipango ya [PERSON] (kitambulisho cha wasifu: [[ID_NUMBER]], simu: [PHONE]).
+* Ana mpango wa kufanya ukaguzi wa afya na kupata ushauri wa lishe Ijumaa saa 9:00 alasiri huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapanga kununua shajara ya kupanga siku pamoja na vyakula vya afya huko [LOCATION], [LOCATION] ([LOCATION]).
+* Huwa anafanya ukaguzi wa kawaida wa afya na anafuatilia kituo cha afya cha [ORGANIZATION].
+* Anajali faragha ya taarifa zake binafsi anapoomba utafutaji wa maeneo mtandaoni.

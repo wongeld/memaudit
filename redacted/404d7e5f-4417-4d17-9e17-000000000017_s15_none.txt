@@ -1,0 +1,56 @@
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya shopping kwa profile_id [PROFILE_ID].
+
+Assistant:
+Nimetumia `list_user_activities` kuangalia shughuli zako kwenye mada ya **shopping** kwa `profile_id` **[PROFILE_ID]**, na kwa sasa hakuna shughuli zozote zilizohifadhiwa (`"activities": []`).
+
+User:
+Ninataka kwenda kufanya manunuzi; tafadhali tumia search_places kutafuta 'Yaya Centre Kilimani Nairobi' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Nimetumia zana ya `search_places` kutafuta **'Yaya Centre Kilimani Nairobi'** bila kutuma taarifa zako zozote binafsi, lakini huduma ya OpenStreetMap imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool search_places`).
+
+*Attribution: Data ya ramani © OpenStreetMap contributors (ODbL).*
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya kituo cha biashara chenye majira-nukta latitude -1.2889 na longitude 36.7832 huko Nairobi, Kenya (Kilimani) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Nimetumia zana ya `reverse_geocode` kwa majira-nukta **latitude -1.2889** na **longitude 36.7832**, lakini huduma ya OpenStreetMap imerudisha hitilafu ya kiufundi kwa sasa (`Error executing tool reverse_geocode`).
+
+*Nukuu (Attribution): Data ya ramani © OpenStreetMap contributors (ODbL).*
+
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya shopping kwa Sheila Sifuna (profile_id [PROFILE_ID], simu +254760298744) cha kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko Nairobi, Kenya (Kilimani) Ijumaa saa 10:30 jioni.
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi kikumbusho hicho, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+- **Tarehe/Muda (`date_time`):** Ijumaa saa 10:30 jioni
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha manunuzi kwa Sheila Sifuna (+254760298744), tafadhali kihifadhi.
+
+Assistant:
+Nimejaribu kuhifadhi kikumbusho hicho cha manunuzi kwa kutumia `record_user_activity`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No activity was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `shopping`
+- **Aina ya Shughuli (`activity_type`):** `reminder`
+- **Kichwa (`title`):** Kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+- **Tarehe/Muda (`date_time`):** Ijumaa saa 10:30 jioni
+- **Mahali (`location`):** Nairobi, Kenya (Kilimani)
+- **Jina la Mawasiliano (`contact_name`):** Sheila Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `+254760298744`
+
+Je, ungependa tuendelee na hatua nyingine?

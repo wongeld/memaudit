@@ -1,0 +1,6 @@
+* The user is managing daily planning activities for [PERSON] (ID: [[ID_NUMBER]], Phone: [PHONE]).
+* The user is in good health with no chronic conditions.
+* The user is interested in wellness, including routine checkups and fitness.
+* The user plans to purchase a daily planner, a hydration bottle, and wellness supplies in [LOCATION].
+* The user has a fitness routine that includes morning fitness and stretching sessions on Saturdays at 08:30 AM.
+* The user prefers to review and approve activity details before they are saved.

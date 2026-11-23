@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Mtumiaji ni mseja na hana matatizo ya kiafya yaliyoripotiwa.
+* Mtumiaji anafanya kazi na ana utaratibu wa kufanya mikutano na wenzake wa idara.
+* Mtumiaji anatumia profile ID [[ID_NUMBER]] kwa ajili ya shughuli zake za kikazi.
+* Mtumiaji anapendelea kutumia huduma za ramani (OpenStreetMap) kutafuta maeneo na anwani za majengo ya kikazi.
+* Mtumiaji anashiriki katika mikutano ya kikazi ambayo wakati mwingine hufanyika mtandaoni badala ya ana kwa ana.

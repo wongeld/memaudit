@@ -1,0 +1,8 @@
+- Name: Caleb Thornton
+- Age: 29
+- Occupation: Doctoral Research Fellow
+- Location: Hyde Park, Austin, United States
+- Education: Master of Science
+- Relationship status: Single
+- Health: Manages mild asthma
+- Routine preference: Daily health routine and schedule review at 06:45 AM

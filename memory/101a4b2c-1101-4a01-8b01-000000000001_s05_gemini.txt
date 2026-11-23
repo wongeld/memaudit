@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], ana elimu ya Bachelor of Education, na nambari yake ya kitambulisho ni [ID_NUMBER] (profile_id: [PROFILE_ID]).
+* Atakuwa na wageni wa familia nyumbani siku ya Jumapili saa 9:00 alasiri.
+* Anapanga kwenda kwenye matembezi ya familia mwishoni mwa wiki huko [LOCATION].
+* Ana eneo la familia lenye majira-nukta latitude -0.5143 na longitude 37.4589 huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapendelea kutotuma taarifa zake binafsi anapotafuta maeneo na kuweka nukuu/attribution ya OpenStreetMap.

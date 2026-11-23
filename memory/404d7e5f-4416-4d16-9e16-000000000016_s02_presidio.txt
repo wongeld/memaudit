@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Mtumiaji ni mseja na hana matatizo ya kiafya yaliyotajwa.
+* Mtumiaji anajishughulisha na kazi na mara nyingi hupanga mikutano na wenzake wa idara.
+* Mtumiaji anapendelea mikutano ya mtandaoni badala ya mikutano ya ana kwa ana.
+* Mtumiaji anahitaji usaidizi wa kutafuta maeneo ya kikazi na anwani za kijiografia (latitude -0.5312, longitude 37.4506) katika [LOCATION].
+* Mtumiaji anasisitiza kutotuma taarifa zake binafsi wakati wa kutafuta maeneo na anataka nukuu ya [ORGANIZATION] iwekwe.

@@ -1,0 +1,5 @@
+* Ni [PERSON], mwenye Diploma in Tourism Management.
+* Ameoa/olewa na ana watoto wawili.
+* Anatumia `profile_id` [PROFILE_ID] kwa ajili ya shughuli zake za upangaji (daily planning).
+* Hufanya ukaguzi wa kawaida wa afya na anavutiwa na kituo cha afya cha '[ORGANIZATION] [LOCATION]'.
+* Anajihusisha au kufuatilia maeneo ya [LOCATION], [LOCATION] ([LOCATION]) (ikiwemo majira-nukta latitude -3.3869 na longitude 36.7081).

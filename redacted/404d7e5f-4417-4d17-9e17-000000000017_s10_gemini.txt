@@ -1,0 +1,52 @@
+User:
+Mimi ni [PERSON] (profile_id: [[ID_NUMBER]]), mwenye umri wa miaka 41, elimu ya Master of Business Administration, na ninafanya kazi kama Foreign Exchange Dealer huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+User:
+Hifadhi au sasisha wasifu wangu kwa save_user_profile: profile_id [[ID_NUMBER]], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo yote ili nithibitishe.
+
+User:
+Mimi ni [PERSON] (profile_id: [[ID_NUMBER]]), mwenye umri wa miaka 41, elimu ya Master of Business Administration, na ninafanya kazi kama Foreign Exchange Dealer huko [LOCATION], [LOCATION] ([LOCATION]); tafadhali angalia wasifu wangu kwa kutumia get_user_profile.
+
+Assistant:
+Nimeangalia wasifu wako kwa kutumia `get_user_profile`, na hakuna wasifu uliohifadhiwa uliopatikana kwa `profile_id` **[[ID_NUMBER]]**.
+
+Kabla sijatumia `save_user_profile` kuhifadhi wasifu wako, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[[ID_NUMBER]]`
+- **Jina la Kwanza (`first_name`):** Sheila
+- **Jina la Ukoo (`last_name`):** Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Barua Pepe (`email`):** `[EMAIL]`
+- **Nchi (`country`):** [LOCATION]
+
+Je, unathibitisha kuwa maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Hifadhi au sasisha wasifu wangu kwa save_user_profile: profile_id [[ID_NUMBER]], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo yote ili nithibitishe.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya wasifu wako kabla sijayatuma kwenye `save_user_profile`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[[ID_NUMBER]]`
+- **Jina la Kwanza (`first_name`):** Sheila
+- **Jina la Ukoo (`last_name`):** Sifuna
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Barua Pepe (`email`):** `[EMAIL]`
+- **Nchi (`country`):** [LOCATION]
+
+Je, maelezo haya yote ni sahihi na niyahifadhi sasa?
+
+User:
+Ndiyo, maelezo hayo ya [PERSON] na simu [PHONE] ni sahihi kabisa, tafadhali yahifadhi kwenye mfumo.
+
+Assistant:
+Nimejaribu kuhifadhi wasifu wako kwa kutumia `save_user_profile`, lakini hatua hiyo imesitishwa na mfumo (`Canceled. No profile was saved.`).
+
+Maelezo yaliyowasilishwa ni:
+- **Kitambulisho cha Wasifu (`profile_id`):** `[[ID_NUMBER]]`
+- **Jina:** [PERSON]
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+- **Barua Pepe (`email`):** `[EMAIL]`
+- **Nchi (`country`):** [LOCATION]
+
+Je, ungependa tuendelee na hatua nyingine?

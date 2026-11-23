@@ -1,0 +1,170 @@
+[
+{
+"start": 83,
+"end": 99,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 113,
+"end": 123,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 139,
+"end": 151,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 409,
+"end": 419,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 598,
+"end": 614,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 633,
+"end": 645,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 703,
+"end": 719,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 721,
+"end": 733,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 1577,
+"end": 1609,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 1615,
+"end": 1631,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1633,
+"end": 1645,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 1848,
+"end": 1858,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1984,
+"end": 2016,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 2036,
+"end": 2052,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2071,
+"end": 2083,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2174,
+"end": 2190,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2192,
+"end": 2204,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2478,
+"end": 2488,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2614,
+"end": 2646,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 2666,
+"end": 2682,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2701,
+"end": 2713,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2906,
+"end": 2938,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 2968,
+"end": 2984,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2986,
+"end": 2998,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 3202,
+"end": 3212,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3352,
+"end": 3384,
+"label": "LOCATION",
+"text": "Newark, United States (Ironbound"
+},
+{
+"start": 3404,
+"end": 3420,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 3439,
+"end": 3451,
+"label": "PHONE",
+"text": "+19832584476"
+}
+]

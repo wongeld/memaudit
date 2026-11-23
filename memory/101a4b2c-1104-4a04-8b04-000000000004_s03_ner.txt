@@ -1,0 +1,6 @@
+* Kitambulisho cha wasifu ni [PROFILE_ID], kikiwa na mawasiliano ya [PERSON], nambari ya simu +255721105750, na barua pepe baraka.mwakasege+004@yahoo.com.
+* Ana hali ya kiafya ya Mild hypertension anayopaswa kuizingatia wakati wa kazi.
+* Ana kikumbusho cha kikazi cha kupitia barua pepe mnamo [DATE].
+* Ana mpango wa kuhifadhi chumba cha mikutano ya kikazi huko [LOCATION] (Mikocheni) mnamo [DATE].
+* Ana mpango wa kufanya manunuzi ya vifaa vya ofisi na majalada ya kazi huko [LOCATION] (Mikocheni).
+* Hupendelea kuonyeshwa muhtasari na maelezo kamili ya shughuli kabla ya kuthibitisha zihifadhiwe.

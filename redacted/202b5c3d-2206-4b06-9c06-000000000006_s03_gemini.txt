@@ -1,0 +1,69 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the details for the follow-up reminder you'd like to record for [PERSON]:
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: work
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ (Follow-up reminder)
+*   **date\_time**: አርብ ከሰዓት 10:00 (Friday 10:00 PM)
+*   **mobile\_phone**: [PHONE]
+
+To save this reminder, I need a specific date for "አርብ ከሰዓት 10:00". Could you please provide the exact date (e.g., "November 1, 2024, at 10:00 PM")?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+I understand you're confirming the reminder. However, I still need a specific date for "አርብ ከሰዓት 10:00" (Friday 10:00 PM) to be able to save it. For example, "November 1, 2024, at 10:00 PM".
+
+Could you please provide the exact date for this reminder?
+
+User:
+በ work ሥር ለ [PERSON] ([PHONE]) በ[LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+Here are the details for the shopping item you'd like to record for [PERSON]:
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+Please confirm if these details are correct.
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [[ID_NUMBER]] 'Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the updated details for the shopping item you'd like to record for [PERSON]:
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+*   **notes**: Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል (For use by Commercial Florist and Event Decorator and for Single service)
+
+Please confirm if these details are correct so I can record them.
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+Here are the details for the service/location booking you'd like to record for [PERSON]:
+
+*   **profile\_id**: [[ID_NUMBER]]
+*   **theme**: work
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking (Service/Location booking)
+*   **date\_time**: ቅዳሜ ጠዋት 4:00 ሰዓት (Saturday 4:00 AM)
+*   **location**: [LOCATION])
+*   **mobile\_phone**: [PHONE]
+
+Before I can save this booking, I need a specific date for "ቅዳሜ ጠዋት 4:00 ሰዓት". Could you please provide the exact date (e.g., "November 2, 2024, at 4:00 AM")?

@@ -1,0 +1,188 @@
+[
+{
+"start": 200,
+"end": 241,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku.\n\nAssistant:\nSawa"
+},
+{
+"start": 243,
+"end": 249,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 373,
+"end": 381,
+"label": "DATE",
+"text": "Jumapili"
+},
+{
+"start": 702,
+"end": 710,
+"label": "DATE",
+"text": "Jumapili"
+},
+{
+"start": 712,
+"end": 728,
+"label": "DATE",
+"text": "saa 2:00 usiku\n*"
+},
+{
+"start": 840,
+"end": 863,
+"label": "DATE",
+"text": "Jumapili.\n\nUser:\nHapana"
+},
+{
+"start": 893,
+"end": 916,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 958,
+"end": 971,
+"label": "DATE",
+"text": "mapema mchana"
+},
+{
+"start": 1003,
+"end": 1009,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1056,
+"end": 1079,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 1539,
+"end": 1571,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 1631,
+"end": 1662,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSawa"
+},
+{
+"start": 1664,
+"end": 1670,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1691,
+"end": 1723,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 1832,
+"end": 1845,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1895,
+"end": 1908,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1968,
+"end": 2000,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2030,
+"end": 2036,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2088,
+"end": 2120,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2142,
+"end": 2162,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nNita"
+},
+{
+"start": 2180,
+"end": 2188,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2322,
+"end": 2328,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2389,
+"end": 2402,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2452,
+"end": 2467,
+"label": "LOCATION",
+"text": "Kakamega\".\n\nKwa"
+},
+{
+"start": 2491,
+"end": 2523,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2741,
+"end": 2749,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2751,
+"end": 2756,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2787,
+"end": 2822,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2824,
+"end": 2830,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2871,
+"end": 2884,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2980,
+"end": 2993,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

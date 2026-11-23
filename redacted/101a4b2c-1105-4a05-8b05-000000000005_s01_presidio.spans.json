@@ -1,0 +1,200 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 147,
+"end": 153,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 155,
+"end": 163,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 554,
+"end": 567,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 574,
+"end": 587,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 600,
+"end": 627,
+"label": "EMAIL",
+"text": "omari.kilungo+005@gmail.com"
+},
+{
+"start": 634,
+"end": 642,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1113,
+"end": 1120,
+"label": "PERSON",
+"text": "Omari\n*"
+},
+{
+"start": 1138,
+"end": 1147,
+"label": "PERSON",
+"text": "Kilungo\n*"
+},
+{
+"start": 1168,
+"end": 1181,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1206,
+"end": 1235,
+"label": "EMAIL",
+"text": "omari.kilungo+005@example.com"
+},
+{
+"start": 1262,
+"end": 1283,
+"label": "LOCATION",
+"text": "Tanzania\n\nUser:\nNdiyo"
+},
+{
+"start": 1301,
+"end": 1314,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 1323,
+"end": 1336,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1804,
+"end": 1811,
+"label": "PERSON",
+"text": "Omari\n*"
+},
+{
+"start": 1829,
+"end": 1838,
+"label": "PERSON",
+"text": "Kilungo\n*"
+},
+{
+"start": 1859,
+"end": 1872,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1897,
+"end": 1926,
+"label": "EMAIL",
+"text": "omari.kilungo+005@example.com"
+},
+{
+"start": 1953,
+"end": 1973,
+"label": "LOCATION",
+"text": "Tanzania\n\nUser:\nKama"
+},
+{
+"start": 2003,
+"end": 2009,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2011,
+"end": 2019,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2156,
+"end": 2181,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi"
+},
+{
+"start": 2186,
+"end": 2199,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 2201,
+"end": 2214,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 2693,
+"end": 2720,
+"label": "DATE",
+"text": "Jumatatu saa 1:30 asubuhi\n*"
+},
+{
+"start": 2741,
+"end": 2756,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 2777,
+"end": 2790,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 2852,
+"end": 2877,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 2933,
+"end": 2946,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 2948,
+"end": 2961,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 3483,
+"end": 3510,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi\n*"
+},
+{
+"start": 3531,
+"end": 3546,
+"label": "PERSON",
+"text": "Omari Kilungo\n*"
+},
+{
+"start": 3567,
+"end": 3580,
+"label": "PHONE",
+"text": "+255629410386"
+}
+]

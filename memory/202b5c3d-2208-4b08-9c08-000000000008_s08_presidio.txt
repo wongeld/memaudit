@@ -1,0 +1,4 @@
+* የተጠቃሚ መለያ (Profile ID) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ ኢሜይል [EMAIL]) ጋር በ[LOCATION], [LOCATION] ሊደረግ የነበረ የቤተሰብ (family) የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፈዋል።
+* በቦታ ፍለጋ ወቅት የግል መረጃ እንዳይጋራ እና የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋሉ።
+* በAddis [LOCATION] አካባቢ (latitude 9.0054 እና longitude [LOCATION] አካባቢ) ያሉ ቦታዎችን እና አድራሻዎችን ይፈልጋሉ።

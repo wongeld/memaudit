@@ -1,0 +1,111 @@
+country,city,occupation,count
+Ethiopia,Addis Ababa,Broadcast Lifestyle Journalist,1
+Ethiopia,Addis Ababa,Commercial Florist and Event Decorator,2
+Ethiopia,Addis Ababa,Family Mediation Counselor,0
+Ethiopia,Addis Ababa,Horticultural Export Training Coordinator,1
+Ethiopia,Addis Ababa,Hospital Physician,0
+Ethiopia,Addis Ababa,Private School Admissions Coordinator,1
+Ethiopia,Addis Ababa,Regional Logistics Coordinator,0
+Ethiopia,Addis Ababa,University Lecturer,1
+Ethiopia,Bahir Dar,Broadcast Lifestyle Journalist,0
+Ethiopia,Bahir Dar,Commercial Florist and Event Decorator,0
+Ethiopia,Bahir Dar,Family Mediation Counselor,1
+Ethiopia,Bahir Dar,Horticultural Export Training Coordinator,0
+Ethiopia,Bahir Dar,Hospital Physician,0
+Ethiopia,Bahir Dar,Private School Admissions Coordinator,0
+Ethiopia,Bahir Dar,Regional Logistics Coordinator,0
+Ethiopia,Bahir Dar,University Lecturer,0
+Ethiopia,Hawassa,Broadcast Lifestyle Journalist,0
+Ethiopia,Hawassa,Commercial Florist and Event Decorator,0
+Ethiopia,Hawassa,Family Mediation Counselor,0
+Ethiopia,Hawassa,Horticultural Export Training Coordinator,0
+Ethiopia,Hawassa,Hospital Physician,0
+Ethiopia,Hawassa,Private School Admissions Coordinator,0
+Ethiopia,Hawassa,Regional Logistics Coordinator,1
+Ethiopia,Hawassa,University Lecturer,0
+Ethiopia,Mekelle,Broadcast Lifestyle Journalist,0
+Ethiopia,Mekelle,Commercial Florist and Event Decorator,0
+Ethiopia,Mekelle,Family Mediation Counselor,0
+Ethiopia,Mekelle,Horticultural Export Training Coordinator,0
+Ethiopia,Mekelle,Hospital Physician,2
+Ethiopia,Mekelle,Private School Admissions Coordinator,0
+Ethiopia,Mekelle,Regional Logistics Coordinator,0
+Ethiopia,Mekelle,University Lecturer,0
+Kenya,Embu,Foreign Exchange Dealer,0
+Kenya,Embu,Secondary School Kiswahili Teacher,2
+Kenya,Kakamega,Foreign Exchange Dealer,0
+Kenya,Kakamega,Secondary School Kiswahili Teacher,1
+Kenya,Nairobi,Foreign Exchange Dealer,2
+Kenya,Nairobi,Secondary School Kiswahili Teacher,0
+Tanzania,Arusha,Family Mediation Counselor,0
+Tanzania,Arusha,Regional Logistics Coordinator,0
+Tanzania,Arusha,Retail Import Buyer,0
+Tanzania,Arusha,Tour Operations Manager,2
+Tanzania,Dar es Salaam,Family Mediation Counselor,0
+Tanzania,Dar es Salaam,Regional Logistics Coordinator,1
+Tanzania,Dar es Salaam,Retail Import Buyer,1
+Tanzania,Dar es Salaam,Tour Operations Manager,0
+Tanzania,Dodoma,Family Mediation Counselor,1
+Tanzania,Dodoma,Regional Logistics Coordinator,0
+Tanzania,Dodoma,Retail Import Buyer,0
+Tanzania,Dodoma,Tour Operations Manager,0
+United States,Austin,Child Psychologist,0
+United States,Austin,Commercial Florist and Event Decorator,0
+United States,Austin,Doctoral Research Fellow,2
+United States,Austin,Eco-Tourism Travel Consultant,0
+United States,Austin,ESG Shareholder Governance Analyst,0
+United States,Austin,Family Mediation Counselor,0
+United States,Austin,Hospital Physician,0
+United States,Austin,Private School Admissions Coordinator,1
+United States,Austin,Regional Logistics Coordinator,1
+United States,Austin,Retail Import Buyer,0
+United States,Austin,Software Engineering Manager,0
+United States,Austin,University Lecturer,0
+United States,Boston,Child Psychologist,2
+United States,Boston,Commercial Florist and Event Decorator,0
+United States,Boston,Doctoral Research Fellow,0
+United States,Boston,Eco-Tourism Travel Consultant,0
+United States,Boston,ESG Shareholder Governance Analyst,0
+United States,Boston,Family Mediation Counselor,0
+United States,Boston,Hospital Physician,0
+United States,Boston,Private School Admissions Coordinator,0
+United States,Boston,Regional Logistics Coordinator,0
+United States,Boston,Retail Import Buyer,0
+United States,Boston,Software Engineering Manager,0
+United States,Boston,University Lecturer,2
+United States,Chicago,Child Psychologist,0
+United States,Chicago,Commercial Florist and Event Decorator,0
+United States,Chicago,Doctoral Research Fellow,0
+United States,Chicago,Eco-Tourism Travel Consultant,0
+United States,Chicago,ESG Shareholder Governance Analyst,0
+United States,Chicago,Family Mediation Counselor,0
+United States,Chicago,Hospital Physician,0
+United States,Chicago,Private School Admissions Coordinator,0
+United States,Chicago,Regional Logistics Coordinator,0
+United States,Chicago,Retail Import Buyer,2
+United States,Chicago,Software Engineering Manager,2
+United States,Chicago,University Lecturer,0
+United States,Newark,Child Psychologist,0
+United States,Newark,Commercial Florist and Event Decorator,1
+United States,Newark,Doctoral Research Fellow,0
+United States,Newark,Eco-Tourism Travel Consultant,0
+United States,Newark,ESG Shareholder Governance Analyst,2
+United States,Newark,Family Mediation Counselor,1
+United States,Newark,Hospital Physician,0
+United States,Newark,Private School Admissions Coordinator,0
+United States,Newark,Regional Logistics Coordinator,0
+United States,Newark,Retail Import Buyer,0
+United States,Newark,Software Engineering Manager,0
+United States,Newark,University Lecturer,0
+United States,Seattle,Child Psychologist,0
+United States,Seattle,Commercial Florist and Event Decorator,0
+United States,Seattle,Doctoral Research Fellow,0
+United States,Seattle,Eco-Tourism Travel Consultant,2
+United States,Seattle,ESG Shareholder Governance Analyst,0
+United States,Seattle,Family Mediation Counselor,0
+United States,Seattle,Hospital Physician,2
+United States,Seattle,Private School Admissions Coordinator,0
+United States,Seattle,Regional Logistics Coordinator,0
+United States,Seattle,Retail Import Buyer,0
+United States,Seattle,Software Engineering Manager,0
+United States,Seattle,University Lecturer,0

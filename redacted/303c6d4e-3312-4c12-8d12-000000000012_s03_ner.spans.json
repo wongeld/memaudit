@@ -1,0 +1,128 @@
+[
+{
+"start": 84,
+"end": 95,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 141,
+"end": 155,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 383,
+"end": 399,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00\n*"
+},
+{
+"start": 550,
+"end": 565,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 574,
+"end": 585,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 713,
+"end": 724,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 741,
+"end": 753,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 755,
+"end": 763,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 765,
+"end": 774,
+"label": "LOCATION",
+"text": "Kazanchis"
+},
+{
+"start": 1063,
+"end": 1074,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1076,
+"end": 1098,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis)\n*"
+},
+{
+"start": 1323,
+"end": 1334,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1569,
+"end": 1580,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1582,
+"end": 1604,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis)\n*"
+},
+{
+"start": 1784,
+"end": 1801,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 1802,
+"end": 1814,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1816,
+"end": 1835,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis"
+},
+{
+"start": 1859,
+"end": 1870,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 2122,
+"end": 2140,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት\n*"
+},
+{
+"start": 2157,
+"end": 2168,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2170,
+"end": 2192,
+"label": "LOCATION",
+"text": "Ethiopia (Kazanchis)\n*"
+}
+]

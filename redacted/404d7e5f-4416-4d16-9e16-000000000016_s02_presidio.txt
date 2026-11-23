@@ -1,0 +1,32 @@
+User:
+Mimi [PERSON] (Single, hali ya afya: None), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara [DATE] huko [LOCATION], [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kurekodi miadi yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya miadi niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: work
+*   **Aina ya Shughuli**: appointment
+*   **Kichwa**: miadi na wenzangu wa idara
+*   **Muda**: [DATE]   **Mahali**: [LOCATION], [LOCATION]   **Jina la Mawasiliano**: wenzangu wa idara
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Hapana, ghairi miadi hiyo ya [DATE] kwa sasa kwa sababu imehamishiwa kwenye mkutano wa mtandaoni, usihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Hakuna kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zangu zote za mada ya work kwa profile_id [PROFILE_ID].
+
+Assistant:
+Kwa sasa, hakuna shughuli zilizohifadhiwa chini ya mada ya 'work' kwa profile ID [PROFILE_ID].
+
+User:
+Ninahitaji kwenda kwenye kikao cha kikazi; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], imetokea hitilafu wakati wa kutafuta '[LOCATION]'. Tafadhali jaribu tena baada ya muda mfupi.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko [LOCATION]) na uonyeshe nukuu ya [ORGANIZATION], imetokea hitilafu wakati wa kutafuta anwani ya majira-nukta uliyotoa. Tafadhali jaribu tena baada ya muda mfupi.

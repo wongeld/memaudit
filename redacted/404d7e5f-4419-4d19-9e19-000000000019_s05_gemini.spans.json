@@ -1,0 +1,80 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 78,
+"end": 88,
+"label": "ID_NUMBER",
+"text": "6792442744"
+},
+{
+"start": 232,
+"end": 238,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 240,
+"end": 248,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 250,
+"end": 255,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 554,
+"end": 560,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 562,
+"end": 570,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 572,
+"end": 577,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 1144,
+"end": 1164,
+"label": "LOCATION",
+"text": "Arusha National Park"
+},
+{
+"start": 1305,
+"end": 1325,
+"label": "LOCATION",
+"text": "Arusha National Park"
+},
+{
+"start": 1485,
+"end": 1491,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1493,
+"end": 1501,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1503,
+"end": 1508,
+"label": "LOCATION",
+"text": "Njiro"
+}
+]

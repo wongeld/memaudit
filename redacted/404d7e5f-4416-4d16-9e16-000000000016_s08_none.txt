@@ -1,0 +1,39 @@
+User:
+Mimi Valentine Nayaku (Bachelor of Education, Single), nataka kurekodi kazi (task) kwenye daily_planning ya kupanga majukumu ya siku na kufanya mazoezi mepesi saa 11:30 jioni huko Embu, Kenya (Itabua); tafadhali thibitisha.
+
+Assistant:
+Nimeghairi kurekodi kazi yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya kazi niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: daily_planning
+*   **Aina ya Shughuli**: task
+*   **Kichwa**: kupanga majukumu ya siku na kufanya mazoezi mepesi
+*   **Muda**: saa 11:30 jioni
+*   **Mahali**: Embu, Kenya (Itabua)
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Hapana, ghairi kazi hiyo ya saa 11:30 jioni kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.
+
+Assistant:
+Nimeghairi kuhifadhi kazi hiyo. Hakuna kilichohifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya daily_planning kwa profile_id [PROFILE_ID].
+
+Assistant:
+Kwa sasa, hakuna shughuli zilizohifadhiwa chini ya mada ya 'daily_planning' kwa profile ID [PROFILE_ID].
+
+User:
+Ninahitaji kujua eneo la kituo cha afya kwa ajili ya ukaguzi wangu wa kawaida; tafadhali tumia search_places kutafuta 'Embu Level 5 Hospital' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutafuta 'Embu Level 5 Hospital'. Tafadhali jaribu tena baada ya muda mfupi.
+
+User:
+Tafadhali tumia reverse_geocode kupata anwani ya eneo lenye majira-nukta latitude -0.5312 na longitude 37.4506 huko Embu, Kenya (Itabua) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu wakati wa kutafuta anwani ya majira-nukta uliyotoa. Tafadhali jaribu tena baada ya muda mfupi.

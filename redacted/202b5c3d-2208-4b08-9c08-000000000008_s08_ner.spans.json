@@ -1,0 +1,134 @@
+[
+{
+"start": 20,
+"end": 36,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 90,
+"end": 103,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 107,
+"end": 119,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 121,
+"end": 137,
+"label": "LOCATION",
+"text": "Ethiopia (Kirkos"
+},
+{
+"start": 383,
+"end": 401,
+"label": "PERSON",
+"text": "Shimelis Tilahun\n*"
+},
+{
+"start": 420,
+"end": 435,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 452,
+"end": 463,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 465,
+"end": 484,
+"label": "LOCATION",
+"text": "Ethiopia (Kirkos)\n*"
+},
+{
+"start": 603,
+"end": 617,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 916,
+"end": 939,
+"label": "LOCATION",
+"text": "Ababa, Ethiopia (Kirkos"
+},
+{
+"start": 997,
+"end": 1022,
+"label": "LOCATION",
+"text": "Meskel Square Addis Ababa"
+},
+{
+"start": 1037,
+"end": 1050,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1088,
+"end": 1113,
+"label": "LOCATION",
+"text": "Meskel Square Addis Ababa"
+},
+{
+"start": 1149,
+"end": 1162,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1176,
+"end": 1183,
+"label": "DATE",
+"text": "በአሁኑ ጊዜ"
+},
+{
+"start": 1205,
+"end": 1218,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1297,
+"end": 1309,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1311,
+"end": 1327,
+"label": "LOCATION",
+"text": "Ethiopia (Kirkos"
+},
+{
+"start": 1367,
+"end": 1374,
+"label": "LOCATION",
+"text": "38.7578"
+},
+{
+"start": 1405,
+"end": 1418,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1515,
+"end": 1528,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1542,
+"end": 1549,
+"label": "DATE",
+"text": "በአሁኑ ጊዜ"
+}
+]

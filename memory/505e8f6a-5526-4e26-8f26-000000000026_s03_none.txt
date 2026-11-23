@@ -1,0 +1,7 @@
+- User's name is Nathan Mercer.
+- Contact information: +15246107452, profile_id [PROFILE_ID].
+- Occupation: University Lecturer based in Boston, United States (Back Bay).
+- Health status: Good health with no chronic conditions.
+- Work routine: Needs a weekly reminder every Friday at 04:00 PM to submit departmental metrics and take a break.
+- Work activities: Frequently attempts to book conference rooms and order ergonomic office supplies and reference materials.
+- Technical issue: Currently experiencing persistent system errors where all attempts to save activities or profile information are being canceled.

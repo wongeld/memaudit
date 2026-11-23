@@ -1,0 +1,5 @@
+- Mtumiaji anajihusisha na shughuli za manunuzi (shopping) na usafirishaji wa bidhaa.
+- Anafanya kazi na [PERSON] (namba ya simu +254760298744, profile_id [PROFILE_ID]) kwa ajili ya ununuzi wa bidhaa na dawa.
+- Anapanga shughuli za kukagua ubora wa bidhaa na wauzaji katika [LOCATION].
+- Anaratibu usafiri wa kuleta bidhaa nyumbani katika [LOCATION].
+- Anapendelea kuthibitisha maelezo yote ya miadi na booking kabla ya kuhifadhiwa kwenye mfumo.

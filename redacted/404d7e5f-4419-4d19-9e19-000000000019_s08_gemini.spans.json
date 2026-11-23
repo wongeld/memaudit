@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 213,
+"end": 219,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 221,
+"end": 229,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 231,
+"end": 236,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 549,
+"end": 555,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 557,
+"end": 565,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 567,
+"end": 572,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 599,
+"end": 613,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1191,
+"end": 1228,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1229,
+"end": 1235,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1376,
+"end": 1413,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1414,
+"end": 1420,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1569,
+"end": 1575,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1577,
+"end": 1585,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1587,
+"end": 1592,
+"label": "LOCATION",
+"text": "Njiro"
+}
+]

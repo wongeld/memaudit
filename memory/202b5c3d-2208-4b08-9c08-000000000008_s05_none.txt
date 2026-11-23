@@ -1,0 +1,4 @@
+* የመገለጫ መለያው (profile_id) [PROFILE_ID] ነው።
+* ከShimelis Tilahun ጋር (+251954834664፣ shimelis.tilahun+008@gmail.com) በAddis Ababa, Ethiopia (Kirkos) የምክክር ቀጠሮ የማመቻቸት ጉዳይ ነበረው።
+* በAddis Ababa, Ethiopia (Kirkos) አካባቢ፣ በተለይም በBole International Airport እና መጋጠሚያ 9.0054, 38.7578 አካባቢ ጉዳይ ወይም ፍላጎት አለው።
+* የቦታ ፍለጋ ሲካሄድ የግል መረጃው እንዳይጋራ እና የOpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

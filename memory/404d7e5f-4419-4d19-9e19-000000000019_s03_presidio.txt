@@ -1,0 +1,5 @@
+* Mtumiaji anapanga safari inayohusisha [PERSON] (simu [PHONE]).
+* Shughuli za safari zinajumuisha kukutana na mshirika wa safari na usafirishaji katika [DATE].
+* Mtumiaji ana kazi ya kuhakiki ratiba ya hoteli na bajeti ya safari ya siku 4 za kazi kabla ya kuondoka kwenda [LOCATION], [LOCATION] (Njiro).
+* Mtumiaji anahitaji kununua begi la safari na vifaa vya huduma ya kwanza katika [LOCATION] (Njiro).
+* Mtumiaji anapendelea kuthibitisha maelezo yote ya kazi au miadi kabla ya kuhifadhiwa kwenye mfumo.

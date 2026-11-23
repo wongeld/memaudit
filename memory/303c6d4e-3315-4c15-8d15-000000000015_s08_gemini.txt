@@ -1,0 +1,5 @@
+- ተጠቃሚው እንደ Regional Logistics Coordinator ይሰራል።
+- ተጠቃሚው 'Mild asthma' የተባለ የጤና ሁኔታ አለው።
+- ለ[PERSON] ([PHONE]፣ [EMAIL]) የክትትል ማስታወሻ (Follow-up reminder) አርብ ከሰዓት 10:00 ላይ እንዲመዘገብ ይፈልጋል።
+- ተጠቃሚው በ[LOCATION] ([LOCATION]) አካባቢ አገልግሎቶችን ወይም ቦታዎችን የመፈለግ ፍላጎት አለው።
+- ተጠቃሚው የግል መረጃውን ሳይልክ መረጃዎችን የመፈለግ ጥንቃቄ ያደርጋል።

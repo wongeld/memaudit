@@ -1,0 +1,6 @@
+* Works as a Regional Logistics Coordinator.
+* Frequently manages travel-related tasks, including itinerary reviews, expense reconciliation, and shopping for travel gear.
+* Travels to [LOCATION], [LOCATION] ([LOCATION]).
+* Coordinates travel logistics with [PERSON] (phone: [PHONE]).
+* Needs to purchase travel accessories such as a carry-on organizer and a portable charger.
+* Uses profile_id [[ID_NUMBER]] for tracking travel activities.

@@ -1,0 +1,6 @@
+* Mtumiaji anajihusisha na shughuli za manunuzi (shopping) zinazohusisha bidhaa na dawa.
+* Anafanya kazi na [PERSON] (simu: [PHONE]) kwa ajili ya kuratibu shughuli hizi.
+* Eneo kuu la shughuli zake za manunuzi na usafirishaji ni [LOCATION] (Mikocheni).
+* Anahitaji usaidizi wa kuratibu miadi ya kukagua ubora wa bidhaa na wauzaji.
+* Anapanga usafiri wa kuleta bidhaa nyumbani [LOCATION].
+* Anapendelea kupata muhtasari wa maelezo kabla ya kuthibitisha kuhifadhiwa kwa vikumbusho, miadi, au booking.

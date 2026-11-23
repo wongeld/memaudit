@@ -1,0 +1,74 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 184,
+"end": 209,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 215,
+"end": 259,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands).\n\nAssistant:\nSawa"
+},
+{
+"start": 261,
+"end": 267,
+"label": "PERSON",
+"text": "Kelvin"
+},
+{
+"start": 510,
+"end": 545,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi\n**Contact"
+},
+{
+"start": 554,
+"end": 576,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 586,
+"end": 599,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 614,
+"end": 644,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nJe"
+},
+{
+"start": 705,
+"end": 730,
+"label": "DATE",
+"text": "Jumamosi saa 4:00 asubuhi"
+},
+{
+"start": 796,
+"end": 825,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 1346,
+"end": 1376,
+"label": "LOCATION",
+"text": "Sarit Centre Westlands Nairobi"
+},
+{
+"start": 1706,
+"end": 1731,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+}
+]

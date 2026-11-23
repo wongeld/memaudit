@@ -1,0 +1,7 @@
+- ስም፦ [PERSON]፣ የመገለጫ መታወቂያ (profile_id)፦ [PROFILE_ID]፣ መታወቂያ ቁጥር፦ 3926435391።
+- ሙያ፦ በ[LOCATION]፣ [LOCATION] የሚሰራ የሆስፒታል ሐኪም (Hospital Physician / Doctor of Medicine)።
+- የጋብቻ ሁኔታ፦ ያላገባ (Single)።
+- የመኖሪያ/የሥራ ቦታ፦ [LOCATION], [LOCATION]።
+- የመገናኛ አድራሻዎች፦ ስልክ ቁጥር +251945416026፣ ኢሜይል bereket.tesfaye+009@yahoo.com፣ ሀገር [LOCATION]።
+- ተመራጭ ቋንቋ፦ አማርኛ።
+- የጤና ሁኔታ፦ መጠነኛ አስም (Mild asthma) አለበት።

@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], akiwa na nambari ya simu [PHONE] na profile_id [[ID_NUMBER]].
+* Hali ya afya: Ana afya njema na hana ugonjwa sugu.
+* Shughuli za kikazi/shule: Anahusika na masuala ya shule, ikiwemo kukusanya insha na madaftari ya wanafunzi Ijumaa saa 9:00 alasiri.
+* Mipango ya ununuzi: Anapanga kununua vitabu vya kiada (nakala 20 za fasihi), kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] ([LOCATION]).
+* Mipango ya ukumbi: Anahitaji kuweka nafasi (booking) ya ukumbi wa mikutano wa shule huko [LOCATION], [LOCATION] ([LOCATION]) siku ya Alhamisi saa 8:00 mchana.

@@ -1,0 +1,5 @@
+- Mtumiaji anajali sana afya ya familia yake na anazingatia lishe bora ili kuepuka magonjwa sugu.
+- Ana uhusiano wa karibu na [PERSON] (simu: +255605567258) ambaye anashirikiana naye katika masuala ya familia.
+- Anapendelea kufanya manunuzi ya mahitaji ya nyumbani, zawadi, na vyakula vya afya (ikiwemo matunda) katika eneo la [LOCATION], [LOCATION] (Njiro).
+- Anapanga shughuli za familia kama vile chakula cha mchana katika eneo la [LOCATION], [LOCATION] (Njiro).
+- Anatumia mfumo wa kikumbusho (reminder) na booking ili kuratibu shughuli zake za kifamilia.

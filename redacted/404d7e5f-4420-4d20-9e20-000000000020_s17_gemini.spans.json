@@ -1,0 +1,194 @@
+[
+{
+"start": 111,
+"end": 121,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 301,
+"end": 311,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 462,
+"end": 485,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 486,
+"end": 492,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 625,
+"end": 648,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 649,
+"end": 655,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1114,
+"end": 1120,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1122,
+"end": 1130,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1132,
+"end": 1138,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1287,
+"end": 1293,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1295,
+"end": 1303,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1306,
+"end": 1312,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1672,
+"end": 1686,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1700,
+"end": 1710,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1718,
+"end": 1731,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 1801,
+"end": 1807,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1809,
+"end": 1817,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1819,
+"end": 1825,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 2034,
+"end": 2044,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2267,
+"end": 2273,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2275,
+"end": 2283,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2285,
+"end": 2291,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 2331,
+"end": 2345,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2385,
+"end": 2398,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2528,
+"end": 2542,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2544,
+"end": 2557,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2827,
+"end": 2837,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3060,
+"end": 3066,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 3068,
+"end": 3076,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3078,
+"end": 3084,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 3109,
+"end": 3123,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 3137,
+"end": 3150,
+"label": "PHONE",
+"text": "+255890185741"
+}
+]

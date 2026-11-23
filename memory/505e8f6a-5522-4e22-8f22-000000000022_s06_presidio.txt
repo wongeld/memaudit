@@ -1,0 +1,6 @@
+* Works as an ESG Shareholder Governance Analyst.
+* Frequently manages travel-related logistics, including itinerary reviews, expense reconciliation, and shopping for travel accessories.
+* Needs to purchase a carry-on organizer and a portable charger.
+* Collaborates with [PERSON] (phone: [PHONE]) for travel planning and administrative tasks.
+* Prefers to review and confirm all activity details before they are saved to the system.
+* Experiences recurring technical issues when attempting to save appointments and tasks via the `record_user_activity` tool.

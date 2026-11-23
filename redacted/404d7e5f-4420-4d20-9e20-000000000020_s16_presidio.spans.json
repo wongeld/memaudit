@@ -1,0 +1,206 @@
+[
+{
+"start": 29,
+"end": 43,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 384,
+"end": 392,
+"label": "PERSON",
+"text": "Halima\n*"
+},
+{
+"start": 413,
+"end": 422,
+"label": "PERSON",
+"text": "Kikwete\n*"
+},
+{
+"start": 479,
+"end": 507,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 521,
+"end": 531,
+"label": "LOCATION",
+"text": "Tanzania\n*"
+},
+{
+"start": 878,
+"end": 895,
+"label": "DATE",
+"text": "saa 12:15 asubuhi"
+},
+{
+"start": 901,
+"end": 907,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 909,
+"end": 917,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 924,
+"end": 925,
+"label": "LOCATION",
+"text": "C"
+},
+{
+"start": 931,
+"end": 945,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1329,
+"end": 1348,
+"label": "DATE",
+"text": "Saa 12:15 asubuhi\n*"
+},
+{
+"start": 1370,
+"end": 1376,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1378,
+"end": 1386,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1393,
+"end": 1397,
+"label": "LOCATION",
+"text": "C)\n*"
+},
+{
+"start": 1434,
+"end": 1450,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 1612,
+"end": 1619,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 1624,
+"end": 1641,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 1697,
+"end": 1711,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1801,
+"end": 1808,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 1814,
+"end": 1835,
+"label": "DATE",
+"text": "**saa 12:00 asubuhi**"
+},
+{
+"start": 2112,
+"end": 2131,
+"label": "DATE",
+"text": "Saa 12:00 asubuhi\n*"
+},
+{
+"start": 2153,
+"end": 2159,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2161,
+"end": 2180,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n*"
+},
+{
+"start": 2217,
+"end": 2233,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 2366,
+"end": 2380,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2532,
+"end": 2547,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 2553,
+"end": 2559,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2561,
+"end": 2577,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 2971,
+"end": 2988,
+"label": "DATE",
+"text": "Saa 11:30 jioni\n*"
+},
+{
+"start": 3010,
+"end": 3016,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 3018,
+"end": 3037,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n*"
+},
+{
+"start": 3074,
+"end": 3090,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 3234,
+"end": 3249,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 3369,
+"end": 3384,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+}
+]

@@ -1,0 +1,146 @@
+[
+{
+"start": 9,
+"end": 24,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 56,
+"end": 64,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 66,
+"end": 74,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ29 ዓመት"
+},
+{
+"start": 351,
+"end": 366,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 392,
+"end": 421,
+"label": "PERSON",
+"text": "bereket.tesfaye+009@yahoo.com"
+},
+{
+"start": 427,
+"end": 435,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 562,
+"end": 571,
+"label": "PERSON",
+"text": "Bereket\n*"
+},
+{
+"start": 589,
+"end": 598,
+"label": "PERSON",
+"text": "Tesfaye\n*"
+},
+{
+"start": 648,
+"end": 679,
+"label": "PERSON",
+"text": "bereket.tesfaye+009@yahoo.com\n*"
+},
+{
+"start": 695,
+"end": 705,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 766,
+"end": 781,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1057,
+"end": 1072,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1073,
+"end": 1081,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 1083,
+"end": 1091,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1100,
+"end": 1105,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1123,
+"end": 1138,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1263,
+"end": 1278,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1323,
+"end": 1338,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1491,
+"end": 1506,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1514,
+"end": 1529,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1627,
+"end": 1653,
+"label": "DATE",
+"text": "2023-10-26 ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1668,
+"end": 1685,
+"label": "DATE",
+"text": "የ\"ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1715,
+"end": 1730,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+}
+]

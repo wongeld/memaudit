@@ -1,0 +1,5 @@
+- User is [PERSON] (ID: [ID_NUMBER]).
+- Regularly manages household budget and family calendar tasks.
+- Planning a family gathering and outing in [LOCATION], [LOCATION] ([LOCATION]).
+- Interested in verifying addresses for family events using specific coordinates (41.9142, -87.6485).
+- Aware of persistent technical issues with the assistant's `record_user_activity`, `search_places`, and `reverse_geocode` tools.

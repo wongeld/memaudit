@@ -1,0 +1,6 @@
+* Mtumiaji anaitwa [PERSON], mwenye kitambulisho namba [ID_NUMBER] na profile_id [PROFILE_ID].
+* Hufanya shughuli za shule ikiwemo kusimamia majaribio darasani na kushiriki katika mikutano ya kamati ya taaluma na wazazi.
+* Ratiba yake ya Jumanne saa 4:30 asubuhi inajumuisha kuwa darasani akisimamia jaribio.
+* Ana mpango wa kuratibu ziara ya kielimu na midahalo ya wanafunzi, akilenga kutafuta '[ORGANIZATION] [LOCATION]'.
+* Anafuatilia eneo la shule lililopo kwenye majira-nukta latitude -0.5143 na longitude 37.4589 huko [LOCATION], [LOCATION] ([LOCATION]).
+* Anapendelea kutotuma taarifa zake binafsi wakati wa utafutaji wa maeneo mtandaoni.

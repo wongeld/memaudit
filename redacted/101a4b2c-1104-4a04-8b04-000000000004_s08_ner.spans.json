@@ -1,0 +1,170 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 194,
+"end": 219,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 225,
+"end": 238,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 240,
+"end": 248,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 781,
+"end": 808,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri\n*"
+},
+{
+"start": 823,
+"end": 846,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 888,
+"end": 906,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 1130,
+"end": 1155,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1336,
+"end": 1361,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1735,
+"end": 1752,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1794,
+"end": 1821,
+"label": "ORGANIZATION",
+"text": "National Museum of Tanzania"
+},
+{
+"start": 1822,
+"end": 1835,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1895,
+"end": 1930,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1953,
+"end": 1980,
+"label": "ORGANIZATION",
+"text": "National Museum of Tanzania"
+},
+{
+"start": 1981,
+"end": 1994,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2016,
+"end": 2029,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2118,
+"end": 2131,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2170,
+"end": 2179,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 2374,
+"end": 2397,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 2529,
+"end": 2538,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 3018,
+"end": 3031,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3033,
+"end": 3041,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3075,
+"end": 3110,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 3176,
+"end": 3189,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3296,
+"end": 3309,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3348,
+"end": 3357,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+},
+{
+"start": 3552,
+"end": 3575,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap Nominatim"
+},
+{
+"start": 3707,
+"end": 3716,
+"label": "ORGANIZATION",
+"text": "Nominatim"
+}
+]

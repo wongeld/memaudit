@@ -1,0 +1,32 @@
+User:
+Kwa kuzingatia hali yangu (hali ya Mild seasonal allergic rhinitis) na kitambulisho 4047325359, rekodi kikumbusho (reminder) kwenye mada ya travel cha kubeba dawa na hati za safari kwenye begi la mkononi [DATE] kuhifadhi kikumbusho hiki kwa sababu ya sera yetu ya faragha, ambayo hairuhusu kuhifadhi data halisi ya kibinafsi kama vile kitambulisho.
+
+Hata hivyo, ninaweza kuhifadhi kikumbusho chako kwa kutumia kitambulisho bandia. Je, unataka nifanye hivyo?
+
+**Hivi ndivyo maelezo yatakavyohifadhiwa (kwa kutumia data bandia):**
+
+*   **profile_id:** 4047325359 (bandia)
+*   **theme:** travel
+*   **activity_type:** reminder
+*   **title:** Kubeba dawa na hati za safari kwenye begi la mkononi
+*   **date_time:** [DATE]   **notes:** hali ya Mild seasonal allergic rhinitis
+
+User:
+Hapana, ghairi kikumbusho hicho cha [DATE] kwa sasa kwa sababu nitaandaa begi langu mapema mchana, usihifadhi.
+
+Assistant:
+Nimekuelewa. Kikumbusho hicho hakitahifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya travel kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa profile_id [PROFILE_ID] kwenye mada ya travel.
+
+User:
+Ninahitaji kuangalia kituo cha usafiri kwa ajili ya safari yangu; tafadhali tumia search_places kutafuta '[ORGANIZATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya [ORGANIZATION], nimeshindwa kutafuta '[LOCATION] [ORGANIZATION]' kwa kutumia zana ya [ORGANIZATION]. Kumekuwa na hitilafu ya mara kwa mara ninapojaribu kutumia zana ya `openstreetmap_search_places`. Inaonekana kuna tatizo na huduma ya [ORGANIZATION] kwa sasa.
+
+Hata hivyo, nikipata majibu, nitaweka wazi kuwa taarifa zinatoka [ORGANIZATION] (© [ORGANIZATION] contributors). Tafadhali jaribu tena baadaye au kama unaweza, tumia njia nyingine ya kutafuta kituo cha usafiri.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya eneo la safari lenye majira-nukta latitude -3.3667 na longitude 36.6833 huko [LOCATION], [LOCATION] (Njiro) na uonyeshe nukuu ya [ORGANIZATION], nimeshindwa kutambua anwani ya eneo hilo kwa kutumia zana ya [ORGANIZATION]. Kumekuwa na hitilafu ya mara kwa mara ninapojaribu kutumia zana za [ORGANIZATION] hivyo, nikipata majibu, nitaweka wazi kuwa taarifa zinatoka [ORGANIZATION] (© [ORGANIZATION] contributors). Tafadhali jaribu tena baadaye au kama unaweza, tumia njia nyingine ya kutafuta anwani ya eneo hilo.

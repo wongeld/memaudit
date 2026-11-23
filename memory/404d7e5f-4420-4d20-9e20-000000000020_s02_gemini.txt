@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni Mimi [PERSON].
+* Ana watoto wawili na ameolewa.
+* Ana hali ya afya ya kisukari cha Aina ya 2 (Type 2 diabetes).
+* Anafanya kazi na mara nyingi huhitaji kupanga miadi ya kikazi na wenzake wa idara.
+* Anapendelea kutumia zana za kidijitali kama `list_user_activities`, `search_places`, na `reverse_geocode` kwa ajili ya kuratibu shughuli zake.
+* Anajali faragha yake na anasisitiza kutotuma taarifa binafsi wakati wa kutafuta maeneo.

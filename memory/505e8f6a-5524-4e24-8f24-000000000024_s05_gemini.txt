@@ -1,0 +1,5 @@
+* User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+* Interested in comparing vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]).
+* Currently experiencing technical issues with the assistant's ability to save tasks and execute location-based tools (OpenStreetMap).
+* Recently decided against placing a shopping order for the current week.
+* Actively trying to search for and geolocate retail areas near [LOCATION], [LOCATION] ([LOCATION]).

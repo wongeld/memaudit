@@ -1,0 +1,7 @@
+* ስም [PERSON] (profile_id: [PROFILE_ID]) ሲሆን የመታወቂያ ቁጥሩ 3920974306 ነው።
+* መኖሪያው በ[LOCATION], [LOCATION] (ሀገር፡ [LOCATION]) ነው።
+* የትምህርት እና የሙያ መስክ፡ Bachelor of Laws ያለው የFamily Mediation Counselor ነው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የጤና ሁኔታ፡ ሙሉ ጤነኛ ነው።
+* የመገናኛ መረጃ እና የቋንቋ ምርጫ፡ ስልክ [PHONE]፣ ኢሜይል [EMAIL] ሲሆን ቋንቋው አማርኛ ነው።
+* ዕቅድ፡ በ[DATE] በ[LOCATION], [LOCATION] የተያዘ ዋና ተግባር (task) አለው።

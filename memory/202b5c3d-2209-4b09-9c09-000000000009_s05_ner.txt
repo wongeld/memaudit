@@ -1,0 +1,4 @@
+* ከ[PERSON] (ስልክ: +251945416026፣ ኢሜይል: bereket.tesfaye+009@yahoo.com) ጋር በ school ዘርፍ በ[LOCATION] የምክክር ቀጠሮ የነበረው ሲሆን፣ ቀጠሮውን ወደ ሌላ ቀን አሸጋግሮታል።
+* የ profile_id መለያው [PROFILE_ID] ነው።
+* በMekelle፣ [LOCATION] (በተለይ በ latitude 13.5078 እና longitude 39.4622 አካባቢ) ለጉዳዩ የሚሆን ቦታ ፍለጋ ላይ ነው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ[ORGANIZATION] እውቅና (attribution) እንዲካተት ምርጫ አለው።

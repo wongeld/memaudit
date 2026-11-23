@@ -1,0 +1,4 @@
+- The user frequently manages pharmacy, supply, and shopping orders for [PERSON] (phone: +16139476852).
+- The user regularly attempts to schedule in-store pickups, supplier consultations, and delivery slots at [LOCATION], [LOCATION] ([ORGANIZATION]/[LOCATION]).
+- The user is aware of a persistent, systemic technical issue where the assistant is unable to save profile or activity data via the `record_user_activity` tool.
+- The user prefers to continue attempting to schedule these activities despite the assistant's repeated warnings that the tool is failing.

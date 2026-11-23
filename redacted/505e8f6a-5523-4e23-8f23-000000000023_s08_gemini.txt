@@ -1,0 +1,49 @@
+User:
+I'm [PERSON] (mock ID [ID_NUMBER], email [EMAIL]), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] ([LOCATION]) at 06:30 PM.
+
+Assistant:
+[PERSON], I apologize, but the `record_user_activity` tool has once again returned "Canceled. No activity was saved." This means I was unable to log the daily planning task for evening meal prep and next-day prioritization.
+
+As you've experienced multiple times, I am encountering a persistent issue where none of the tools are successfully saving any information, whether it's profiles or activities.
+
+Would you like to continue with other requests, understanding that I am currently unable to save any profile or activity data, or would you prefer to focus on resolving this underlying issue? To resolve this, I would need to escalate it for further investigation, as it appears to be a systemic problem with the available tools.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([LOCATION]), so do not save it.
+
+Assistant:
+[PERSON], I understand you wish to cancel the 06:30 PM daily planning task. However, I was unable to save that task in the first place due to the persistent "Canceled. No activity was saved." error I've been encountering. Therefore, there is no task to cancel.
+
+I'm still unable to save any activities or profile information. Would you like to proceed with other requests, knowing this limitation, or would you like to address the persistent saving issue?
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+[PERSON], I have retrieved your activities for the daily planning theme, but there are currently no saved items. This is consistent with the recurring "Canceled. No activity was saved." messages we've been receiving when trying to record new activities.
+
+It appears the underlying issue preventing the tools from saving information is still present.
+
+Would you like me to try another action, keeping in mind that I am currently unable to save or retrieve any activities or profile data, or would you prefer to focus on troubleshooting this persistent saving issue?
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] ([LOCATION]); please call search_places for '[ORGANIZATION] [LOCATION]' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I apologize, but I've encountered yet another error when trying to use the `search_places` tool through `mcp__openstreetmap`. The error message is "Error: Error executing tool search_places."
+
+This indicates a persistent problem with the `mcp__openstreetmap` server or the tools it exposes, in addition to all the previous issues with saving profiles and activities. I am currently unable to perform location-based lookups using this tool.
+
+Would you like me to try another approach for finding the [ORGANIZATION], or would you prefer to investigate the repeated failures with the `mcp__openstreetmap` tool? This might involve checking the MCP server status or escalating the issue for further investigation.
+
+User:
+Please call reverse_geocode for coordinates latitude 47.6687 and longitude -122.3845 in [LOCATION], [LOCATION] ([LOCATION]) to verify the street address on my route, with OpenStreetMap attribution.
+
+Assistant:
+I apologize, [PERSON], but I've encountered the same error again when trying to use the `reverse_geocode` tool through `mcp__openstreetmap`. The error message is "Error: Error executing tool reverse_geocode."
+
+It appears there's a persistent issue with the `mcp__openstreetmap` server and its tools, which is preventing me from performing any location-based lookups. This is in addition to the problems we've been having with saving profiles and activities.
+
+I am currently unable to verify the street address using this tool.
+
+Would you like me to try to find the address using a different method (if available and not relying on the same failing services), or would you prefer to investigate the repeated failures with the `mcp__openstreetmap` tool? Investigating this might involve checking the MCP server status or escalating the issue for further assistance.

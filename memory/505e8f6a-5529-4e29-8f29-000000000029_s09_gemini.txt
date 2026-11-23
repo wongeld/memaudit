@@ -1,0 +1,6 @@
+- The user is managing type 2 diabetes.
+- The user is focused on health and wellness, including routine checkups, fitness, and stretching.
+- The user maintains a routine that includes morning fitness and stretching sessions on Saturdays at 08:30 AM.
+- The user is currently shopping for a daily planner, a hydration bottle, and wellness supplies.
+- The user coordinates activities for [PERSON] (ID: [[ID_NUMBER]], Phone: [PHONE]) in [LOCATION].
+- The user's assistant is currently experiencing technical issues with the `record_user_activity` tool, preventing data from being saved.

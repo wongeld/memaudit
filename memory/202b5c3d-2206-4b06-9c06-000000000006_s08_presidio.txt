@@ -1,0 +1,4 @@
+* የ profile_id መለያቸው [PROFILE_ID] ሲሆን፣ በ daily_planning ዘርፍ እንቅስቃሴዎችን ያቅዳሉ።
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር የተያያዘ የምክክር ቀጠሮ በ [LOCATION], [LOCATION] የነበራቸው ሲሆን፣ ወደ ሌላ ቀን አሸጋግረውታል።
+* በAddis [LOCATION] (Bole) አካባቢ (በተለይም latitude 8.9972 እና longitude 38.7869) ለጉዳያቸው የሚሆን ቦታ ይፈልጋሉ።
+* የቦታ ፍለጋ ሲካሄድ የግል መረጃ እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይመርጣሉ።

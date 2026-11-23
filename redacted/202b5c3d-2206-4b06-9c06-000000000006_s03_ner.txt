@@ -1,0 +1,54 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የCommercial Florist and Event Decorator ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ +251996949340) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the details for the follow-up reminder you'd like to record for [PERSON]   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: reminder
+*   **title**: የክትትል ማስታወሻ (Follow-up reminder)
+*   **date\_time**: [DATE]   **mobile\_phone**: +251996949340
+
+To save this reminder, I need a specific date for "[DATE]". Could you please provide the exact date (e.g., "[DATE], at [DATE]፣ [DATE] ማስታወሻ ለ [PERSON] (+251996949340) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+I understand you're confirming the reminder. However, I still need a specific date for "[DATE]" ([DATE]) to be able to save it. For example, "[DATE], at [DATE] you please provide the exact date for this reminder?
+
+User:
+በ work ሥር ለ [PERSON] (+251996949340) [LOCATION], [LOCATION] (Bole) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+Here are the details for the shopping item you'd like to record for [PERSON]   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile\_phone**: +251996949340
+
+Please confirm if these details are correct.
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251996949340) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+Here are the updated details for the shopping item you'd like to record for [PERSON]   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: shopping\_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (Shopping for essential materials and health/work inputs)
+*   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile\_phone**: +251996949340
+*   **notes**: Commercial Florist and Event Decorator እና Single አገልግሎት የሚውል (For use by Commercial Florist and Event Decorator and for Single service)
+
+Please confirm if these details are correct so I can record them.
+
+User:
+በ work ሥር [DATE] [LOCATION], [LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251996949340) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+Here are the details for the service/location booking you'd like to record for [PERSON]   **profile\_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity\_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking (Service/Location booking)
+*   **date\_time**: [DATE] ([DATE]   **location**: [LOCATION], [LOCATION] (Bole)
+*   **mobile\_phone**: +251996949340
+
+Before I can save this booking, I need a specific date for "[DATE]". Could you please provide the exact date (e.g., "[DATE], at [DATE]")?

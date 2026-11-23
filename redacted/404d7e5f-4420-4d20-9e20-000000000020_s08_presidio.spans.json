@@ -1,0 +1,110 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 177,
+"end": 192,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 198,
+"end": 204,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 206,
+"end": 222,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 337,
+"end": 358,
+"label": "PERSON",
+"text": "Halima Kikwete.\n\nHaya"
+},
+{
+"start": 446,
+"end": 462,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 629,
+"end": 646,
+"label": "DATE",
+"text": "saa 11:30 jioni\n*"
+},
+{
+"start": 659,
+"end": 665,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 667,
+"end": 695,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n\nTafadhali"
+},
+{
+"start": 792,
+"end": 807,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 1447,
+"end": 1470,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 1471,
+"end": 1477,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1598,
+"end": 1621,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 1622,
+"end": 1628,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1853,
+"end": 1859,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1861,
+"end": 1869,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1876,
+"end": 1877,
+"label": "LOCATION",
+"text": "C"
+},
+{
+"start": 1900,
+"end": 1935,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+}
+]

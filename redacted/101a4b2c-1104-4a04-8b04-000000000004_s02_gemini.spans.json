@@ -1,0 +1,74 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 200,
+"end": 213,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 215,
+"end": 223,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 225,
+"end": 234,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 322,
+"end": 338,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 584,
+"end": 597,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 599,
+"end": 607,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 609,
+"end": 618,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1277,
+"end": 1298,
+"label": "LOCATION",
+"text": "Port of Dar es Salaam"
+},
+{
+"start": 1717,
+"end": 1730,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1732,
+"end": 1740,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1742,
+"end": 1751,
+"label": "LOCATION",
+"text": "Mikocheni"
+}
+]

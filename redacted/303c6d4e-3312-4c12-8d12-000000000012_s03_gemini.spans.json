@@ -1,0 +1,152 @@
+[
+{
+"start": 84,
+"end": 95,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 109,
+"end": 119,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 126,
+"end": 139,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 273,
+"end": 283,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 420,
+"end": 433,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 574,
+"end": 585,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 587,
+"end": 600,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 713,
+"end": 724,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 726,
+"end": 739,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 742,
+"end": 774,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 931,
+"end": 941,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1063,
+"end": 1095,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 1119,
+"end": 1132,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1229,
+"end": 1239,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1323,
+"end": 1334,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1336,
+"end": 1349,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1437,
+"end": 1447,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1569,
+"end": 1601,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 1625,
+"end": 1638,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 1803,
+"end": 1835,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 1859,
+"end": 1870,
+"label": "PERSON",
+"text": "Elsa Assefa"
+},
+{
+"start": 1872,
+"end": 1885,
+"label": "PHONE",
+"text": "+251986279168"
+},
+{
+"start": 2005,
+"end": 2015,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2157,
+"end": 2189,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Kazanchis"
+},
+{
+"start": 2213,
+"end": 2226,
+"label": "PHONE",
+"text": "+251986279168"
+}
+]

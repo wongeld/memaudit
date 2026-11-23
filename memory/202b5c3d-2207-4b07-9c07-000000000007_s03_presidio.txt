@@ -1,0 +1,6 @@
+* የሥራ መስክ፡ የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የጤና ሁኔታ፡ መጠነኛ የደም ግፊት (Mild hypertension) አለበት/አለባት።
+* የመገለጫ መታወቂያ (Profile ID)፡ [PROFILE_ID] ነው።
+* ከ [PERSON] (ስልክ ቁጥር፦ [PHONE]) ጋር የተያያዙ የሥራ ማስታወሻዎችን፣ ግዢዎችን እና ማስያዣዎችን (booking) ያከናውናል።
+* ተደጋጋሚ የእንቅስቃሴ እና የግዢ ቦታ፦ [LOCATION], [LOCATION] (Yeka)።

@@ -1,0 +1,5 @@
+* የጤና ሁኔታው/ዋ 'Mild seasonal allergic rhinitis' ነው።
+* በ [ORGANIZATION] ውስጥ ሥራ ያለበት/ባት ሲሆን እንደ 'Commercial Florist and Event Decorator' ይሠራል/ትሠራለች።
+* ባለትዳርና የሁለት ልጆች ወላጅ ('Married with two children') ነው።/ናት።
+* ከ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ +251962051344) ጋር የተያያዙ የቤተሰብ (family) ማስታወሻዎችን፣ ግዢዎችን እና የቦታ ማስያዣዎችን ይመዘግባል/ትመዘግባለች።
+* በ [LOCATION], [LOCATION] (Bole) አካባቢ አስፈላጊ ቁሳቁሶችን እና የጤና/የሥራ ግብዓቶችን የመግዛት እንዲሁም የአገልግሎት/የቦታ booking የማድረግ ዕቅድ አለው/አላት።

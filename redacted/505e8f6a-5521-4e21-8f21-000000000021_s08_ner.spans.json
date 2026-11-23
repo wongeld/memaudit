@@ -1,0 +1,152 @@
+[
+{
+"start": 10,
+"end": 21,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 211,
+"end": 217,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 219,
+"end": 232,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 234,
+"end": 242,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 478,
+"end": 484,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 486,
+"end": 499,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 501,
+"end": 509,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 525,
+"end": 536,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 719,
+"end": 725,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 727,
+"end": 740,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 742,
+"end": 750,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1086,
+"end": 1097,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1197,
+"end": 1203,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1205,
+"end": 1218,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1220,
+"end": 1228,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1262,
+"end": 1290,
+"label": "ORGANIZATION",
+"text": "Boston Public Library Copley"
+},
+{
+"start": 1291,
+"end": 1297,
+"label": "LOCATION",
+"text": "Square"
+},
+{
+"start": 1409,
+"end": 1415,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1416,
+"end": 1430,
+"label": "ORGANIZATION",
+"text": "Public Library"
+},
+{
+"start": 1431,
+"end": 1444,
+"label": "LOCATION",
+"text": "Copley Square"
+},
+{
+"start": 1679,
+"end": 1685,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1687,
+"end": 1700,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1707,
+"end": 1710,
+"label": "LOCATION",
+"text": "Bay"
+},
+{
+"start": 1759,
+"end": 1772,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1955,
+"end": 1968,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

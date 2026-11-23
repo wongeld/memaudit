@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON] na ana profile_id: [PROFILE_ID].
+* Ana umri wa miaka 29 na ana shahada ya Bachelor of Education.
+* Ni Mwalimu wa Kiswahili wa Shule ya Upili (Secondary School Kiswahili Teacher) huko [LOCATION], [LOCATION] (Malava).
+* Mawasiliano yake ni nambari ya simu +254742509640, barua pepe [PERSON], na nchi yake ni [LOCATION].
+* Ana mpango wa kufanya safari ya kikazi na usafiri kuanzia [DATE] saa [DATE].

@@ -1,0 +1,194 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 43,
+"end": 53,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 151,
+"end": 159,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 161,
+"end": 166,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 168,
+"end": 174,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 547,
+"end": 557,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 560,
+"end": 574,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 581,
+"end": 594,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 607,
+"end": 635,
+"label": "EMAIL",
+"text": "daniel.wemanya+003@gmail.com"
+},
+{
+"start": 642,
+"end": 647,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 816,
+"end": 826,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 904,
+"end": 917,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 933,
+"end": 961,
+"label": "EMAIL",
+"text": "daniel.wemanya+003@gmail.com"
+},
+{
+"start": 979,
+"end": 984,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1051,
+"end": 1065,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1074,
+"end": 1087,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1542,
+"end": 1552,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1630,
+"end": 1643,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1659,
+"end": 1687,
+"label": "EMAIL",
+"text": "daniel.wemanya+003@gmail.com"
+},
+{
+"start": 1705,
+"end": 1710,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1835,
+"end": 1843,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1845,
+"end": 1850,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1852,
+"end": 1858,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2018,
+"end": 2032,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2034,
+"end": 2047,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2351,
+"end": 2361,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2524,
+"end": 2537,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2632,
+"end": 2642,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2671,
+"end": 2685,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2687,
+"end": 2700,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 3176,
+"end": 3186,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3359,
+"end": 3372,
+"label": "PHONE",
+"text": "+254742509640"
+}
+]

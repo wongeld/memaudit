@@ -1,0 +1,6 @@
+* User is [PERSON], a 41-year-old Software Engineering Manager living in [LOCATION].
+* Holds a Master of Science degree.
+* Married with three children.
+* Manages type 2 diabetes.
+* Contact details: +18466001447 and david.kowalski+024@yahoo.com.
+* Currently experiencing persistent technical issues with the assistant's ability to save profile data and activity records.

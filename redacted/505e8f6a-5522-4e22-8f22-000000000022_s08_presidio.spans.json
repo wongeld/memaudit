@@ -1,0 +1,92 @@
+[
+{
+"start": 10,
+"end": 22,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 50,
+"end": 78,
+"label": "EMAIL",
+"text": "marcus.vance+022@outlook.com"
+},
+{
+"start": 215,
+"end": 221,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 223,
+"end": 236,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 525,
+"end": 531,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 533,
+"end": 546,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 732,
+"end": 738,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 740,
+"end": 753,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 755,
+"end": 764,
+"label": "ORGANIZATION",
+"text": "Ironbound"
+},
+{
+"start": 1883,
+"end": 1889,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1891,
+"end": 1904,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1949,
+"end": 1968,
+"label": "LOCATION",
+"text": "Newark Penn Station"
+},
+{
+"start": 2108,
+"end": 2127,
+"label": "LOCATION",
+"text": "Newark Penn Station"
+},
+{
+"start": 2419,
+"end": 2425,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2427,
+"end": 2440,
+"label": "LOCATION",
+"text": "United States"
+}
+]

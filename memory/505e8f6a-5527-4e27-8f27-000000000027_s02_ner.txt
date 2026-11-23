@@ -1,0 +1,4 @@
+- User is [PERSON] (gregory.halstead+027@gmail.com).
+- Manages mild hypertension.
+- Frequently engages in professional activities and stakeholder reviews in [LOCATION], [LOCATION] ([LOCATION]).
+- Currently experiencing technical issues with the [ORGANIZATION] server tools (`search_places` and `reverse_geocode`).

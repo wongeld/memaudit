@@ -1,0 +1,4 @@
+* ተጠቃሚው "Mild asthma" የተባለ የጤና ሁኔታ አለው።
+* ተጠቃሚው እንደ "Regional Logistics Coordinator" ሆኖ ይሰራል።
+* ተጠቃሚው በ [LOCATION] አካባቢ አገልግሎቶችን ወይም ቦታዎችን የመፈለግ ፍላጎት አለው።
+* ተጠቃሚው ከ [PERSON] ([PHONE], [EMAIL]) ጋር የተያያዙ ቀጠሮዎችን እና ማስታወሻዎችን በ "shopping" ዘርፍ ስር ለማደራጀት ይሞክራል።

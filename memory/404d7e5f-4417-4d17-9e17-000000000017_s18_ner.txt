@@ -1,0 +1,4 @@
+- Mtumiaji ana mpango wa kwenda matembezi ya familia katika [LOCATION] mnamo [DATE].
+- Mtumiaji anashughulikia afya ya familia, hususan hali ya "Mild hypertension".
+- Mtumiaji anahitaji kikumbusho cha kuandaa chakula bora kinachozingatia hali hiyo ya afya kwa ajili ya [PERSON] (simu: +254760298744).
+- Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa ajili ya kuhifadhi shughuli zake za kifamilia.

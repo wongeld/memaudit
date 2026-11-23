@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON], mwenye nambari ya kitambulisho [ID_NUMBER] na profile_id [PROFILE_ID].
+* Anafanya kazi ya ualimu au elimu, ikijumuisha kusimamia majaribio ya wanafunzi darasani na kushirikiana na kamati ya taaluma na wazazi.
+* Huwa na ratiba ya kusimamia jaribio darasani siku ya Jumanne saa 4:30 asubuhi.
+* Anapanga kuratibu ziara ya kielimu na midahalo ya wanafunzi inayohusiana na '[ORGANIZATION]'.
+* Anahusika na eneo la shule lililopo [LOCATION], [LOCATION] ([LOCATION]) lenye majira-nukta latitude 0.2827 na longitude 34.7519.
+* Anapendelea kulinda faragha kwa kuzuia kutumwa kwa taarifa zake binafsi anapotafuta maeneo, na anahitaji nukuu (attribution) ya OpenStreetMap izingatiwe.

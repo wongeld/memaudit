@@ -1,0 +1,75 @@
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu), rekodi kikumbusho (reminder) kwenye mada ya school kwa [PERSON] (profile_id [PROFILE_ID], simu +254170314031) cha kukusanya insha na madaftari ya wanafunzi [DATE] kurekodi kikumbusho chako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya kikumbusho niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: school
+*   **Aina ya Shughuli**: reminder
+*   **Kichwa**: kukusanya insha na madaftari ya wanafunzi
+*   **Muda**: [DATE]   **Nambari ya Simu**: +254170314031
+*   **Notes**: afya njema bila ugonjwa sugu
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha [DATE] kwa [PERSON] (+254170314031), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kurekodi kikumbusho chako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya kikumbusho niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: school
+*   **Aina ya Shughuli**: reminder
+*   **Kichwa**: kukusanya insha na madaftari ya wanafunzi
+*   **Muda**: [DATE]   **Nambari ya Simu**: +254170314031
+*   **Notes**: afya njema bila ugonjwa sugu
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi.
+
+User:
+Naomba urekodi shopping_item kwenye mada ya school kwa [PERSON] (+254170314031) ya kununua vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe huko [LOCATION], [LOCATION] (Itabua); nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kurekodi shopping item yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya shopping item niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: school
+*   **Aina ya Shughuli**: shopping_item
+*   **Kichwa**: vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe
+*   **Mahali**: [LOCATION], [LOCATION]   **Nambari ya Simu**: +254170314031
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla ya kuhifadhi.
+
+User:
+Samahani, ongeza kwenye maelezo (notes) kuwa vitabu hivyo ni nakala 20 za fasihi kwa [PERSON] (+254170314031) kwenye profile_id [PROFILE_ID], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kurekodi shopping item yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo niliyopewa kwa [PERSON]   **Profile ID**: [PROFILE_ID]
+*   **Nambari ya Simu**: +254170314031
+
+Na hivi ndivyo ilivyobadilishwa kwa shopping item:
+*   **Mada**: school
+*   **Aina ya Shughuli**: shopping_item
+*   **Kichwa**: vitabu vya kiada, kamusi za Kiswahili, na kalamu za ubao mweupe
+*   **Mahali**: [LOCATION], [LOCATION]   **Maelezo (Notes)**: vitabu hivyo ni nakala 20 za fasihi
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla ya kuhifadhi.
+
+User:
+Rekodi booking kwenye mada ya school ya ukumbi wa mikutano wa shule huko [LOCATION], [LOCATION]) kwa [PERSON] (+254170314031) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kurekodi booking yako kwa sababu ya maelezo mapya.
+
+Haya ndiyo maelezo ya booking niliyopewa:
+*   **Profile ID**: [PROFILE_ID]
+*   **Mada**: school
+*   **Aina ya Shughuli**: booking
+*   **Kichwa**: ukumbi wa mikutano wa shule
+*   **Muda**: [DATE]   **Mahali**: [LOCATION], [LOCATION]   **Nambari ya Simu**: +254170314031
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi kabla ya kuhifadhi.

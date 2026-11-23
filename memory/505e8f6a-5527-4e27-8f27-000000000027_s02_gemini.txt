@@ -1,0 +1,4 @@
+- The user is [PERSON] ([EMAIL]).
+- The user manages mild hypertension.
+- The user frequently coordinates professional commitments and stakeholder reviews in [LOCATION], [LOCATION] ([LOCATION]).
+- The user is currently experiencing technical issues with the assistant's ability to save work activities and access OpenStreetMap tools.

@@ -1,0 +1,182 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 42,
+"end": 52,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 110,
+"end": 117,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 119,
+"end": 124,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 126,
+"end": 134,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 480,
+"end": 490,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 493,
+"end": 506,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 513,
+"end": 526,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 539,
+"end": 568,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 575,
+"end": 580,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 971,
+"end": 984,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 993,
+"end": 1006,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1731,
+"end": 1738,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1740,
+"end": 1745,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1747,
+"end": 1755,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1761,
+"end": 1774,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1776,
+"end": 1789,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2078,
+"end": 2085,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2087,
+"end": 2092,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2094,
+"end": 2102,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 2134,
+"end": 2144,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2166,
+"end": 2179,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2329,
+"end": 2339,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2368,
+"end": 2381,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2383,
+"end": 2396,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2701,
+"end": 2708,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2710,
+"end": 2715,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2717,
+"end": 2725,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 2757,
+"end": 2767,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2789,
+"end": 2802,
+"label": "PHONE",
+"text": "+254760298744"
+}
+]

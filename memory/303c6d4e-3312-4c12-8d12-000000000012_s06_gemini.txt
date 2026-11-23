@@ -1,0 +1,5 @@
+* የጤና ሁኔታው/ዋ 'Hypothyroidism' ነው።
+* የሥራ መስኩ/ዋ 'Broadcast Lifestyle Journalist' ነው።
+* የቤተሰብ ሁኔታው/ዋ ባለትዳር እና የሦስት ልጆች ወላጅ ('Married with three children') ነው።
+* ከ[PERSON] ጋር የተያያዘ profile_id [[ID_NUMBER]] እና የስልክ ቁጥር [PHONE] ይጠቀማል/ትጠቀማለች።
+* በ[LOCATION] ([LOCATION]) ለቤተሰብ፣ ለጤና እና ለሥራ የሚያስፈልጉ ቁሳቁሶችን ይገዛል/ትገዛለች እንዲሁም የቦታ/አገልግሎት ማስያዣዎችን ያደርጋል/ታደርጋለች።

@@ -1,0 +1,5 @@
+- Mtumiaji anashirikiana na [PERSON] (simu: [PHONE], ID: [[ID_NUMBER]]) katika masuala ya manunuzi (shopping).
+- Ana ratiba ya kuchukua bidhaa na dawa kwenye duka la dawa huko [LOCATION] kila Ijumaa saa 10:30 jioni.
+- Ana miadi ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION] kila Alhamisi saa 8:00 mchana.
+- Ana utaratibu wa kupanga usafiri wa kuleta bidhaa nyumbani [LOCATION] kila Jumamosi saa 9:00 alasiri.
+- Anapendelea kupata muhtasari wa maelezo na kuthibitisha kabla ya kuhifadhiwa kwa vikumbusho, miadi, au booking zake.

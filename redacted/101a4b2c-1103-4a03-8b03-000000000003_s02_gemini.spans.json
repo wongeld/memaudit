@@ -1,0 +1,116 @@
+[
+{
+"start": 79,
+"end": 90,
+"label": "ID_NUMBER",
+"text": "40472954411"
+},
+{
+"start": 243,
+"end": 249,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 785,
+"end": 796,
+"label": "ID_NUMBER",
+"text": "40472954411"
+},
+{
+"start": 1003,
+"end": 1009,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1246,
+"end": 1252,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1539,
+"end": 1571,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 1664,
+"end": 1670,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1691,
+"end": 1723,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 1968,
+"end": 2000,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2030,
+"end": 2036,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2088,
+"end": 2120,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2180,
+"end": 2188,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2322,
+"end": 2328,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2452,
+"end": 2460,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2491,
+"end": 2523,
+"label": "LOCATION",
+"text": "Kakamega Forest National Reserve"
+},
+{
+"start": 2741,
+"end": 2749,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2751,
+"end": 2756,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2758,
+"end": 2764,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2824,
+"end": 2830,
+"label": "PERSON",
+"text": "Daniel"
+}
+]

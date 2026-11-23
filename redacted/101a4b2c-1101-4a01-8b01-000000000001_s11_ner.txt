@@ -1,0 +1,14 @@
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] (+254122951015), tafadhali ihifadhi.
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] (+254122951015) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION]); tafadhali thibitisha.
+
+User:
+Samahani, badilisha kichwa cha shopping_item kiwe 'Shajara ya ratiba ya kila siku na mahitaji ya afya (Mild seasonal allergic rhinitis)' kwa [PERSON] (+254122951015) na urudie maelezo yote ili nithibitishe.
+
+User:
+Rekodi booking kwenye daily_planning ya muda wa mazoezi ya afya [DATE] huko [LOCATION]) kwa [PERSON] (+254122951015) na unionyeshe muhtasari kabla ya kuhifadhi.
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu nitakuwa na kikao cha jioni, usihifadhi chochote.

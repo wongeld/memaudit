@@ -1,0 +1,176 @@
+[
+{
+"start": 59,
+"end": 75,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 146,
+"end": 176,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 236,
+"end": 284,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 509,
+"end": 539,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 555,
+"end": 581,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 776,
+"end": 800,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 805,
+"end": 821,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1107,
+"end": 1137,
+"label": "EMAIL",
+"text": "valentine.nayaku+016@gmail.com"
+},
+{
+"start": 1153,
+"end": 1179,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n*"
+},
+{
+"start": 1378,
+"end": 1394,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 1449,
+"end": 1453,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1455,
+"end": 1460,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1470,
+"end": 1493,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi"
+},
+{
+"start": 1781,
+"end": 1806,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi\n*"
+},
+{
+"start": 1821,
+"end": 1825,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1827,
+"end": 1832,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2008,
+"end": 2031,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi"
+},
+{
+"start": 2036,
+"end": 2052,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2219,
+"end": 2238,
+"label": "PERSON",
+"text": "Valentine Nayaku:\n*"
+},
+{
+"start": 2294,
+"end": 2305,
+"label": "PERSON",
+"text": "Valentine\n*"
+},
+{
+"start": 2328,
+"end": 2336,
+"label": "PERSON",
+"text": "Nayaku\n*"
+},
+{
+"start": 2556,
+"end": 2581,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi\n*"
+},
+{
+"start": 2596,
+"end": 2600,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2602,
+"end": 2627,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n\nTafadhali"
+},
+{
+"start": 2721,
+"end": 2737,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 2806,
+"end": 2810,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2812,
+"end": 2825,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 3161,
+"end": 3165,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3167,
+"end": 3183,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n*"
+}
+]

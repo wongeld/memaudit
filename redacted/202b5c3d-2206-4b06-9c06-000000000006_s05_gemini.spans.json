@@ -1,0 +1,74 @@
+[
+{
+"start": 22,
+"end": 35,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 37,
+"end": 50,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 57,
+"end": 84,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 104,
+"end": 131,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 297,
+"end": 310,
+"label": "PERSON",
+"text": "Dereje Diriba"
+},
+{
+"start": 558,
+"end": 585,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 610,
+"end": 623,
+"label": "PHONE",
+"text": "+251996949340"
+},
+{
+"start": 639,
+"end": 666,
+"label": "EMAIL",
+"text": "dereje.diriba+006@gmail.com"
+},
+{
+"start": 1327,
+"end": 1354,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1412,
+"end": 1433,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1560,
+"end": 1581,
+"label": "LOCATION",
+"text": "Edna Mall Addis Ababa"
+},
+{
+"start": 1652,
+"end": 1679,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

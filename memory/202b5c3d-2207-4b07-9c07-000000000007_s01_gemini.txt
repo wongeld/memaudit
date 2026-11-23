@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (profile_id: [[ID_NUMBER]])፤ ዕድሜው 46 ዓመት ሲሆን የሚኖረው በ[LOCATION], [LOCATION] ([LOCATION]) ነው።
+* ሙያ፦ University Lecturer (Doctor of Philosophy፣ መታወቂያ [ID_NUMBER])።
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children)።
+* የጤና ሁኔታ፦ 'Mild hypertension' አለበት።
+* አድራሻ እና የመገናኛ መረጃ፦ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ሀገር [LOCATION]፣ እንዲሁም ተመራጭ ቋንቋው አማርኛ ነው።
+* የሥራ ዕቅድ፦ ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) ከ[PERSON] ([PHONE]) ጋር የተያያዘ "የሳምንቱ ዋና ተግባር" አለው።

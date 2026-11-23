@@ -1,0 +1,218 @@
+[
+{
+"start": 59,
+"end": 72,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 104,
+"end": 117,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 143,
+"end": 172,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 227,
+"end": 269,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana.\n\nAssistant:\nSawa"
+},
+{
+"start": 553,
+"end": 587,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana\n**Contact"
+},
+{
+"start": 596,
+"end": 618,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 628,
+"end": 641,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 653,
+"end": 682,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 762,
+"end": 786,
+"label": "DATE",
+"text": "Alhamisi saa 8:00 mchana"
+},
+{
+"start": 791,
+"end": 804,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 806,
+"end": 819,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1189,
+"end": 1202,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1204,
+"end": 1217,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1257,
+"end": 1264,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1266,
+"end": 1271,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1273,
+"end": 1282,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 1284,
+"end": 1307,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi"
+},
+{
+"start": 1585,
+"end": 1618,
+"label": "DATE",
+"text": "Ijumaa saa 3:30 asubuhi\n**Contact"
+},
+{
+"start": 1627,
+"end": 1649,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 1659,
+"end": 1672,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1687,
+"end": 1694,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1696,
+"end": 1717,
+"label": "LOCATION",
+"text": "Kenya (Westlands)\n\nJe"
+},
+{
+"start": 1818,
+"end": 1841,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi"
+},
+{
+"start": 1846,
+"end": 1859,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1861,
+"end": 1874,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2080,
+"end": 2093,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2246,
+"end": 2279,
+"label": "DATE",
+"text": "Ijumaa saa 5:00 asubuhi\n**Contact"
+},
+{
+"start": 2288,
+"end": 2310,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 2320,
+"end": 2333,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2348,
+"end": 2385,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nTafadhali"
+},
+{
+"start": 2468,
+"end": 2481,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2483,
+"end": 2496,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2550,
+"end": 2575,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands"
+},
+{
+"start": 2912,
+"end": 2934,
+"label": "PERSON",
+"text": "Kelvin Mutali\n**Mobile"
+},
+{
+"start": 2944,
+"end": 2957,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2972,
+"end": 3002,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Westlands)\n\nJe"
+}
+]

@@ -1,0 +1,212 @@
+[
+{
+"start": 9,
+"end": 25,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 57,
+"end": 69,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 71,
+"end": 79,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 94,
+"end": 101,
+"label": "DATE",
+"text": "የ39 ዓመት"
+},
+{
+"start": 362,
+"end": 378,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 384,
+"end": 397,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 404,
+"end": 434,
+"label": "EMAIL",
+"text": "shimelis.tilahun+008@gmail.com"
+},
+{
+"start": 440,
+"end": 448,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 577,
+"end": 587,
+"label": "PERSON",
+"text": "Shimelis\n*"
+},
+{
+"start": 606,
+"end": 615,
+"label": "PERSON",
+"text": "Tilahun\n*"
+},
+{
+"start": 637,
+"end": 650,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 666,
+"end": 698,
+"label": "PERSON",
+"text": "shimelis.tilahun+008@gmail.com\n*"
+},
+{
+"start": 714,
+"end": 724,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 793,
+"end": 809,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 822,
+"end": 835,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1098,
+"end": 1113,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1114,
+"end": 1126,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1128,
+"end": 1136,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1169,
+"end": 1185,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1187,
+"end": 1200,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1354,
+"end": 1359,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1391,
+"end": 1409,
+"label": "PERSON",
+"text": "Shimelis Tilahun\n*"
+},
+{
+"start": 1428,
+"end": 1445,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት\n*"
+},
+{
+"start": 1462,
+"end": 1473,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1475,
+"end": 1494,
+"label": "LOCATION",
+"text": "Ethiopia (Kirkos)\n*"
+},
+{
+"start": 1516,
+"end": 1529,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1612,
+"end": 1627,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1635,
+"end": 1651,
+"label": "PERSON",
+"text": "Shimelis Tilahun"
+},
+{
+"start": 1653,
+"end": 1666,
+"label": "PHONE",
+"text": "+251954834664"
+},
+{
+"start": 1829,
+"end": 1834,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1866,
+"end": 1884,
+"label": "PERSON",
+"text": "Shimelis Tilahun\n*"
+},
+{
+"start": 1903,
+"end": 1920,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት\n*"
+},
+{
+"start": 1937,
+"end": 1948,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1950,
+"end": 1969,
+"label": "LOCATION",
+"text": "Ethiopia (Kirkos)\n*"
+},
+{
+"start": 1991,
+"end": 2004,
+"label": "PHONE",
+"text": "+251954834664"
+}
+]

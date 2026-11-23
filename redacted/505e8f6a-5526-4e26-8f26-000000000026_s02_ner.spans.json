@@ -1,0 +1,104 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 228,
+"end": 234,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 236,
+"end": 249,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 251,
+"end": 259,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 564,
+"end": 570,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 572,
+"end": 585,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 587,
+"end": 595,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 702,
+"end": 715,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 855,
+"end": 868,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 1151,
+"end": 1157,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1439,
+"end": 1452,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1472,
+"end": 1514,
+"label": "LOCATION",
+"text": "Boston Children's Hospital Longwood Avenue"
+},
+{
+"start": 1617,
+"end": 1623,
+"label": "PERSON",
+"text": "Nathan"
+},
+{
+"start": 1995,
+"end": 2001,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2003,
+"end": 2016,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2018,
+"end": 2026,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2089,
+"end": 2095,
+"label": "PERSON",
+"text": "Nathan"
+}
+]

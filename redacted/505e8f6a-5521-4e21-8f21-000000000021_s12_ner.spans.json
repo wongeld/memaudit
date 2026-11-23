@@ -1,0 +1,164 @@
+[
+{
+"start": 65,
+"end": 76,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 603,
+"end": 614,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 877,
+"end": 888,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1325,
+"end": 1330,
+"label": "PERSON",
+"text": "James"
+},
+{
+"start": 1602,
+"end": 1608,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1610,
+"end": 1623,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1625,
+"end": 1633,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1665,
+"end": 1676,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 1939,
+"end": 1955,
+"label": "ORGANIZATION",
+"text": "`Conference Room"
+},
+{
+"start": 2022,
+"end": 2028,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2030,
+"end": 2043,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2045,
+"end": 2053,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2077,
+"end": 2088,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2252,
+"end": 2256,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 2270,
+"end": 2281,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 2702,
+"end": 2708,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2710,
+"end": 2723,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2730,
+"end": 2733,
+"label": "LOCATION",
+"text": "Bay"
+},
+{
+"start": 2939,
+"end": 2950,
+"label": "PERSON",
+"text": "James Bosse"
+},
+{
+"start": 3059,
+"end": 3065,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3067,
+"end": 3080,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3082,
+"end": 3090,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 3355,
+"end": 3404,
+"label": "ORGANIZATION",
+"text": "Ergonomic Office Supplies and Reference Materials"
+},
+{
+"start": 3423,
+"end": 3429,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3431,
+"end": 3444,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3446,
+"end": 3454,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 3478,
+"end": 3489,
+"label": "PERSON",
+"text": "James Bosse"
+}
+]

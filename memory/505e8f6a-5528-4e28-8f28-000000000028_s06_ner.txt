@@ -1,0 +1,6 @@
+* The user works as a Hospital Physician.
+* The user frequently travels for work, specifically to [LOCATION], [LOCATION] (Ballard).
+* The user needs to manage travel-related tasks, including reconciling expense receipts, mileage logs, and boarding passes.
+* The user is currently preparing for a trip and needs to purchase travel gear, specifically a carry-on organizer and a portable charger.
+* The user coordinates travel logistics with [PERSON] (phone: +16314978227).
+* The user has a profile ID [PROFILE_ID] used for tracking travel activities.

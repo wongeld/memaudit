@@ -1,0 +1,7 @@
+- Name: Nathan Mercer
+- Age: 38
+- Occupation: University Lecturer
+- Family: Married with two children
+- Location: [LOCATION], [LOCATION] ([LOCATION])
+- Preferred language: English
+- Professional task: Preparing a "Quarterly University Lecturer Briefing" scheduled for Mondays at 09:30 AM, involving contact [PERSON] ([PHONE])

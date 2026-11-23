@@ -1,0 +1,5 @@
+* የጤና ሁኔታቸው መጠነኛ የደም ግፊት (Mild hypertension) አለበት።
+* የሥራ ዘርፋቸው የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ናቸው።
+* ተጓዳኝ የመገለጫ መታወቂያቸው [PROFILE_ID] ሲሆን የተገናኝ ሰው ስም [PERSON] (ስልክ፡ +251906564148) ነው።
+* በ "school" ርዕስ ስር በ[LOCATION], [LOCATION] የሚከናወኑ የክትትል ማስታወሻዎችን፣ የግዢ ዝርዝሮችን እና የቦታ/አገልግሎት ማስያዣዎችን (booking) ያስመዘግባሉ።

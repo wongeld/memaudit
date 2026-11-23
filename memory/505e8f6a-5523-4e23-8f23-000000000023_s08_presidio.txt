@@ -1,0 +1,6 @@
+- User is [PERSON] (ID: [PHONE], email: [EMAIL]).
+- Routinely performs daily planning for evening meal prep and next-day prioritization at 06:30 PM.
+- Has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- Commutes through [LOCATION], [LOCATION] ([LOCATION]).
+- Interested in landmarks and addresses along their commute, specifically near Swedish Ballard Campus Seattle.
+- Experiencing persistent technical issues with the assistant's ability to save activities and perform location-based lookups.

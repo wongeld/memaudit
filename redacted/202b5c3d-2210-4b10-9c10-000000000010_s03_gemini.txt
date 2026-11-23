@@ -1,0 +1,67 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [[ID_NUMBER]]፣ ስልክ [PHONE]) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [[ID_NUMBER]])**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: አርብ ከሰዓት 10:00
+*   **ስልክ**: [PHONE]
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ [PERSON] ([PHONE]) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+በ family ሥር ለ [PERSON] ([PHONE]) በ[LOCATION] ([LOCATION]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [[ID_NUMBER]])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION] ([LOCATION])
+*   **ስልክ**: [PHONE]
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [[ID_NUMBER]] 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] ([PHONE]) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ [PERSON] (profile_id: [[ID_NUMBER]]) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [[ID_NUMBER]])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION] ([LOCATION])
+*   **ስልክ**: [PHONE]
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION] ([LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] ([PHONE]) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [[ID_NUMBER]])**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **አካባቢ**: [LOCATION] ([LOCATION])
+*   **ስልክ**: [PHONE]
+
+ይህንን ማስያዝ ላስቀምጥ?

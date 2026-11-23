@@ -1,0 +1,6 @@
+* Manages mild hypertension.
+* Frequently visits [LOCATION] (Ironbound) for appointments and shopping.
+* Currently organizing a wellness routine involving a daily planner, hydration, and fitness.
+* Schedules morning fitness and stretching sessions on Saturdays at 08:30 AM.
+* Coordinates activities for [PERSON] ([PHONE], profile_id [PROFILE_ID]).
+* Prefers to review and approve bookings before they are finalized.

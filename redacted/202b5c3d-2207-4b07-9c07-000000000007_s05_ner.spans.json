@@ -1,0 +1,98 @@
+[
+{
+"start": 20,
+"end": 34,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 88,
+"end": 101,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 105,
+"end": 133,
+"label": "LOCATION",
+"text": "በAddis Ababa, Ethiopia (Yeka"
+},
+{
+"start": 411,
+"end": 426,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 443,
+"end": 454,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 456,
+"end": 473,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 494,
+"end": 510,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 684,
+"end": 698,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 764,
+"end": 769,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 1127,
+"end": 1148,
+"label": "LOCATION",
+"text": "Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1206,
+"end": 1240,
+"label": "LOCATION",
+"text": "Addis Ababa University Sidist Kilo"
+},
+{
+"start": 1255,
+"end": 1268,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1557,
+"end": 1560,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1680,
+"end": 1683,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1929,
+"end": 1941,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1943,
+"end": 1951,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

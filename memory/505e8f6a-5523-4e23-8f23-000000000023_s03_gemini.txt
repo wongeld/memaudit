@@ -1,0 +1,6 @@
+- The user's name is Evan.
+- He works as an Eco-Tourism Travel Consultant.
+- He frequently travels to [LOCATION], [LOCATION], and [LOCATION].
+- He is currently planning a trip and needs to reconcile travel expense receipts, mileage logs, and boarding passes.
+- He is preparing for travel and needs to purchase a carry-on organizer and a portable charger.
+- He works with [PERSON] (profile_id [[ID_NUMBER]], phone [PHONE]) on his travel logistics.

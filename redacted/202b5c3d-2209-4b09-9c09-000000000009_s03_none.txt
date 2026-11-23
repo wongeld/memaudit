@@ -1,0 +1,69 @@
+User:
+የጤና ሁኔታዬ 'Mild asthma' ስለሆነ እና የHospital Physician ሥራ ስላለብኝ፣ ለ Bereket Tesfaye (profile_id [PROFILE_ID]፣ ስልክ +251945416026) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ work ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ለ Bereket Tesfaye የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "አርብ ከሰዓት 10:00" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ።
+
+እንዲሁም፣ የክትትል ማስታወሻው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: reminder
+*   **title**: የክትትል ማስታወሻ
+*   **contact_name**: Bereket Tesfaye
+*   **mobile_phone**: +251945416026
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Bereket Tesfaye (+251945416026) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "አርብ ከሰዓት 10:00" ላይ ያለውን ትክክለኛ *ቀን* እፈልጋለሁ (ለምሳሌ "2023-10-27 አርብ ከሰዓት 10:00")።
+
+User:
+በ work ሥር ለ Bereket Tesfaye (+251945416026) በMekelle, Ethiopia (Ayder) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: Bereket Tesfaye
+*   **mobile_phone**: +251945416026
+*   **location**: Mekelle, Ethiopia (Ayder)
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Hospital Physician እና Single አገልግሎት የሚውል' ብለህ ለ Bereket Tesfaye (+251945416026) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ ለግዢው እንቅስቃሴ ዝርዝሩን አረጋግጥልኝ። ትክክል መሆናቸውን አረጋግጥ።
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: shopping_item
+*   **title**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **contact_name**: Bereket Tesfaye
+*   **mobile_phone**: +251945416026
+*   **location**: Mekelle, Ethiopia (Ayder)
+*   **notes**: Hospital Physician እና Single አገልግሎት የሚውል
+
+ይህንን መረጃ ላስቀምጥ?
+
+User:
+በ work ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በMekelle, Ethiopia (Ayder) የአገልግሎት/የቦታ booking ለ Bereket Tesfaye (+251945416026) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ለ Bereket Tesfaye የቦታ ማስያዣውን ከመመዝገቤ በፊት፣ ለዚህ እንቅስቃሴ የተወሰነ ቀን መስጠት ትችላለህ? "ቅዳሜ ጠዋት 4:00 ሰዓት" ላይ ያለውን ትክክለኛ ቀን እፈልጋለሁ።
+
+እንዲሁም፣ የቦታ ማስያዣው ዝርዝሮች የሚከተሉት ናቸው። ትክክል መሆናቸውን አረጋግጥልኝ።
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: work
+*   **activity_type**: booking
+*   **title**: የአገልግሎት/የቦታ booking
+*   **contact_name**: Bereket Tesfaye
+*   **mobile_phone**: +251945416026
+*   **location**: Mekelle, Ethiopia (Ayder)
+*   **date_time**: [እባክህ የተወሰነ ቀን ጨምር]

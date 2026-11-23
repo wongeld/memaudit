@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: evan.lindqvist+023@gmail.com).
+- The user is experiencing persistent technical issues with the assistant's tools, specifically regarding saving activities/profiles and using OpenStreetMap services.
+- The user is interested in comparing vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]).
+- The user is interested in finding retail locations and addresses near [LOCATION], [LOCATION] ([LOCATION]).
+- The user attempted to look up a specific location at latitude 47.6655 and longitude -122.3972.

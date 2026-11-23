@@ -1,0 +1,242 @@
+[
+{
+"start": 119,
+"end": 133,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 147,
+"end": 157,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 165,
+"end": 178,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 269,
+"end": 275,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 590,
+"end": 600,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 797,
+"end": 810,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 983,
+"end": 997,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 999,
+"end": 1012,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1058,
+"end": 1064,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1371,
+"end": 1385,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 1387,
+"end": 1400,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 1482,
+"end": 1490,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1492,
+"end": 1497,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1499,
+"end": 1505,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 1553,
+"end": 1559,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 1753,
+"end": 1763,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1916,
+"end": 1924,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 1926,
+"end": 1931,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1933,
+"end": 1939,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 1963,
+"end": 1976,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2121,
+"end": 2135,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2137,
+"end": 2150,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2171,
+"end": 2181,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2246,
+"end": 2252,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 2461,
+"end": 2471,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2624,
+"end": 2632,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2634,
+"end": 2639,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2641,
+"end": 2647,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2671,
+"end": 2684,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 2863,
+"end": 2871,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 2873,
+"end": 2878,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2880,
+"end": 2886,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 2892,
+"end": 2906,
+"label": "PERSON",
+"text": "Daniel Wemanya"
+},
+{
+"start": 2908,
+"end": 2921,
+"label": "PHONE",
+"text": "+254742509640"
+},
+{
+"start": 3010,
+"end": 3016,
+"label": "PERSON",
+"text": "Daniel"
+},
+{
+"start": 3301,
+"end": 3311,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3490,
+"end": 3498,
+"label": "LOCATION",
+"text": "Kakamega"
+},
+{
+"start": 3500,
+"end": 3505,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 3507,
+"end": 3513,
+"label": "LOCATION",
+"text": "Malava"
+},
+{
+"start": 3537,
+"end": 3550,
+"label": "PHONE",
+"text": "+254742509640"
+}
+]

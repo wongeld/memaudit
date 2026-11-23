@@ -1,0 +1,128 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 189,
+"end": 204,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 210,
+"end": 216,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 218,
+"end": 226,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 681,
+"end": 696,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 1172,
+"end": 1209,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1210,
+"end": 1216,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1276,
+"end": 1311,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1335,
+"end": 1372,
+"label": "ORGANIZATION",
+"text": "Mount Meru Regional Referral Hospital"
+},
+{
+"start": 1373,
+"end": 1379,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1401,
+"end": 1414,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1483,
+"end": 1503,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nHata"
+},
+{
+"start": 1564,
+"end": 1577,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1581,
+"end": 1594,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1828,
+"end": 1834,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1836,
+"end": 1844,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1874,
+"end": 1909,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1972,
+"end": 1985,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2054,
+"end": 2074,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nHata"
+},
+{
+"start": 2135,
+"end": 2148,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2152,
+"end": 2165,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

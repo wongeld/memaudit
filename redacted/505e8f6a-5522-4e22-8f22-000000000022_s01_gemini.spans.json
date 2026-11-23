@@ -1,0 +1,176 @@
+[
+{
+"start": 10,
+"end": 22,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 37,
+"end": 47,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 110,
+"end": 116,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 118,
+"end": 131,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 133,
+"end": 142,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 470,
+"end": 480,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 532,
+"end": 544,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 552,
+"end": 580,
+"label": "EMAIL",
+"text": "marcus.vance+022@outlook.com"
+},
+{
+"start": 590,
+"end": 603,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1003,
+"end": 1015,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1034,
+"end": 1046,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1462,
+"end": 1472,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1659,
+"end": 1671,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1694,
+"end": 1706,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 1842,
+"end": 1848,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1850,
+"end": 1863,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1865,
+"end": 1874,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1897,
+"end": 1907,
+"label": "ID_NUMBER",
+"text": "1815853866"
+},
+{
+"start": 2114,
+"end": 2126,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2128,
+"end": 2140,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2232,
+"end": 2242,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2429,
+"end": 2441,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2464,
+"end": 2476,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2661,
+"end": 2671,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2716,
+"end": 2728,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 2733,
+"end": 2745,
+"label": "PHONE",
+"text": "+14787564875"
+},
+{
+"start": 2875,
+"end": 2885,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3072,
+"end": 3084,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 3107,
+"end": 3119,
+"label": "PHONE",
+"text": "+14787564875"
+}
+]

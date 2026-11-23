@@ -1,0 +1,5 @@
+- Mtumiaji anajihusisha na shughuli za manunuzi (shopping) zinazohusisha bidhaa na dawa.
+- Anafanya kazi na [PERSON] (simu: [PHONE], profile_id: [PROFILE_ID]) katika kuratibu shughuli hizi.
+- Shughuli zake zinajumuisha ukaguzi wa ubora wa bidhaa na wauzaji katika [LOCATION].
+- Anapanga usafiri wa kuleta bidhaa nyumbani katika [LOCATION].
+- Anatumia mfumo wa msaidizi wa AI kuratibu vikumbusho, miadi, na booking za manunuzi.

@@ -1,0 +1,66 @@
+User:
+የጤና ሁኔታዬ 'Mild hypertension' ስለሆነ እና የUniversity Lecturer ሥራ ስላለብኝ፣ ለ Andualem Abate (profile_id [PROFILE_ID]፣ ስልክ +251906564148) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ የሚከተለውን የክትትል ማስታወሻ ዝርዝር አረጋግጥልኝ። ትክክል ከሆነ አስቀምጠዋለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** family
+*   **Activity Type:** reminder
+*   **Title:** የክትትል ማስታወሻ
+*   **Date/Time:** አርብ ከሰዓት 10:00
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+
+እነዚህ መረጃዎች ትክክል ከሆኑ አሁን ላስመዘግበው?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Andualem Abate (+251906564148) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+ይቅርታ! የክትትል ማስታወሻው አልተቀመጠም። ከዚህ በፊትም በተመሳሳይ መልኩ አልተቀመጠም ነበር።
+
+ይህን እንቅስቃሴ ለመመዝገብ በመጀመሪያ መገለጫህ በትክክል መመዝገብ አለበት። መገለጫህን ለማስቀመጥ ተደጋጋሚ ሙከራዎች ቢደረጉም፣ `save_user_profile` የሚለው መሳሪያ "ተሰርዟል. ምንም መገለጫ አልተቀመጠም" የሚል ምላሽ እየሰጠ ነው።
+
+እንደገና እንድሞክር ትፈልጋለህ?
+
+User:
+በ family ሥር ለ Andualem Abate (+251906564148) በAddis Ababa, Ethiopia (Yeka) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የ Andualem Abate መገለጫ እስካሁን በትክክል አልተቀመጠም። ከዚህ ቀደም የተደረጉ የመገለጫ እና የእንቅስቃሴ ማስቀመጥ ሙከራዎች ተሰርዘዋል። በዚህ ምክንያት፣ ይህን የቤተሰብ ግዢ ተግባርም አሁን ማስቀመጥ አልችልም።
+
+የመገለጫህን መረጃ (profile_id: [PROFILE_ID]፣ ስም Andualem Abate፣ ስልክ +251906564148፣ ኢሜይል andualem.abate+007@outlook.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ) ማስቀመጥ አልቻልኩም።
+
+ይህን ችግር ለመፍታት ምን ማድረግ ትፈልጋለህ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'University Lecturer እና Married with two children አገልግሎት የሚውል' ብለህ ለ Andualem Abate (+251906564148) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+ይቅርታ፣ የ Andualem Abate መገለጫ እስካሁን በትክክል አልተቀመጠም። ከዚህ ቀደም የተደረጉ የመገለጫ እና የእንቅስቃሴ ማስቀመጥ ሙከራዎች ተሰርዘዋል። በዚህ ምክንያት፣ የ `shopping_item` ማስታወሻውን ማስተካከል አልችልም ምክንያቱም ተግባሩ ገና አልተመዘገበም።
+
+የመገለጫህን መረጃ (profile_id: [PROFILE_ID]፣ ስም Andualem Abate፣ ስልክ +251906564148፣ ኢሜይል andualem.abate+007@outlook.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ) ማስቀመጥ አልቻልኩም።
+
+ይህን ችግር ለመፍታት ምን ማድረግ ትፈልጋለህ?
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በAddis Ababa, Ethiopia (Yeka) የአገልግሎት/የቦታ booking ለ Andualem Abate (+251906564148) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+ይቅርታ፣ የ Andualem Abate መገለጫ እስካሁን በትክክል አልተቀመጠም። ከዚህ ቀደም የተደረጉ የመገለጫ እና የእንቅስቃሴ ማስቀመጥ ሙከራዎች ተሰርዘዋል። በዚህ ምክንያት፣ ይህን የቤተሰብ ማስያዣ ተግባርም አሁን ማስቀመጥ አልችልም።
+
+የመገለጫህን መረጃ (profile_id: [PROFILE_ID]፣ ስም Andualem Abate፣ ስልክ +251906564148፣ ኢሜይል andualem.abate+007@outlook.com፣ ሀገር Ethiopia፣ ቋንቋ አማርኛ) ማስቀመጥ አልቻልኩም።
+
+እባክህ የሚከተለውን የአገልግሎት/የቦታ ማስያዣ ዝርዝር አረጋግጥልኝ። ምንም እንኳን አሁን ማስቀመጥ ባልችልም፣ ዝርዝሩን ማቅረብ እችላለሁ።
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** family
+*   **Activity Type:** booking
+*   **Title:** የአገልግሎት/የቦታ booking
+*   **Date/Time:** ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **Location:** Addis Ababa, Ethiopia (Yeka)
+*   **Contact Name:** Andualem Abate
+*   **Mobile Phone:** +251906564148
+
+ይህን ችግር ለመፍታት ምን ማድረግ ትፈልጋለህ?

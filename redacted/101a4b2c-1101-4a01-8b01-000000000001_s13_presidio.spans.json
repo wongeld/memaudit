@@ -1,0 +1,158 @@
+[
+{
+"start": 61,
+"end": 72,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 149,
+"end": 153,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 155,
+"end": 168,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 341,
+"end": 352,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 481,
+"end": 506,
+"label": "DATE",
+"text": "Jumamosi saa 2:00 asubuhi"
+},
+{
+"start": 512,
+"end": 516,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 518,
+"end": 531,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 537,
+"end": 548,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 644,
+"end": 659,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 761,
+"end": 776,
+"label": "DATE",
+"text": "saa 11:30 jioni"
+},
+{
+"start": 968,
+"end": 1012,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital'.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1043,
+"end": 1064,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1294,
+"end": 1315,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 1445,
+"end": 1462,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap MCP"
+},
+{
+"start": 1652,
+"end": 1655,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2248,
+"end": 2261,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2398,
+"end": 2411,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2511,
+"end": 2522,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2585,
+"end": 2596,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3076,
+"end": 3087,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3114,
+"end": 3118,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3120,
+"end": 3125,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 3127,
+"end": 3141,
+"label": "LOCATION",
+"text": "Itabua)\n**Aina"
+},
+{
+"start": 3426,
+"end": 3437,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 3464,
+"end": 3468,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 3470,
+"end": 3491,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n**Aina"
+}
+]

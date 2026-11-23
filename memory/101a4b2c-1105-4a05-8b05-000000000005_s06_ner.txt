@@ -1,0 +1,6 @@
+* Anahusiana na jina [PERSON], mwenye kitambulisho cha wasifu [PROFILE_ID] na nambari ya simu +255629410386.
+* Hufanya shughuli na mipango yake katika eneo la [LOCATION], [LOCATION] (Njiro).
+* Ana changamoto ya kiafya ya mzio (Mild seasonal allergic rhinitis).
+* Ana mpango wa kufanya ukaguzi wa afya na ushauri wa lishe tarehe [DATE] huko [LOCATION], [LOCATION] (Njiro).
+* Anahitaji kununua shajara ya ratiba ya kila siku pamoja na mahitaji ya afya.
+* Amepanga muda wa mazoezi ya afya tarehe [DATE] huko [LOCATION], [LOCATION] (Njiro).

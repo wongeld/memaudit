@@ -1,0 +1,66 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ [PERSON] (profile_id [PROFILE_ID]፣ ስልክ +251960170802) [DATE] ላይ የክትትል ማስታወሻ (reminder) በ daily_planning ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: [DATE]   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ [DATE] ማስታወሻ ለ [PERSON] (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። `record_user_activity` እና `save_user_profile` መሳሪያዎች ምንም አይነት መረጃ እያስቀመጡ ያሉ አይመስልም።
+
+ይህ ለምን እየሆነ እንደሆነ ለማጣራት፣ መረጃዎች የት እንደሚቀመጡ ማየት አለብኝ።
+
+መጀመሪያ፣ የፕሮፋይል እና የእንቅስቃሴ መረጃዎች የሚቀመጡባቸውን ፋይሎች ለማግኘት የፕሮጀክቱን አወቃቀር እመለከታለሁ።
+
+User:
+በ daily_planning ሥር ለ [PERSON] (+251960170802) [PERSON], [LOCATION] ([PERSON]) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ [PERSON] (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ [PERSON] (profile_id: [PROFILE_ID]) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: [LOCATION], [LOCATION] ([LOCATION]   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ daily_planning ሥር [DATE] [LOCATION], [LOCATION] ([LOCATION]) የአገልግሎት/የቦታ booking ለ [PERSON] (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ [PERSON] (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ዕለታዊ ዕቅድ (daily_planning)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: [DATE]   **አካባቢ**: [LOCATION], [LOCATION] (Belay [LOCATION]   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?

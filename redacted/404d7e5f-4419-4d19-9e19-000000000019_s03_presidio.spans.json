@@ -1,0 +1,170 @@
+[
+{
+"start": 59,
+"end": 73,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 105,
+"end": 118,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 170,
+"end": 195,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 478,
+"end": 510,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n**Jina"
+},
+{
+"start": 585,
+"end": 598,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 671,
+"end": 696,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 701,
+"end": 715,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 717,
+"end": 730,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1011,
+"end": 1043,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n**Jina"
+},
+{
+"start": 1118,
+"end": 1131,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1221,
+"end": 1235,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1237,
+"end": 1250,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1319,
+"end": 1325,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1327,
+"end": 1335,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1616,
+"end": 1632,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 1666,
+"end": 1690,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 1702,
+"end": 1715,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 1839,
+"end": 1853,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1855,
+"end": 1868,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2163,
+"end": 2179,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 2213,
+"end": 2237,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2249,
+"end": 2262,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2397,
+"end": 2411,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2413,
+"end": 2426,
+"label": "PHONE",
+"text": "+255605567258"
+},
+{
+"start": 2489,
+"end": 2505,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 2831,
+"end": 2847,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 2881,
+"end": 2905,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2917,
+"end": 2930,
+"label": "PHONE",
+"text": "+255605567258"
+}
+]

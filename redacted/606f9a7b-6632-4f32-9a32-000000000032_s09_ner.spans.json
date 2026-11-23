@@ -1,0 +1,230 @@
+[
+{
+"start": 120,
+"end": 126,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 128,
+"end": 141,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 143,
+"end": 151,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 179,
+"end": 189,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 499,
+"end": 505,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 507,
+"end": 520,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 522,
+"end": 530,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 552,
+"end": 562,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 763,
+"end": 773,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 872,
+"end": 882,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1205,
+"end": 1211,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1213,
+"end": 1226,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1228,
+"end": 1236,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1258,
+"end": 1268,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1382,
+"end": 1388,
+"label": "PERSON",
+"text": "Rachel"
+},
+{
+"start": 1518,
+"end": 1524,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1526,
+"end": 1539,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1541,
+"end": 1549,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1793,
+"end": 1799,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1801,
+"end": 1814,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1816,
+"end": 1824,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1846,
+"end": 1856,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2152,
+"end": 2158,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2164,
+"end": 2181,
+"label": "ORGANIZATION",
+"text": "Wellness Supplies"
+},
+{
+"start": 2187,
+"end": 2197,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2477,
+"end": 2483,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2523,
+"end": 2529,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2531,
+"end": 2544,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2546,
+"end": 2554,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 2576,
+"end": 2586,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2855,
+"end": 2865,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 2929,
+"end": 2935,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2937,
+"end": 2950,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2957,
+"end": 2960,
+"label": "LOCATION",
+"text": "Bay"
+},
+{
+"start": 3281,
+"end": 3287,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 3289,
+"end": 3302,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3304,
+"end": 3312,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 3334,
+"end": 3344,
+"label": "PERSON",
+"text": "Rachel Kim"
+}
+]

@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 205,
+"end": 230,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 236,
+"end": 243,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 245,
+"end": 279,
+"label": "LOCATION",
+"text": "Kenya (Kilimani).\n\nAssistant:\nSawa"
+},
+{
+"start": 569,
+"end": 606,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri\n**Mahali:**"
+},
+{
+"start": 607,
+"end": 614,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 616,
+"end": 647,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 766,
+"end": 791,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1393,
+"end": 1410,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1452,
+"end": 1469,
+"label": "LOCATION",
+"text": "Nairobi Arboretum"
+},
+{
+"start": 1529,
+"end": 1564,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1618,
+"end": 1631,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1810,
+"end": 1834,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1857,
+"end": 1892,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1935,
+"end": 1948,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

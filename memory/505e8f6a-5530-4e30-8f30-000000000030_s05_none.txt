@@ -1,0 +1,5 @@
+* User's name is Julian Brooks.
+* Resides in the Hyde Park neighborhood of Austin, United States.
+* Manages mild seasonal allergic rhinitis.
+* Frequently travels and uses a travel kit with health essentials.
+* Currently experiencing technical issues with the OpenStreetMap/Nominatim integration.

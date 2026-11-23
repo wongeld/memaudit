@@ -1,0 +1,6 @@
+* ስም፡ [PERSON] (የመገለጫ መታወቂያ፦ [[ID_NUMBER]]፣ መታወቂያ፦ [ID_NUMBER])።
+* የ29 ዓመት፣ ያላገባ (Single) እና በ[LOCATION] ([LOCATION])፣ ኢትዮጵያ የሚኖር።
+* ሙያ፡ የሆስፒታል ሐኪም (Hospital Physician / Doctor of Medicine)።
+* የጤና ሁኔታ፡ 'Mild asthma' (ቀላል የአስም በሽታ) አለበት።
+* የእውቂያ መረጃዎች፡ ስልክ [PHONE]፣ ኢሜይል [EMAIL] ሲሆኑ ተመራጭ ቋንቋው አማርኛ ነው።
+* በሥራው በ[LOCATION] ([LOCATION]) በየሰኞ ጠዋት 3:00 ሰዓት የሳምንቱ ዋና ተግባር አለው።

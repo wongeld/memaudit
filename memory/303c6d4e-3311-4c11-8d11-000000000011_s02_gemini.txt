@@ -1,0 +1,4 @@
+* የመገለጫ መለያው (profile_id) [PROFILE_ID] ሲሆን ከሥራ ጋር የተያያዙ ጉዳዮችን ያከናውናል።
+* ከ [PERSON] ([PHONE]፣ [EMAIL]) ጋር የሥራ ግንኙነት እና የምክክር ቀጠሮ ዕቅድ አለው።
+* በ[LOCATION]) አካባቢ (በተለይ በ latitude 8.9972 እና longitude 38.7869) ለጉዳዩ የሚሆን ቦታ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይጋራ እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይፈልጋል።

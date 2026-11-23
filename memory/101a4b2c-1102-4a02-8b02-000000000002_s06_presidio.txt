@@ -1,0 +1,5 @@
+* Anashughulikia kumbukumbu na ratiba za manunuzi (shopping) kwa ajili ya [PERSON] (Profile ID: [PROFILE_ID], Simu: [PHONE]).
+* Ana mpango wa kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION] mnamo [DATE].
+* Ana miadi ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION] tarehe [DATE].
+* Ana mpango wa kuweka booking ya usafiri wa kuleta bidhaa nyumbani huko [LOCATION], [LOCATION] mnamo [DATE].
+* Hupendelea kupewa muhtasari na kuthibitisha maelezo yote kabla shughuli haijahifadhiwa.

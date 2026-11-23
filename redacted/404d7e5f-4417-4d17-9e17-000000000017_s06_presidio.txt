@@ -1,0 +1,58 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya shopping kwa [PERSON] (profile_id [PROFILE_ID], simu [PHONE]) cha kuchukua agizo la bidhaa na dawa kwenye duka la dawa huko [LOCATION]) [DATE], ninaelewa. Sasa narekodi kikumbusho chako cha kuchukua agizo la bidhaa na dawa. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Kikumbusho
+**Mada:** Shopping
+**Kichwa:** Kuchukua agizo la bidhaa na dawa kwenye duka la dawa
+**Tarehe/Muda:** [DATE] [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha manunuzi kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Ninaelewa kuwa umethibitisha kikumbusho hicho. Nimejaribu kukihifadhi, lakini mfumo umetoa ujumbe wa "Canceled. No activity was saved." Inaonekana mfumo unaendelea kuhitaji uthibitisho wa ziada kabla ya kuhifadhi kabisa shughuli.
+
+User:
+Naomba urekodi miadi (appointment) kwenye mada ya shopping kwa [PERSON] ([PHONE]) ya kukagua ubora wa bidhaa na muuzaji huko [LOCATION]) [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi miadi yako ya kukagua ubora wa bidhaa na muuzaji. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Miadi
+**Mada:** Shopping
+**Kichwa:** Kukagua ubora wa bidhaa na muuzaji
+**Tarehe/Muda:** [DATE] [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Samahani, badilisha muda wa miadi hiyo ya muuzaji uwe [DATE] kwa [PERSON] ([PHONE]) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi upya miadi hiyo na muda mpya, [DATE], na nitaonyesha maelezo yote ili uthibitishe:
+
+**Aina ya Shughuli:** Miadi
+**Mada:** Shopping
+**Kichwa:** Kukagua ubora wa bidhaa na muuzaji
+**Tarehe/Muda:** [DATE] [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Rekodi booking kwenye mada ya shopping ya usafiri wa kuleta bidhaa nyumbani [LOCATION]) kwa [PERSON] ([PHONE]) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi booking yako ya usafiri wa kuleta bidhaa nyumbani. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+**Aina ya Shughuli:** Booking
+**Mada:** Shopping
+**Kichwa:** Usafiri wa kuleta bidhaa nyumbani
+**Tarehe/Muda:** [DATE] [LOCATION] cha Wasifu:** [PROFILE_ID]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.

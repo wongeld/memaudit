@@ -1,0 +1,40 @@
+User:
+Mimi [PERSON] (kitambulisho [ID_NUMBER], Married with two children), nataka kurekodi kazi (task) kwenye mada ya shopping ya kulinganisha bei za wauzaji wa jumla na rejareja Jumamosi saa 4:00 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]).
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi kazi yako ya kulinganisha bei za wauzaji wa jumla na rejareja. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Kazi
+**Mada:** Shopping
+**Kichwa:** Kulinganisha bei za wauzaji wa jumla na rejareja
+**Tarehe/Muda:** Jumamosi saa 4:00 asubuhi
+**Mahali:** [LOCATION], [LOCATION] ([LOCATION])
+**Kitambulisho cha Wasifu:** [PROFILE_ID]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Hapana, ghairi kazi hiyo ya Jumamosi saa 4:00 asubuhi kwa sasa kwa sababu tayari nimepata orodha ya bei kwa barua pepe [EMAIL], usihifadhi.
+
+Assistant:
+Naelewa, kazi hiyo imefutwa. Hakuna shughuli iliyohifadhiwa.
+
+Je, kuna jambo lingine ambalo ningeweza kukusaidia nalo?
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya shopping kwa profile_id [PROFILE_ID].
+
+Assistant:
+Ninaona kuwa hakuna shughuli za mada ya "shopping" zilizohifadhiwa kwa profile_id [PROFILE_ID]. Inaonekana shughuli zote ulizojaribu kurekodi zimeghairiwa au hazijahifadhiwa kutokana na hitaji la uthibitisho la mfumo.
+
+User:
+Ninataka kwenda kufanya manunuzi; tafadhali tumia search_places kutafuta '[LOCATION] [LOCATION] [LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na tatizo katika kutafuta eneo kwa kutumia OpenStreetMap. Inaonekana bado kuna tatizo na huduma hii.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya kituo cha biashara chenye majira-nukta latitude -1.2889 na longitude 36.7832 huko [LOCATION], [LOCATION] ([LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, inaonekana bado kuna tatizo na huduma za OpenStreetMap. Nimejaribu kutambua anwani kwa kutumia majira-nukta uliyotoa, lakini nimepata ujumbe wa hitilafu.

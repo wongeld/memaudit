@@ -1,0 +1,5 @@
+* User is [PERSON] (ID: 2618018820, email: [EMAIL], phone: +18694794339).
+* Interested in comparing vendor quotes and seasonal prices for shopping tasks.
+* Currently experiencing technical issues with the [ORGANIZATION] MCP server, preventing the use of `search_places` and `reverse_geocode` tools.
+* Has been advised to configure a local Nominatim instance or update the `NOMINATIM_URL` in `.pi/mcp.json` to resolve mapping tool errors.
+* Prefers to manage shopping tasks and activities through the assistant.

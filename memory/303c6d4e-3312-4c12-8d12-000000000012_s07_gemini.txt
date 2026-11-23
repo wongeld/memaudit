@@ -1,0 +1,6 @@
+* ስም፦ [PERSON] (profile_id: [[ID_NUMBER]])፣ ዕድሜ 49 ዓመት፣ በ[LOCATION]) (Ethiopia) የሚኖር/የምትኖር።
+* ሙያ እና ትምህርት፦ Broadcast Lifestyle Journalist (Bachelor of Arts)።
+* የቤተሰብ ሁኔታ፦ ባለትዳር እና የሦስት ልጆች ወላጅ።
+* የጤና ሁኔታ፦ Hypothyroidism።
+* የእውቂያ መረጃ እና ምርጫ፦ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ ተመራጭ ቋንቋ አማርኛ።
+* ሳምንታዊ ዕቅድ፦ ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION]) የሳምንቱ ዋና ተግባር (task) ያከናውናሉ።

@@ -1,0 +1,5 @@
+* Ana hali ya afya ya Mild seasonal allergic rhinitis.
+* Anajishughulisha na majukumu ya shule yanayomhusisha [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]).
+* Ana ratiba ya kukusanya insha na madaftari ya wanafunzi siku ya Ijumaa saa 9:00 alasiri.
+* Anapanga kununua vitabu vya kiada (ikiwemo nakala 20 za fasihi), kamusi za Kiswahili, na kalamu za ubao mweupe kutoka [LOCATION] ([LOCATION]).
+* Anapanga kuweka nafasi (booking) ya ukumbi wa mikutano wa shule huko [LOCATION] ([LOCATION]) kwa ajili ya Alhamisi saa 8:00 mchana.

@@ -1,0 +1,4 @@
+* Anasimamia mipango ya safari ya [PERSON] (profile_id: [[ID_NUMBER]], simu: [PHONE]).
+* Ana miadi iliyopangwa ya kukutana na mshirika wa safari na usafirishaji siku ya Jumatano saa 4:00 asubuhi.
+* Anapanga safari inayohusisha siku 4 za kazi, inayohitaji uhakiki wa ratiba ya hoteli na bajeti kabla ya kuondoka [LOCATION], [LOCATION] ([LOCATION]).
+* Anapanga kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION] ([LOCATION]).

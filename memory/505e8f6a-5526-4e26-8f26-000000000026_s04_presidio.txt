@@ -1,0 +1,6 @@
+* User is [PERSON], a 38-year-old University Lecturer with a PhD.
+* Lives and works in [LOCATION], [LOCATION] ([LOCATION]).
+* Married with two children.
+* Academic responsibilities include preparing seminar syllabi and research notes.
+* Prefers to organize tasks for Monday mornings (specifically 10:30 AM).
+* Currently experiencing persistent technical issues with the assistant's ability to save profile data or record activities.

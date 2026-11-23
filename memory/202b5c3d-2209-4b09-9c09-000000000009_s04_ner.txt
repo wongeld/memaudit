@@ -1,0 +1,6 @@
+* ስም፡ [PERSON]፣ profile_id፡ [PROFILE_ID]
+* ሙያ፡ Hospital Physician (Doctor of Medicine)፣ የመታወቂያ ቁጥር፡ 3926435391፣ የጋብቻ ሁኔታ፡ ያላገባ (Single)
+* የመኖሪያ አካባቢ፡ [LOCATION], [LOCATION] (Ayder)፣ ሀገር፡ [LOCATION]
+* የመገናኛ አድራሻ፡ ስልክ +251945416026፣ ኢሜይል bereket.tesfaye+009@yahoo.com፣ የሚመርጠው ቋንቋ፡ አማርኛ
+* የጤና ሁኔታ፡ 'Mild asthma' አለበት
+* በ school ሥር በ [LOCATION], [LOCATION] (Ayder) ለ [DATE] የታቀደ ዋና ተግባር (task) አለው

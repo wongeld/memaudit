@@ -1,0 +1,5 @@
+* የጤና ሁኔታ፡ 'Mild seasonal allergic rhinitis' አለበት/አለባት።
+* የሥራ ሁኔታ፡ ከ[ORGANIZATION] ጋር ሥራ ያለው/ያላት ሲሆን በሙያ 'Commercial Florist and Event Decorator' ነው።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* ተዛማጅ ሰው/መገለጫ፡ ከ[PERSON] (profile_id: [PROFILE_ID]፣ ስልክ፡ [PHONE]) ጋር የተያያዙ ማስታወሻዎችን፣ ግዢዎችን እና ቦታ ማስያዣዎችን (booking) ያከናውናል።
+* ተዛማጅ የሥራ/የእንቅስቃሴ ቦታ፡ [LOCATION], [LOCATION] (Bole)።

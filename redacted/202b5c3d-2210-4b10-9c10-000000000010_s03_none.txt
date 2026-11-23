@@ -1,0 +1,67 @@
+User:
+ሙሉ ጤነኛ ስለሆንኩ እና የFamily Mediation Counselor ሥራ ስላለብኝ፣ ለ Dawit Mekonnen (profile_id [PROFILE_ID]፣ ስልክ +251960170802) አርብ ከሰዓት 10:00 ላይ የክትትል ማስታወሻ (reminder) በ family ሥር መዝግብልኝና ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የክትትል ማስታወሻ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስታወሻ (reminder)
+*   **ቀን/ሰዓት**: አርብ ከሰዓት 10:00
+*   **ስልክ**: +251960170802
+
+ይህንን ማስታወሻ ላስቀምጥ?
+
+User:
+አዎ፣ የአርብ 10:00 ሰዓቱን ማስታወሻ ለ Dawit Mekonnen (+251960170802) አረጋግጣለሁ፣ እባክህ አስቀምጠው።
+
+Assistant:
+የክትትል ማስታወሻው አልተቀመጠም። ምንም እንቅስቃሴ አልተቀመጠም ብሎ ነው የመለሰው። እንደገና ልሞክር?
+
+User:
+በ family ሥር ለ Dawit Mekonnen (+251960170802) በBahir Dar, Ethiopia (Belay Zeleke) አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ (shopping_item) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+ቆይ፣ የ shopping_item ማስታወሻውን (notes) ለ profile_id [PROFILE_ID] 'Family Mediation Counselor እና Married with two children አገልግሎት የሚውል' ብለህ ለ Dawit Mekonnen (+251960170802) አስተካክልና በድጋሚ ለማረጋገጫ አሳየኝ።
+
+Assistant:
+እሺ፣ ማስታወሻውን አስተካክዬአለሁ። እባክህ የ Dawit Mekonnen (profile_id: [PROFILE_ID]) የግዢ ዝርዝር መረጃዎችን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: አስፈላጊ ቁሳቁሶችና የጤና/የሥራ ግብዓቶች ግዢ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: የግዢ ዝርዝር (shopping_item)
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+*   **ማስታወሻዎች**: Family Mediation Counselor እና Married with two children አገልግሎት የሚውል
+
+ይህንን የግዢ ዝርዝር ላስቀምጥ?
+
+User:
+በ family ሥር ለቅዳሜ ጠዋት 4:00 ሰዓት በBahir Dar, Ethiopia (Belay Zeleke) የአገልግሎት/የቦታ booking ለ Dawit Mekonnen (+251960170802) በ record_user_activity መዝግብልኝና ከማስቀመጥህ በፊት ለማረጋገጫ አቅርብልኝ።
+
+Assistant:
+እባክህ መረጃውን አረጋግጥ:
+
+**ለ Dawit Mekonnen (profile_id: [PROFILE_ID])**
+*   **ርዕስ**: የአገልግሎት/ቦታ ማስያዝ
+*   **ጭብጥ**: ቤተሰብ (family)
+*   **የእንቅስቃሴ አይነት**: ማስያዝ (booking)
+*   **ቀን/ሰዓት**: ቅዳሜ ጠዋት 4:00 ሰዓት
+*   **አካባቢ**: Bahir Dar, Ethiopia (Belay Zeleke)
+*   **ስልክ**: +251960170802
+
+ይህንን ማስያዝ ላስቀምጥ?

@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 107,
+"end": 113,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 115,
+"end": 128,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 130,
+"end": 139,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 160,
+"end": 168,
+"label": "ORGANIZATION",
+"text": "Commerce"
+},
+{
+"start": 494,
+"end": 500,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 512,
+"end": 518,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 592,
+"end": 605,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 818,
+"end": 824,
+"label": "PERSON",
+"text": "Julian"
+},
+{
+"start": 844,
+"end": 850,
+"label": "PERSON",
+"text": "Brooks"
+},
+{
+"start": 948,
+"end": 961,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1058,
+"end": 1071,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2162,
+"end": 2168,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2170,
+"end": 2183,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2185,
+"end": 2194,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2430,
+"end": 2443,
+"label": "PERSON",
+"text": "Julian Brooks"
+},
+{
+"start": 2778,
+"end": 2780,
+"label": "ORGANIZATION",
+"text": "Pi"
+},
+{
+"start": 3097,
+"end": 3110,
+"label": "PERSON",
+"text": "Julian Brooks"
+}
+]

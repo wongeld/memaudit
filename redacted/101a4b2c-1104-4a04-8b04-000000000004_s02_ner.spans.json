@@ -1,0 +1,110 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 169,
+"end": 194,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 200,
+"end": 213,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 215,
+"end": 223,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 322,
+"end": 338,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 542,
+"end": 569,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n*"
+},
+{
+"start": 584,
+"end": 597,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 599,
+"end": 607,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 704,
+"end": 729,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 836,
+"end": 861,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1277,
+"end": 1298,
+"label": "LOCATION",
+"text": "Port of Dar es Salaam"
+},
+{
+"start": 1358,
+"end": 1393,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1506,
+"end": 1519,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1717,
+"end": 1730,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 1732,
+"end": 1740,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1774,
+"end": 1809,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1876,
+"end": 1889,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1912,
+"end": 1925,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

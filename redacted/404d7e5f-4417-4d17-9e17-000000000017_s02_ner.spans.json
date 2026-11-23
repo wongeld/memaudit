@@ -1,0 +1,86 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 164,
+"end": 189,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 195,
+"end": 219,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 262,
+"end": 268,
+"label": "PERSON",
+"text": "Sheila"
+},
+{
+"start": 486,
+"end": 523,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n**Mahali:**"
+},
+{
+"start": 524,
+"end": 531,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 533,
+"end": 556,
+"label": "LOCATION",
+"text": "Kenya (Kilimani)\n**Jina"
+},
+{
+"start": 761,
+"end": 786,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1430,
+"end": 1437,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1438,
+"end": 1467,
+"label": "ORGANIZATION",
+"text": "Securities Exchange Westlands"
+},
+{
+"start": 1527,
+"end": 1562,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1810,
+"end": 1834,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1857,
+"end": 1892,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1935,
+"end": 1948,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

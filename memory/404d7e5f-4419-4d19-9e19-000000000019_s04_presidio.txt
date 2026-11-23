@@ -1,0 +1,8 @@
+- Jina: [PERSON]
+- Umri: miaka 38
+- Kazi: Tour Operations Manager
+- Eneo: [LOCATION], [LOCATION] (Njiro)
+- Hali ya familia: Ameoa na ana watoto watatu
+- Afya: Ana afya njema na hana ugonjwa sugu
+- Mawasiliano: [PHONE] na [EMAIL]
+- Shughuli iliyopangwa: Ukaguzi wa afya ya familia tarehe [DATE] huko [LOCATION], [LOCATION] (Njiro)

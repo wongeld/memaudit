@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON] na kitambulisho chake cha wasifu ni [PROFILE_ID].
+* Ameoa/ameolewa na ana watoto wawili.
+* Hali yake ya afya: Ana ugonjwa wa kisukari (Type 2 diabetes).
+* Anafanya kazi inayohusisha vikao na wenzake wa idara pamoja na shughuli katika '[ORGANIZATION]'.
+* Ana uhusiano na jengo la kikazi lililopo kwenye majira-nukta latitude -1.2684 na longitude 36.8111 huko [LOCATION].

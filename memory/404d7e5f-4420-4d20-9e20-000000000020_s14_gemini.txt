@@ -1,0 +1,4 @@
+* Mtumiaji ana mpango wa kufanya matembezi ya familia mwishoni mwa wiki katika eneo la [LOCATION].
+* Mtumiaji anahitaji kikumbusho cha kila siku saa 12:30 jioni kwa ajili ya [PERSON] (simu: [PHONE]).
+* Kikumbusho kinahusu kuandaa chakula bora cha familia kinachoendana na hali ya afya ya Type 2 diabetes.
+* Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa shughuli zake za kifamilia.

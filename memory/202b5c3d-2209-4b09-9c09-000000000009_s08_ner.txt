@@ -1,0 +1,4 @@
+* የተጠቃሚው መለያ መታወቂያ (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] (ስልክ፡ +251945416026፣ ኢሜይል፡ bereket.tesfaye+009@yahoo.com) ጋር የቀጠሮ እቅዶችን በ daily_planning ሥር ያዘጋጃል።
+* በMekelle፣ [LOCATION] አካባቢ (latitude 13.5078 እና longitude 39.4622) ጉዳዮችን ወይም ቦታዎችን ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃ እንዳይጋራ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ምርጫ አለው።

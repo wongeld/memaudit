@@ -1,0 +1,5 @@
+* ተጠቃሚው በሙያው የቤተሰብ ሽምግልና አማካሪ (Family Mediation Counselor) ነው።
+* ሙሉ ጤነኛ መሆኑን ገልጿል።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ነው ("Married with two children")።
+* ከ[PERSON] (profile_id: [[ID_NUMBER]]፣ ስልክ: [PHONE]) ጋር የተያያዙ የቤተሰብ ጉዳዮችን፣ ማስታወሻዎችን እና ግዢዎችን ያስተዳድራል።
+* በ[LOCATION] ([LOCATION]) ለሥራና ጤና ግብዓቶች ግዢዎችን እንዲሁም የቅዳሜ ጠዋት 4:00 ሰዓት ቦታ ማስያዝ (booking) እቅድ አለው።

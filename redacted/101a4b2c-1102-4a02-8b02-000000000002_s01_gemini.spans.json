@@ -1,0 +1,224 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 42,
+"end": 52,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 177,
+"end": 184,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 186,
+"end": 191,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 193,
+"end": 202,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 472,
+"end": 482,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 485,
+"end": 498,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 505,
+"end": 518,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 531,
+"end": 560,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 567,
+"end": 572,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 768,
+"end": 778,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 853,
+"end": 866,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 883,
+"end": 912,
+"label": "EMAIL",
+"text": "kelvin.mutali+002@outlook.com"
+},
+{
+"start": 923,
+"end": 928,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 988,
+"end": 1001,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1010,
+"end": 1023,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1390,
+"end": 1397,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1399,
+"end": 1404,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1406,
+"end": 1415,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 1431,
+"end": 1442,
+"label": "ID_NUMBER",
+"text": "40553077639"
+},
+{
+"start": 1591,
+"end": 1604,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1606,
+"end": 1619,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 1733,
+"end": 1746,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 1814,
+"end": 1821,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 1823,
+"end": 1828,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1830,
+"end": 1839,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 1929,
+"end": 1942,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2035,
+"end": 2045,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2074,
+"end": 2087,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2089,
+"end": 2102,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2276,
+"end": 2289,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2304,
+"end": 2314,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2488,
+"end": 2501,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 2520,
+"end": 2533,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 2548,
+"end": 2555,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2557,
+"end": 2562,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2564,
+"end": 2573,
+"label": "LOCATION",
+"text": "Westlands"
+}
+]

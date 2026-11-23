@@ -1,0 +1,47 @@
+User:
+Kwa kuzingatia hali yangu (afya njema bila ugonjwa sugu) na kitambulisho 6792442744, rekodi kikumbusho (reminder) kwenye mada ya travel cha kubeba dawa na hati za safari kwenye begi la mkononi Jumapili saa 2:00 usiku.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho chako. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**ID ya Wasifu:** [PROFILE_ID]
+**Mada:** travel
+**Aina ya Shughuli:** reminder
+**Kichwa:** kubeba dawa na hati za safari kwenye begi la mkononi
+**Muda:** Jumapili saa 2:00 usiku
+
+Je, maelezo haya ni sahihi?
+
+User:
+Hapana, ghairi kikumbusho hicho cha Jumapili saa 2:00 usiku kwa sasa kwa sababu nitaandaa begi langu mapema mchana, usihifadhi.
+
+Assistant:
+Nimeghairi kikumbusho chako cha kubeba dawa na hati za safari.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya travel kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa mada ya travel kwa wasifu wako.
+
+User:
+Ninahitaji kuangalia kituo cha usafiri kwa ajili ya safari yangu; tafadhali tumia search_places kutafuta 'Arusha Airport Tanzania' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na hitilafu nilipojaribu kutafuta 'Arusha Airport Tanzania'. Tafadhali jaribu tena.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya eneo la safari lenye majira-nukta latitude -3.3667 na longitude 36.6833 huko Arusha, Tanzania (Njiro) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, kumekuwa na tatizo wakati wa kutumia `reverse_geocode`. Inaonekana nimekosea vigezo vya latitude na longitude. Tafadhali naomba unisamehe kwa hilo.
+
+Nimejaribu tena na sasa naweza kutoa anwani sahihi kwa kutumia majira-nukta uliyotoa.
+Anwani ya eneo lenye latitude -3.3667 na longitude 36.6833 ni:
+
+*   **Jina:** Njiro
+*   **Mji:** Arusha
+*   **Nchi:** Tanzania
+*   **Nukuu:** © OpenStreetMap contributors
+
+Je, unahitaji anwani nyingine yoyote?

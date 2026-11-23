@@ -1,0 +1,284 @@
+[
+{
+"start": 54,
+"end": 66,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 80,
+"end": 90,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 97,
+"end": 110,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 208,
+"end": 220,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 235,
+"end": 245,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 370,
+"end": 380,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 528,
+"end": 540,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 563,
+"end": 576,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 687,
+"end": 699,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 701,
+"end": 714,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 864,
+"end": 876,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 891,
+"end": 901,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1027,
+"end": 1037,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1185,
+"end": 1197,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1220,
+"end": 1233,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1337,
+"end": 1349,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1351,
+"end": 1364,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1367,
+"end": 1384,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1386,
+"end": 1391,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 1502,
+"end": 1514,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1529,
+"end": 1539,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1646,
+"end": 1656,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1790,
+"end": 1807,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1809,
+"end": 1814,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 1838,
+"end": 1850,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 1873,
+"end": 1886,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 1965,
+"end": 1975,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2026,
+"end": 2038,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2040,
+"end": 2053,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 2177,
+"end": 2187,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2321,
+"end": 2338,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 2340,
+"end": 2345,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 2369,
+"end": 2381,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2404,
+"end": 2417,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 2547,
+"end": 2564,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 2566,
+"end": 2571,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 2595,
+"end": 2607,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2609,
+"end": 2622,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 2696,
+"end": 2708,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 2723,
+"end": 2733,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2805,
+"end": 2822,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 2824,
+"end": 2829,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 2892,
+"end": 2902,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3051,
+"end": 3068,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 3070,
+"end": 3075,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 3099,
+"end": 3111,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 3134,
+"end": 3147,
+"label": "PHONE",
+"text": "+251940072829"
+}
+]

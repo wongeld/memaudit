@@ -1,0 +1,62 @@
+[
+{
+"start": 76,
+"end": 86,
+"label": "ID_NUMBER",
+"text": "9750779397"
+},
+{
+"start": 612,
+"end": 628,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 654,
+"end": 667,
+"label": "PHONE",
+"text": "+255721105750"
+},
+{
+"start": 1946,
+"end": 1982,
+"label": "LOCATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 1983,
+"end": 1996,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 2114,
+"end": 2150,
+"label": "LOCATION",
+"text": "Julius Nyerere International Airport"
+},
+{
+"start": 2151,
+"end": 2164,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3187,
+"end": 3200,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3202,
+"end": 3210,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3212,
+"end": 3221,
+"label": "LOCATION",
+"text": "Mikocheni"
+}
+]

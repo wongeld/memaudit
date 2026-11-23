@@ -1,0 +1,5 @@
+- User's name is Nathan.
+- User is in good health with no chronic conditions.
+- User is currently managing professional commitments and off-site meetings.
+- User is based in or working near [LOCATION], [LOCATION] ([LOCATION]).
+- User prefers using specific tools like `record_user_activity`, `list_user_activities`, `search_places`, and `reverse_geocode` for managing tasks and location data.

@@ -1,0 +1,158 @@
+[
+{
+"start": 364,
+"end": 381,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 423,
+"end": 444,
+"label": "LOCATION",
+"text": "Nyerere Square Dodoma"
+},
+{
+"start": 504,
+"end": 541,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nNimejaribu"
+},
+{
+"start": 575,
+"end": 600,
+"label": "LOCATION",
+"text": "`'Nyerere Square Dodoma'`"
+},
+{
+"start": 661,
+"end": 664,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 668,
+"end": 683,
+"label": "ORGANIZATION",
+"text": "`openstreetmap`"
+},
+{
+"start": 795,
+"end": 808,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 904,
+"end": 917,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1068,
+"end": 1074,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1076,
+"end": 1092,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 1115,
+"end": 1152,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nNimejaribu"
+},
+{
+"start": 1241,
+"end": 1247,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1249,
+"end": 1257,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1260,
+"end": 1266,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1293,
+"end": 1296,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1300,
+"end": 1315,
+"label": "ORGANIZATION",
+"text": "`openstreetmap`"
+},
+{
+"start": 1427,
+"end": 1440,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1517,
+"end": 1530,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1536,
+"end": 1549,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1628,
+"end": 1642,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1767,
+"end": 1805,
+"label": "DATE",
+"text": "kila jioni saa 12:30.\n\nAssistant:\nNiko"
+},
+{
+"start": 2180,
+"end": 2202,
+"label": "DATE",
+"text": "Kila jioni saa 12:30\n*"
+},
+{
+"start": 2239,
+"end": 2255,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 2433,
+"end": 2447,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2964,
+"end": 2986,
+"label": "DATE",
+"text": "Kila jioni saa 12:30\n*"
+},
+{
+"start": 3008,
+"end": 3024,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+}
+]

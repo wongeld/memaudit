@@ -1,0 +1,5 @@
+* User is a 38-year-old Shareholder Governance Analyst at [ORGANIZATION].
+* User is married and has two children.
+* User is based in [LOCATION], [LOCATION] (specifically the Ironbound area).
+* User frequently travels for regional trips involving flight and hotel bookings.
+* User's profile ID is [PROFILE_ID].

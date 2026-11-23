@@ -1,0 +1,8 @@
+* ስም: [PERSON] (Tigist Hailu)
+* ዕድሜ: 29 ዓመት
+* ሙያ: Hospital Physician (Doctor of Medicine)
+* የጋብቻ ሁኔታ: Single
+* መኖሪያ: [LOCATION] ([LOCATION])
+* ቋንቋ: አማርኛ
+* የጤና ሁኔታ: ሙሉ ጤነኛ
+* መታወቂያ ቁጥር: [[ID_NUMBER]]

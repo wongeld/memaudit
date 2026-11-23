@@ -1,0 +1,6 @@
+* ስም [PERSON]፣ የመገለጫ መታወቂያ profile_id [[ID_NUMBER]] ([ID_NUMBER]) ነው።
+* የ31 ዓመት Commercial Florist and Event Decorator (Bachelor of Arts) እና ያላገባ/ች (Single) ነው።
+* የመኖሪያ አካባቢ በ[LOCATION], [LOCATION] ([LOCATION])፣ ሀገር [LOCATION] ነው።
+* የእውቂያ መረጃ፡ ስልክ ቁጥር [PHONE] እና ኢሜይል [EMAIL] ሲሆን ተመራጭ ቋንቋው አማርኛ ነው።
+* የጤና ሁኔታው ሙሉ ጤነኛ መሆኑን ገልጿል።
+* በ shopping ስር ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) የሚከናወን የሳምንቱ ዋና ተግባር ዕቅድ አለው።

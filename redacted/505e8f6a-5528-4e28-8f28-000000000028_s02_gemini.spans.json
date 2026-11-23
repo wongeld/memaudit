@@ -1,0 +1,98 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 25,
+"end": 52,
+"label": "EMAIL",
+"text": "lucas.bennett+028@yahoo.com"
+},
+{
+"start": 226,
+"end": 233,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 235,
+"end": 248,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 250,
+"end": 257,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 598,
+"end": 605,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 607,
+"end": 620,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 622,
+"end": 629,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 789,
+"end": 802,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1501,
+"end": 1536,
+"label": "ORGANIZATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 1818,
+"end": 1853,
+"label": "ORGANIZATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 2393,
+"end": 2428,
+"label": "ORGANIZATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 2719,
+"end": 2754,
+"label": "ORGANIZATION",
+"text": "UW Medical Center Northwest Seattle"
+},
+{
+"start": 3248,
+"end": 3255,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3257,
+"end": 3270,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3272,
+"end": 3279,
+"label": "LOCATION",
+"text": "Ballard"
+}
+]

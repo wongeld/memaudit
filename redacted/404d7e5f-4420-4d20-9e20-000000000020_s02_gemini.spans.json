@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 194,
+"end": 210,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 212,
+"end": 218,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 331,
+"end": 345,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 415,
+"end": 425,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 441,
+"end": 455,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 470,
+"end": 483,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 638,
+"end": 654,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 656,
+"end": 662,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1046,
+"end": 1056,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1150,
+"end": 1160,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1392,
+"end": 1421,
+"label": "LOCATION",
+"text": "High Court of Tanzania Dodoma"
+},
+{
+"start": 1542,
+"end": 1571,
+"label": "LOCATION",
+"text": "High Court of Tanzania Dodoma"
+},
+{
+"start": 1809,
+"end": 1825,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 1827,
+"end": 1833,
+"label": "LOCATION",
+"text": "Area C"
+}
+]

@@ -1,0 +1,6 @@
+- User's name is Nathan.
+- User is a student currently managing academic advising sessions.
+- User prefers to communicate via email for academic advising.
+- User is in good health with no chronic conditions.
+- User is actively trying to organize school-related activities and locate campus facilities (library and lecture hall).
+- User is aware of and experiencing persistent technical issues with the assistant's tools, specifically regarding saving activities and using OpenStreetMap-related functions.

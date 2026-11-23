@@ -1,0 +1,4 @@
+* The user is [PERSON] (mock ID [ID_NUMBER]).
+* They are planning a family gathering in [LOCATION], [LOCATION] ([LOCATION]).
+* They intend to review their household budget and family calendar next week.
+* The user is experiencing persistent technical issues with the assistant's ability to save activities and execute location-based tools.

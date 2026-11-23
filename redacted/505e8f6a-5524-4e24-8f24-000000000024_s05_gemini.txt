@@ -1,0 +1,40 @@
+User:
+I'm [PERSON] (mock ID [ID_NUMBER], email [EMAIL]), and I want to use record_user_activity in the shopping theme to create a task to compare vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]) on Thursday at 03:00 PM.
+
+Assistant:
+Here are the details for your shopping task:
+
+*   **Profile ID**: [PROFILE_ID]
+*   **Theme**: shopping
+*   **Activity Type**: task
+*   **Title**: Compare vendor quotes and seasonal prices
+*   **Date/Time**: Thursday at 03:00 PM
+*   **Location**: [LOCATION], [LOCATION] ([LOCATION])
+*   **Contact Name**: [PERSON]
+*   **Email**: [EMAIL]
+
+Please confirm these details, and I will attempt to save this task. I must remind you that I have been encountering issues where saving operations are being canceled.
+
+User:
+No, please cancel that Thursday 03:00 PM shopping task—I decided not to place that order this week, so do not save it.
+
+Assistant:
+Understood. I will not save the Thursday 03:00 PM shopping task.
+
+User:
+Please use list_user_activities for profile_id [PROFILE_ID] filtered to the shopping theme so I can review my saved shopping items and tasks.
+
+Assistant:
+There are no saved activities for [PERSON] under the shopping theme. This is consistent with the earlier issues we encountered when trying to save your activities, as all those operations were reported as canceled and not saved.
+
+User:
+I want to visit a shopping area near [LOCATION], [LOCATION] ([LOCATION]); please call search_places for '[LOCATION]' without sending any personal data, and include OpenStreetMap attribution.
+
+Assistant:
+I'm sorry, I encountered an error again when trying to search for '[LOCATION]' using OpenStreetMap. It seems there's a persistent issue with executing tools on the OpenStreetMap server. I will try to investigate.
+
+User:
+Please call reverse_geocode for latitude 41.9142 and longitude -87.6485 in [LOCATION], [LOCATION] ([LOCATION]) to check the exact address of that retail location, and include OpenStreetMap attribution.
+
+Assistant:
+I apologize, but I encountered an error once more when trying to use `reverse_geocode` on the OpenStreetMap server. It seems there's a persistent issue preventing the execution of tools on that server.

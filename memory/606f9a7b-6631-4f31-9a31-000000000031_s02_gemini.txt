@@ -1,0 +1,5 @@
+* User is named [PERSON] and can be reached at [EMAIL].
+* User reports being in good health with no chronic conditions.
+* User is currently managing professional commitments and off-site meetings in the [LOCATION] area.
+* User frequently works with location-based data and coordinates (e.g., 40.7282, -74.1502) related to their professional activities.
+* User prefers to use specific tools like `record_user_activity`, `list_user_activities`, `search_places`, and `reverse_geocode` for managing their schedule and location research.

@@ -1,0 +1,4 @@
+* Mtumiaji anajishughulisha na shughuli za kikazi (work) zinazohusisha kupanga mikutano na [PERSON] (+255890185741).
+* Mtumiaji ana hali ya kiafya ya Type 2 diabetes ambayo anahitaji kuizingatia wakati wa ratiba zake za kazi.
+* Anatumia barua pepe ya halima.kikwete+020@gmail.com kwa mawasiliano yake ya kikazi.
+* Anaonyesha nia ya kutumia zana za teknolojia kama `reverse_geocode` na OpenStreetMap kwa ajili ya kutambua maeneo ya majengo ya kikazi.

@@ -1,0 +1,7 @@
+* የጤና ሁኔታው መጠነኛ የደም ግፊት (Mild hypertension) አለበት።
+* በሙያው የዩኒቨርሲቲ መምህር (University Lecturer) ነው።
+* የቤተሰብ ሁኔታው ያገባና የሁለት ልጆች ወላጅ (Married with two children) ነው።
+* የመገለጫ መረጃዎች፡ profile_id [[ID_NUMBER]]፣ ስም [PERSON]፣ ስልክ ቁጥር [PHONE]፣ ኢሜይል [EMAIL]፣ እና ሀገር [LOCATION]።
+* አርብ ከሰዓት 10:00 ሰዓት ላይ ለ [PERSON] የሚሆን የቤተሰብ የክትትል ማስታወሻ (reminder) አለው።
+* በ[LOCATION], [LOCATION] ([LOCATION]) የቤተሰብ፣ የጤና እና የሥራ ግብዓቶች ግዢ (shopping_item) የማከናወን እቅድ አለው።
+* ቅዳሜ ጠዋት 4:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) የአገልግሎት ወይም የቦታ ማስያዣ (booking) እቅድ አለው።

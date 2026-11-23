@@ -1,0 +1,5 @@
+* Jina lake ni Juma Barasa, ana Shahada ya Elimu (Bachelor of Education), ameoa na ana watoto wawili.
+* Anaishi au anapatikana Embu, Kenya (Itabua, majira-nukta -0.5312, 37.4506).
+* Hutumia kituo cha afya cha Embu Level 5 Hospital kwa ajili ya ukaguzi wake wa kawaida wa afya.
+* Hutumia zana ya daily_planning kwa ajili ya kupanga majukumu yake (profile_id: [PROFILE_ID]).
+* Anapendelea kutotuma taarifa zake binafsi wakati wa kutafuta maeneo mtandaoni.

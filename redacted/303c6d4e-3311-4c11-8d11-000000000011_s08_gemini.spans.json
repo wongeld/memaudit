@@ -1,0 +1,86 @@
+[
+{
+"start": 20,
+"end": 32,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 34,
+"end": 47,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 54,
+"end": 80,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 100,
+"end": 127,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 216,
+"end": 228,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 287,
+"end": 299,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 539,
+"end": 566,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 590,
+"end": 603,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 619,
+"end": 645,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 739,
+"end": 751,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1106,
+"end": 1133,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1191,
+"end": 1218,
+"label": "LOCATION",
+"text": "Friendship Park Addis Ababa"
+},
+{
+"start": 1302,
+"end": 1329,
+"label": "LOCATION",
+"text": "Friendship Park Addis Ababa"
+},
+{
+"start": 1497,
+"end": 1524,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

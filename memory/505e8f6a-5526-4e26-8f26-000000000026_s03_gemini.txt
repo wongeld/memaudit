@@ -1,0 +1,7 @@
+- The user's name is Nathan.
+- He works as a University Lecturer.
+- He has no chronic health conditions.
+- He requires a recurring work reminder every Friday at 04:00 PM to submit departmental metrics and take a break.
+- He is attempting to book a conference room in [LOCATION] for Thursdays at 11:00 AM under the title "Executive University Lecturer Strategy Room Booking."
+- He is attempting to order ergonomic office supplies and reference materials for his role.
+- The user's profile is associated with [PERSON], [ID_NUMBER], and [PHONE].

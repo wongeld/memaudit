@@ -1,0 +1,116 @@
+[
+{
+"start": 10,
+"end": 20,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 159,
+"end": 165,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 167,
+"end": 180,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 182,
+"end": 190,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 459,
+"end": 465,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 467,
+"end": 480,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 482,
+"end": 490,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 512,
+"end": 522,
+"label": "PERSON",
+"text": "Rachel Kim"
+},
+{
+"start": 1197,
+"end": 1203,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1205,
+"end": 1218,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1220,
+"end": 1228,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1265,
+"end": 1285,
+"label": "LOCATION",
+"text": "Boston Public Garden"
+},
+{
+"start": 1408,
+"end": 1428,
+"label": "LOCATION",
+"text": "Boston Public Garden"
+},
+{
+"start": 1704,
+"end": 1710,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 1712,
+"end": 1725,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1727,
+"end": 1735,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 1796,
+"end": 1809,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1925,
+"end": 1938,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2022,
+"end": 2035,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

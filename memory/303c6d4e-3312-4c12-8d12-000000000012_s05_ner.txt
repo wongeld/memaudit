@@ -1,0 +1,4 @@
+* የ profile_id [PROFILE_ID] ተጠቃሚ ሲሆን ከቤተሰብ ጋር የተያያዘ የ [PERSON] መረጃ (ስልክ፡ +251986279168፣ ኢሜይል፡ elsa.assefa+012@outlook.com) አለው።
+* በ [DATE] በ [LOCATION], [LOCATION] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አስተላልፎታል/ሰርዞታል።
+* የቦታ ፍለጋ በሚደረግበት ጊዜ የግል መረጃው እንዳይጋራ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።
+* በ Addis [LOCATION], [LOCATION] (በተለይም latitude 9.0158 እና longitude 38.7712) አካባቢ ለጉዳዩ የሚሆን ቦታ የመፈለግ ፍላጎት አለው።

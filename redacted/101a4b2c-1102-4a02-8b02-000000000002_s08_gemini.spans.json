@@ -1,0 +1,74 @@
+[
+{
+"start": 11,
+"end": 24,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 214,
+"end": 228,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 230,
+"end": 239,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 400,
+"end": 410,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 573,
+"end": 586,
+"label": "PERSON",
+"text": "Kelvin Mutali"
+},
+{
+"start": 605,
+"end": 618,
+"label": "PHONE",
+"text": "+254120283012"
+},
+{
+"start": 633,
+"end": 647,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 649,
+"end": 658,
+"label": "LOCATION",
+"text": "Westlands"
+},
+{
+"start": 1033,
+"end": 1043,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1403,
+"end": 1439,
+"label": "ORGANIZATION",
+"text": "Aga Khan University Hospital Nairobi"
+},
+{
+"start": 1752,
+"end": 1766,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 1768,
+"end": 1777,
+"label": "LOCATION",
+"text": "Westlands"
+}
+]

@@ -1,0 +1,176 @@
+[
+{
+"start": 14,
+"end": 28,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 116,
+"end": 122,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 124,
+"end": 132,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 494,
+"end": 508,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 576,
+"end": 584,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 891,
+"end": 899,
+"label": "PERSON",
+"text": "Halima\n*"
+},
+{
+"start": 922,
+"end": 931,
+"label": "PERSON",
+"text": "Kikwete\n*"
+},
+{
+"start": 1030,
+"end": 1040,
+"label": "LOCATION",
+"text": "Tanzania\n*"
+},
+{
+"start": 1160,
+"end": 1174,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1837,
+"end": 1854,
+"label": "DATE",
+"text": "saa 12:15 asubuhi"
+},
+{
+"start": 1860,
+"end": 1866,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 1868,
+"end": 1884,
+"label": "LOCATION",
+"text": "Tanzania (Area C"
+},
+{
+"start": 1890,
+"end": 1904,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2022,
+"end": 2043,
+"label": "PERSON",
+"text": "Halima Kikwete.\n\nHaya"
+},
+{
+"start": 2138,
+"end": 2154,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 2313,
+"end": 2332,
+"label": "DATE",
+"text": "saa 12:15 asubuhi\n*"
+},
+{
+"start": 2345,
+"end": 2351,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 2353,
+"end": 2381,
+"label": "LOCATION",
+"text": "Tanzania (Area C)\n\nTafadhali"
+},
+{
+"start": 2489,
+"end": 2496,
+"label": "DATE",
+"text": "asubuhi"
+},
+{
+"start": 2501,
+"end": 2518,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 2574,
+"end": 2588,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2890,
+"end": 2904,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2927,
+"end": 2944,
+"label": "DATE",
+"text": "saa 12:00 asubuhi"
+},
+{
+"start": 2951,
+"end": 2967,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 3089,
+"end": 3105,
+"label": "PERSON",
+"text": "Halima Kikwete\n*"
+},
+{
+"start": 3264,
+"end": 3283,
+"label": "DATE",
+"text": "saa 12:00 asubuhi\n*"
+},
+{
+"start": 3296,
+"end": 3302,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 3304,
+"end": 3312,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3319,
+"end": 3331,
+"label": "LOCATION",
+"text": "C)\n\nTafadhau"
+}
+]

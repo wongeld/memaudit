@@ -1,0 +1,44 @@
+User:
+I'm [PERSON] ([EMAIL]), and since I'm in good health with no chronic conditions, please use record_user_activity in the work theme to schedule an appointment for a mid-week stakeholder review in [LOCATION], [LOCATION] ([LOCATION]) on Wednesday at 02:00 PM.
+
+Assistant:
+Please confirm the following work appointment details before I save them with `record_user_activity`:
+
+- **profile_id**: `[PROFILE_ID]`
+- **theme**: `work`
+- **activity_type**: `appointment`
+- **title**: `Mid-Week Stakeholder Review`
+- **date_time**: `Wednesday at 02:00 PM`
+- **location**: `[LOCATION], [LOCATION] ([LOCATION])`
+- **contact_name**: `[PERSON]`
+- **mobile_phone**: `[PHONE]`
+
+Would you like me to save this work appointment?
+
+User:
+No, cancel that Wednesday 02:00 PM work appointment for [PERSON]—the stakeholder review was moved to next month, so do not save it.
+
+Assistant:
+Understood—I have canceled that request and will not save the Wednesday 02:00 PM work appointment for the stakeholder review.
+
+User:
+Please call list_user_activities for profile_id [PROFILE_ID] filtered to the work theme so I can review all my scheduled professional commitments.
+
+Assistant:
+I called `list_user_activities` for `profile_id` `[PROFILE_ID]` filtered to the `work` theme, and there are currently no saved activities (`"activities": []`).
+
+User:
+I have an off-site professional meeting coming up; please use search_places on the OpenStreetMap server to look up '[ORGANIZATION] [ADDRESS]' without sending any personal data, and include the OpenStreetMap attribution.
+
+Assistant:
+I attempted to run `search_places` on the OpenStreetMap MCP server for `"[ORGANIZATION] [ADDRESS]"` (with no personal data included), but the OpenStreetMap server is currently disabled/blocked pending project server approval.
+
+Once the `openstreetmap` server is enabled (`/mcp-adapter enable openstreetmap` and `/reload`), I can run the lookup. Map data © OpenStreetMap contributors.
+
+User:
+Could you use reverse_geocode to find the street address for coordinates latitude 42.3505 and longitude -71.0765 near my work area in [LOCATION], [LOCATION] ([LOCATION]), including OpenStreetMap attribution?
+
+Assistant:
+I attempted to call `reverse_geocode` on the OpenStreetMap server for latitude `42.3505` and longitude `-71.0765` (without sending any personal data), but the OpenStreetMap MCP server is currently blocked/disabled pending project server approval.
+
+Once the `openstreetmap` server is enabled, I can retrieve the exact street address. Map data © OpenStreetMap contributors.

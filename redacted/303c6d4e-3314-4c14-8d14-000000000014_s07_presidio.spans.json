@@ -1,0 +1,236 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 53,
+"end": 65,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 67,
+"end": 75,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 88,
+"end": 95,
+"label": "DATE",
+"text": "የ34 ዓመት"
+},
+{
+"start": 370,
+"end": 382,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 388,
+"end": 401,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 408,
+"end": 434,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 440,
+"end": 448,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 510,
+"end": 522,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 590,
+"end": 604,
+"label": "PERSON",
+"text": "Meron Bekele\n*"
+},
+{
+"start": 616,
+"end": 629,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 644,
+"end": 670,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 684,
+"end": 694,
+"label": "LOCATION",
+"text": "Ethiopia\n*"
+},
+{
+"start": 757,
+"end": 769,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 782,
+"end": 795,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 851,
+"end": 863,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1076,
+"end": 1091,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30 ሰዓት"
+},
+{
+"start": 1092,
+"end": 1104,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 1106,
+"end": 1114,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1122,
+"end": 1127,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1145,
+"end": 1157,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1159,
+"end": 1172,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1214,
+"end": 1226,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1227,
+"end": 1232,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1356,
+"end": 1361,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1389,
+"end": 1402,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 2:30\n*"
+},
+{
+"start": 1419,
+"end": 1430,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1432,
+"end": 1440,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1470,
+"end": 1483,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1692,
+"end": 1707,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1715,
+"end": 1727,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1729,
+"end": 1742,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 1793,
+"end": 1805,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 1935,
+"end": 1940,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1968,
+"end": 1981,
+"label": "DATE",
+"text": "ሰኞ ጠዋት 3:00\n*"
+},
+{
+"start": 1998,
+"end": 2009,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2011,
+"end": 2019,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2021,
+"end": 2028,
+"label": "LOCATION",
+"text": "Yeka)\n*"
+},
+{
+"start": 2049,
+"end": 2062,
+"label": "PHONE",
+"text": "+251936812879"
+}
+]

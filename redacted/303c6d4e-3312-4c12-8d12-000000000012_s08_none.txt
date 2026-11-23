@@ -1,0 +1,50 @@
+User:
+በ daily_planning ሥር ለ Elsa Assefa (+251986279168፣ ኢሜይል elsa.assefa+012@outlook.com) ረቡዕ ከሰዓት 8:00 ላይ በAddis Ababa, Ethiopia (Kazanchis) የምክክር ቀጠሮ (appointment) በ record_user_activity መዝግብልኝ፤ መጀመሪያ ዝርዝሩን አሳየኝ።
+
+Assistant:
+እባክህ የሚከተሉትን ዝርዝሮች አረጋግጥ:
+
+*   **profile_id**: [PROFILE_ID]
+*   **theme**: daily_planning
+*   **activity_type**: appointment
+*   **title**: የምክክር ቀጠሮ
+*   **date_time**: ረቡዕ ከሰዓት 8:00
+*   **location**: Addis Ababa, Ethiopia (Kazanchis)
+*   **mobile_phone**: +251986279168
+*   **notes**: ኢሜይል: elsa.assefa+012@outlook.com
+
+ይህ ትክክል ከሆነ፣ ይህንን ቀጠሮ አስቀምጣለሁ።
+
+User:
+አይ፣ የረቡዕ 8:00 ሰዓቱን ቀጠሮ አሁን ሰርዘው፣ ወደ ሌላ ቀን ስለተሸጋገረ ምንም ነገር እንዳታስቀምጥ።
+
+Assistant:
+እሺ፣ የረቡዕ 8:00 ሰዓት ቀጠሮ ተሰርዟል። ምንም ነገር አላስቀምጥም።
+
+User:
+እባክህ ለ profile_id [PROFILE_ID] በ daily_planning ዘርፍ የተመዘገቡትን እንቅስቃሴዎች ሁሉ በ list_user_activities ዘርዝርልኝ።
+
+Assistant:
+በ daily_planning ዘርፍ ምንም አይነት የተቀመጡ እንቅስቃሴዎች አላገኘሁም።
+
+ከዚህ ቀደም የሳምንቱን ዋና ተግባር (ሰኞ ጠዋት 3:00 ሰዓት) እና የምክክር ቀጠሮ (ረቡዕ ከሰዓት 8:00) እንድመዘግብልህ ጠይቀኸኝ ነበር፣ ነገር ግን እነዛን ተግባራት ከማስቀመጤ በፊት ሰርዘሃቸዋል። ስለዚህ፣ በአሁኑ ጊዜ ምንም የተቀመጡ የዕለታዊ እቅድ እንቅስቃሴዎች የሉም።
+
+User:
+በAddis Ababa, Ethiopia (Kazanchis) አካባቢ ለጉዳዬ የሚሆን ቦታ ለመፈለግ የግል መረጃዬን ሳትልክ በ search_places 'Zewditu Memorial Hospital Addis Ababa' ብለህ ፈልግልኝና የ OpenStreetMap attribution አካትት።
+
+Assistant:
+ይቅርታ፣ `search_places` መሳሪያውን ለማስኬድ ስሞክር ስህተት አጋጥሞኛል። የ OpenStreetMap Nominatim አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: OpenStreetMap ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© OpenStreetMap አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው OpenStreetMap Nominatim አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።
+
+User:
+እባክህ በAddis Ababa, Ethiopia (Kazanchis) የሚገኘውን የ latitude 9.0158 እና longitude 38.7712 አድራሻ በ reverse_geocode ፈልገህ ከ OpenStreetMap እውቅና ጋር አሳየኝ።
+
+Assistant:
+ይቅርታ፣ `reverse_geocode` መሳሪያውን ለማስኬድ ስሞክር አሁንም ስህተት አጋጥሞኛል። የ OpenStreetMap Nominatim አገልግሎት በትክክል ላይሰራ ይችላል።
+
+OpenStreetMap Attribution: OpenStreetMap ዳታ ጥቅም ላይ በሚውልበት ጊዜ ሁሉ "© OpenStreetMap አስተዋጽዖ አበርካቾች" የሚለው attribution ያስፈልጋል።
+
+ይህንን ጉዳይ ለመፍታት የአካባቢው OpenStreetMap Nominatim አገልግሎት በትክክል እየሰራ መሆኑን ማረጋገጥ ሊያስፈልግ ይችላል።

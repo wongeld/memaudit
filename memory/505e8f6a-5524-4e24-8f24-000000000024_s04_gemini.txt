@@ -1,0 +1,8 @@
+* Name: David Kowalski
+* Age: 41
+* Occupation: Software Engineering Manager
+* Family: Married with three children
+* Health: Managing type 2 diabetes
+* Location: [LOCATION], [LOCATION] ([LOCATION])
+* Contact: [PHONE] and [EMAIL]
+* Shopping needs: Regularly requires specialty wellness items and professional essentials

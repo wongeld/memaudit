@@ -1,0 +1,54 @@
+User:
+Mimi ni [PERSON] (profile_id: [PROFILE_ID]), mwenye umri wa miaka 34, Retail Import Buyer huko [LOCATION], [LOCATION] (Mikocheni), na hali yangu ya familia ni 'Married with two children'; tafadhali angalia wasifu wangu kwa get_user_profile.
+
+Assistant:
+Ninaona kuwa hakuna wasifu uliohifadhiwa kwa ID yako. Je, ungependa nihifadhi wasifu wako na maelezo uliyonipa awali?
+
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Simu: [PHONE]
+Barua pepe: [EMAIL]
+Nchi: [LOCATION] ya Wasifu: [PROFILE_ID]
+Kazi: Retail Import Buyer
+Umri: [DATE]: [LOCATION], [LOCATION] (Mikocheni)
+Hali ya Familia: Married with two children
+
+User:
+Tafadhali hifadhi wasifu wangu kwa save_user_profile: profile_id [PROFILE_ID], [PERSON], simu [PHONE], barua pepe [EMAIL], nchi [LOCATION]; nionyeshe maelezo ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi wasifu wako. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Mkononi: [PHONE]
+Barua Pepe: [EMAIL]
+Nchi: [LOCATION], taarifa hizo za [PERSON] na simu [PHONE] ni sahihi, naomba uzihifadhi sasa.
+
+Assistant:
+Nimeghairi kuhifadhi wasifu wako. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Jina la Kwanza: [PERSON] la Mwisho: [PERSON] ya Mkononi: [PHONE]
+Barua Pepe: [EMAIL]
+Nchi: [LOCATION] kuzingatia hali yangu ya familia (Married with two children) na afya (hali ya Iron-deficiency anemia), naomba urekodi miadi (appointment) kwenye mada ya family kwa record_user_activity: ukaguzi wa afya ya familia [DATE] huko [LOCATION], [LOCATION]) kwa [PERSON] ([PHONE]).
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: appointment
+Kichwa: ukaguzi wa afya ya familia
+Muda: [DATE]: [LOCATION] la Anwani: [PERSON] ya Mkononi: [PHONE]
+Maelezo: Married with two children, hali ya Iron-deficiency anemia
+
+User:
+Badilisha muda wa miadi hiyo ya familia uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi miadi hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: appointment
+Kichwa: ukaguzi wa afya ya familia
+Muda: [DATE]: [LOCATION], [LOCATION] la Anwani: [PERSON] ya Mkononi: [PHONE]
+Maelezo: Married with two children, hali ya Iron-deficiency anemia

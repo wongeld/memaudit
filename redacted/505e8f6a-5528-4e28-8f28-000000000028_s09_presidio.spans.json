@@ -1,0 +1,260 @@
+[
+{
+"start": 120,
+"end": 127,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 129,
+"end": 142,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 144,
+"end": 151,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 179,
+"end": 192,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 232,
+"end": 244,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 576,
+"end": 583,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 585,
+"end": 598,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 600,
+"end": 607,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 631,
+"end": 644,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 667,
+"end": 679,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 966,
+"end": 979,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 981,
+"end": 993,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1470,
+"end": 1483,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1485,
+"end": 1497,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 1610,
+"end": 1617,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1626,
+"end": 1632,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 1634,
+"end": 1641,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 1971,
+"end": 1984,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2007,
+"end": 2019,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 2038,
+"end": 2045,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 2047,
+"end": 2060,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2062,
+"end": 2069,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2479,
+"end": 2485,
+"label": "ORGANIZATION",
+"text": "Bottle"
+},
+{
+"start": 2491,
+"end": 2508,
+"label": "ORGANIZATION",
+"text": "Wellness Supplies"
+},
+{
+"start": 2514,
+"end": 2527,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2529,
+"end": 2541,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3184,
+"end": 3200,
+"label": "ORGANIZATION",
+"text": "Hydration Bottle"
+},
+{
+"start": 3206,
+"end": 3223,
+"label": "ORGANIZATION",
+"text": "Wellness Supplies"
+},
+{
+"start": 3246,
+"end": 3259,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3282,
+"end": 3294,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3313,
+"end": 3320,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3322,
+"end": 3335,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3337,
+"end": 3344,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 3734,
+"end": 3747,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3749,
+"end": 3761,
+"label": "PHONE",
+"text": "+16314978227"
+},
+{
+"start": 3811,
+"end": 3818,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3820,
+"end": 3833,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3835,
+"end": 3842,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 4237,
+"end": 4244,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 4246,
+"end": 4259,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4261,
+"end": 4268,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 4292,
+"end": 4305,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 4328,
+"end": 4340,
+"label": "PHONE",
+"text": "+16314978227"
+}
+]

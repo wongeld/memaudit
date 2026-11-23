@@ -1,0 +1,51 @@
+User:
+Kama Foreign Exchange Dealer huko [LOCATION] (Kilimani) (kitambulisho 40410925283), naomba urekodi kazi (task) kwenye mada ya work kwa kutumia record_user_activity: kuandaa ripoti ya utendaji wa wiki [DATE] kwa [PERSON] ([PHONE]).
+
+Assistant:
+Kabla sijatumia `record_user_activity` kuhifadhi kazi hiyo, tafadhali kagua na uthibitishe maelezo yafuatayo:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kuandaa ripoti ya utendaji wa wiki
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha maelezo haya ili niyahifadhi?
+
+User:
+Badilisha muda wa kazi hiyo ya ripoti uwe [DATE] kwa profile_id [PROFILE_ID], na urudie maelezo yote ya [PERSON] ([PHONE]) ili nithibitishe.
+
+Assistant:
+Nimesasisha muda wa kazi hiyo. Tafadhali kagua na uthibitishe maelezo yote yafuatayo kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `task`
+- **Kichwa (`title`):** Kuandaa ripoti ya utendaji wa wiki
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** [PERSON] **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, unathibitisha kuwa maelezo haya ni sahihi ili niyahifadhi?
+
+User:
+Mimi [PERSON] (Married with two children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara [DATE] huko [LOCATION]); tafadhali thibitisha.
+
+User:
+Mimi [PERSON] (Married with two children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara [DATE] huko [LOCATION]); tafadhali thibitisha.
+
+Assistant:
+Tafadhali kagua na uthibitishe maelezo yafuatayo ya miadi yako kabla sijayatuma kwenye `record_user_activity`:
+
+- **Kitambulisho cha Wasifu (`profile_id`):** `[PROFILE_ID]`
+- **Mada (`theme`):** `work`
+- **Aina ya Shughuli (`activity_type`):** `appointment`
+- **Kichwa (`title`):** Miadi na wenzangu wa idara
+- **Tarehe/Muda (`date_time`):** [DATE] **Mahali (`location`):** [LOCATION] **Jina la Mawasiliano (`contact_name`):** Wenzangu wa idara
+- **Simu ya Mkononi (`mobile_phone`):** `[PHONE]`
+
+Je, maelezo haya yote ni sahihi ili niyahifadhi?
+
+User:
+Hapana, ghairi miadi hiyo ya [DATE] kwa sasa kwa sababu imehamishiwa kwenye mkutano wa mtandaoni, usihifadhi.
+
+Assistant:
+Sawa, nimeghairi miadi hiyo ya [DATE] na sijahifadhi chochote kwenye mfumo. Je, kuna jambo lingine unalohitaji msaada?

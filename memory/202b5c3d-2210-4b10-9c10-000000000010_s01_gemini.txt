@@ -1,0 +1,6 @@
+* ስም [PERSON] (profile_id: [[ID_NUMBER]])፣ እድሜ 41 ዓመት ሲሆን የሚኖሩት በ[LOCATION], [LOCATION] ([LOCATION]) ነው።
+* የትምህርት ዝግጅታቸው በህግ የመጀመሪያ ዲግሪ (Bachelor of Laws) ሲሆን በሙያቸው Family Mediation Counselor ናቸው።
+* ባለትዳር እና የሁለት ልጆች ወላጅ ናቸው።
+* ሙሉ ጤነኛ መሆናቸውን ገልጸዋል።
+* ስልክ ቁጥራቸው [PHONE]፣ ኢሜይላቸው [EMAIL] ሲሆን የሚመርጡት ቋንቋ አማርኛ ነው።
+* ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION], [LOCATION] ([LOCATION]) በቤተሰብ (family) ዙሪያ የታቀደ የሳምንቱ ዋና ተግባር አላቸው።

@@ -1,0 +1,6 @@
+- The user is involved in academic activities, specifically managing school-related tasks for [PERSON] (mobile: +18635164802).
+- The user manages mild asthma.
+- The user's school-related responsibilities include submitting peer-review evaluations, managing schedules, and purchasing academic supplies.
+- Shopping needs include academic reference texts, lab notebooks, 3 graduate seminar textbooks, and presentation markers in [LOCATION].
+- The user coordinates bookings for lecture seminar rooms in [LOCATION].
+- The user prefers to confirm details before finalizing bookings or activity records.

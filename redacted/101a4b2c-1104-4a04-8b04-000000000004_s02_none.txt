@@ -1,0 +1,42 @@
+User:
+Mimi Baraka Mwakasege (Married with three children, hali ya afya: Mild hypertension), nataka kurekodi miadi (appointment) kwenye mada ya work na wenzangu wa idara Jumatano saa 4:00 asubuhi huko Dar es Salaam, Tanzania (Mikocheni); tafadhali thibitisha.
+
+Assistant:
+Kurekodi miadi ya "Miadi na wenzangu wa idara" kwa Baraka Mwakasege. Haya ndiyo maelezo niliyokusanya:
+
+*   **Kitambulisho cha Wasifu:** [PROFILE_ID]
+*   **Mada:** work
+*   **Aina ya Shughuli:** appointment
+*   **Kichwa:** Miadi na wenzangu wa idara
+*   **Tarehe/Muda:** Jumatano saa 4:00 asubuhi
+*   **Mahali:** Dar es Salaam, Tanzania (Mikocheni)
+
+Je, unathibitisha maelezo haya ili niyarekode?
+
+User:
+Hapana, ghairi miadi hiyo ya Jumatano saa 4:00 asubuhi kwa sasa kwa sababu imehamishiwa kwenye mkutano wa mtandaoni, usihifadhi.
+
+Assistant:
+Nimeelewa. Miadi ya Jumatano saa 4:00 asubuhi haitahifadhiwa.
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zangu zote za mada ya work kwa profile_id [PROFILE_ID].
+
+Assistant:
+Hakuna shughuli zilizohifadhiwa kwa profile_id `[PROFILE_ID]` chini ya mada ya `work`. Hii inaweza kuwa kwa sababu shughuli zote ulizojaribu kuhifadhi hapo awali zilighairiwa.
+
+User:
+Ninahitaji kwenda kwenye kikao cha kikazi; tafadhali tumia search_places kutafuta 'Port of Dar es Salaam' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, kulitokea hitilafu wakati wa kutafuta. Nilijaribu tena na bado haikufaulu. Inaonekana kuna tatizo na huduma ya OpenStreetMap kwa sasa.
+
+Je, kuna kitu kingine ningeweza kukusaidia nacho?
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya jengo la kikazi lenye majira-nukta latitude -6.7644 na longitude 39.2483 huko Dar es Salaam, Tanzania (Mikocheni) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, bado kuna tatizo la kutekeleza zana ya `reverse_geocode` kupitia OpenStreetMap. Inaonekana huduma ya OpenStreetMap ina matatizo kwa sasa.
+
+Je, kuna njia nyingine unataka nijaribu kutafuta anwani, au kuna kitu kingine unachohitaji?

@@ -1,0 +1,164 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 99,
+"end": 106,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 108,
+"end": 121,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 123,
+"end": 135,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 329,
+"end": 343,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 521,
+"end": 526,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 840,
+"end": 845,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 857,
+"end": 865,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 938,
+"end": 951,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1112,
+"end": 1117,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 1137,
+"end": 1145,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 1242,
+"end": 1255,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1591,
+"end": 1596,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 1597,
+"end": 1605,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 2145,
+"end": 2152,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2154,
+"end": 2167,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2169,
+"end": 2181,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2211,
+"end": 2225,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2503,
+"end": 2510,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2512,
+"end": 2525,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2527,
+"end": 2539,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2563,
+"end": 2577,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2995,
+"end": 3009,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3559,
+"end": 3566,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3568,
+"end": 3581,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3583,
+"end": 3595,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3619,
+"end": 3633,
+"label": "PERSON",
+"text": "David Kowalski"
+}
+]

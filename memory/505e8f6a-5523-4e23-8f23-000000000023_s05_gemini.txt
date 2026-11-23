@@ -1,0 +1,4 @@
+- User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+- Interested in comparing vendor quotes and seasonal prices in [LOCATION], [LOCATION] ([LOCATION]).
+- Currently experiencing persistent technical issues with the AI's ability to save activities, retrieve data, and use location-based tools like `search_places` and `reverse_geocode`.
+- Attempted to research retail locations near [LOCATION], [LOCATION] ([LOCATION]) and verify specific addresses using coordinates (47.6655, -122.3972).

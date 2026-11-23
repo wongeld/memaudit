@@ -1,0 +1,6 @@
+* The user is married with three children.
+* The user is managing mild hypertension and prioritizes healthy family dinners.
+* The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations.
+* The user is based in or frequently visits [LOCATION], [LOCATION] ([LOCATION]).
+* The user is attempting to manage family schedules and tasks for [PERSON] ([PHONE]).
+* The `record_user_activity` tool is currently experiencing persistent technical failures, preventing the saving of any user data or reminders.

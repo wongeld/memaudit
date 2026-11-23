@@ -1,0 +1,176 @@
+[
+{
+"start": 65,
+"end": 81,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 630,
+"end": 646,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 751,
+"end": 767,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1172,
+"end": 1178,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1180,
+"end": 1193,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1195,
+"end": 1204,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1236,
+"end": 1252,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1606,
+"end": 1612,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1621,
+"end": 1627,
+"label": "LOCATION",
+"text": "States"
+},
+{
+"start": 1658,
+"end": 1674,
+"label": "ORGANIZATION",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1772,
+"end": 1798,
+"label": "ORGANIZATION",
+"text": "Executive Family Mediation"
+},
+{
+"start": 1818,
+"end": 1822,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 1836,
+"end": 1852,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2180,
+"end": 2216,
+"label": "ORGANIZATION",
+"text": "Executive Family Mediation Counselor"
+},
+{
+"start": 2226,
+"end": 2230,
+"label": "ORGANIZATION",
+"text": "Room"
+},
+{
+"start": 2289,
+"end": 2295,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2297,
+"end": 2310,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2312,
+"end": 2321,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2341,
+"end": 2357,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2478,
+"end": 2494,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2576,
+"end": 2592,
+"label": "ORGANIZATION",
+"text": "Family Mediation"
+},
+{
+"start": 2611,
+"end": 2617,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2619,
+"end": 2632,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2634,
+"end": 2643,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2981,
+"end": 3007,
+"label": "ORGANIZATION",
+"text": "Family Mediation Counselor"
+},
+{
+"start": 3027,
+"end": 3033,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3035,
+"end": 3048,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3050,
+"end": 3059,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3079,
+"end": 3095,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+}
+]

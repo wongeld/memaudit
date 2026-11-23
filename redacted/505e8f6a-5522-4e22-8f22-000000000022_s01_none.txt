@@ -1,0 +1,64 @@
+User:
+I'm Marcus Vance (profile_id: [PROFILE_ID]), a 38-year-old ESG Shareholder Governance Analyst living in Newark, United States (Ironbound) with a Master of Business Administration; please call get_user_profile to check if my local contact profile is already saved.
+
+Assistant:
+It seems that saving your profile was canceled. Would you like to try saving it again with the same details?
+
+User:
+Please save my contact profile using save_user_profile with profile_id [PROFILE_ID], first_name Marcus, last_name Vance, mobile_phone +14787564875, email marcus.vance+022@outlook.com, country United States, and preferred_language English, and show me the exact details to confirm first.
+
+Assistant:
+It appears the profile save was canceled again. The tool displays the details and then waits for your confirmation. Since you have confirmed these details multiple times, please go ahead and explicitly state "yes, save my profile" or similar, so the tool can proceed.
+
+User:
+Yes, those profile details for Marcus Vance with mobile phone +14787564875 are completely accurate—please go ahead and save them.
+
+Assistant:
+It appears there's an issue with saving your profile that persists even after your confirmation. I will report this unexpected behavior.
+
+In the meantime, I will proceed with your next request to record a work task.
+
+Assistant:
+The work task details were not saved as the tool is awaiting your confirmation. Here's a summary:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:00 AM
+*   **Contact Name:** Marcus Vance
+*   **Mobile Phone:** +14787564875
+
+Please confirm if these details are accurate so I can proceed with saving the task.
+
+User:
+As a ESG Shareholder Governance Analyst in Newark, United States (Ironbound) (state-ID-style mock 1815853866, married with two children), I want to use record_user_activity under the work theme to log a task titled 'Prepare Quarterly ESG Shareholder Governance Analyst Briefing' for Monday at 09:00 AM with contact Marcus Vance (+14787564875).
+
+Assistant:
+The work task details are ready for your confirmation:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:00 AM
+*   **Contact Name:** Marcus Vance
+*   **Mobile Phone:** +14787564875
+
+Please confirm if these details are accurate, and I will proceed with saving the task.
+
+User:
+Actually, please update the time on that work task to Monday at 09:30 AM for profile_id [PROFILE_ID], and repeat all submitted fields including Marcus Vance and +14787564875 so I can confirm before saving.
+
+Assistant:
+The updated work task details are ready for your confirmation:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** work
+*   **Activity Type:** task
+*   **Title:** Prepare Quarterly ESG Shareholder Governance Analyst Briefing
+*   **Date/Time:** Monday at 09:30 AM
+*   **Contact Name:** Marcus Vance
+*   **Mobile Phone:** +14787564875
+
+Please confirm if these details are accurate so I can proceed with saving the task.

@@ -1,0 +1,73 @@
+User:
+Wait—please change the booking title to 'Executive ESG Shareholder Governance Analyst Strategy Room Booking' for [PERSON] ([PHONE]) on profile_id [[ID_NUMBER]] and show the full confirmation again before saving.
+
+Assistant:
+Here is the updated confirmation summary with the revised title before saving:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Theme:** `work`
+* **Activity Type:** `booking`
+* **Title:** `Executive ESG Shareholder Governance Analyst Strategy Room Booking`
+* **Date/Time:** `Thursday at 11:00 AM`
+* **Location:** `[LOCATION])`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `[PHONE]`
+
+Please confirm if these updated details are accurate, and I will proceed with recording the booking.
+
+User:
+Please record a work shopping_item via record_user_activity for [PERSON] ([PHONE]) to order ergonomic office supplies and reference materials for my ESG Shareholder Governance Analyst role in [LOCATION]), and ask for my confirmation first.
+
+Assistant:
+Please review and confirm the following details before I save this shopping item using `record_user_activity`:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **Theme:** `work`
+* **Activity Type:** `shopping_item`
+* **Title:** `Ergonomic Office Supplies and Reference Materials`
+* **Location:** `[LOCATION])`
+* **Contact Name:** `[PERSON]`
+* **Mobile Phone:** `[PHONE]`
+* **Notes:** `Order ergonomic office supplies and reference materials for ESG Shareholder Governance Analyst role`
+
+Please confirm if these details are accurate, and I will proceed with recording the shopping item.
+
+User:
+I'm [PERSON] (profile_id: [[ID_NUMBER]]), a 49-year-old ESG Shareholder Governance Analyst based in [LOCATION]) with a Master of Business Administration; please call get_user_profile so we can verify my contact details before planning my upcoming trips.
+
+Assistant:
+I checked using `get_user_profile`, and no saved local profile was found for profile ID `[[ID_NUMBER]]`. 
+
+Whenever you are ready, we can save your contact details or proceed directly with planning your upcoming trips!
+
+User:
+Please use save_user_profile to store my profile: profile_id [[ID_NUMBER]], first_name [PERSON], last_name [PERSON], mobile_phone [PHONE], email [EMAIL], country [LOCATION]; repeat all fields for my confirmation.
+
+Assistant:
+Please review and confirm the following profile details before I save them:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **First Name:** `[PERSON]`
+* **Last Name:** `[PERSON]`
+* **Mobile Phone:** `[PHONE]`
+* **Email:** `[EMAIL]`
+* **Country:** `[LOCATION]`
+
+Please confirm if these details are accurate, and I will proceed with calling `save_user_profile`.
+
+User:
+Yes, the name [PERSON] and phone number [PHONE] are exact—please save my profile.
+
+Assistant:
+I submitted your confirmed profile details to `save_user_profile`:
+
+* **Profile ID:** `[[ID_NUMBER]]`
+* **First Name:** [PERSON]
+* **Last Name:** [PERSON]
+* **Mobile Phone:** `[PHONE]`
+* **Email:** `[EMAIL]`
+* **Country:** [LOCATION]
+
+*(Note: The tool's internal confirmation prompt returned `Canceled. No profile was saved.` due to running in a non-interactive execution mode.)*
+
+How would you like to proceed with your travel planning?

@@ -1,0 +1,200 @@
+[
+{
+"start": 9,
+"end": 21,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 39,
+"end": 49,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 54,
+"end": 81,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 309,
+"end": 321,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 335,
+"end": 345,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 526,
+"end": 536,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 542,
+"end": 554,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 560,
+"end": 573,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 580,
+"end": 606,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 743,
+"end": 753,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 817,
+"end": 830,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 864,
+"end": 890,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 979,
+"end": 991,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1004,
+"end": 1017,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1258,
+"end": 1268,
+"label": "ID_NUMBER",
+"text": "3922715388"
+},
+{
+"start": 1372,
+"end": 1399,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1424,
+"end": 1436,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1438,
+"end": 1451,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 1543,
+"end": 1562,
+"label": "DATE",
+"text": "ግንቦት 27 ቀን 2016 ዓ.ም"
+},
+{
+"start": 1641,
+"end": 1653,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1691,
+"end": 1701,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1846,
+"end": 1873,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1897,
+"end": 1910,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2004,
+"end": 2014,
+"label": "ID_NUMBER",
+"text": "3922715388"
+},
+{
+"start": 2100,
+"end": 2110,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2138,
+"end": 2150,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2152,
+"end": 2165,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2217,
+"end": 2236,
+"label": "DATE",
+"text": "ግንቦት 27 ቀን 2016 ዓ.ም"
+},
+{
+"start": 2331,
+"end": 2343,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 2381,
+"end": 2391,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2552,
+"end": 2579,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 2603,
+"end": 2616,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 2710,
+"end": 2720,
+"label": "ID_NUMBER",
+"text": "3922715388"
+}
+]

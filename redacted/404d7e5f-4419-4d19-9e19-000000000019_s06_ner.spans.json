@@ -1,0 +1,146 @@
+[
+{
+"start": 61,
+"end": 75,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 210,
+"end": 249,
+"label": "DATE",
+"text": "jioni saa 12:30.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 525,
+"end": 547,
+"label": "DATE",
+"text": "jioni saa 12:30\n**Jina"
+},
+{
+"start": 566,
+"end": 590,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 707,
+"end": 721,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1058,
+"end": 1080,
+"label": "DATE",
+"text": "jioni saa 12:30\n**Jina"
+},
+{
+"start": 1099,
+"end": 1123,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 1240,
+"end": 1254,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 1329,
+"end": 1335,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1337,
+"end": 1345,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1649,
+"end": 1655,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1657,
+"end": 1665,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1699,
+"end": 1723,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 1871,
+"end": 1885,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2249,
+"end": 2255,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2257,
+"end": 2265,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2299,
+"end": 2323,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+},
+{
+"start": 2514,
+"end": 2520,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 2522,
+"end": 2530,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 2543,
+"end": 2557,
+"label": "PERSON",
+"text": "Zawadi Massawe"
+},
+{
+"start": 2574,
+"end": 2598,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana"
+},
+{
+"start": 2881,
+"end": 2915,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana\n**Eneo:**"
+},
+{
+"start": 2916,
+"end": 2932,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 2966,
+"end": 2990,
+"label": "PERSON",
+"text": "Zawadi Massawe\n**Nambari"
+}
+]

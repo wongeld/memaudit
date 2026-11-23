@@ -1,0 +1,104 @@
+[
+{
+"start": 22,
+"end": 34,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 36,
+"end": 49,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 56,
+"end": 82,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 102,
+"end": 123,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 125,
+"end": 129,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 223,
+"end": 235,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 284,
+"end": 294,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 431,
+"end": 452,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 454,
+"end": 458,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 482,
+"end": 495,
+"label": "PHONE",
+"text": "+251936812879"
+},
+{
+"start": 518,
+"end": 530,
+"label": "PERSON",
+"text": "Meron Bekele"
+},
+{
+"start": 539,
+"end": 565,
+"label": "EMAIL",
+"text": "meron.bekele+014@yahoo.com"
+},
+{
+"start": 760,
+"end": 770,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 898,
+"end": 919,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 921,
+"end": 925,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 1163,
+"end": 1184,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia"
+},
+{
+"start": 1186,
+"end": 1190,
+"label": "LOCATION",
+"text": "Yeka"
+}
+]

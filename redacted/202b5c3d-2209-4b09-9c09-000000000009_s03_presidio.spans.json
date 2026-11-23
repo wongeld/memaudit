@@ -1,0 +1,212 @@
+[
+{
+"start": 69,
+"end": 84,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 115,
+"end": 128,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 130,
+"end": 144,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 216,
+"end": 231,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 291,
+"end": 305,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 526,
+"end": 543,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 564,
+"end": 577,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 628,
+"end": 643,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 652,
+"end": 667,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 669,
+"end": 682,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 777,
+"end": 791,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 826,
+"end": 863,
+"label": "DATE",
+"text": "2023-10-27 አርብ ከሰዓት 10:00\")።\n\nUser:\nበ"
+},
+{
+"start": 874,
+"end": 889,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 891,
+"end": 904,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 906,
+"end": 914,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 916,
+"end": 924,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1249,
+"end": 1266,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 1287,
+"end": 1300,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1319,
+"end": 1326,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1328,
+"end": 1350,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder)\n\nይህንን"
+},
+{
+"start": 1480,
+"end": 1495,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1497,
+"end": 1510,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1759,
+"end": 1776,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 1797,
+"end": 1810,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 1829,
+"end": 1856,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 1945,
+"end": 1962,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 1963,
+"end": 1988,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 2012,
+"end": 2027,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2029,
+"end": 2042,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 2116,
+"end": 2131,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2188,
+"end": 2204,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2429,
+"end": 2446,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 2467,
+"end": 2480,
+"label": "PHONE",
+"text": "+251945416026"
+},
+{
+"start": 2499,
+"end": 2506,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2508,
+"end": 2516,
+"label": "LOCATION",
+"text": "Ethiopia"
+}
+]

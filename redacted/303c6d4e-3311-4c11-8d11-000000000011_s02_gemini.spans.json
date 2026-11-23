@@ -1,0 +1,86 @@
+[
+{
+"start": 18,
+"end": 30,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 32,
+"end": 45,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 52,
+"end": 78,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 98,
+"end": 125,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 214,
+"end": 226,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 285,
+"end": 297,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 535,
+"end": 562,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 586,
+"end": 599,
+"label": "PHONE",
+"text": "+251962051344"
+},
+{
+"start": 615,
+"end": 641,
+"label": "EMAIL",
+"text": "hirut.anagaw+011@gmail.com"
+},
+{
+"start": 735,
+"end": 747,
+"label": "PERSON",
+"text": "Hirut Anagaw"
+},
+{
+"start": 1097,
+"end": 1124,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+},
+{
+"start": 1182,
+"end": 1209,
+"label": "LOCATION",
+"text": "Millennium Hall Addis Ababa"
+},
+{
+"start": 1293,
+"end": 1320,
+"label": "LOCATION",
+"text": "Millennium Hall Addis Ababa"
+},
+{
+"start": 1488,
+"end": 1515,
+"label": "LOCATION",
+"text": "Addis Ababa, Ethiopia (Bole"
+}
+]

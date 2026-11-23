@@ -1,0 +1,5 @@
+* The user is married with two children.
+* The user manages family-related tasks, including meal planning, grocery shopping, and restaurant bookings.
+* The user prioritizes healthy eating and has no chronic health conditions.
+* The user frequently coordinates family activities involving [PERSON] ([PHONE]).
+* The user prefers to review and approve all activity details before they are saved.

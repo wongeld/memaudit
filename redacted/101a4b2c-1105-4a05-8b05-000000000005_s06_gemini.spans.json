@@ -1,0 +1,254 @@
+[
+{
+"start": 59,
+"end": 72,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 86,
+"end": 96,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 104,
+"end": 117,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 187,
+"end": 203,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 205,
+"end": 210,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 591,
+"end": 601,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 780,
+"end": 796,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 798,
+"end": 803,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 827,
+"end": 840,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 863,
+"end": 876,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 957,
+"end": 970,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 972,
+"end": 985,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1363,
+"end": 1373,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1552,
+"end": 1568,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 1570,
+"end": 1575,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 1599,
+"end": 1612,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 1635,
+"end": 1648,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1720,
+"end": 1733,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 1735,
+"end": 1748,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 1810,
+"end": 1826,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 1828,
+"end": 1833,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 2237,
+"end": 2247,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2401,
+"end": 2417,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 2419,
+"end": 2424,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 2448,
+"end": 2461,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 2484,
+"end": 2497,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 2655,
+"end": 2668,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 2670,
+"end": 2683,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 3137,
+"end": 3147,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3334,
+"end": 3350,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 3352,
+"end": 3357,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 3381,
+"end": 3394,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 3417,
+"end": 3430,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 3542,
+"end": 3558,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 3560,
+"end": 3565,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 3571,
+"end": 3584,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 3586,
+"end": 3599,
+"label": "PHONE",
+"text": "+255629410386"
+},
+{
+"start": 4004,
+"end": 4014,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 4179,
+"end": 4195,
+"label": "LOCATION",
+"text": "Arusha, Tanzania"
+},
+{
+"start": 4197,
+"end": 4202,
+"label": "LOCATION",
+"text": "Njiro"
+},
+{
+"start": 4226,
+"end": 4239,
+"label": "PERSON",
+"text": "Omari Kilungo"
+},
+{
+"start": 4262,
+"end": 4275,
+"label": "PHONE",
+"text": "+255629410386"
+}
+]

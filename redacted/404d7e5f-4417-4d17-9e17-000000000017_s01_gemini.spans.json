@@ -1,0 +1,296 @@
+[
+{
+"start": 14,
+"end": 27,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 177,
+"end": 191,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 193,
+"end": 201,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1128,
+"end": 1142,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 1144,
+"end": 1152,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 1458,
+"end": 1495,
+"label": "ORGANIZATION",
+"text": "Nairobi Securities Exchange Westlands"
+},
+{
+"start": 1717,
+"end": 1731,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 1733,
+"end": 1741,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 2025,
+"end": 2054,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 2176,
+"end": 2189,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2619,
+"end": 2633,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 2635,
+"end": 2643,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 2672,
+"end": 2685,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2947,
+"end": 2961,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 2963,
+"end": 2971,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 3000,
+"end": 3013,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 3372,
+"end": 3386,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 3388,
+"end": 3396,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 3425,
+"end": 3438,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 4202,
+"end": 4216,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 4218,
+"end": 4226,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 4259,
+"end": 4272,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 4622,
+"end": 4636,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 4638,
+"end": 4646,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 4679,
+"end": 4692,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 5060,
+"end": 5074,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 5076,
+"end": 5084,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 5361,
+"end": 5389,
+"label": "LOCATION",
+"text": "Yaya Centre Kilimani Nairobi"
+},
+{
+"start": 5684,
+"end": 5698,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 5700,
+"end": 5708,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 6047,
+"end": 6061,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 6063,
+"end": 6071,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 6104,
+"end": 6117,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 6368,
+"end": 6381,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 6388,
+"end": 6401,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 6414,
+"end": 6443,
+"label": "EMAIL",
+"text": "sheila.sifuna+017@outlook.com"
+},
+{
+"start": 6864,
+"end": 6877,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 6886,
+"end": 6899,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 7366,
+"end": 7380,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 7382,
+"end": 7390,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 7406,
+"end": 7417,
+"label": "ID_NUMBER",
+"text": "40410925283"
+},
+{
+"start": 7566,
+"end": 7579,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 7581,
+"end": 7594,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 8037,
+"end": 8050,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 8052,
+"end": 8065,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 8312,
+"end": 8326,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 8328,
+"end": 8336,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 8355,
+"end": 8368,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 8385,
+"end": 8398,
+"label": "PHONE",
+"text": "+254760298744"
+}
+]

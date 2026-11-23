@@ -1,0 +1,5 @@
+* Anatumia kitambulisho cha wasifu [PROFILE_ID] na nambari ya simu [PHONE] kwa jina la [PERSON].
+* Ana miadi ya ukaguzi wa afya na ushauri wa lishe tarehe [DATE] huko [LOCATION], [LOCATION] (Njiro).
+* Ana changamoto ya kiafya ya mzio (Mild seasonal allergic rhinitis).
+* Anapanga kununua shajara ya ratiba ya kila siku na mahitaji ya afya huko [LOCATION], [LOCATION] (Njiro).
+* Ameweka booking ya muda wa mazoezi ya afya tarehe [DATE] huko [LOCATION], [LOCATION] (Njiro).

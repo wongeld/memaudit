@@ -1,0 +1,4 @@
+* የመገለጫ መታወቂያቸው (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር በ[LOCATION]) ሊያደርጉት የነበረውን የሸመታ (shopping) ዘርፍ የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋሽገውታል።
+* በ[LOCATION]) አካባቢ (በተለይም latitude 8.9972 እና longitude 38.7869 ላይ) ለጉዳያቸው የሚሆን ቦታ የመፈለግ ፍላጎት አላቸው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃቸው እንዳይላክ ጥንቃቄ ማድረግን እና የ OpenStreetMap እውቅና (attribution) እንዲካተት ይመርጣሉ።

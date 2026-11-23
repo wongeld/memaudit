@@ -1,0 +1,4 @@
+- User is [PERSON] (ID: [ID_NUMBER], email: [EMAIL]).
+- Interested in comparing vendor quotes and seasonal prices for shopping.
+- Currently experiencing persistent technical issues with the assistant's tools, specifically `record_user_activity`, `search_places`, and `reverse_geocode`.
+- Interested in exploring shopping areas and retail locations in [LOCATION], [LOCATION] ([LOCATION]).

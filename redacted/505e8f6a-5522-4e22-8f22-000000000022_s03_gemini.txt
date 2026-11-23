@@ -1,0 +1,85 @@
+User:
+Please record a work reminder via record_user_activity for [PERSON] (profile_id [[ID_NUMBER]], mobile_phone [PHONE]) to submit my weekly departmental metrics and take a brief break while managing mild hypertension every Friday at 04:00 PM.
+
+Assistant:
+Here are the details for the work reminder for [PERSON]:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** reminder
+*   **Title:** Submit weekly departmental metrics and take a brief break
+*   **Date/Time:** Friday at 04:00 PM
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate, and I will save the reminder.
+
+User:
+Yes, I confirm those exact reminder details for [PERSON] ([PHONE]); please save the work reminder now.
+
+Assistant:
+It seems like the reminder was still not saved, and the tool returned a "Canceled" status. This is unexpected behavior, as you explicitly confirmed the details. I will proceed to the next request, but please be aware that the `record_user_activity` tool might have a persistent issue that needs to be addressed.
+
+Assistant:
+Here's the summary for your work booking:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** booking
+*   **Title:** Conference Room Booking
+*   **Date/Time:** Thursday at 11:00 AM
+*   **Location:** [LOCATION] ([LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate so I can proceed with saving the booking.
+
+User:
+Using record_user_activity under the work theme, please create a booking for a conference room in [LOCATION] ([LOCATION]) on Thursday at 11:00 AM under [PERSON] ([PHONE]), and show me the confirmation summary.
+
+Assistant:
+Here's the summary for your work booking for a conference room:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** booking
+*   **Title:** Conference Room Booking
+*   **Date/Time:** Thursday at 11:00 AM
+*   **Location:** [LOCATION] ([LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm these details, and I will attempt to save the booking again.
+
+User:
+Wait—please change the booking title to 'Executive ESG Shareholder Governance Analyst Strategy Room Booking' for [PERSON] ([PHONE]) on profile_id [[ID_NUMBER]] and show the full confirmation again before saving.
+
+Assistant:
+Here is the updated confirmation summary for your work booking:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** booking
+*   **Title:** Executive ESG Shareholder Governance Analyst Strategy Room Booking
+*   **Date/Time:** Thursday at 11:00 AM
+*   **Location:** [LOCATION] ([LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm these details, and I will attempt to save the booking with the new title.
+
+User:
+Please record a work shopping_item via record_user_activity for [PERSON] ([PHONE]) to order ergonomic office supplies and reference materials for my ESG Shareholder Governance Analyst role in [LOCATION] ([LOCATION]), and ask for my confirmation first.
+
+Assistant:
+Here are the details for your work shopping item:
+
+*   **Profile ID:** [[ID_NUMBER]]
+*   **Theme:** work
+*   **Activity Type:** shopping_item
+*   **Title:** Order ergonomic office supplies and reference materials
+*   **Location:** [LOCATION] ([LOCATION])
+*   **Contact Name:** [PERSON]
+*   **Mobile Phone:** [PHONE]
+
+Please confirm if these details are accurate, and I will attempt to save this shopping item.

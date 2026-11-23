@@ -1,0 +1,62 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [PROFILE_ID], simu +255767902219) cha kuandaa chakula bora cha familia kinachoendana na hali ya Iron-deficiency anemia [DATE] kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: reminder
+Kichwa: kuandaa chakula bora cha familia
+Muda: [DATE] la Anwani: [PERSON] ya Mkononi: +255767902219
+Maelezo: kinachoendana na hali ya Iron-deficiency anemia
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] (+255767902219), tafadhali kihifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi kikumbusho hicho. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: reminder
+Kichwa: kuandaa chakula bora cha familia
+Muda: [DATE] la Anwani: [PERSON] ya Mkononi: +255767902219
+Maelezo: kinachoendana na hali ya Iron-deficiency anemia
+
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] (+255767902219) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION], [LOCATION] (Mikocheni); nionyeshe uthibitisho.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: shopping_item
+Kichwa: kununua mahitaji ya nyumbani na zawadi za familia
+Mahali: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] (+255767902219) kwenye profile_id [PROFILE_ID], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimeghairi kuhifadhi shopping item hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: shopping_item
+Kichwa: kununua mahitaji ya nyumbani na zawadi za familia
+Mahali: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219
+Maelezo: vyakula vya afya vya familia na matunda
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] (Mikocheni) kwa [PERSON] (+255767902219) [DATE] na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimeghairi kuhifadhi booking hiyo. Tafadhali thibitisha ikiwa ungependa kuhifadhi maelezo yafuatayo:
+
+ID ya Wasifu: [PROFILE_ID]
+Mada: family
+Aina ya Shughuli: booking
+Kichwa: chakula cha mchana cha familia
+Muda: [DATE]: [LOCATION], [LOCATION] (Mikocheni)
+Jina la Anwani: [PERSON] ya Mkononi: +255767902219

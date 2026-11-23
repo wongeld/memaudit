@@ -1,0 +1,5 @@
+- The user is married with two children.
+- The user manages family activities, including grocery shopping and dining, for [PERSON].
+- The user is interested in healthy meal planning, specifically to help manage mild seasonal allergic rhinitis.
+- The user frequently coordinates family tasks in [LOCATION], [LOCATION].
+- The user prefers to review and approve activity details before they are saved.

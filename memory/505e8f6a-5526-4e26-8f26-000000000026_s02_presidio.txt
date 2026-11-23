@@ -1,0 +1,5 @@
+- User's name is [PERSON] and their email is [EMAIL].
+- User is in good health with no chronic conditions.
+- User is currently planning professional commitments and off-site meetings in [LOCATION], [LOCATION] ([LOCATION]).
+- User prefers to use specific tools like `record_user_activity`, `list_user_activities`, `search_places`, and `reverse_geocode` for managing their schedule and location data.
+- User is associated with [ORGANIZATION].

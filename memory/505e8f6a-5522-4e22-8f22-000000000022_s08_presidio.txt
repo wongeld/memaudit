@@ -1,0 +1,5 @@
+* User is [PERSON] (ID: 1815853866, email: [EMAIL]).
+* Routinely performs evening meal prep and next-day prioritization.
+* Has a daily commute in [LOCATION], [LOCATION] (Ironbound).
+* Has a late commitment at [ORGANIZATION] in [LOCATION], [LOCATION].
+* Interested in verifying street addresses and landmarks along their commute route.

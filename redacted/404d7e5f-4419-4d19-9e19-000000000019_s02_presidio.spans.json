@@ -1,0 +1,86 @@
+[
+{
+"start": 199,
+"end": 246,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku.\n\nAssistant:\nNimeghairi"
+},
+{
+"start": 491,
+"end": 518,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku\n\nJe"
+},
+{
+"start": 587,
+"end": 610,
+"label": "DATE",
+"text": "Jumapili saa 2:00 usiku"
+},
+{
+"start": 652,
+"end": 665,
+"label": "DATE",
+"text": "mapema mchana"
+},
+{
+"start": 1064,
+"end": 1087,
+"label": "ORGANIZATION",
+"text": "Arusha Airport Tanzania"
+},
+{
+"start": 1147,
+"end": 1182,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1228,
+"end": 1251,
+"label": "ORGANIZATION",
+"text": "Arusha Airport Tanzania"
+},
+{
+"start": 1412,
+"end": 1418,
+"label": "LOCATION",
+"text": "Arusha"
+},
+{
+"start": 1420,
+"end": 1428,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 1458,
+"end": 1493,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1808,
+"end": 1815,
+"label": "LOCATION",
+"text": "Njiro\n*"
+},
+{
+"start": 1827,
+"end": 1835,
+"label": "LOCATION",
+"text": "Arusha\n*"
+},
+{
+"start": 1848,
+"end": 1858,
+"label": "LOCATION",
+"text": "Tanzania\n*"
+},
+{
+"start": 1874,
+"end": 1887,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,164 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 69,
+"end": 85,
+"label": "ORGANIZATION",
+"text": "Family Mediation"
+},
+{
+"start": 106,
+"end": 112,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 114,
+"end": 127,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 345,
+"end": 361,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 693,
+"end": 699,
+"label": "PERSON",
+"text": "Arthur"
+},
+{
+"start": 711,
+"end": 720,
+"label": "PERSON",
+"text": "Pendleton"
+},
+{
+"start": 735,
+"end": 747,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 755,
+"end": 785,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 795,
+"end": 808,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1004,
+"end": 1010,
+"label": "PERSON",
+"text": "Arthur"
+},
+{
+"start": 1054,
+"end": 1066,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 1078,
+"end": 1108,
+"label": "EMAIL",
+"text": "arthur.pendleton+029@gmail.com"
+},
+{
+"start": 1122,
+"end": 1135,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1200,
+"end": 1216,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1234,
+"end": 1246,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2039,
+"end": 2055,
+"label": "ORGANIZATION",
+"text": "Family Mediation"
+},
+{
+"start": 2069,
+"end": 2075,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2077,
+"end": 2090,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2259,
+"end": 2275,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2277,
+"end": 2289,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2622,
+"end": 2638,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2657,
+"end": 2669,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 2820,
+"end": 2836,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2838,
+"end": 2850,
+"label": "PHONE",
+"text": "+19832584476"
+},
+{
+"start": 3208,
+"end": 3224,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 3243,
+"end": 3255,
+"label": "PHONE",
+"text": "+19832584476"
+}
+]

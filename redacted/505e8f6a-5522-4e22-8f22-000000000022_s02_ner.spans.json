@@ -1,0 +1,80 @@
+[
+{
+"start": 10,
+"end": 22,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 211,
+"end": 217,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 219,
+"end": 232,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 540,
+"end": 546,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 548,
+"end": 561,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 563,
+"end": 572,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 729,
+"end": 741,
+"label": "PERSON",
+"text": "Marcus Vance"
+},
+{
+"start": 1832,
+"end": 1845,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1865,
+"end": 1893,
+"label": "LOCATION",
+"text": "One Gateway Center Newark NJ"
+},
+{
+"start": 2035,
+"end": 2063,
+"label": "LOCATION",
+"text": "One Gateway Center Newark NJ"
+},
+{
+"start": 2373,
+"end": 2379,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2381,
+"end": 2394,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2396,
+"end": 2405,
+"label": "LOCATION",
+"text": "Ironbound"
+}
+]

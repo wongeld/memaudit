@@ -1,0 +1,152 @@
+[
+{
+"start": 61,
+"end": 74,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 106,
+"end": 119,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 201,
+"end": 239,
+"label": "DATE",
+"text": "kila jioni saa 12:30.\n\nAssistant:\nSawa"
+},
+{
+"start": 581,
+"end": 616,
+"label": "DATE",
+"text": "Kila jioni saa 12:30\n**Kitambulisho"
+},
+{
+"start": 664,
+"end": 677,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 796,
+"end": 809,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 811,
+"end": 824,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1152,
+"end": 1165,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1167,
+"end": 1180,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1240,
+"end": 1264,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1589,
+"end": 1629,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 1677,
+"end": 1690,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1840,
+"end": 1853,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1855,
+"end": 1868,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2210,
+"end": 2245,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Maelezo"
+},
+{
+"start": 2359,
+"end": 2372,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2794,
+"end": 2801,
+"label": "LOCATION",
+"text": "Nairobi"
+},
+{
+"start": 2803,
+"end": 2808,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 2810,
+"end": 2818,
+"label": "LOCATION",
+"text": "Kilimani"
+},
+{
+"start": 2824,
+"end": 2837,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2839,
+"end": 2852,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2854,
+"end": 2878,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana"
+},
+{
+"start": 3177,
+"end": 3213,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana\n**Mahali:**"
+},
+{
+"start": 3214,
+"end": 3254,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n**Kitambulisho"
+},
+{
+"start": 3302,
+"end": 3315,
+"label": "PHONE",
+"text": "+254760298744"
+}
+]

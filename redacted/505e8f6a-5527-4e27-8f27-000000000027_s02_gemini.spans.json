@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 28,
+"end": 58,
+"label": "EMAIL",
+"text": "gregory.halstead+027@gmail.com"
+},
+{
+"start": 217,
+"end": 224,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 226,
+"end": 239,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 241,
+"end": 253,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 519,
+"end": 526,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 528,
+"end": 541,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 543,
+"end": 555,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 820,
+"end": 836,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1005,
+"end": 1021,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1280,
+"end": 1296,
+"label": "PERSON",
+"text": "Gregory Halstead"
+},
+{
+"start": 1525,
+"end": 1549,
+"label": "LOCATION",
+"text": "Merchandise Mart Chicago"
+},
+{
+"start": 1691,
+"end": 1715,
+"label": "LOCATION",
+"text": "Merchandise Mart Chicago"
+},
+{
+"start": 3173,
+"end": 3197,
+"label": "LOCATION",
+"text": "Merchandise Mart Chicago"
+},
+{
+"start": 4192,
+"end": 4216,
+"label": "LOCATION",
+"text": "Merchandise Mart Chicago"
+},
+{
+"start": 4555,
+"end": 4562,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 4564,
+"end": 4577,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4579,
+"end": 4591,
+"label": "LOCATION",
+"text": "Lincoln Park"
+}
+]

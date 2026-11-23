@@ -1,0 +1,7 @@
+- User is [PERSON] Lindqvist, a 34-year-old Eco-Tourism Travel Consultant.
+- Holds a Bachelor of Arts degree.
+- Based in [LOCATION], [LOCATION] ([LOCATION]).
+- Relationship status: single.
+- Frequently plans travel itineraries, including regional flights and hotel bookings.
+- Contact details provided: [PHONE] and [EMAIL].
+- Currently experiencing persistent technical issues with the assistant's ability to save profile information or record travel activities.

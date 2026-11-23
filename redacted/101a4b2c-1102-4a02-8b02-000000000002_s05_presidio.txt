@@ -1,0 +1,35 @@
+User:
+Mimi [PERSON] (kitambulisho 40553077639, Married with two children), nataka kurekodi kazi (task) kwenye mada ya shopping ya kulinganisha bei za wauzaji wa jumla na rejareja [DATE] huko [LOCATION], [PERSON]. Naweza kurekodi kazi hii kwako. Tafadhali thibitisha maelezo yafuatayo kabla sijayahifadhi:
+
+**Profile ID**: [PROFILE_ID]
+**Theme**: shopping
+**Activity Type**: task
+**Title**: Kulinganisha bei za wauzaji wa jumla na rejareja
+**Date/Time**: [DATE] Name**: [PERSON] Phone**: [PHONE]
+**Location**: [LOCATION], maelezo haya ni sahihi?
+
+User:
+Hapana, ghairi kazi hiyo ya [DATE] kwa sasa kwa sababu tayari nimepata orodha ya bei kwa barua pepe [EMAIL], usihifadhi.
+
+Assistant:
+Sawa, nimeghairi kazi hiyo. Haikuhifadhiwa kwenye mfumo.
+
+Je, ninaweza kukusaidia na kitu kingine?
+
+User:
+Tafadhali tumia list_user_activities kuorodhesha shughuli zote za mada ya shopping kwa profile_id [PROFILE_ID].
+
+Assistant:
+Samahani, inaonekana hakuna shughuli zilizohifadhiwa chini ya mada ya 'shopping' kwa profile_id yako. Hii inaweza kuwa kwa sababu hatukuweza kuhifadhi kipengee cha ununuzi hapo awali.
+
+User:
+Ninataka kwenda kufanya manunuzi; tafadhali tumia search_places kutafuta '[LOCATION]' bila kutuma taarifa zangu binafsi na uweke attribution ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu nyingine wakati wa kutumia zana ya `search_places`. Tafadhali jaribu tena.
+
+User:
+Tafadhali tumia reverse_geocode kutambua anwani ya kituo cha biashara chenye majira-nukta latitude -1.2618 na longitude 36.8026 huko [LOCATION]) na uonyeshe nukuu ya OpenStreetMap.
+
+Assistant:
+Samahani, imetokea hitilafu nyingine wakati wa kutumia zana ya `reverse_geocode`. Tafadhali jaribu tena.

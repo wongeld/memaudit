@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 27,
+"label": "PERSON",
+"text": "Valentine Nayaku"
+},
+{
+"start": 166,
+"end": 170,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 172,
+"end": 177,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 179,
+"end": 185,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 344,
+"end": 354,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 512,
+"end": 516,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 518,
+"end": 523,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 525,
+"end": 531,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 946,
+"end": 956,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1053,
+"end": 1063,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1156,
+"end": 1180,
+"label": "LOCATION",
+"text": "Embu County Headquarters"
+},
+{
+"start": 1315,
+"end": 1339,
+"label": "LOCATION",
+"text": "Embu County Headquarters"
+},
+{
+"start": 1521,
+"end": 1525,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1527,
+"end": 1532,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1534,
+"end": 1540,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

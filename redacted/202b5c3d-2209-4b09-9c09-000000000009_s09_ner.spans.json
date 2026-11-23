@@ -1,0 +1,182 @@
+[
+{
+"start": 69,
+"end": 84,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 130,
+"end": 144,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 226,
+"end": 241,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 301,
+"end": 315,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 350,
+"end": 385,
+"label": "DATE",
+"text": "2023-10-27 አርብ ከሰዓት 10:00\")።\n\nእንዲሁም"
+},
+{
+"start": 583,
+"end": 600,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 685,
+"end": 700,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 709,
+"end": 724,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 834,
+"end": 848,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 883,
+"end": 920,
+"label": "DATE",
+"text": "2023-10-27 አርብ ከሰዓት 10:00\")።\n\nUser:\nበ"
+},
+{
+"start": 941,
+"end": 956,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 973,
+"end": 981,
+"label": "LOCATION",
+"text": "በMekelle"
+},
+{
+"start": 983,
+"end": 991,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 1326,
+"end": 1343,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 1396,
+"end": 1403,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1405,
+"end": 1427,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder)\n\nይህንን"
+},
+{
+"start": 1557,
+"end": 1572,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 1846,
+"end": 1863,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 1916,
+"end": 1923,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 1925,
+"end": 1943,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder)\n*"
+},
+{
+"start": 2042,
+"end": 2059,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2060,
+"end": 2085,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 2109,
+"end": 2124,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2213,
+"end": 2228,
+"label": "PERSON",
+"text": "Bereket Tesfaye"
+},
+{
+"start": 2285,
+"end": 2301,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2335,
+"end": 2371,
+"label": "DATE",
+"text": "2023-10-28 ቅዳሜ ጠዋት 4:00 ሰዓት\")\n\nእንዲሁም"
+},
+{
+"start": 2573,
+"end": 2590,
+"label": "PERSON",
+"text": "Bereket Tesfaye\n*"
+},
+{
+"start": 2643,
+"end": 2650,
+"label": "LOCATION",
+"text": "Mekelle"
+},
+{
+"start": 2652,
+"end": 2660,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2662,
+"end": 2670,
+"label": "LOCATION",
+"text": "Ayder)\n*"
+}
+]

@@ -1,0 +1,5 @@
+* Jina lake ni [PERSON], ana elimu ya Master of Business Administration, na ameoa/ameolewa akiwa na watoto wawili.
+* Hupanga majukumu ya siku na kufanya mazoezi mepesi kupitia daily planning.
+* Ana ratiba ya kikao cha jioni mnamo [DATE] huko [LOCATION].
+* Hufanya ukaguzi wa kawaida wa afya na anahitaji kufahamu eneo la kituo cha afya cha [ORGANIZATION] [LOCATION].
+* Anajali faragha ya taarifa zake binafsi wakati wa kutafuta maeneo na anapendelea uthibitisho/nukuu ya OpenStreetMap.

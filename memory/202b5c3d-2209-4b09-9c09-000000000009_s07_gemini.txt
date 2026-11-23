@@ -1,0 +1,5 @@
+* ተጠቃሚው [PERSON] የሚባል የ29 ዓመት ያላገባ (Single) የሆስፒታል ሐኪም (Hospital Physician / Doctor of Medicine) ነው።
+* የሚኖረው በ[LOCATION]) (ኢትዮጵያ) ሲሆን የመገናኛ ቋንቋው አማርኛ ነው።
+* የጤና ሁኔታው መጠነኛ የአስም በሽታ (Mild asthma) አለበት።
+* የእውቂያ መረጃው ስልክ [PHONE]፣ ኢሜይል [EMAIL] እና profile_id [[ID_NUMBER]] ናቸው።
+* ሰኞ ጠዋት 3:00 ሰዓት በ[LOCATION]) የሚከናወን "የሳምንቱ ዋና ተግባር" (task) የማቀድ ፍላጎት አለው።

@@ -1,0 +1,6 @@
+- ስም፡ [PERSON]፣ Profile ID: [PROFILE_ID]፣ ስልክ፡ [PHONE]፣ ኢሜይል፡ [EMAIL]፣ ሀገር፡ [LOCATION]፣ የመታወቂያ ቁጥር፡ 3922715388።
+- መኖሪያ ቦታ፡ [LOCATION], [LOCATION] (Bole)።
+- የሥራ ዘርፍ እና ትምህርት፡ Commercial Florist and Event Decorator ሲሆኑ በ Business Management ዲፕሎማ አላቸው።
+- የቤተሰብ ሁኔታ፡ ባለትዳር እና የሁለት ልጆች ወላጅ (Married with two children)።
+- የጤና ሁኔታ፡ ቀለል ያለ የወቅታዊ የአለርጂ ንፍጥ (Mild seasonal allergic rhinitis) አለባቸው።
+- ተመራጭ ቋንቋ፡ አማርኛ።

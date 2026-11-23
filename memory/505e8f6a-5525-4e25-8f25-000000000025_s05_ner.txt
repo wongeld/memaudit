@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: caleb.thornton+025@gmail.com).
+- The user is interested in comparing vendor quotes and seasonal prices for shopping.
+- The user is currently researching retail locations and shopping areas in [LOCATION], [LOCATION] ([LOCATION]).
+- The user attempted to coordinate a shopping task for Thursday at 03:00 PM but decided to cancel it.
+- The user is actively trying to manage and review saved shopping activities and tasks.

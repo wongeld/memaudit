@@ -1,0 +1,98 @@
+[
+{
+"start": 20,
+"end": 32,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 82,
+"end": 95,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 99,
+"end": 124,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 213,
+"end": 225,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 290,
+"end": 303,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 309,
+"end": 333,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder"
+},
+{
+"start": 505,
+"end": 520,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 537,
+"end": 564,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia (Ayder)\n*"
+},
+{
+"start": 585,
+"end": 599,
+"label": "PERSON",
+"text": "Tigist Hailu\n*"
+},
+{
+"start": 709,
+"end": 723,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 789,
+"end": 807,
+"label": "DATE",
+"text": "የረቡዕ ከሰዓት 8:00 ሰዓት"
+},
+{
+"start": 1054,
+"end": 1069,
+"label": "LOCATION",
+"text": "Ethiopia (Ayder"
+},
+{
+"start": 1127,
+"end": 1157,
+"label": "LOCATION",
+"text": "Alula Aba Nega Airport Mekelle"
+},
+{
+"start": 1172,
+"end": 1185,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1272,
+"end": 1297,
+"label": "LOCATION",
+"text": "በMekelle, Ethiopia (Ayder"
+},
+{
+"start": 1376,
+"end": 1389,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,260 @@
+[
+{
+"start": 62,
+"end": 68,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 70,
+"end": 83,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 85,
+"end": 94,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 128,
+"end": 164,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 290,
+"end": 326,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 575,
+"end": 611,
+"label": "LOCATION",
+"text": "Newark Liberty International Airport"
+},
+{
+"start": 634,
+"end": 665,
+"label": "ADDRESS",
+"text": "3 Brewster Rd, Newark, NJ 07114"
+},
+{
+"start": 697,
+"end": 706,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 719,
+"end": 725,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 924,
+"end": 930,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 932,
+"end": 945,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 947,
+"end": 956,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1390,
+"end": 1409,
+"label": "LOCATION",
+"text": "Newark Penn Station"
+},
+{
+"start": 1426,
+"end": 1474,
+"label": "ADDRESS",
+"text": "Raymond Plaza West & Market St, Newark, NJ 07102"
+},
+{
+"start": 1536,
+"end": 1545,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 1820,
+"end": 1836,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1850,
+"end": 1860,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1876,
+"end": 1888,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2040,
+"end": 2050,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2223,
+"end": 2229,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2231,
+"end": 2244,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2246,
+"end": 2255,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2279,
+"end": 2295,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2318,
+"end": 2330,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2496,
+"end": 2512,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2514,
+"end": 2526,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2644,
+"end": 2654,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2827,
+"end": 2833,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2835,
+"end": 2848,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2850,
+"end": 2859,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2883,
+"end": 2899,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2922,
+"end": 2934,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3141,
+"end": 3157,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3159,
+"end": 3171,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3277,
+"end": 3283,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3285,
+"end": 3298,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3300,
+"end": 3309,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3486,
+"end": 3496,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3632,
+"end": 3638,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3640,
+"end": 3653,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3655,
+"end": 3664,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3688,
+"end": 3704,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3727,
+"end": 3739,
+"label": "PHONE",
+"text": "+15775666484"
+}
+]

@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 22,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 191,
+"end": 199,
+"label": "DATE",
+"text": "Jumapili"
+},
+{
+"start": 200,
+"end": 216,
+"label": "DATE",
+"text": "saa 9:00 alasiri"
+},
+{
+"start": 222,
+"end": 264,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabua).\n\nAssistant:\nSamahani"
+},
+{
+"start": 708,
+"end": 733,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 903,
+"end": 928,
+"label": "DATE",
+"text": "Jumapili saa 9:00 alasiri"
+},
+{
+"start": 1455,
+"end": 1472,
+"label": "DATE",
+"text": "mwishoni mwa wiki"
+},
+{
+"start": 1514,
+"end": 1526,
+"label": "LOCATION",
+"text": "Embu Stadium"
+},
+{
+"start": 1586,
+"end": 1621,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 1776,
+"end": 1788,
+"label": "LOCATION",
+"text": "Embu Stadium"
+},
+{
+"start": 1816,
+"end": 1829,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1978,
+"end": 1996,
+"label": "LOCATION",
+"text": "Embu, Kenya (Itabu"
+},
+{
+"start": 2020,
+"end": 2055,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 2263,
+"end": 2276,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2370,
+"end": 2383,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

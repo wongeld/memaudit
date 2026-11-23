@@ -1,0 +1,128 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 67,
+"end": 87,
+"label": "ORGANIZATION",
+"text": "Software Engineering"
+},
+{
+"start": 106,
+"end": 113,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 115,
+"end": 128,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 130,
+"end": 142,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 716,
+"end": 721,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 733,
+"end": 741,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 814,
+"end": 827,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1022,
+"end": 1027,
+"label": "PERSON",
+"text": "David"
+},
+{
+"start": 1047,
+"end": 1055,
+"label": "PERSON",
+"text": "Kowalski"
+},
+{
+"start": 1152,
+"end": 1165,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1324,
+"end": 1338,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1686,
+"end": 1706,
+"label": "ORGANIZATION",
+"text": "Software Engineering"
+},
+{
+"start": 1718,
+"end": 1725,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1727,
+"end": 1740,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1742,
+"end": 1754,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 1915,
+"end": 1935,
+"label": "ORGANIZATION",
+"text": "Software Engineering"
+},
+{
+"start": 1990,
+"end": 2004,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2430,
+"end": 2444,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2916,
+"end": 2935,
+"label": "ORGANIZATION",
+"text": "Engineering Manager"
+},
+{
+"start": 3005,
+"end": 3019,
+"label": "PERSON",
+"text": "David Kowalski"
+}
+]

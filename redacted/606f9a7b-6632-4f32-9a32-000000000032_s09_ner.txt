@@ -1,0 +1,83 @@
+User:
+Using record_user_activity under daily_planning, please schedule an appointment for a routine wellness checkup in [LOCATION], [LOCATION] ([LOCATION]) on Friday at 02:30 PM for [PERSON] (profile_id [PROFILE_ID], mobile_phone +16098633034).
+
+Assistant:
+Here are the details for your daily planning appointment:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** appointment
+- **Title:** Routine Wellness Checkup
+- **Date/Time:** Friday at 02:30 PM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `+16098633034`
+
+Please confirm if these details are accurate so I can proceed with saving the appointment.
+
+User:
+Yes, I confirm the Friday 02:30 PM daily_planning appointment for [PERSON] (+16098633034)—please save it.
+
+Assistant:
+I attempted to save the daily planning appointment for [PERSON] with the confirmed details, but the operation was reported as canceled ("Canceled. No activity was saved.").
+
+The submitted details were:
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** appointment
+- **Title:** Routine Wellness Checkup
+- **Date/Time:** Friday at 02:30 PM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `+16098633034`
+
+User:
+Please add a daily_planning shopping_item via record_user_activity for [PERSON] Kim (+16098633034) to pick up a daily planner notebook and health supplies suited to managing mild seasonal allergic rhinitis in [LOCATION], [LOCATION] ([LOCATION]).
+
+Assistant:
+Here are the details for your daily planning shopping item:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** shopping_item
+- **Title:** Daily planner notebook and health supplies
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `+16098633034`
+- **Notes:** Suited to managing mild seasonal allergic rhinitis
+
+Please confirm if these details are accurate so I can proceed with saving the shopping item.
+
+User:
+Wait—please update the title of that daily_planning shopping_item to 'Daily Planner, Hydration [ORGANIZATION], and [ORGANIZATION]' for [PERSON] (+16098633034) and show the full confirmation again.
+
+Assistant:
+I have updated the shopping item title. Here is the full confirmation summary:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** shopping_item
+- **Title:** Daily Planner, Hydration [ORGANIZATION], and Wellness Supplies
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `+16098633034`
+- **Notes:** Suited to managing mild seasonal allergic rhinitis
+
+Please confirm if these details are accurate so I can proceed with saving the shopping item.
+
+User:
+Please create a daily_planning booking via record_user_activity for [PERSON] (+16098633034) for a morning fitness and stretching session in [LOCATION], [LOCATION] (Back [LOCATION]) on Saturday at 08:30 AM, and ask for my approval first.
+
+Assistant:
+Here are the details for your daily planning booking:
+
+- **Profile ID:** `[PROFILE_ID]`
+- **Theme:** daily_planning
+- **Activity Type:** booking
+- **Title:** Morning Fitness and Stretching Session
+- **Date/Time:** Saturday at 08:30 AM
+- **Location:** [LOCATION], [LOCATION] ([LOCATION])
+- **Contact Name:** [PERSON]
+- **Mobile Phone:** `+16098633034`
+
+Please confirm if these details meet your approval so I can proceed with saving the booking.

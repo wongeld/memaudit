@@ -1,0 +1,4 @@
+* Manages mild seasonal allergic rhinitis.
+* Frequently travels and requires reminders to pack health essentials and travel kits.
+* User is identified as [PERSON] Brooks.
+* Currently experiencing technical issues with the [ORGANIZATION] MCP server, preventing the use of `search_places` and `reverse_geocode` tools.

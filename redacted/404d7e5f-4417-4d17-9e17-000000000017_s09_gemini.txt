@@ -1,0 +1,72 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya family kwa [PERSON] (profile_id [[ID_NUMBER]], simu [PHONE]) cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension kila jioni saa 12:30.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi kikumbusho chako cha kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension. Tafadhali thibitisha maelezo yafuatayo kabla ya kuyahifadhi:
+
+**Aina ya Shughuli:** Kikumbusho
+**Mada:** Family
+**Kichwa:** Kuandaa chakula bora cha familia kinachoendana na hali ya Mild hypertension
+**Tarehe/Muda:** Kila jioni saa 12:30
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha familia kwa [PERSON] ([PHONE]), tafadhali kihifadhi.
+
+Assistant:
+Ninaelewa kuwa umethibitisha kikumbusho hicho. Nimejaribu kukihifadhi, lakini mfumo umetoa ujumbe wa "Canceled. No activity was saved." Inaonekana mfumo unaendelea kuhitaji uthibitisho wa ziada kabla ya kuhifadhi kabisa shughuli.
+
+User:
+Naomba urekodi shopping_item kwenye mada ya family kwa [PERSON] ([PHONE]) ya kununua mahitaji ya nyumbani na zawadi za familia huko [LOCATION], [LOCATION] ([LOCATION]); nionyeshe uthibitisho.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi shopping item yako ya kununua mahitaji ya nyumbani na zawadi za familia. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+**Aina ya Shughuli:** Shopping Item
+**Mada:** Family
+**Kichwa:** Kununua mahitaji ya nyumbani na zawadi za familia
+**Mahali:** [LOCATION], [LOCATION] ([LOCATION])
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+User:
+Samahani, ongeza kwenye maelezo (notes) 'vyakula vya afya vya familia na matunda' kwa [PERSON] ([PHONE]) kwenye profile_id [[ID_NUMBER]], kisha urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi upya shopping item hiyo na kuongeza maelezo (notes). Tafadhali thibitisha maelezo yafuatayo:
+
+**Aina ya Shughuli:** Shopping Item
+**Mada:** Family
+**Kichwa:** Kununua mahitaji ya nyumbani na zawadi za familia
+**Mahali:** [LOCATION], [LOCATION] ([LOCATION])
+**Maelezo (Notes):** vyakula vya afya vya familia na matunda
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.
+
+Assistant:
+Ninaelewa kuwa mfumo unahitaji uthibitisho tena, na kwamba shopping item hiyo haijahifadhiwa. Hata hivyo, nimeonyesha maelezo mapya na notes ulizoongeza.
+
+Je, ungependa nithibitishe maelezo haya kabla ya kujaribu kuhifadhi tena, au kuna jambo lingine ungependa kufanya?
+
+User:
+Rekodi booking kwenye mada ya family ya chakula cha mchana cha familia huko [LOCATION], [LOCATION] ([LOCATION]) kwa [PERSON] ([PHONE]) Jumapili saa 7:30 mchana na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Sawa, ninaelewa. Sasa narekodi booking yako ya chakula cha mchana cha familia. Tafadhali thibitisha muhtasari huu kabla ya kuhifadhi:
+
+**Aina ya Shughuli:** Booking
+**Mada:** Family
+**Kichwa:** Chakula cha mchana cha familia
+**Tarehe/Muda:** Jumapili saa 7:30 mchana
+**Mahali:** [LOCATION], [LOCATION] ([LOCATION])
+**Kitambulisho cha Wasifu:** [[ID_NUMBER]]
+**Simu ya rununu:** [PHONE]
+
+Tafadhali thibitisha kama maelezo haya yote ni sahihi.

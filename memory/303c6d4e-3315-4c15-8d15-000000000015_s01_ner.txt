@@ -1,0 +1,8 @@
+- ስም: [PERSON]
+- የሥራ መደብ: Regional Logistics Coordinator
+- የትምህርት ደረጃ: Bachelor of Commerce
+- የጤና ሁኔታ: Mild asthma (ቀላል አስም)
+- የጋብቻ ሁኔታ: Single
+- መኖሪያ: [LOCATION], [LOCATION] (Tabor)
+- ስልክ ቁጥር: +251937514011
+- መታወቂያ (Profile ID): [PROFILE_ID]

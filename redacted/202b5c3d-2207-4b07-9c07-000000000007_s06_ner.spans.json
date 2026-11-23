@@ -1,0 +1,158 @@
+[
+{
+"start": 76,
+"end": 90,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 136,
+"end": 150,
+"label": "DATE",
+"text": "አርብ ከሰዓት 10:00"
+},
+{
+"start": 414,
+"end": 417,
+"label": "DATE",
+"text": "አርብ"
+},
+{
+"start": 418,
+"end": 430,
+"label": "DATE",
+"text": "ከሰዓት 10:00\n*"
+},
+{
+"start": 451,
+"end": 467,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 547,
+"end": 562,
+"label": "DATE",
+"text": "የአርብ 10:00 ሰዓቱን"
+},
+{
+"start": 571,
+"end": 585,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 872,
+"end": 886,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 903,
+"end": 915,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 917,
+"end": 931,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 1247,
+"end": 1258,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1260,
+"end": 1277,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 1298,
+"end": 1314,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 1521,
+"end": 1535,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 1806,
+"end": 1817,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1819,
+"end": 1836,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 1857,
+"end": 1873,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 2037,
+"end": 2054,
+"label": "DATE",
+"text": "ለቅዳሜ ጠዋት 4:00 ሰዓት"
+},
+{
+"start": 2055,
+"end": 2067,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 2069,
+"end": 2077,
+"label": "LOCATION",
+"text": "Ethiopia"
+},
+{
+"start": 2079,
+"end": 2083,
+"label": "LOCATION",
+"text": "Yeka"
+},
+{
+"start": 2107,
+"end": 2121,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 2412,
+"end": 2430,
+"label": "DATE",
+"text": "ቅዳሜ ጠዋት 4:00 ሰዓት\n*"
+},
+{
+"start": 2447,
+"end": 2458,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2460,
+"end": 2477,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 2498,
+"end": 2514,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+}
+]

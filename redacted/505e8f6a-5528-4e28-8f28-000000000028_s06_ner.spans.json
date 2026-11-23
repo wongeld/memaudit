@@ -1,0 +1,134 @@
+[
+{
+"start": 163,
+"end": 176,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 566,
+"end": 579,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 897,
+"end": 910,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1372,
+"end": 1385,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1489,
+"end": 1496,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1498,
+"end": 1511,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1877,
+"end": 1890,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1944,
+"end": 1951,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1953,
+"end": 1966,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1968,
+"end": 1975,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 2387,
+"end": 2400,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3091,
+"end": 3104,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3158,
+"end": 3165,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3167,
+"end": 3180,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3569,
+"end": 3582,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3650,
+"end": 3657,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 3659,
+"end": 3672,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3674,
+"end": 3681,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 4036,
+"end": 4049,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 4103,
+"end": 4110,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 4112,
+"end": 4125,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 4127,
+"end": 4134,
+"label": "LOCATION",
+"text": "Ballard"
+}
+]

@@ -1,0 +1,5 @@
+- Mtumiaji ana hali ya afya ya "Mild hypertension" ambayo anahitaji kuizingatia wakati wa kazi.
+- Mtumiaji anajishughulisha na kazi zinazohitaji kuhudhuria vikao vya kikazi katika maeneo mbalimbali ya [LOCATION].
+- Mtumiaji anatumia mfumo wa kidijitali kufuatilia shughuli zake za kikazi na mawasiliano ya kikazi.
+- Mtumiaji ana mawasiliano ya kikazi na [PERSON] (simu: [PHONE], barua pepe: [EMAIL]) ambayo anahitaji kuyafuatilia.
+- Mtumiaji alijaribu kuweka kikumbusho cha kikazi cha tarehe [DATE] kuhusu kupitia barua pepe na kuzingatia afya yake, lakini shughuli hiyo haikuhifadhiwa kwenye mfumo.

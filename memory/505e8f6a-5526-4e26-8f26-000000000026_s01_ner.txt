@@ -1,0 +1,7 @@
+- User is a 38-year-old University Lecturer.
+- Holds a Doctor of Philosophy degree.
+- Lives in [LOCATION], [LOCATION] (specifically Back Bay).
+- Married with two children.
+- Uses the email address nathan.mercer+026@outlook.com and phone number +15246107452.
+- Prefers English as the communication language.
+- Currently working on a task titled "Prepare [ORGANIZATION] Lecturer Briefing".

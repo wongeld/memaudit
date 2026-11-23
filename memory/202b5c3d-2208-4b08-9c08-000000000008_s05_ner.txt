@@ -1,0 +1,5 @@
+* የመገለጫ መታወቂያው (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] (+251954834664፣ shimelis.tilahun+008@gmail.com) ጋር በ[LOCATION] የምክክር ቀጠሮ ነበረው፤ ሆኖም የ[DATE] ቀጠሮው ወደ ሌላ ቀን ተሸጋግሯል።
+* ቦታዎችን በሚፈልግበት ጊዜ የግል መረጃው ሳይላክ በጥንቃቄ እንዲፈለግ ይፈልጋል።
+* በቦታ ፍለጋ እና በጂኦኮዲንግ ወቅት የ[ORGANIZATION] የባለቤትነት ዕውቅና (attribution) እንዲካተት ይመርጣል።
+* በAddis [LOCATION] እንዲሁም በ[LOCATION], [LOCATION] አካባቢ የቦታ መረጃዎችን ይፈልጋል።

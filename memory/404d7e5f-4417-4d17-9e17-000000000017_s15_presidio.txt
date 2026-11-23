@@ -1,0 +1,4 @@
+- Mtumiaji anapanga kufanya manunuzi ya bidhaa na dawa katika duka la dawa lililopo [LOCATION], [LOCATION].
+- Mtumiaji alijaribu kuweka kikumbusho cha manunuzi hayo kwa ajili ya [PERSON] (simu: [PHONE]) kwa tarehe [DATE].
+- Mtumiaji anatumia `profile_id` [PROFILE_ID] kwa shughuli zake za manunuzi.
+- Mtumiaji anaonyesha nia ya kutafuta maeneo ya biashara na anwani kwa kutumia zana za ramani katika [LOCATION].

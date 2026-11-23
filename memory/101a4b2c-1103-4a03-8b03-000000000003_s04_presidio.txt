@@ -1,0 +1,6 @@
+* Jina lake ni [PERSON] na ana profile_id [PROFILE_ID].
+* Ana umri wa miaka 29 na ana shahada ya Bachelor of Education.
+* Anafanya kazi kama Secondary School Kiswahili Teacher huko [LOCATION], [LOCATION] (Malava / [LOCATION]).
+* Nambari yake ya simu ni [PHONE], barua pepe ni [EMAIL], na nchi ni [LOCATION].
+* Lugha anayopendelea kutumia ni Kiswahili.
+* Anapanga kufanya kazi ya shule ya kuandaa maazimio ya kufundisha na mwongozo wa tathmini mnamo [DATE].

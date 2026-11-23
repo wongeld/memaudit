@@ -1,0 +1,5 @@
+- User's name is Rachel Kim.
+- Resides in the Back Bay area of Boston, United States.
+- Frequently plans family activities and outings in the Boston area.
+- Manages household budgets and family calendars.
+- Uses the profile ID `[PROFILE_ID]` for activity tracking.

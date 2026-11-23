@@ -1,0 +1,6 @@
+- Mtumiaji anafanya kazi kama Foreign Exchange Dealer huko [LOCATION] (Kilimani), kitambulisho namba 40410925283.
+- Ana familia: ameoa/ameolewa na ana watoto wawili.
+- Ana hali ya afya ya "mild hypertension".
+- Anajihusisha na kazi za kuandaa ripoti za utendaji wa wiki kwa ajili ya [PERSON] ([PHONE]).
+- Anapendelea kutumia mfumo wa `record_user_activity` kuhifadhi kazi zake za kikazi.
+- Alighairi miadi ya kikazi ya [DATE] kwa sababu ilihamishiwa kwenye mkutano wa mtandaoni.

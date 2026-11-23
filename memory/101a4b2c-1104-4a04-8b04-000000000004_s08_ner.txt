@@ -1,0 +1,6 @@
+* Jina la mtumiaji ni [PERSON], ana elimu ya Bachelor of Commerce na kitambulisho nambari 9750779397.
+* Anahusiana na eneo la [LOCATION], [LOCATION] (Mikocheni).
+* Atakuwa na wageni wa familia nyumbani mnamo [DATE].
+* Ana mpango wa kwenda kwenye matembezi ya familia mnamo [DATE].
+* Ana eneo la familia lenye majira-nukta latitude -6.7712 na longitude 39.2398 huko [LOCATION], [LOCATION] (Mikocheni).
+* Anapendelea taarifa zake binafsi zisitumiwe wakati wa kutafuta maeneo na anasisitiza kuweka attribution ya [ORGANIZATION].

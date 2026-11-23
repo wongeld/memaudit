@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 52,
+"end": 80,
+"label": "EMAIL",
+"text": "caleb.thornton+025@gmail.com"
+},
+{
+"start": 217,
+"end": 223,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 225,
+"end": 238,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 240,
+"end": 249,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 577,
+"end": 591,
+"label": "PERSON",
+"text": "Caleb Thornton"
+},
+{
+"start": 765,
+"end": 771,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 773,
+"end": 786,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 788,
+"end": 797,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1502,
+"end": 1508,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 1510,
+"end": 1523,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1525,
+"end": 1534,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 1568,
+"end": 1577,
+"label": "LOCATION",
+"text": "St. David"
+},
+{
+"start": 1595,
+"end": 1601,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2027,
+"end": 2033,
+"label": "LOCATION",
+"text": "Austin"
+},
+{
+"start": 2035,
+"end": 2048,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2050,
+"end": 2059,
+"label": "LOCATION",
+"text": "Hyde Park"
+},
+{
+"start": 2108,
+"end": 2121,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

@@ -1,0 +1,158 @@
+[
+{
+"start": 40,
+"end": 54,
+"label": "LOCATION",
+"text": "Nairobi, Kenya"
+},
+{
+"start": 210,
+"end": 235,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi"
+},
+{
+"start": 240,
+"end": 253,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 255,
+"end": 268,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 625,
+"end": 652,
+"label": "DATE",
+"text": "Jumatatu saa 2:30 asubuhi\n-"
+},
+{
+"start": 678,
+"end": 705,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n-"
+},
+{
+"start": 748,
+"end": 763,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 803,
+"end": 816,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 916,
+"end": 941,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi"
+},
+{
+"start": 997,
+"end": 1010,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1012,
+"end": 1025,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1422,
+"end": 1449,
+"label": "DATE",
+"text": "Jumatatu saa 3:00 asubuhi\n-"
+},
+{
+"start": 1475,
+"end": 1502,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n-"
+},
+{
+"start": 1545,
+"end": 1560,
+"label": "PERSON",
+"text": "Sheila Sifuna\n-"
+},
+{
+"start": 1600,
+"end": 1613,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 1691,
+"end": 1704,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 1844,
+"end": 1869,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 1875,
+"end": 1899,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 1936,
+"end": 1949,
+"label": "PERSON",
+"text": "Sheila Sifuna"
+},
+{
+"start": 2089,
+"end": 2114,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 2120,
+"end": 2144,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani"
+},
+{
+"start": 2523,
+"end": 2550,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi\n-"
+},
+{
+"start": 2576,
+"end": 2603,
+"label": "LOCATION",
+"text": "Nairobi, Kenya (Kilimani)\n-"
+},
+{
+"start": 2705,
+"end": 2718,
+"label": "PHONE",
+"text": "+254760298744"
+},
+{
+"start": 2806,
+"end": 2831,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+},
+{
+"start": 2949,
+"end": 2974,
+"label": "DATE",
+"text": "Jumatano saa 4:00 asubuhi"
+}
+]

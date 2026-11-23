@@ -1,0 +1,5 @@
+* የጤና ሁኔታ፡ Hypothyroidism አለበት/አለባት።
+* የሥራ መስክ፡ Broadcast Lifestyle Journalist ሆኖ/ና ይሠራል/ትሠራለች።
+* የቤተሰብ ሁኔታ፡ ባለትዳር እና የሦስት ልጆች ወላጅ (Married with three children) ነው።/ናት።
+* የግል መለያ መረጃ፡ ስም [PERSON]፣ profile_id [[ID_NUMBER]] እና የስልክ ቁጥር [PHONE] ይጠቀማል።
+* በ[LOCATION] ([LOCATION]) ግብይት የማድረግ እንዲሁም ቅዳሜ ጠዋት 4:00 ሰዓት የአገልግሎት/ቦታ ማስያዝ (booking) ዕቅድ አለው/አላት።

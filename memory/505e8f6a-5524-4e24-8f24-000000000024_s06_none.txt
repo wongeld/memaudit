@@ -1,0 +1,4 @@
+* The user is based in or frequently shops in the Lincoln Park area of Chicago, United States.
+* The user coordinates shopping, pharmacy, and supply-related tasks with David Kowalski (mobile: +18466001447).
+* The user's profile ID is [PROFILE_ID].
+* The user frequently manages shopping activities, including in-store pickups, supplier consultations, and delivery slot reservations.

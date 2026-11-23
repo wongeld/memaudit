@@ -1,0 +1,224 @@
+[
+{
+"start": 61,
+"end": 73,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 87,
+"end": 97,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 105,
+"end": 118,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 360,
+"end": 370,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 496,
+"end": 508,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 526,
+"end": 539,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 659,
+"end": 671,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 673,
+"end": 686,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 843,
+"end": 853,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 979,
+"end": 991,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1009,
+"end": 1022,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1142,
+"end": 1154,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1156,
+"end": 1169,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1229,
+"end": 1252,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 1254,
+"end": 1263,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1424,
+"end": 1434,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1547,
+"end": 1570,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 1572,
+"end": 1581,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 1599,
+"end": 1611,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1629,
+"end": 1642,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1736,
+"end": 1748,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 1750,
+"end": 1763,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 1784,
+"end": 1794,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1976,
+"end": 1986,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2099,
+"end": 2122,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 2124,
+"end": 2133,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 2151,
+"end": 2163,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2181,
+"end": 2194,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2327,
+"end": 2350,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 2352,
+"end": 2361,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 2367,
+"end": 2379,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2381,
+"end": 2394,
+"label": "PHONE",
+"text": "+255767902219"
+},
+{
+"start": 2594,
+"end": 2604,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2723,
+"end": 2746,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania"
+},
+{
+"start": 2748,
+"end": 2757,
+"label": "LOCATION",
+"text": "Mikocheni"
+},
+{
+"start": 2775,
+"end": 2787,
+"label": "PERSON",
+"text": "Neema Mwinyi"
+},
+{
+"start": 2805,
+"end": 2818,
+"label": "PHONE",
+"text": "+255767902219"
+}
+]

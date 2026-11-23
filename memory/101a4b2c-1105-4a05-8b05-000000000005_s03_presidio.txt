@@ -1,0 +1,4 @@
+* Anafanya maandalizi ya safari ya kikazi ya siku 4 kwa ajili ya [PERSON] (profile_id [PROFILE_ID], simu [PHONE]).
+* Ana miadi ya kukutana na mshirika wa safari na usafirishaji tarehe [DATE].
+* Anapanga kuhakiki ratiba ya hoteli na bajeti ya safari kabla ya kuondoka [LOCATION], [LOCATION] (Njiro).
+* Anapanga kununua begi la safari na vifaa vya huduma ya kwanza huko [LOCATION], [LOCATION].

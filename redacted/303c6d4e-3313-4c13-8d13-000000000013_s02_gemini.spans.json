@@ -1,0 +1,110 @@
+[
+{
+"start": 18,
+"end": 30,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 32,
+"end": 45,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 52,
+"end": 78,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 98,
+"end": 115,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 117,
+"end": 122,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 211,
+"end": 223,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 305,
+"end": 322,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 324,
+"end": 329,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 531,
+"end": 548,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 550,
+"end": 555,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 579,
+"end": 591,
+"label": "PERSON",
+"text": "Tigist Hailu"
+},
+{
+"start": 614,
+"end": 627,
+"label": "PHONE",
+"text": "+251940072829"
+},
+{
+"start": 649,
+"end": 675,
+"label": "EMAIL",
+"text": "tigist.hailu+013@gmail.com"
+},
+{
+"start": 1035,
+"end": 1052,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1054,
+"end": 1059,
+"label": "LOCATION",
+"text": "Ayder"
+},
+{
+"start": 1117,
+"end": 1165,
+"label": "ORGANIZATION",
+"text": "Ayder Comprehensive Specialized Hospital Mekelle"
+},
+{
+"start": 1281,
+"end": 1298,
+"label": "LOCATION",
+"text": "Mekelle, Ethiopia"
+},
+{
+"start": 1300,
+"end": 1305,
+"label": "LOCATION",
+"text": "Ayder"
+}
+]

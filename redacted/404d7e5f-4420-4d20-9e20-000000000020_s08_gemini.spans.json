@@ -1,0 +1,92 @@
+[
+{
+"start": 11,
+"end": 25,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 198,
+"end": 214,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 216,
+"end": 222,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 337,
+"end": 351,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 420,
+"end": 430,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 446,
+"end": 460,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 475,
+"end": 488,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 659,
+"end": 675,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 677,
+"end": 683,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 1055,
+"end": 1065,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1169,
+"end": 1179,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1447,
+"end": 1470,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 1598,
+"end": 1621,
+"label": "ORGANIZATION",
+"text": "Benjamin Mkapa Hospital"
+},
+{
+"start": 1853,
+"end": 1869,
+"label": "LOCATION",
+"text": "Dodoma, Tanzania"
+},
+{
+"start": 1871,
+"end": 1877,
+"label": "LOCATION",
+"text": "Area C"
+}
+]

@@ -1,0 +1,110 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 66,
+"end": 74,
+"label": "ORGANIZATION",
+"text": "Hospital"
+},
+{
+"start": 94,
+"end": 101,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 103,
+"end": 116,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 118,
+"end": 125,
+"label": "LOCATION",
+"text": "Ballard"
+},
+{
+"start": 638,
+"end": 643,
+"label": "PERSON",
+"text": "Lucas"
+},
+{
+"start": 655,
+"end": 662,
+"label": "PERSON",
+"text": "Bennett"
+},
+{
+"start": 734,
+"end": 747,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 955,
+"end": 960,
+"label": "PERSON",
+"text": "Lucas"
+},
+{
+"start": 1083,
+"end": 1096,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1213,
+"end": 1226,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 1687,
+"end": 1694,
+"label": "LOCATION",
+"text": "Seattle"
+},
+{
+"start": 1696,
+"end": 1709,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1711,
+"end": 1718,
+"label": "ORGANIZATION",
+"text": "Ballard"
+},
+{
+"start": 1869,
+"end": 1882,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2219,
+"end": 2232,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 2521,
+"end": 2534,
+"label": "PERSON",
+"text": "Lucas Bennett"
+},
+{
+"start": 3116,
+"end": 3121,
+"label": "PERSON",
+"text": "Lucas"
+}
+]

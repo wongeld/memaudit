@@ -1,0 +1,5 @@
+- User's name is [PERSON] (ID: [PHONE]).
+- The user is planning a family outing in [LOCATION], [LOCATION] ([LOCATION]).
+- The user intends to review their household budget and family calendar at a later date.
+- The user is interested in visiting the '[LOCATION] Public Garden'.
+- The user is attempting to verify an address for a family gathering at coordinates 42.3493, -71.0816 in [LOCATION].

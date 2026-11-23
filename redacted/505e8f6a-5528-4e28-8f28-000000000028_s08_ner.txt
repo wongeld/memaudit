@@ -1,0 +1,44 @@
+User:
+I'm [PERSON] (mock ID 7969405462, email lucas.bennett+028@yahoo.com), and I want to use record_user_activity in the daily_planning theme to log a task for evening meal prep and next-day prioritization in [LOCATION], [LOCATION] ([LOCATION]) at 06:30 PM.
+
+Assistant:
+I've prepared to record your daily planning task with the following details, but it needs your confirmation first:
+
+*   **Profile ID:** [PROFILE_ID]
+*   **Theme:** Daily Planning
+*   **Activity Type:** Task
+*   **Title:** evening meal prep and next-day prioritization
+*   **Date/Time:** 06:30 PM
+*   **Location:** [LOCATION], [LOCATION] ([LOCATION]) (as provided in your request, though not explicitly a field for `task` in the tool)
+
+Please confirm if this information is correct and if you'd like me to proceed with saving it. Please be aware that, as before, the tool may still indicate that no activity was saved even after your confirmation.
+
+User:
+No, cancel that 06:30 PM daily_planning task for now—I have a late commitment in [LOCATION], [LOCATION] ([LOCATION]), so do not save it.
+
+Assistant:
+Understood. The 06:30 PM daily planning task for "evening meal prep and next-day prioritization" will not be saved.
+
+User:
+Please run list_user_activities for profile_id [PROFILE_ID] filtered by daily_planning to display my current daily schedule.
+
+Assistant:
+It looks like there are no daily planning activities saved for your profile ([PROFILE_ID]) at this time. This is consistent with the `record_user_activity` tool indicating that no data was saved in previous attempts.
+
+User:
+I need to check a nearby landmark along my daily commute in [LOCATION], [LOCATION] ([LOCATION]); please call search_places for 'Swedish [LOCATION] Campus [LOCATION]' without sending personal info, and include OpenStreetMap attribution.
+
+Assistant:
+I apologize, but I am unable to complete your request to search for 'Swedish [ORGANIZATION]' using the `openstreetmap_search_places` tool. As with previous attempts, the tool is consistently returning an error: "Error: Error executing tool search_places". It seems there's a persistent issue with the [ORGANIZATION] tool itself or its configuration that is preventing searches from being executed successfully.
+
+**OpenStreetMap Attribution:**
+"© [ORGANIZATION] contributors"
+
+User:
+Please call reverse_geocode for coordinates latitude 47.6687 and longitude -122.3845 in [LOCATION], [LOCATION] ([LOCATION]) to verify the street address on my route, with [ORGANIZATION] attribution.
+
+Assistant:
+I apologize, but I am unable to complete your request to reverse geocode the coordinates latitude 47.6687 and longitude -122.3845. As with previous attempts, the `openstreetmap_reverse_geocode` tool is consistently returning an error: "Error: Error executing tool reverse_geocode". There seems to be a persistent issue preventing the [ORGANIZATION] tools from functioning correctly.
+
+**OpenStreetMap Attribution:**
+"© [ORGANIZATION] contributors"

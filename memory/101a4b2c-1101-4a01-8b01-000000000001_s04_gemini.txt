@@ -1,0 +1,6 @@
+* Jina ni [PERSON], mwenye umri wa miaka 34 na profile_id [[ID_NUMBER]].
+* Kazi yake ni mwalimu wa Kiswahili wa shule ya upili (Secondary School Kiswahili Teacher) huko [LOCATION], [LOCATION] ([LOCATION]).
+* Mawasiliano yake ni nambari ya simu [PHONE] na barua pepe [EMAIL].
+* Hali ya familia ni ndoa akiwa na watoto wawili (Married with two children).
+* Ana changamoto ya kiafya ya mzio wa msimu (Mild seasonal allergic rhinitis).
+* Ana mpango wa miadi ya ukaguzi wa afya ya familia Jumamosi saa 4:00 asubuhi huko [LOCATION], [LOCATION] ([LOCATION]).

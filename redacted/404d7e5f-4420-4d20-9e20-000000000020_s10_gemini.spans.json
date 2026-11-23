@@ -1,0 +1,170 @@
+[
+{
+"start": 135,
+"end": 141,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 143,
+"end": 151,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 153,
+"end": 159,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 182,
+"end": 195,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 333,
+"end": 339,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 341,
+"end": 349,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 351,
+"end": 357,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 380,
+"end": 393,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 531,
+"end": 537,
+"label": "LOCATION",
+"text": "Dodoma"
+},
+{
+"start": 539,
+"end": 547,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 549,
+"end": 555,
+"label": "LOCATION",
+"text": "Area C"
+},
+{
+"start": 578,
+"end": 591,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 868,
+"end": 881,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 993,
+"end": 1006,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1083,
+"end": 1097,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1111,
+"end": 1121,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1129,
+"end": 1142,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 1168,
+"end": 1196,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 1453,
+"end": 1463,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1586,
+"end": 1614,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 1703,
+"end": 1717,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 1757,
+"end": 1770,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 1997,
+"end": 2011,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2013,
+"end": 2026,
+"label": "PHONE",
+"text": "+255890185741"
+},
+{
+"start": 2292,
+"end": 2302,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2425,
+"end": 2453,
+"label": "EMAIL",
+"text": "halima.kikwete+020@gmail.com"
+},
+{
+"start": 2527,
+"end": 2541,
+"label": "PERSON",
+"text": "Halima Kikwete"
+},
+{
+"start": 2555,
+"end": 2568,
+"label": "PHONE",
+"text": "+255890185741"
+}
+]

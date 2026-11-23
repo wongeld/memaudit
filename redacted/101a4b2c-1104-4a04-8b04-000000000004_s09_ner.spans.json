@@ -1,0 +1,146 @@
+[
+{
+"start": 61,
+"end": 77,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 209,
+"end": 246,
+"label": "DATE",
+"text": "jioni saa 12:30.\n\nAssistant:\nSamahani"
+},
+{
+"start": 253,
+"end": 259,
+"label": "PERSON",
+"text": "Baraka"
+},
+{
+"start": 659,
+"end": 681,
+"label": "DATE",
+"text": "kila jioni saa 12:30\n*"
+},
+{
+"start": 709,
+"end": 727,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 1856,
+"end": 1869,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1945,
+"end": 1961,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 2027,
+"end": 2033,
+"label": "PERSON",
+"text": "Baraka"
+},
+{
+"start": 3151,
+"end": 3164,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 3240,
+"end": 3256,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 3331,
+"end": 3344,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3346,
+"end": 3354,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3726,
+"end": 3739,
+"label": "LOCATION",
+"text": "Dar es Salaam"
+},
+{
+"start": 3741,
+"end": 3749,
+"label": "LOCATION",
+"text": "Tanzania"
+},
+{
+"start": 3791,
+"end": 3809,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 4104,
+"end": 4120,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 4766,
+"end": 4803,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni)\n*"
+},
+{
+"start": 4831,
+"end": 4849,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+},
+{
+"start": 5106,
+"end": 5140,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni"
+},
+{
+"start": 5146,
+"end": 5162,
+"label": "PERSON",
+"text": "Baraka Mwakasege"
+},
+{
+"start": 5179,
+"end": 5203,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana"
+},
+{
+"start": 5552,
+"end": 5578,
+"label": "DATE",
+"text": "Jumapili saa 7:30 mchana\n*"
+},
+{
+"start": 5593,
+"end": 5630,
+"label": "LOCATION",
+"text": "Dar es Salaam, Tanzania (Mikocheni)\n*"
+},
+{
+"start": 5658,
+"end": 5676,
+"label": "PERSON",
+"text": "Baraka Mwakasege\n*"
+}
+]

@@ -1,0 +1,5 @@
+- User's name is [PERSON] (email: rachel.kim+032@gmail.com).
+- User has a routine of evening meal prep and next-day prioritization.
+- User has a late commitment in [LOCATION], [LOCATION] ([LOCATION]).
+- User commutes through [LOCATION], [LOCATION] (Back Bay).
+- User is interested in verifying landmarks and street addresses along their commute route.

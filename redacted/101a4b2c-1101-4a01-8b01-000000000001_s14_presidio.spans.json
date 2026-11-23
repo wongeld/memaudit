@@ -1,0 +1,176 @@
+[
+{
+"start": 125,
+"end": 146,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 206,
+"end": 241,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 296,
+"end": 309,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 327,
+"end": 348,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 453,
+"end": 466,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 629,
+"end": 633,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 635,
+"end": 648,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 671,
+"end": 706,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap.\n\nAssistant:\nSamahani"
+},
+{
+"start": 763,
+"end": 776,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 890,
+"end": 901,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 987,
+"end": 1010,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 1016,
+"end": 1020,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1022,
+"end": 1027,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 1029,
+"end": 1035,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 1139,
+"end": 1150,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1347,
+"end": 1366,
+"label": "PERSON",
+"text": "Juma Barasa\n**Namba"
+},
+{
+"start": 1460,
+"end": 1493,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri\n**Eneo:**"
+},
+{
+"start": 1494,
+"end": 1498,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 1500,
+"end": 1525,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n\nTafadhali"
+},
+{
+"start": 1630,
+"end": 1653,
+"label": "DATE",
+"text": "Ijumaa saa 9:00 alasiri"
+},
+{
+"start": 1658,
+"end": 1669,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 1789,
+"end": 1800,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2093,
+"end": 2104,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2181,
+"end": 2185,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2187,
+"end": 2200,
+"label": "LOCATION",
+"text": "Kenya (Itabua"
+},
+{
+"start": 2274,
+"end": 2285,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 2496,
+"end": 2515,
+"label": "PERSON",
+"text": "Juma Barasa\n**Namba"
+},
+{
+"start": 2607,
+"end": 2611,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 2613,
+"end": 2638,
+"label": "LOCATION",
+"text": "Kenya (Itabua)\n\nTafadhali"
+}
+]

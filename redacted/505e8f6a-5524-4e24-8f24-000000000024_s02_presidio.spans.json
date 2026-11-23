@@ -1,0 +1,122 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 26,
+"end": 54,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 211,
+"end": 218,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 220,
+"end": 233,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 235,
+"end": 247,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 531,
+"end": 538,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 540,
+"end": 553,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 555,
+"end": 567,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 591,
+"end": 605,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 621,
+"end": 649,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 897,
+"end": 911,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1260,
+"end": 1274,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1609,
+"end": 1616,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 1769,
+"end": 1793,
+"label": "ORGANIZATION",
+"text": "Merchandise Mart Chicago"
+},
+{
+"start": 1801,
+"end": 1814,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2047,
+"end": 2054,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2056,
+"end": 2069,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2071,
+"end": 2083,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2225,
+"end": 2238,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2301,
+"end": 2314,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+}
+]

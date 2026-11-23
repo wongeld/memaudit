@@ -1,0 +1,7 @@
+- User is [PERSON], identified by profile_id [PROFILE_ID] and mobile number +15246107452.
+- Works as a Lecturer for [ORGANIZATION] in [LOCATION], [LOCATION] ([LOCATION]).
+- Requires a weekly work reminder every Friday at 04:00 PM to submit departmental metrics and take a break.
+- Currently in good health with no chronic conditions.
+- Needs to book conference rooms in [LOCATION] for work purposes.
+- Planning to order ergonomic office supplies and reference materials for their role.
+- Experiencing persistent technical issues with the `record_user_activity` and `save_user_profile` tools, which consistently return "Canceled" status.

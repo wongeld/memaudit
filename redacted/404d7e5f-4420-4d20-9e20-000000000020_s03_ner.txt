@@ -1,0 +1,58 @@
+User:
+Rekodi kikumbusho (reminder) kwenye mada ya work kwa [PERSON] (profile_id [PROFILE_ID], simu +255890185741) cha kupitia barua pepe (halima.kikwete+020@gmail.com) na kuzingatia hali ya Type 2 diabetes wakati wa kazi [DATE]. Unataka kurekodi kikumbusho (reminder) kwenye mada ya 'work' kwa [PERSON] ni maelezo ya kikumbusho ninachotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Kikumbusho (reminder)
+*   **Mada:** Work
+*   **Kichwa:** kupitia barua pepe (halima.kikwete+020@gmail.com)
+*   **Muda:** [DATE]   **Maelezo:** kuzingatia hali ya Type 2 diabetes wakati wa kazi
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.
+
+User:
+Ndiyo, ninathibitisha kikumbusho hicho cha [DATE] kwa [PERSON] (+255890185741), tafadhali kihifadhi.
+
+Assistant:
+Ninaomba radhi, nimeona ujumbe wa "Canceled. No activity was saved." bado unajitokeza, licha ya uthibitisho wako. Inaonekana kuna tatizo la kiufundi la kuhifadhi shughuli. Nitajaribu tena kuhifadhi kikumbusho chako. Tafadhali subiri kidogo.
+
+Ikiwa tatizo litaendelea, ninaweza kuhitaji usaidizi zaidi kutoka kwa mtengenezaji wa mfumo.
+
+User:
+Naomba urekodi booking kwenye mada ya work kwa [PERSON] (+255890185741) ya chumba cha mikutano ya kikazi huko [LOCATION], [LOCATION] (Area C) [DATE]; nionyeshe uthibitisho.
+
+Assistant:
+Nimekuelewa. Unataka kurekodi booking kwenye mada ya 'work' kwa [PERSON] ni maelezo ya booking ninayotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Booking
+*   **Mada:** Work
+*   **Kichwa:** chumba cha mikutano ya kikazi
+*   **Muda:** [DATE]   **Eneo:** [LOCATION], [LOCATION] thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.
+
+User:
+Samahani, badilisha muda wa booking hiyo ya chumba cha mikutano uwe [DATE] kwa [PERSON] (+255890185741) na urudie maelezo yote ili nithibitishe.
+
+Assistant:
+Nimekuelewa, lakini booking uliyotaka kurekodi awali haikuhifadhiwa kutokana na tatizo la kiufundi. Kwa hivyo, siwezi kubadilisha muda wa booking ambayo haipo.
+
+Je, ungependa nirekodi booking *mpya* ya 'chumba cha mikutano ya kikazi' kwa [PERSON] (+255890185741) mnamo [DATE], huko [LOCATION], [LOCATION] ni maelezo yote ya booking mpya ninayotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Booking
+*   **Mada:** Work
+*   **Kichwa:** chumba cha mikutano ya kikazi
+*   **Muda:** [DATE]   **Eneo:** [LOCATION], [LOCATION] thibitisha ikiwa ungependa nirekodi booking hii mpya.
+
+User:
+Rekodi shopping_item kwenye mada ya work kwa [PERSON] (+255890185741) ya kununua vifaa vya ofisi na majalada ya kazi huko [LOCATION], [LOCATION] ([LOCATION]), na unionyeshe muhtasari kabla ya kuhifadhi.
+
+Assistant:
+Nimekuelewa. Unataka kurekodi shopping item kwenye mada ya 'work' kwa [PERSON] ni muhtasari wa shopping item ninayotaka kurekodi:
+*   **Profile ID:** [PROFILE_ID]
+*   **Jina:** [PERSON]   **Simu:** +255890185741
+*   **Shughuli:** Shopping Item
+*   **Mada:** Work
+*   **Kichwa:** kununua vifaa vya ofisi na majalada ya kazi
+*   **Eneo:** [LOCATION], [LOCATION] (Area C)
+
+Tafadhali thibitisha ikiwa maelezo haya ni sahihi na nianze kuhifadhi.

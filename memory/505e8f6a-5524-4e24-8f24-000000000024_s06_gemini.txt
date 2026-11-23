@@ -1,0 +1,5 @@
+* The user manages shopping-related tasks for [PERSON] (phone: [PHONE], profile_id: [[ID_NUMBER]]).
+* The user frequently coordinates pharmacy pickups, supply orders, and supplier consultations in [LOCATION], [LOCATION] ([LOCATION]).
+* The user requires assistance with scheduling in-store pickups and delivery slot reservations.
+* The user prefers to review and confirm all activity details before saving them.
+* The user is currently experiencing persistent technical issues with the assistant's ability to save records.

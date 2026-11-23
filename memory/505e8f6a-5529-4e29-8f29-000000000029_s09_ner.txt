@@ -1,0 +1,7 @@
+- The user is managing type 2 diabetes.
+- The user is interested in wellness, including routine checkups, fitness, and stretching.
+- The user is planning to purchase a daily planner, a hydration bottle, and wellness supplies.
+- The user prefers morning fitness and stretching sessions (specifically Saturdays at 08:30 AM).
+- The user frequently interacts with the `record_user_activity` tool for daily planning tasks.
+- The user's contact information includes the mobile number +19832584476 and profile ID [PROFILE_ID].
+- The user often visits [LOCATION], [LOCATION] (specifically the Ironbound area).

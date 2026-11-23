@@ -1,0 +1,56 @@
+[
+{
+"start": 371,
+"end": 392,
+"label": "ORGANIZATION",
+"text": "Embu Level 5 Hospital"
+},
+{
+"start": 590,
+"end": 594,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 596,
+"end": 601,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 603,
+"end": 609,
+"label": "LOCATION",
+"text": "Itabua"
+},
+{
+"start": 707,
+"end": 718,
+"label": "PERSON",
+"text": "Juma Barasa"
+},
+{
+"start": 750,
+"end": 763,
+"label": "PHONE",
+"text": "+254122951015"
+},
+{
+"start": 833,
+"end": 837,
+"label": "LOCATION",
+"text": "Embu"
+},
+{
+"start": 839,
+"end": 844,
+"label": "LOCATION",
+"text": "Kenya"
+},
+{
+"start": 846,
+"end": 852,
+"label": "LOCATION",
+"text": "Itabua"
+}
+]

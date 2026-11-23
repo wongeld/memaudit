@@ -1,0 +1,14 @@
+User:
+Rekodi miadi (appointment) kwenye daily_planning kwa [PERSON] (profile_id [PROFILE_ID], simu +254122951015) ya ukaguzi wa afya na ushauri wa lishe [DATE] huko [LOCATION]); nionyeshe uthibitisho.
+
+User:
+Ndiyo, ninathibitisha miadi hiyo ya [DATE] kwa [PERSON] (+254122951015), tafadhali ihifadhi.
+
+User:
+Naomba urekodi shopping_item kwenye daily_planning kwa [PERSON] (+254122951015) ya kununua shajara ya kupanga siku na vyakula vya afya huko [LOCATION]); tafadhali thibitisha.
+
+User:
+Samahani, badilisha kichwa cha shopping_item kiwe 'Shajara ya ratiba ya kila siku na mahitaji ya afya (Mild seasonal allergic rhinitis)' kwa [PERSON] (+254122951015) na urudie maelezo yote ili nithibitishe.
+
+User:
+Rekodi booking kwenye daily_planning ya muda wa mazoezi ya afya [DATE] huko [LOCATION]) kwa [PERSON] (+254122951015) na unionyeshe muhtasari kabla ya kuhifadhi.

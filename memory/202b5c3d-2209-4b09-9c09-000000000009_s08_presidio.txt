@@ -1,0 +1,5 @@
+* የፕሮፋይል መታወቂያው (profile_id) [PROFILE_ID] ነው።
+* ከ[PERSON] (ስልክ፡ [PHONE]፣ ኢሜይል፡ [EMAIL]) ጋር በ[LOCATION] የምክክር ቀጠሮ ነበረው፣ ነገር ግን ወደ ሌላ ቀን አሸጋግሮታል።
+* በ daily_planning ሥር ተግባራቱን እና የቀን መቁጠሪያ እንቅስቃሴዎቹን ይመዘግባል/ያስተዳድራል።
+* በMekelle፣ [LOCATION] አካባቢ (በተለይም በ latitude 13.5078 እና longitude 39.4622 ዙሪያ) ጉዳይ እና የቦታ ፍላጎት አለው።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይጋራ ጥንቃቄ ያደርጋል እንዲሁም የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

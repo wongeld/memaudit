@@ -1,0 +1,122 @@
+[
+{
+"start": 83,
+"end": 99,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 598,
+"end": 614,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 703,
+"end": 719,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 1577,
+"end": 1583,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1585,
+"end": 1598,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1984,
+"end": 1990,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 1992,
+"end": 2005,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2007,
+"end": 2016,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2036,
+"end": 2052,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2174,
+"end": 2190,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2614,
+"end": 2620,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2622,
+"end": 2635,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2637,
+"end": 2646,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2666,
+"end": 2682,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 2906,
+"end": 2912,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2914,
+"end": 2927,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2968,
+"end": 2984,
+"label": "PERSON",
+"text": "Arthur Pendleton"
+},
+{
+"start": 3352,
+"end": 3358,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3360,
+"end": 3373,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3411,
+"end": 3420,
+"label": "LOCATION",
+"text": "Pendleton"
+}
+]

@@ -1,0 +1,206 @@
+[
+{
+"start": 18,
+"end": 32,
+"label": "PERSON",
+"text": "Andualem Abate"
+},
+{
+"start": 34,
+"end": 47,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 54,
+"end": 84,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 86,
+"end": 99,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00"
+},
+{
+"start": 103,
+"end": 115,
+"label": "LOCATION",
+"text": "በAddis Ababa"
+},
+{
+"start": 117,
+"end": 131,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka"
+},
+{
+"start": 407,
+"end": 422,
+"label": "DATE",
+"text": "ረቡዕ ከሰዓት 8:00\n*"
+},
+{
+"start": 439,
+"end": 450,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 452,
+"end": 469,
+"label": "LOCATION",
+"text": "Ethiopia (Yeka)\n*"
+},
+{
+"start": 490,
+"end": 506,
+"label": "PERSON",
+"text": "Andualem Abate\n*"
+},
+{
+"start": 527,
+"end": 540,
+"label": "PHONE",
+"text": "+251906564148"
+},
+{
+"start": 556,
+"end": 586,
+"label": "EMAIL",
+"text": "andualem.abate+007@outlook.com"
+},
+{
+"start": 680,
+"end": 694,
+"label": "DATE",
+"text": "የረቡዕ 8:00 ሰዓቱን"
+},
+{
+"start": 760,
+"end": 765,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 988,
+"end": 993,
+"label": "DATE",
+"text": "የሳምንቱ"
+},
+{
+"start": 1003,
+"end": 1019,
+"label": "DATE",
+"text": "በሰኞ ጠዋት 3:00 ሰዓት"
+},
+{
+"start": 1104,
+"end": 1109,
+"label": "DATE",
+"text": "የረቡዕን"
+},
+{
+"start": 1191,
+"end": 1212,
+"label": "LOCATION",
+"text": "Ababa, Ethiopia (Yeka"
+},
+{
+"start": 1270,
+"end": 1315,
+"label": "ORGANIZATION",
+"text": "United Nations Economic Commission for Africa"
+},
+{
+"start": 1316,
+"end": 1327,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 1342,
+"end": 1355,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 1644,
+"end": 1647,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 1767,
+"end": 1770,
+"label": "ORGANIZATION",
+"text": "MCP"
+},
+{
+"start": 2003,
+"end": 2016,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2197,
+"end": 2208,
+"label": "LOCATION",
+"text": "Addis Ababa"
+},
+{
+"start": 2302,
+"end": 2336,
+"label": "ORGANIZATION",
+"text": "United Nations Economic Commission"
+},
+{
+"start": 2341,
+"end": 2366,
+"label": "LOCATION",
+"text": "Africa\".\n\nAssistant:\nይቅርታ"
+},
+{
+"start": 2446,
+"end": 2468,
+"label": "LOCATION",
+"text": "በAddis Ababa, Ethiopia"
+},
+{
+"start": 2494,
+"end": 2500,
+"label": "LOCATION",
+"text": "9.0355"
+},
+{
+"start": 2514,
+"end": 2521,
+"label": "LOCATION",
+"text": "38.8021"
+},
+{
+"start": 2552,
+"end": 2565,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2754,
+"end": 2767,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2825,
+"end": 2838,
+"label": "ORGANIZATION",
+"text": "OpenStreetMap"
+},
+{
+"start": 2935,
+"end": 2938,
+"label": "ORGANIZATION",
+"text": "MCP"
+}
+]

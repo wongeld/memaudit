@@ -1,0 +1,5 @@
+- ተጠቃሚው 'Mild asthma' የተባለ የጤና ሁኔታ አለው።
+- ተጠቃሚው 'Regional Logistics Coordinator' ሆኖ ይሰራል።
+- ተጠቃሚው ከ[PERSON] ጋር የተያያዙ ቀጠሮዎችን እና ማስታወሻዎችን በ'shopping' ዘርፍ ስር ያስተዳድራል።
+- ተጠቃሚው ለ[PERSON] የተያዘውን ቀጠሮ በ[DATE] ሰርዟል።
+- ተጠቃሚው በ[LOCATION] አካባቢ ቦታዎችን የመፈለግ እና የጂኦግራፊያዊ መረጃዎችን (reverse geocoding) የማግኘት ፍላጎት አለው።

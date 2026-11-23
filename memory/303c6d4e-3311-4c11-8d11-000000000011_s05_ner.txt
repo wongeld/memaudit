@@ -1,0 +1,5 @@
+* ከ [PERSON] ጋር የተያያዘ የእውቂያ መረጃ (+251962051344፣ hirut.anagaw+011@gmail.com) እና profile_id [PROFILE_ID] አለው/አላት።
+* በAddis [LOCATION], [LOCATION] (Bole) አካባቢ የምክክር ቀጠሮ እና ለጉዳዩ የሚሆኑ ቦታዎችን ይፈልጋል።
+* በ [DATE] ሊደረግ የነበረውን የምክክር ቀጠሮ ወደ ሌላ ቀን አሸጋግሯል/አሸጋግራለች።
+* የቦታ ፍለጋ በሚደረግበት ወቅት የግል መረጃ እንዳይጋራ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል/ትፈልጋለች።
+* በ [LOCATION], [LOCATION] (Bole) ውስጥ latitude 8.9972 እና longitude 38.7869 አድራሻ ላይ ፍላጎት አለው/አላት።

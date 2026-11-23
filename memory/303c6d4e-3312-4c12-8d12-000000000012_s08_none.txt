@@ -1,0 +1,5 @@
+* ተጠቃሚው በAddis Ababa, Ethiopia (Kazanchis) አካባቢ ይንቀሳቀሳል።
+* ከElsa Assefa (+251986279168፣ elsa.assefa+012@outlook.com) ጋር የምክክር ቀጠሮ ነበረው።
+* ተጠቃሚው የዕለት ተዕለት እቅዶቹን (daily_planning) በስርዓቱ ለማስመዝገብ ፍላጎት አለው።
+* ተጠቃሚው በካርታ እና በቦታ ፍለጋ (search_places እና reverse_geocode) ላይ ፍላጎት አለው።
+* ተጠቃሚው የግል መረጃው ለሶስተኛ ወገን እንዳይጋለጥ ጥንቃቄ ያደርጋል።

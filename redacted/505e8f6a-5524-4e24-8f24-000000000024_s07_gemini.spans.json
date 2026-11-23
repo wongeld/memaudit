@@ -1,0 +1,224 @@
+[
+{
+"start": 10,
+"end": 24,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 39,
+"end": 49,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 99,
+"end": 106,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 108,
+"end": 121,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 123,
+"end": 135,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 329,
+"end": 343,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 392,
+"end": 402,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 816,
+"end": 826,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 880,
+"end": 892,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 900,
+"end": 928,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 938,
+"end": 951,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1080,
+"end": 1090,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1168,
+"end": 1180,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 1196,
+"end": 1224,
+"label": "EMAIL",
+"text": "david.kowalski+024@yahoo.com"
+},
+{
+"start": 1242,
+"end": 1255,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1591,
+"end": 1605,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 1623,
+"end": 1635,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 2145,
+"end": 2152,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2154,
+"end": 2167,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2169,
+"end": 2181,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2211,
+"end": 2225,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2227,
+"end": 2239,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 2326,
+"end": 2336,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2503,
+"end": 2510,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 2512,
+"end": 2525,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2527,
+"end": 2539,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 2563,
+"end": 2577,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 2600,
+"end": 2612,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 2950,
+"end": 2960,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2995,
+"end": 3009,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3011,
+"end": 3023,
+"label": "PHONE",
+"text": "+18466001447"
+},
+{
+"start": 3382,
+"end": 3392,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3559,
+"end": 3566,
+"label": "LOCATION",
+"text": "Chicago"
+},
+{
+"start": 3568,
+"end": 3581,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3583,
+"end": 3595,
+"label": "LOCATION",
+"text": "Lincoln Park"
+},
+{
+"start": 3619,
+"end": 3633,
+"label": "PERSON",
+"text": "David Kowalski"
+},
+{
+"start": 3656,
+"end": 3668,
+"label": "PHONE",
+"text": "+18466001447"
+}
+]

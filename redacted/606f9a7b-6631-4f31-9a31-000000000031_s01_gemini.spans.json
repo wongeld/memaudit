@@ -1,0 +1,302 @@
+[
+{
+"start": 10,
+"end": 26,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 41,
+"end": 51,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 114,
+"end": 120,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 122,
+"end": 135,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 137,
+"end": 146,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 386,
+"end": 396,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 494,
+"end": 504,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 663,
+"end": 669,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 671,
+"end": 684,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 686,
+"end": 695,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 719,
+"end": 735,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 758,
+"end": 770,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 822,
+"end": 852,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 1047,
+"end": 1057,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1113,
+"end": 1125,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1133,
+"end": 1163,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 1173,
+"end": 1186,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1389,
+"end": 1399,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1479,
+"end": 1491,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1507,
+"end": 1537,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 1555,
+"end": 1568,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 1689,
+"end": 1705,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1724,
+"end": 1736,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1863,
+"end": 1879,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 1883,
+"end": 1893,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 1912,
+"end": 1924,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 1934,
+"end": 1964,
+"label": "EMAIL",
+"text": "suzanne.francois+031@gmail.com"
+},
+{
+"start": 1976,
+"end": 1989,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2210,
+"end": 2216,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2218,
+"end": 2231,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2233,
+"end": 2242,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2265,
+"end": 2275,
+"label": "ID_NUMBER",
+"text": "2434489293"
+},
+{
+"start": 2463,
+"end": 2479,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2481,
+"end": 2493,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 2613,
+"end": 2623,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 2806,
+"end": 2812,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 2814,
+"end": 2827,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2829,
+"end": 2838,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 2862,
+"end": 2878,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 2901,
+"end": 2913,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3053,
+"end": 3063,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3108,
+"end": 3124,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3129,
+"end": 3141,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3320,
+"end": 3330,
+"label": "ID_NUMBER",
+"text": "PROFILE_ID"
+},
+{
+"start": 3513,
+"end": 3519,
+"label": "LOCATION",
+"text": "Newark"
+},
+{
+"start": 3521,
+"end": 3534,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 3536,
+"end": 3545,
+"label": "LOCATION",
+"text": "Ironbound"
+},
+{
+"start": 3569,
+"end": 3585,
+"label": "PERSON",
+"text": "Suzanne Francois"
+},
+{
+"start": 3608,
+"end": 3620,
+"label": "PHONE",
+"text": "+15775666484"
+},
+{
+"start": 3692,
+"end": 3702,
+"label": "ID_NUMBER",
+"text": "2434489293"
+}
+]

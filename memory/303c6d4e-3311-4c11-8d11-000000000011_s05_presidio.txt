@@ -1,0 +1,4 @@
+* የመገለጫ መለያው (profile_id) [PROFILE_ID] ሲሆን ከ[PERSON] ([PHONE]፣ [EMAIL]) ጋር የተገናኙ ጉዳዮችን ያስተዳድራል።
+* በ shopping ዘርፍ የነበረውን የምክክር ቀጠሮ (appointment) ወደ ሌላ ቀን አሸጋግሮታል።
+* በAddis [LOCATION], [LOCATION] (Bole) አካባቢ (በተለይም በ lat 8.9972 እና lon 38.7869 አቅራቢያ) ለጉዳዩ የሚሆን ቦታ ይፈልጋል።
+* የቦታ ፍለጋ ሲደረግ የግል መረጃው እንዳይላክ እና የ [ORGANIZATION] እውቅና (attribution) እንዲካተት ይፈልጋል።

@@ -1,0 +1,4 @@
+* Ana kitambulisho cha wasifu (profile_id) [PROFILE_ID] na nambari ya simu +254122951015 inayohusishwa na [PERSON].
+* Amepanga na kuthibitisha miadi ya ukaguzi wa kawaida wa afya na ushauri wa lishe kwa [PERSON] mnamo [DATE] huko [LOCATION].
+* Anatumia kituo cha afya cha [ORGANIZATION] kilichopo [LOCATION], [LOCATION] (majira-nukta latitude -0.5312 na longitude 37.4506).
+* Anapendelea kutotuma taarifa binafsi wakati wa kutafuta maeneo kwenye mifumo ya ramani/utafutaji.

@@ -1,0 +1,5 @@
+- The user is managing type 2 diabetes and prioritizes healthy family dinners.
+- The user is married with two children.
+- The user frequently coordinates family activities, including grocery shopping and weekend brunch reservations.
+- The user resides in or frequents the [LOCATION] area, specifically the Ironbound neighborhood.
+- The user manages family logistics for [PERSON] (Arthur [LOCATION]).

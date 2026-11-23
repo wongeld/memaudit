@@ -1,0 +1,92 @@
+[
+{
+"start": 10,
+"end": 23,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 25,
+"end": 54,
+"label": "EMAIL",
+"text": "nathan.mercer+026@outlook.com"
+},
+{
+"start": 228,
+"end": 234,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 236,
+"end": 249,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 251,
+"end": 259,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 564,
+"end": 570,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 572,
+"end": 585,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 587,
+"end": 595,
+"label": "LOCATION",
+"text": "Back Bay"
+},
+{
+"start": 702,
+"end": 715,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 855,
+"end": 868,
+"label": "PERSON",
+"text": "Nathan Mercer"
+},
+{
+"start": 1472,
+"end": 1498,
+"label": "ORGANIZATION",
+"text": "Boston Children's Hospital"
+},
+{
+"start": 1499,
+"end": 1514,
+"label": "ADDRESS",
+"text": "Longwood Avenue"
+},
+{
+"start": 1995,
+"end": 2001,
+"label": "LOCATION",
+"text": "Boston"
+},
+{
+"start": 2003,
+"end": 2016,
+"label": "LOCATION",
+"text": "United States"
+},
+{
+"start": 2018,
+"end": 2026,
+"label": "LOCATION",
+"text": "Back Bay"
+}
+]

@@ -1,0 +1,5 @@
+- ተጠቃሚው 'Mild asthma' የተባለ የጤና ሁኔታ አለው።
+- እንደ Regional Logistics Coordinator ይሠራል።
+- ከ[PERSON] ([PHONE]) ጋር በሥራ እና በግዢ ጉዳዮች ላይ ይገናኛል።
+- በ[LOCATION] ([LOCATION]) አካባቢ ግዢዎችን እና የአገልግሎት/የቦታ ማስያዣዎችን (booking) ያከናውናል።
+- ለሥራው እና ለጤናው የሚያስፈልጉ ግብዓቶችን በየጊዜው ይገዛል።
