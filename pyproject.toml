@@ -16,8 +16,9 @@ dependencies = ["rich>=13"]
 ner = ["transformers>=4.44", "torch>=2.2"]
 presidio = ["presidio-analyzer>=2.2.355"]
 llm = ["google-genai>=1.0", "openai>=1.40"]
+analysis = ["matplotlib>=3.8", "networkx>=3", "requests>=2", "ddgs>=9"]
 dev = ["pytest>=8", "ruff>=0.5"]
-all = ["memaudit[ner,presidio,llm,dev]"]
+all = ["memaudit[ner,presidio,llm,analysis,dev]"]
 
 [project.scripts]
 memaudit-redact = "memaudit.redactors.demo:main"

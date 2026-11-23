@@ -48,10 +48,12 @@ def build_redactors(names: list[str]) -> list[Redactor]:
             built.append(PresidioRedactor(detector))
         elif name == "gemini":
             from redactors.llm import GeminiClient, LLMRedactor
-            built.append(LLMRedactor(GeminiClient(), name="gemini"))
+            built.append(LLMRedactor(GeminiClient(usage_stage="Step 1 redaction"), name="gemini"))
         elif name == "open":
             from redactors.llm import LLMRedactor, OpenAICompatibleClient
-            built.append(LLMRedactor(OpenAICompatibleClient(), name="open"))
+            built.append(LLMRedactor(
+                OpenAICompatibleClient(usage_stage="Step 1 redaction"), name="open"
+            ))
         else:
             raise SystemExit(f"Unknown redactor {name!r}. Choose from: {', '.join(ALL)}")
     return built

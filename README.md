@@ -63,6 +63,9 @@ API call with no shared history:
 **Step 4** fills in the three paper tables and writes a fuller report with 95% confidence
 intervals (profile-level bootstrap), the change from 1 to k sessions, each redactor compared with
 no redaction, what guessing would score, and figures.
+It also prints and writes estimated LLM token usage and paid-tier cost by step to
+`results/report.md`. Usage tracking starts with calls made after this feature is installed; older
+calls are not recoverable from saved answers. Steps with no tracked LLM calls show `$0.00`.
 
 ## Running only what the paper tables need
 
@@ -73,6 +76,180 @@ Table 1 needs step 1 only. Tables 2 and 3 need memory notes and attacks for `non
 python step2_memory.py --redactors none,presidio
 python step3_attack.py --redactors none,presidio
 ```
+
+## Step 5: synthetic privacy simulation
+
+Step 5 asks **what would happen if the saved Step 3 attribute guesses were used to filter
+the synthetic candidate pool**. It complements Step 4's attack evaluation; it does not
+replay the Step 3 identification attack on the smaller pool.
+
+The following commands are for PowerShell, run from the project root.
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/) first if it is not available.
+
+### 1. Prepare the environment and inputs
+
+Install the analysis and test dependencies into the project's `.venv`:
+
+```powershell
+uv sync --extra analysis --extra dev --inexact
+```
+
+`--inexact` avoids removing other installed packages. Use `--no-sync` in the commands below
+so that `uv run` does not change the selected extras.
+
+For the reduction and geographic comparisons, check that these inputs exist:
+
+```powershell
+Test-Path .\profiles\profiles.csv
+Test-Path .\results\attacks\attributes.jsonl
+Test-Path .\pipeline\geodata\natural_earth_regions.geojson
+```
+
+Each should print `True`. The geographic data is needed for country maps, not for reduction.
+`results/attacks/identify.jsonl` is optional; when present, the reduction output includes the
+separate saved identification results. `memory/` is optional for Step 5, but allows its report
+to compare available memory cases with saved answers. Step 4 is recommended for interpreting
+attack accuracy, but is not a prerequisite for Step 5.
+
+The saved Step 3 attribute cases must have been made from `memory/` with the full candidate pool
+(`CANDIDATE_POOL = "all"` in `config.py`) and a pool size matching the current profiles.
+Changing that setting now does not change existing records. Do not mix results from a different
+pool or experiment; preserve them separately and generate matching answers if necessary.
+
+**If saved answers already exist, skip to step 2 below.** If they do not, run the preceding
+pipeline first. This requires synthetic sessions in `sessions/`, the full pipeline dependencies,
+and configured model providers, model IDs and API keys in `.env`. For creating synthetic
+sessions, see [Synthetic Data Generator](#synthetic-data-generator).
+
+```powershell
+uv sync --extra all --inexact
+uv run --no-sync python step1_redact.py
+uv run --no-sync python step2_memory.py --dry-run
+uv run --no-sync python step2_memory.py
+uv run --no-sync python step3_attack.py --dry-run
+uv run --no-sync python step3_attack.py
+uv run --no-sync python step4_evaluate.py
+```
+
+Steps 1–3 can make model calls, send synthetic input to the configured providers, take time and
+incur charges. Review the Step 2 and Step 3 dry-run plans before the full commands. Step 3
+normally runs both the attribute and identification attacks; `--task attributes` runs only the
+attribute attack if identification results are not needed. Existing Step 2 notes and Step 3
+answers are skipped on reruns, so review their provenance before reusing them.
+
+### 2. Preview the saved cases
+
+```powershell
+uv run --no-sync python step5_test.py --dry-run
+uv run --no-sync python step5_test.py --regional-maps --dry-run
+```
+
+The preview shows the candidate-pool size and selected saved-case count without writing outputs,
+contacting map services or calling models. A case is one target profile, redactor and memory
+length `k`; `k` is the number of notes, not the number of profiles. Coverage depends on which
+answers were saved. For example, the current saved data has 40 candidates and 400 cases for
+32 distinct targets, with only four cases per redactor at `k=10`. Check the generated reports
+for the counts in your run rather than assuming all 40 targets are covered.
+
+### 3. Run the reduction simulation
+
+```powershell
+uv run --no-sync python step5_test.py
+```
+
+For each saved case, the simulation starts with the **entire** synthetic pool and applies the
+saved location, occupation and education guesses in that order. Matching is normalized; an
+unknown or invalid answer applies no filter. For illustration, a case might go from 40 candidates
+to 5, then 2, then 1. The target is used only to check retention: if a wrong guess removes it,
+it is not put back. The reported reduction at each stage is relative to the original pool.
+
+This command makes **no new model calls**, but it also generates a world map using OpenStreetMap.
+The map uses public city and country names and, where needed, public neighborhood names to
+disambiguate a city; it does not send profile identifiers or notes. It uses cached lookups and
+tiles, and an uncached run requires internet access. Unresolved cities are reported rather than
+guessed. If you do not want OpenStreetMap, skip this command and use the offline visualizations
+below; there is currently no offline-only option for the reduction report itself.
+
+Read `simulation/reduction/report.md` first. The main outputs are:
+
+| Output | What it shows |
+|---|---|
+| `case_stages.csv` | Per-case candidates remaining, reduction, whether each filter applied, target retention and any saved Step 3 identification outcome. |
+| `stage_summary.csv` | Counts, mean candidate reduction and target retention by redactor, k and stage. |
+| `reduction.png` | Mean candidates remaining and target-retention percentage across the filtering stages. |
+| `candidate_cities.csv`, `candidate_map.png` | Counts for the **original** pool at public city centers, not filtered survivors, homes or journeys. |
+| `regional_heatmaps/` | Offline city-by-occupation categorical grids for the full pool. |
+
+### 4. Generate the offline country comparisons
+
+```powershell
+uv run --no-sync python step5_test.py --regional-maps
+```
+
+Open `simulation/reduction/regional_maps/report.md` for links to the country images,
+`coverage.csv` and `map_counts.csv`. There is one map per country, saved redactor and k.
+Each figure has:
+
+- **Left:** saved Step 3 location and occupation guesses. The city list gives the number of
+  matching profiles in the full pool, how many cases made that guess, and how many guessed both
+  attributes correctly for their target. Unknown locations cannot be placed.
+- **Right:** actual city-and-occupation counts for that country from the entire synthetic pool.
+  The sides can have different coverage: saved cases do not necessarily cover all 40 profiles.
+- **Markers:** the number identifies the city in the list. Red means its smallest positive
+  city-and-occupation pool count is 1; orange means 2–4; teal means 5 or more. Gray means no
+  positive match or unknown occupation. A city can have multiple occupations, so check the
+  lists for each count, including zero-match combinations.
+
+These are real country outlines and representative city centers, **not individual locations**.
+The United States panels show the contiguous area only. Maps use the included public-domain
+Natural Earth [country boundaries](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson)
+and [populated places](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_populated_places.geojson),
+not OpenStreetMap; they make no network or model calls. The included extract covers the current
+synthetic cities. A new city requires verified geographic data to be added before it can be mapped.
+
+For categorical grids instead of geographic maps, run:
+
+```powershell
+uv run --no-sync python step5_test.py --regional-heatmaps
+```
+
+This needs only the profiles, produces `regional_heatmaps/report.md` and a counts CSV, and works
+offline without saved Step 3 answers. The full reduction command also generates these grids.
+
+### 5. Restrict a run or check it
+
+For example, to run only the unredacted and Presidio cases at `k=5`:
+
+```powershell
+uv run --no-sync python step5_test.py --dry-run --redactors none,presidio --k 5
+uv run --no-sync python step5_test.py --redactors none,presidio --k 5
+uv run --no-sync python step5_test.py --regional-maps --redactors none,presidio --k 5
+uv run --no-sync python -m pytest tests\test_step5.py -q
+```
+
+The filters apply to reduction and geographic comparisons, not `--regional-heatmaps`. Restricted
+runs overwrite their corresponding reports, CSVs and figures; the map report indexes the latest
+selection, while images from earlier selections may remain. Back up outputs you want to keep
+before rerunning. The test command is optional and uses the `dev` extra.
+
+### Interpretation and troubleshooting
+
+- A smaller candidate pool does **not** prove identification. An incorrect guess can exclude
+  the target, and high target retention can occur when unknown answers apply no filters.
+- One city-and-occupation match is unique only within this synthetic pool, assuming both
+  attributes are known. It does not establish attacker knowledge or real-world privacy risk.
+  The dataset is small and not representative of a real population.
+- Attribute choices came from profile-derived options. Saved Step 3 records lack note and profile
+  hashes, so their exact historical inputs cannot be verified. Cases for the same profile are
+  related, and small or unequal groups should not be treated as independent comparisons.
+- If an input is missing or a saved pool does not match, inspect the error and the provenance of
+  your inputs; generate compatible Step 3 answers rather than editing saved records. If an
+  OpenStreetMap lookup fails, inspect the terminal and report if available; the country-map
+  command remains offline. City names can be ambiguous, and Natural Earth positions are
+  representative, not proof of the intended city.
+- Rerunning Step 5 with unchanged inputs only regenerates outputs; it adds no cases or model calls.
+  To expand coverage, first generate additional Step 2 notes and Step 3 answers, then rerun Step 4
+  and Step 5. Those earlier model calls may incur costs.
 
 ## Free models
 

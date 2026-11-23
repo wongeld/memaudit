@@ -6,3 +6,6 @@ google-genai>=1.0
 openai>=1.40
 numpy>=1.26
 matplotlib>=3.8
+networkx>=3
+requests>=2
+ddgs>=9
